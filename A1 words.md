@@ -7,6 +7,7 @@
   - 🔵 der Junge (boy)
   - 🔵 der Lehrer (teacher)
   - 🔵 der Freund (friend)
+  - 🔵 der Gast (guest)
 - **Feminine**
   - 🔴 die Frau (woman)
   - 🔴 die Lehrerin (female teacher)
@@ -138,15 +139,14 @@
   - 🔵 der Fisch (fish)
   - 🔵 der Hamburger (hamburger)
   - 🔵 der Schinken (ham)
-  - 🔵 der Preis (price)
   - 🔵 der Familienvater (family father)
 - **Feminine**
   - 🔴 die Pizza (pizza)
+  - 🔴 die Lebensmittel (food products)
   - 🔴 die Salat (salad)
   - 🔴 die Marmelade (jam)
   - 🔴 die Wurst (sausage)
   - 🔴 die Lasagne (lasagna)
-  - 🔴 die Lebensmittel (food products)
 - **Neuter**
   - 🟢 das Gemüse (vegetable)
   - 🟢 das Öl (oil)
@@ -178,31 +178,18 @@
   - 🟢 das Polnisch (Polish)
   - 🟢 das Spanien (Spain)
   - 🟢 das Spanisch (Spanish)
-
-## Occupations
+ 
+ 
+##Payment and money
 - **Masculine**
-  - 🔵 der Friseur (hairdresser)
-  - 🔵 der Architekt (architect)
-  - 🔵 der Job (job)
-  - 🔵 der Kollege (colleague)
-  - 🔵 der Chef (boss)
-  - 🔵 der Polizist (policeman)
-  - 🔵 der Manager (manager)
-  - 🔵 der IT-Ingenieur (IT engineer)
-  - 🔵 der Taxifahrer (taxi driver)
-  - 🔵 der Rentner (retiree)
-- **Feminine**
-  - 🔴 die Friseurin (female hairdresser)
-  - 🔴 die Architektin (female architect)
-  - 🔴 die Kollegin (female colleague)
-  - 🔴 die Chefin (female boss)
-  - 🔴 die Polizistin (policewoman)
-  - 🔴 die Managerin (female manager)
-  - 🔴 die IT-Ingenieurin (female IT engineer)
-  - 🔴 die Taxifahrerin (female taxi driver)
-  - 🔴 die Rentnerin (female retiree)
+  - 🔵 der Tarif (rate)
+  - 🔵 der Preis (price)
+  - 🔵 der Geldautomat (ATM)
+- **Neuter**
+  - 🟢 das Geld (money)
 
-## Technology Continued
+
+## Technology
 - **Masculine**
   - 🔵 der Computer (computer)
   - 🔵 der Laptop (laptop)
@@ -210,7 +197,6 @@
   - 🔵 der USB-Stick (USB stick)
   - 🔵 der Maus (mouse)
   - 🔵 der Support (support)
-  - 🔵 der Tarif (rate)
   - 🔵 der Podcast (podcast)
   - 🔵 der Radio (radio)
 - **Feminine**
@@ -225,32 +211,59 @@
   - 🟢 das Smartphone (smartphone)
   - 🟢 das App (app)
 
-## House and Office
+## House
 - **Masculine**
   - 🔵 der Herd (stove)
 - **Feminine**
   - 🔴 die Küche (kitchen)
 - **Neuter**
-  - 🟢 das Büro (office)
-  - 🟢 das Fenster (window)
   - 🟢 das Haus (house)
+  - 🟢 das Fenster (window)
 
-## Miscellaneous
+
+## Office and work
 - **Masculine**
-  - 🔵 der Gast (guest)
   - 🔵 der Termin (appointment)
 - **Feminine**
-  - 🔴 die Lieblingsessen (favorite food)
-  - 🔴 die Visitenkarte (business card)
-  - 🔴 die Arbeit (work)
-  - 🔴 die Farbe (color)
   - 🔴 die Firma (company)
+  - 🔴 die Visitenkarte (business card)
+- **Neuter**
+  - 🟢 das Büro (office)
+ 
+
+## Occupations
+- **Masculine**
+  - 🔵 der Friseur (hairdresser)
+  - 🔵 der Architekt (architect)
+  - 🔵 der Job (job)
+  - 🔵 der Kollege (colleague)
+  - 🔵 der Chef (boss)
+  - 🔵 der Polizist (policeman)
+  - 🔵 der Manager (manager)
+  - 🔵 der IT-Ingenieur (IT engineer)
+  - 🔵 der Taxifahrer (taxi driver)
+  - 🔵 der Rentner (retiree)
+- **Feminine**
+  - 🔴 die Arbeit (work)
+  - 🔴 die Friseurin (female hairdresser)
+  - 🔴 die Architektin (female architect)
+  - 🔴 die Kollegin (female colleague)
+  - 🔴 die Chefin (female boss)
+  - 🔴 die Polizistin (policewoman)
+  - 🔴 die Managerin (female manager)
+  - 🔴 die IT-Ingenieurin (female IT engineer)
+  - 🔴 die Taxifahrerin (female taxi driver)
+  - 🔴 die Rentnerin (female retiree)
+
+
+## Miscellaneous
+- **Feminine**
+  - 🔴 die Lieblingsessen (favorite food)
+  - 🔴 die Farbe (color)
   - 🔴 die Party (party)
   - 🔴 die Schere (scissors)
   - 🔴 die Bürste (brush)
-  - 🔴 die T-shirt (T-shirt)
   - 🔴 die Pause (pause)
-  
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
   - 🟢 das Licht (light)
