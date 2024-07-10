@@ -3,6 +3,7 @@
 ## People
 - **Masculine**
   - 🔵 der Mann (man)
+  - 🔵 der Mensch (person)
   - 🔵 der Junge (boy)
   - 🔵 der Lehrer (teacher)
   - 🔵 der Freund (friend)
@@ -42,34 +43,18 @@
   - 🟢 das Haus (house)
   - 🟢 das Hotel (hotel)
   - 🟢 das Krankenhaus (hospital)
+  - 🟢 das Kindergarten (kindergarten)
 
 ## Objects
 - **Masculine**
   - 🔵 der Tisch (table)
   - 🔵 der Stuhl (chair)
-  - 🔵 der Computer (computer)
 - **Feminine**
   - 🔴 die Lampe (lamp)
-  - 🔴 die Tasche (bag)
   - 🔴 die Uhr (clock)
 - **Neuter**
-  - 🟢 das Buch (book)
   - 🟢 das Auto (car)
-  - 🟢 das Fenster (window)
-
-## Food and Drinks
-- **Masculine**
-  - 🔵 der Apfel (apple)
-  - 🔵 der Kaffee (coffee)
-  - 🔵 der Tee (tea)
-- **Feminine**
-  - 🔴 die Banane (banana)
-  - 🔴 die Milch (milk)
-  - 🔴 die Orange (orange)
-- **Neuter**
-  - 🟢 das Brot (bread)
-  - 🟢 das Wasser (water)
-  - 🟢 das Ei (egg)
+  - 🟢 das Buch (book)
 
 ## Animals
 - **Masculine**
@@ -87,12 +72,16 @@
 
 ## Time
 - **Masculine**
-  - 🔵 der Morgen (morning)
   - 🔵 der Tag (day)
+  - 🔵 der Morgen (morning)
   - 🔵 der Abend (evening)
+  - 🔵 der Monat (month)
+- **Neuter**
+  - 🟢 das Viertel (quarter)
 
 ## Courses
 - **Masculine**
+  - 🔵 der kurs (course)
   - 🔵 der Deutschkurs (German course)
 
 ## Clothing
@@ -100,28 +89,45 @@
   - 🔴 die Bluse (blouse)
   - 🔴 die Jeans (jeans)
   - 🔴 die Jacke (jacket)
-
-## Technology
-- **Masculine**
-  - 🔵 der Laptop (laptop)
-- **Neuter**
-  - 🟢 das Handy (mobile phone)
-  - 🟢 das Smartphone (smartphone)
-  - 🟢 das App (app)
+  - 🔴 die Tasche (bag)
 
 ## Transport
 - **Masculine**
   - 🔵 der Bus (bus)
+- **Neuter**
+  - 🟢 das Auto (car)
 
 ## Drinks
 - **Masculine**
+  - 🔵 der Tee (tea)
+  - 🔵 der Kaffee (coffee)
   - 🔵 der Wein (wine)
+  - 🔵 der saft (juice)
   - 🔵 der Orangensaft (orange juice)
   - 🔵 der Apfelsaft (apple juice)
   - 🔵 der Milchkaffee (milk coffee)
+- **Feminine**
+  - 🔴 die Milch (milk)
+  - 🔴 die Cola (cola)
+  - 🔴 die Milch (milk)
 - **Neuter**
   - 🟢 das Getränk (drink)
   - 🟢 das Bier (beer)
+  - 🟢 das Wasser (water)
+
+
+## Fruits and Vegetables
+- **Masculine**
+  - 🔵 der Apfel (apple)
+- **Feminine**
+  - 🔴 die Banane (banana)
+  - 🔴 die Orange (orange)
+  - 🔴 die Tomate (tomato)
+  - 🔴 die Banane (banana)
+  - 🔴 die Orange (orange)
+  - 🔴 die Zitrone (lemon)
+  - 🔴 die Kartoffel (potato)
+  - 🔴 die Möhre (carrot)
 
 ## Food
 - **Masculine**
@@ -136,18 +142,10 @@
   - 🔵 der Familienvater (family father)
 - **Feminine**
   - 🔴 die Pizza (pizza)
-  - 🔴 die Tomate (tomato)
-  - 🔴 die Banane (banana)
-  - 🔴 die Orange (orange)
-  - 🔴 die Zitrone (lemon)
-  - 🔴 die Kartoffel (potato)
-  - 🔴 die Möhre (carrot)
   - 🔴 die Salat (salad)
   - 🔴 die Marmelade (jam)
   - 🔴 die Wurst (sausage)
   - 🔴 die Lasagne (lasagna)
-  - 🔴 die Cola (cola)
-  - 🔴 die Milch (milk)
   - 🔴 die Lebensmittel (food products)
 - **Neuter**
   - 🟢 das Gemüse (vegetable)
@@ -206,6 +204,8 @@
 
 ## Technology Continued
 - **Masculine**
+  - 🔵 der Computer (computer)
+  - 🔵 der Laptop (laptop)
   - 🔵 der Drucker (printer)
   - 🔵 der USB-Stick (USB stick)
   - 🔵 der Maus (mouse)
@@ -219,9 +219,11 @@
   - 🔴 die Show (show)
 - **Neuter**
   - 🟢 das Internet (internet)
-  - 🟢 das Licht (light)
   - 🟢 das Interview (interview)
   - 🟢 das Chat (chat)
+  - 🟢 das Handy (mobile phone)
+  - 🟢 das Smartphone (smartphone)
+  - 🟢 das App (app)
 
 ## House and Office
 - **Masculine**
@@ -230,12 +232,13 @@
   - 🔴 die Küche (kitchen)
 - **Neuter**
   - 🟢 das Büro (office)
+  - 🟢 das Fenster (window)
+  - 🟢 das Haus (house)
 
 ## Miscellaneous
 - **Masculine**
   - 🔵 der Gast (guest)
   - 🔵 der Termin (appointment)
-  - 🔵 der Monat (month)
 - **Feminine**
   - 🔴 die Lieblingsessen (favorite food)
   - 🔴 die Visitenkarte (business card)
@@ -247,8 +250,7 @@
   - 🔴 die Bürste (brush)
   - 🔴 die T-shirt (T-shirt)
   - 🔴 die Pause (pause)
-  - 🔴 die Kinder (children)
+  
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
-  - 🟢 das Viertel (quarter)
-  - 🟢 das Kindergarten (kindergarten)
+  - 🟢 das Licht (light)
