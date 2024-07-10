@@ -10,11 +10,13 @@
   - 🔵 der Freund (friend)
   - 🔵 der Gast (guest)
   - 🔵 der Familienvater (family man)
+  - 🔵 der Partner (male partner)
 - **Feminine**
   - 🔴 die Frau (woman)
   - 🔴 die Lehrerin (female teacher)
   - 🔴 die Freundin (female friend)
   - 🔴 die Mutter (mother)
+  - 🔴 die Partnerin (female partner)
 - **Neuter**
   - 🟢 das Kind (child)
   - 🟢 das Mädchen (girl)
@@ -90,20 +92,27 @@
   - 🔵 der Morgen (morning)
   - 🔵 der Abend (evening)
   - 🔵 der Monat (month)
+- **Feminine**
+  - 🔴 die Pause (pause)
+  - 🔴 die Zeit (time)
+  - 🔴 die Freizeit (leisure time)
 - **Neuter**
   - 🟢 das Viertel (quarter)
+ 
+## Freizeit (leisure time)
 
-## Courses
+## Kurs(Courses)
 - **Masculine**
   - 🔵 der kurs (course)
   - 🔵 der Deutschkurs (German course)
 
-## Clothing
+## Kleidung (Clothing)
 - **Feminine**
   - 🔴 die Bluse (blouse)
   - 🔴 die Jeans (jeans)
   - 🔴 die Jacke (jacket)
   - 🔴 die Tasche (bag)
+  - 🔴 die Kleidung (Clothing)
   - 🔴 die Farbe (color)
 
 ## Transport
@@ -244,23 +253,27 @@
   - 🔵 der Support (support)
   - 🔵 der Podcast (podcast)
   - 🔵 der Radio (radio)
+  - 🔵 der Text (text)
+  - 🔵 der Status (status)
 - **Feminine**
   - 🔴 die Software (software)
+  - 🔴 die Maus (mouse)
   - 🔴 die SMS (text message)
-  - 🔴 die Show (show)
   - 🔴 die Website (website)
 - **Neuter**
   - 🟢 das Internet (internet)
-  - 🟢 das Interview (interview)
   - 🟢 das Chat (chat)
+  - 🟢 das Telefon (phone)
   - 🟢 das Handy (mobile phone)
   - 🟢 das Smartphone (smartphone)
   - 🟢 das App (app)
+  - 
 
 ## House
 - **Masculine**
   - 🔵 der Herd (stove)
   - 🔵 der Grill (grill)
+  - 🔵 der Topf (Pot)
 - **Feminine**
   - 🔴 die Küche (kitchen)
 - **Neuter**
@@ -276,11 +289,14 @@
   - 🔴 die Visitenkarte (business card)
 - **Neuter**
   - 🟢 das Büro (office)
+  - 🟢 das Interview (interview)
+  - 🟢 das telefongespräch (telephone conversation)
  
 
 ## Occupations
 - **Masculine**
   - 🔵 der Job (job)
+  - 🔵 der Beruf (Profession)
   - 🔵 der Friseur (male hairdresser)
   - 🔵 der Architekt (male architect)
   - 🔵 der Kollege (male colleague)
@@ -317,23 +333,36 @@
   - 🔴 die E-Mail-Addresse (E-mail address)
  
 
+## Cosmetics and Grooming
+- **Masculine**
+  - 🔵 der Kamm (comb)
+- **Feminine**
+  - 🔴 die Schere (scissors)
+  - 🔴 die Bürste (brush)
+ 
+  
 ## Miscellaneous
 - **Masculine**
   - 🔵 der Sport (sport)
   - 🔵 der Fußball (football)
+  - 🔵 der Berliner (male citizen of berlin)
+  - 🔵 der Vegetarier (male vegetarian)
+  - 🔵 der Regenbogen (rainbow)
 - **Feminine**
   - 🔴 die Party (party)
-  - 🔴 die Pause (pause)
   - 🔴 die Musik (music)
   - 🔴 die Sprache (language)
+  - 🔴 die Show (show)
+  - 🔴 die Mahlezeit (meal time)
+  - 🔴 die Berlinerin (female citizen of berlin)
+  - 🔴 die Vegetarierin (female vegetarian)
+  - 🔴 die Liebelingsfarbe (favortie color)
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
   - 🟢 das Licht (light)
   - 🟢 das Hobby (hobby)
   - 🟢 das Yoga (yoga)
   - 🟢 das Leben (life)
+  - 🟢 das Mahl (meal)
+  - 🟢 das Mahl (meal)
  
-## Cosmetics and Grooming
-- **Feminine**
-  - 🔴 die Schere (scissors)
-  - 🔴 die Bürste (brush)
