@@ -41,24 +41,6 @@
   - 🟡 die Eltern (parents)
   - 🟡 die Großeltern (grand parents)
 
-## Places
-- **Masculine**
-  - 🔵 der Park (park)
-  - 🔵 der Bahnhof (train station)
-  - 🔵 der Markt (market)
-  - 🔵 der Flohmarkt (flea market)
-- **Feminine**
-  - 🔴 die Stadt (city) 
-  - 🔴 die Schule (school)
-  - 🔴 die Universität (university)
-  - 🔴 die Straße (street)
-- **Neuter**
-  - 🟢 das Land (country)
-  - 🟢 das Haus (house)
-  - 🟢 das Hotel (hotel)
-  - 🟢 das Krankenhaus (hospital)
-  - 🟢 das Kindergarten (kindergarten)
-  - 🟢 das Restaurant (restaurant)
 
 ## Objects
 - **Masculine**
@@ -69,6 +51,7 @@
   - 🔴 die Uhr (clock)
 - **Neuter**
   - 🟢 das Buch (book)
+
 
 ## Animals
 - **Masculine**
@@ -86,25 +69,100 @@
   - 🟢 das Huhn (chicken)
   - 🟢 das Pony (pony)
 
-## Time
+
+## Zeit (Time)
+### zeitangaben (time information)
 - **Masculine**
   - 🔵 der Tag (day)
+  - 🔵 der Wochentag (weekday)
+  - 🔵 der Monat (month)
+  - 🔵 der Morgen (morning)
+  - 🔵 der Mittag (Midday)
+  - 🔵 der Abend (evening)
+- **Feminine**
+  - 🔴 die Zeit (time)
+  - 🔴 die Sekunde (second)
+  - 🔴 die Minute (minute)
+  - 🔴 die Stunde (hour)
+  - 🔴 die Nacht (night)
+  - 🔴 die Pause (pause)
+  - 🔴 die Freizeit (leisure time)
+- **Neuter**
+  - 🟢 das Jahr (year)
+  - 🟢 das Wochenende (weekend)
+  - 🟢 das Viertel (quarter)
+
+
+### Wochentag (weekday)
+- **Masculine**
+  - 🔵 der Tag (day)
+  - 🔵 der Wochentag (weekday)
   - 🔵 der Morgen (morning)
   - 🔵 der Abend (evening)
   - 🔵 der Monat (month)
-- **Feminine**
-  - 🔴 die Pause (pause)
-  - 🔴 die Zeit (time)
-  - 🔴 die Freizeit (leisure time)
-- **Neuter**
-  - 🟢 das Viertel (quarter)
+
+
+### Monat (Month)
+- **Masculine**
+  - 🔵 der Januar (January)
+  - 🔵 der Februar (February)
+  - 🔵 der März (March)
+  - 🔵 der April (April)
+  - 🔵 der Mai (May)
+  - 🔵 der Juni (June)
+  - 🔵 der Juli (July)
+  - 🔵 der August (January)
+  - 🔵 der September (September)
+  - 🔵 der Oktober (October)
+  - 🔵 der November (November)
+  - 🔵 der Dezember (December)
+
  
-## Freizeit (leisure time)
+## Freizeit (leisure)
+- **Masculine**
+  - 🔵 der Club (club)
+- **Feminine**
+  - 🔴 die Party (party)
+  - 🔴 die Musik (music)
+  - 🔴 die Disco (disco)
+  - 🔴 die Show (show)
+- **Neuter**
+  - 🟢 das Hobby (hobby)
+  - 🟢 das Kino (cinema, movie theater)
+  - 🟢 das Konzert (concert)
+  - 🟢 das Theater (theater)
+  - 🟢 das Spiel (game)
+  - 🟢 das Videospiel (video game)
+
+
+ ## Musikinstrument (musical instrument)
+ - **Masculine**
+  - 🔵 der Club (club)
+- **Feminine**
+  - 🔴 die Geige (violin)
+- **Neuter**
+  - 🟢 das Klavier (piano)
+
+
+## Sport (sport)
+- **Masculine**
+  - 🔵 der Sport (sport)
+  - 🔵 der Pool (pool)
+  - 🔵 der ball (ball)
+  - 🔵 der Fußball (football)
+- **Feminine**
+  - 🔴 die Sauna (sauna)
+- **Neuter**
+  - 🟢 das Aerobic (aerobics)
+  - 🟢 das Fitness-Studio (Gym)
+  - 🟢 das Yoga (yoga)
+
 
 ## Kurs(Courses)
 - **Masculine**
   - 🔵 der kurs (course)
   - 🔵 der Deutschkurs (German course)
+
 
 ## Kleidung (Clothing)
 - **Feminine**
@@ -115,7 +173,35 @@
   - 🔴 die Kleidung (Clothing)
   - 🔴 die Farbe (color)
 
-## Transport
+
+## Places
+- **Masculine**
+  - 🔵 der Park (park)
+  - 🔵 der Bahnhof (train station)
+  - 🔵 der Markt (market)
+  - 🔵 der Flohmarkt (flea market)
+  - 🔵 der Airport (airport)
+  - 🔵 der Flughafen (airport)
+- **Feminine**
+  - 🔴 die Stadt (city) 
+  - 🔴 die Schule (school)
+  - 🔴 die Universität (university)
+  - 🔴 die Straße (street)
+  - 🔴 die Straße (street)
+  - 🔴 die Bank (bank)
+  - 🔴 die Tankstelle (gas station)
+  - 🔴 die Bushaltstelle (Bus stop)
+- **Neuter**
+  - 🟢 das Land (country)
+  - 🟢 das Haus (house)
+  - 🟢 das Hotel (hotel)
+  - 🟢 das Krankenhaus (hospital)
+  - 🟢 das Kindergarten (kindergarten)
+  - 🟢 das Restaurant (restaurant)
+  - 🟢 das Geschäft (business)
+ 
+
+## Transport (Transportation)
 - **Masculine**
   - 🔵 der Bus (bus)
 - **Feminine**
@@ -124,10 +210,13 @@
   - 🔴 die Straßenbahn (Tram)
 - **Neuter**
   - 🟢 das Auto (car)
+  - 🟢 das Rad (bicycle)
   - 🟢 das Motorrad (motorcycle)
   - 🟢 das Taxi (taxi)
 
-## Drinks
+
+## Getränk und Essen (Food and Drink)
+### Getränk (Drinks)
 - **Masculine**
   - 🔵 der Tee (tea)
   - 🔵 der Kaffee (coffee)
@@ -146,7 +235,7 @@
   - 🟢 das Wasser (water)
 
 
-## Fruits and Vegetables
+### Obst und Gemüse (Fruits and Vegetables)
 - **Masculine**
   - 🔵 der Apfel (apple)
 - **Feminine**
@@ -163,7 +252,7 @@
   - 🟢 das Obst (Fruit)
  
 
-## Food
+### Essen (Food)
 - **Masculine**
   - 🔵 der Müsli (muesli)
   - 🔵 der Käse (cheese)
@@ -184,7 +273,8 @@
   - 🔴 die Wurst (sausage)
   - 🔴 die Lasagne (lasagna)
 - **Neuter**
-  - 🟢 das Essen (food)  
+  - 🟢 das Essen (food)
+  - 🟢 das Mahl (meal)
   - 🟢 das Liebelingsessen (favorite food)  
   - 🟢 das Milchprodukt (dairy product) 
   - 🟢 das Öl (oil)
@@ -199,7 +289,7 @@
   - 🟡 die lebensmittel (groceries)
 
 
-## Packaging and Amount
+## Verpackung und Menge (Packaging and Amount)
 - **Masculine**
   - 🔵 der Liter (liter)
 - **Feminine**
@@ -267,7 +357,7 @@
   - 🟢 das Handy (mobile phone)
   - 🟢 das Smartphone (smartphone)
   - 🟢 das App (app)
-  - 
+
 
 ## House
 - **Masculine**
@@ -308,12 +398,14 @@
   - 🔵 der Rentner (male retiree)
   - 🔵 der Köch (male cook)
   - 🔵 der Student (male university student)
+  - 🔵 der Arzt (male doctor)
 - **Feminine**
   - 🔴 die Arbeit (work)
   - 🔴 die Friseurin (female hairdresser)
   - 🔴 die Architektin (female architect)
   - 🔴 die Kollegin (female colleague)
   - 🔴 die Chefin (female boss)
+  - 🔴 die Polizie (police)
   - 🔴 die Polizistin (policewoman)
   - 🔴 die Managerin (female manager)
   - 🔴 die IT-Ingenieurin (female IT engineer)
@@ -321,6 +413,7 @@
   - 🔴 die Rentnerin (female retiree)
   - 🔴 die Köchin (female cook)
   - 🔴 die Studentin (female university student)
+  - 🔴 die Arztin (female doctor)
 
 ## introduction
 - **Masculine**
@@ -343,26 +436,22 @@
   
 ## Miscellaneous
 - **Masculine**
-  - 🔵 der Sport (sport)
-  - 🔵 der Fußball (football)
   - 🔵 der Berliner (male citizen of berlin)
   - 🔵 der Vegetarier (male vegetarian)
   - 🔵 der Regenbogen (rainbow)
+  - 🔵 der Stress (stress)
+  - 🔵 der Spaß (fun)
+  - 🔵 der Fernseher (TV)
+  - 🔵 der Krankenpfleger (male nurse)
 - **Feminine**
-  - 🔴 die Party (party)
-  - 🔴 die Musik (music)
   - 🔴 die Sprache (language)
-  - 🔴 die Show (show)
   - 🔴 die Mahlezeit (meal time)
   - 🔴 die Berlinerin (female citizen of berlin)
   - 🔴 die Vegetarierin (female vegetarian)
   - 🔴 die Liebelingsfarbe (favortie color)
+  - 🔴 die Krankenschwester (female nurse)
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
   - 🟢 das Licht (light)
-  - 🟢 das Hobby (hobby)
-  - 🟢 das Yoga (yoga)
   - 🟢 das Leben (life)
-  - 🟢 das Mahl (meal)
-  - 🟢 das Mahl (meal)
  
