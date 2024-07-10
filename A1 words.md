@@ -3,11 +3,13 @@
 ## People
 - **Masculine**
   - 🔵 der Mann (man)
+  - 🔵 der Herr (Mr.)
   - 🔵 der Mensch (person)
   - 🔵 der Junge (boy)
   - 🔵 der Lehrer (teacher)
   - 🔵 der Freund (friend)
   - 🔵 der Gast (guest)
+  - 🔵 der Familienvater (family man)
 - **Feminine**
   - 🔴 die Frau (woman)
   - 🔴 die Lehrerin (female teacher)
@@ -17,6 +19,10 @@
   - 🟢 das Kind (child)
   - 🟢 das Mädchen (girl)
   - 🟢 das Baby (baby)
+- **Plural**
+  - 🟡 die Menschen (people)
+  - 🟡 die Leute (people)
+  - 🟡 die Kinder (children)
 
 ## Family
 - **Masculine**
@@ -28,23 +34,29 @@
   - 🔴 die Schwester (sister)
   - 🔴 die Großmutter (grandmother)
 - **Neuter**
-  - 🟢 das Eltern (parents)
   - 🟢 das Geschwister (sibling)
+- **Plural**
+  - 🟡 die Eltern (parents)
+  - 🟡 die Großeltern (grand parents)
 
 ## Places
 - **Masculine**
   - 🔵 der Park (park)
   - 🔵 der Bahnhof (train station)
   - 🔵 der Markt (market)
+  - 🔵 der Flohmarkt (flea market)
 - **Feminine**
+  - 🔴 die Stadt (city) 
   - 🔴 die Schule (school)
   - 🔴 die Universität (university)
   - 🔴 die Straße (street)
 - **Neuter**
+  - 🟢 das Land (country)
   - 🟢 das Haus (house)
   - 🟢 das Hotel (hotel)
   - 🟢 das Krankenhaus (hospital)
   - 🟢 das Kindergarten (kindergarten)
+  - 🟢 das Restaurant (restaurant)
 
 ## Objects
 - **Masculine**
@@ -54,7 +66,6 @@
   - 🔴 die Lampe (lamp)
   - 🔴 die Uhr (clock)
 - **Neuter**
-  - 🟢 das Auto (car)
   - 🟢 das Buch (book)
 
 ## Animals
@@ -67,9 +78,11 @@
   - 🔴 die Maus (mouse)
   - 🔴 die Kuh (cow)
 - **Neuter**
+  - 🟢 das Tier (animal)
   - 🟢 das Pferd (horse)
   - 🟢 das Schaf (sheep)
   - 🟢 das Huhn (chicken)
+  - 🟢 das Pony (pony)
 
 ## Time
 - **Masculine**
@@ -91,12 +104,19 @@
   - 🔴 die Jeans (jeans)
   - 🔴 die Jacke (jacket)
   - 🔴 die Tasche (bag)
+  - 🔴 die Farbe (color)
 
 ## Transport
 - **Masculine**
   - 🔵 der Bus (bus)
+- **Feminine**
+  - 🔴 die U-Bahn (Subway)
+  - 🔴 die S-Bahn (Train)
+  - 🔴 die Straßenbahn (Tram)
 - **Neuter**
   - 🟢 das Auto (car)
+  - 🟢 das Motorrad (motorcycle)
+  - 🟢 das Taxi (taxi)
 
 ## Drinks
 - **Masculine**
@@ -129,6 +149,10 @@
   - 🔴 die Zitrone (lemon)
   - 🔴 die Kartoffel (potato)
   - 🔴 die Möhre (carrot)
+- **Neuter**
+  - 🟢 das Gemüse (vegetables)
+  - 🟢 das Obst (Fruit)
+ 
 
 ## Food
 - **Masculine**
@@ -140,7 +164,10 @@
   - 🔵 der Hamburger (hamburger)
   - 🔵 der Schinken (ham)
   - 🔵 der Familienvater (family father)
+  - 🔵 der Toast (toast)
+  - 🔵 der honig (honney)
 - **Feminine**
+  - 🔴 die Lieblingsessen (favorite food)
   - 🔴 die Pizza (pizza)
   - 🔴 die Lebensmittel (food products)
   - 🔴 die Salat (salad)
@@ -148,18 +175,33 @@
   - 🔴 die Wurst (sausage)
   - 🔴 die Lasagne (lasagna)
 - **Neuter**
-  - 🟢 das Gemüse (vegetable)
+  - 🟢 das Essen (food)  
+  - 🟢 das Liebelingsessen (favorite food)  
+  - 🟢 das Milchprodukt (dairy product) 
   - 🟢 das Öl (oil)
   - 🟢 das Hähnchen (chicken)
+  - 🟢 das Fleisch (meat)
   - 🟢 das Brot (bread)
   - 🟢 das Croissant (croissant)
   - 🟢 das Brötchen (bread roll)
   - 🟢 das Toast (toast)
   - 🟢 das Ei (egg)
+- **Plural**
+  - 🟡 die lebensmittel (groceries)
+
+
+## Packaging and Amount
+- **Masculine**
+  - 🔵 der Liter (liter)
+- **Feminine**
+  - 🔴 die Flasche (bottel)
+- **Neuter**
+  - 🟢 das Kilo (kilogram)
+  - 🟢 das Gramm (gram)
+  - 🟢 das Stück (PieceLiter)
+
 
 ## Countries and Languages
-- **Masculine**
-  - 🔵 der Sport (sport)
 - **Feminine**
   - 🔴 die Schweiz (Switzerland)
   - 🔴 die Medizin (medicine)
@@ -185,6 +227,9 @@
   - 🔵 der Tarif (rate)
   - 🔵 der Preis (price)
   - 🔵 der Geldautomat (ATM)
+  - 🔵 der Cent (cent)
+  - 🔵 der Euro (euro)
+  - 🔵 der Dollar (dollar)
 - **Neuter**
   - 🟢 das Geld (money)
 
@@ -203,6 +248,7 @@
   - 🔴 die Software (software)
   - 🔴 die SMS (text message)
   - 🔴 die Show (show)
+  - 🔴 die Website (website)
 - **Neuter**
   - 🟢 das Internet (internet)
   - 🟢 das Interview (interview)
@@ -214,6 +260,7 @@
 ## House
 - **Masculine**
   - 🔵 der Herd (stove)
+  - 🔵 der Grill (grill)
 - **Feminine**
   - 🔴 die Küche (kitchen)
 - **Neuter**
@@ -233,16 +280,18 @@
 
 ## Occupations
 - **Masculine**
-  - 🔵 der Friseur (hairdresser)
-  - 🔵 der Architekt (architect)
   - 🔵 der Job (job)
-  - 🔵 der Kollege (colleague)
-  - 🔵 der Chef (boss)
-  - 🔵 der Polizist (policeman)
-  - 🔵 der Manager (manager)
-  - 🔵 der IT-Ingenieur (IT engineer)
-  - 🔵 der Taxifahrer (taxi driver)
-  - 🔵 der Rentner (retiree)
+  - 🔵 der Friseur (male hairdresser)
+  - 🔵 der Architekt (male architect)
+  - 🔵 der Kollege (male colleague)
+  - 🔵 der Chef (male boss)
+  - 🔵 der Polizist (male policeman)
+  - 🔵 der Manager (male manager)
+  - 🔵 der IT-Ingenieur (male IT engineer)
+  - 🔵 der Taxifahrer (male taxi driver)
+  - 🔵 der Rentner (male retiree)
+  - 🔵 der Köch (male cook)
+  - 🔵 der Student (male university student)
 - **Feminine**
   - 🔴 die Arbeit (work)
   - 🔴 die Friseurin (female hairdresser)
@@ -254,16 +303,37 @@
   - 🔴 die IT-Ingenieurin (female IT engineer)
   - 🔴 die Taxifahrerin (female taxi driver)
   - 🔴 die Rentnerin (female retiree)
+  - 🔴 die Köchin (female cook)
+  - 🔴 die Studentin (female university student)
 
+## introduction
+- **Masculine**
+  - 🔵 der Name (name)
+  - 🔵 der Vorname (first name)
+  - 🔵 der Nachname (last name)
+- **Feminine**
+  - 🔴 die Handynummer (mobile number)
+  - 🔴 die Telefonnummer (phone number)
+  - 🔴 die E-Mail-Addresse (E-mail address)
+ 
 
 ## Miscellaneous
+- **Masculine**
+  - 🔵 der Sport (sport)
+  - 🔵 der Fußball (football)
 - **Feminine**
-  - 🔴 die Lieblingsessen (favorite food)
-  - 🔴 die Farbe (color)
   - 🔴 die Party (party)
-  - 🔴 die Schere (scissors)
-  - 🔴 die Bürste (brush)
   - 🔴 die Pause (pause)
+  - 🔴 die Musik (music)
+  - 🔴 die Sprache (language)
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
   - 🟢 das Licht (light)
+  - 🟢 das Hobby (hobby)
+  - 🟢 das Yoga (yoga)
+  - 🟢 das Leben (life)
+ 
+## Cosmetics and Grooming
+- **Feminine**
+  - 🔴 die Schere (scissors)
+  - 🔴 die Bürste (brush)
