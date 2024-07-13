@@ -46,7 +46,7 @@ Try to form sentences using the following verbs and pronouns:
 2. **Example:** Sie + hören + uns
    - **Sentence:** Sie hören uns. (They hear us.)
 
-If you have any specific questions or need more examples, feel free to ask!
+If you need more examples, please use [this link](https://chatgpt.com/share/6d37cf72-706e-4e5c-bafc-e5a6f9149327)!
 
 
 
@@ -99,5 +99,5 @@ If you have any specific questions or need more examples, feel free to ask!
 2. **مثال:** Sie + hören + uns
    - **جمله:** Sie hören uns. (آن‌ها ما را می‌شنوند.)
 
-اگر سوال خاصی دارید یا به مثال‌های بیشتری نیاز دارید، لطفاً بپرسید!
+اگر به مثال‌های بیشتری نیاز دارید، لطفاً از (https://chatgpt.com/share/6d37cf72-706e-4e5c-bafc-e5a6f9149327)[این لینک] استفاده کنید!
 
