@@ -75,6 +75,9 @@ Let's look at a few more examples to illustrate:
   - **Sentence**: Ich habe mich schnell angezogen. (I got dressed quickly.)
 
 
+
+
+
 # زمان کامل در آلمانی (Perfekt Tense) (A1)
 
 زمان کامل یکی از زمان‌های گذشته زبان آلمانی است که به طور معمول در مکالمات روزمره برای توصیف اعمالی که در گذشته انجام شده‌اند، استفاده می‌شود. این زمان با استفاده از فعل‌های کمکی "haben" یا "sein" و شکل سوم فعل اصلی تشکیل می‌شود.
