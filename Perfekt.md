@@ -1,4 +1,4 @@
-# Perfekt Tense in German (A1)
+# Perfekt Tense in German (A1 Level)
 
 The Perfekt tense in German is commonly used in spoken language to describe past actions. It's similar to the present perfect tense in English. The Perfekt tense is formed with the auxiliary verbs "haben" or "sein" and the past participle of the main verb.
 
@@ -87,7 +87,7 @@ Let's look at a few more examples to illustrate:
 
 
 
-# زمان کامل در آلمانی (Perfekt Tense) (A1)
+# زمان کامل در آلمانی (Perfekt Tense) (سطح A1)
 
 زمان کامل یکی از زمان‌های گذشته زبان آلمانی است که به طور معمول در مکالمات روزمره برای توصیف اعمالی که در گذشته انجام شده‌اند، استفاده می‌شود. این زمان با استفاده از فعل‌های کمکی "haben" یا "sein" و شکل سوم فعل اصلی تشکیل می‌شود.
 
