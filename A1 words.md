@@ -28,7 +28,7 @@
   - 🟡 die Leute (people)
   - 🟡 die Kinder (children)
 
-## Family
+## Familie (Family)
 - **Masculine**
   - 🔵 der Vater (father)
   - 🔵 der Bruder (brother)
@@ -49,7 +49,7 @@
   - 🟡 die Großeltern (grand parents)
 
 
-## Objekten
+## Objekten (Objects)
 - **Masculine**
   - 🔵 der Schlüssel (key)
 - **Neuter**
@@ -186,7 +186,7 @@
   - 🟢 das interesse (interest)
 
 
- ## Musikinstrument (musical instrument)
+## Musikinstrument (musical instrument)
 - **Feminine**
   - 🔴 die Geige (violin)
   - 🔴 die Gitarre (guitar)
@@ -588,7 +588,7 @@
   - 🔴 die Lehrerin (female teacher)
 
 
-## personal information
+## Persönliche Angaben (personal information)
 - **Masculine**
   - 🔵 der Name (name)
   - 🔵 der Vorname (first name)
@@ -609,7 +609,7 @@
   - 🟢 das Geburstdatum (birthday)
  
 
-## Cosmetics and Grooming
+## Kosmetik und Pflege (Cosmetics and Grooming)
 - **Masculine**
   - 🔵 der Kamm (comb)
   - 🔵 der Spiegel (mirror)
@@ -628,7 +628,7 @@
   - 🔴 die Wolke (cloud)
 
   
-## Miscellaneous
+## Verschiedenes (Miscellaneous)
 - **Masculine**
   - 🔵 der Berliner (male citizen of berlin)
   - 🔵 der Vegetarier (male vegetarian)
