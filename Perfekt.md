@@ -1,5 +1,5 @@
-- [English/Englisch/انگلیسی](#Perfekt-Tense-in-German-(A1-Level))
-- [Persian/Persisch/فارسی]()
+- [English/Englisch/انگلیسی](#perfekt-tense-in-german-a1-level)
+- [Persian/Persisch/فارسی](#زمان-کامل-در-آلمانی-perfekt-tense-سطح-a1)
 ***
 # Perfekt Tense in German (A1 Level)
 
