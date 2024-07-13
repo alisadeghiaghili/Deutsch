@@ -1,3 +1,8 @@
+-[English/Englisch/انگلیسی](#akkusativ-pronouns-in-german-a1-level)
+-[Persian/Persisch/فارسی](#ضمایر-آکوزاتیو-در-آلمانی-سطح-a1)
+
+***
+
 # Akkusativ Pronouns in German (A1 Level)
 
 In German, pronouns change depending on the case they are in. The Akkusativ case is used for the direct object of a sentence, that is, the person or thing directly receiving the action of the verb.
@@ -48,7 +53,10 @@ Try to form sentences using the following verbs and pronouns:
 
 If you need more examples, please use [this link](https://chatgpt.com/share/6d37cf72-706e-4e5c-bafc-e5a6f9149327)!
 
+<br>
+<br>
 
+***
 
 
 # ضمایر آکوزاتیو در آلمانی (سطح A1)
