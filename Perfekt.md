@@ -10,6 +10,7 @@ The Perfekt tense in German is commonly used in spoken language to describe past
 ## Regular (Regelmäßige) Verbs
 
 For regular verbs, the past participle is formed by adding "ge-" at the beginning and "-t" at the end of the verb stem.
+**Haben + ... + Partizip 2**
 **Haben + ge + stemm + t** → hat gemacht
 Only auxiliary verbs occupy the second position, and anything that occupies the second position must be conjugated.
 - Ich habe sport gemacht.
@@ -96,9 +97,10 @@ Let's look at a few more examples to illustrate:
 1. **فعل کمکی**: از "haben" یا "sein" در زمان حال استفاده می‌شود.
 2. **شکل سوم**: شکل سوم فعل اصلی به آن اضافه می‌شود.
 
-## فعل‌های منظم (Regelmäßige)
+## فعل‌های با قاعده (Regelmäßige)
 
 برای فعل‌های منظم، شکل سوم با اضافه کردن "ge-" به ابتدای ریشه فعل و اضافه کردن "-t" به انتهای آن تشکیل می‌شود.
+**Haben + ... + Partizip 2**
 **Haben + ge + stemm + t** → hat gemacht
 تنها فعا های کمکی در جایگاه 2 قرارمی گیرند  و هر چیزی که در جایگاه دوم قرار گیرد حتما صرف می شود.
 - Ich habe sport gemacht.
@@ -114,7 +116,7 @@ Let's look at a few more examples to illustrate:
 - **شکل سوم**: gemacht
 - **جمله**: Ich habe gemacht. (من انجام داده‌ام / ساخته‌ام.)
 
-## فعل‌های نامنظم (Unregelmäßige)
+## فعل‌های بی‌قاعده (Unregelmäßige)
 
 فعل‌های نامنظم فرم‌های مختلفی برای شکل سوم خود دارند که باید به خاطر سپرده شوند.
 
@@ -141,7 +143,7 @@ Let's look at a few more examples to illustrate:
 
 ## فعل‌های انعکاسی (Sich)
 
-فعل‌های بازتابی همچنین همانند الگوی فوق عمل می‌کنند اما نیاز به ضمیر بازتابی دارند.
+فعل‌های انعکاسی همچنین همانند الگوی فوق عمل می‌کنند اما نیاز به ضمیر انعکاسی دارند.
 
 ### مثال: "sich waschen" (شستن)
 - **بنیاد**: sich waschen
