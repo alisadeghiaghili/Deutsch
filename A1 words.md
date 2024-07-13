@@ -14,7 +14,7 @@
 - [Objekten (Objects)](#objekten-objects)
 - [Tier (animal)](#tier-animal)
 - [Zeit (Time)](#zeit-time)
-  - [#tageszeiten-day-times](#tageszeiten-day-times)
+  - [Tageszeiten (day times)](#tageszeiten-day-times)
   - [Wochentag (weekday)](#wochentag-weekday)
   - [Monat (Month)](#monat-month)
   - [Jahreszeit (season)](#jahreszeit-season)
