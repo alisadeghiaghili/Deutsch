@@ -6,6 +6,9 @@
 - 🟢 → Neutral (Neutral)
 - 🟡 → Plural (plural)
 
+
+# index of content
+
 - [Menschen (people)](#menschen-people)
 - [Familie (Family)](#familie-family)
 - [Objekten (Objects)](#objekten-objects)
