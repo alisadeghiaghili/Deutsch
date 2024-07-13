@@ -1,5 +1,5 @@
--[English/Englisch/انگلیسی](#akkusativ-pronouns-in-german-a1-level)
--[Persian/Persisch/فارسی](#ضمایر-آکوزاتیو-در-آلمانی-سطح-a1)
+- [English/Englisch/انگلیسی](#akkusativ-pronouns-in-german-a1-level)
+- [Persian/Persisch/فارسی](#ضمایر-آکوزاتیو-در-آلمانی-سطح-a1)
 
 ***
 
