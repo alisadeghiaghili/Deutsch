@@ -10,6 +10,15 @@ The Perfekt tense in German is commonly used in spoken language to describe past
 ## Regular (Regelmäßige) Verbs
 
 For regular verbs, the past participle is formed by adding "ge-" at the beginning and "-t" at the end of the verb stem.
+**Haben + ge + stemm + t** → hat gemacht
+Only auxiliary verbs occupy the second position, and anything that occupies the second position must be conjugated.
+- Ich habe sport gemacht.
+- Meine schwester hat das Abitur gemacht.
+
+Also notice that verbs ending in *'ieren'* do not take 'g' anymore.
+- studieren → studiert
+- telefonieren → telefoniert
+- informieren → informiert
 
 ### Example: "machen" (to do/make)
 - **Infinitive**: machen
@@ -90,9 +99,18 @@ Let's look at a few more examples to illustrate:
 ## فعل‌های منظم (Regelmäßige)
 
 برای فعل‌های منظم، شکل سوم با اضافه کردن "ge-" به ابتدای ریشه فعل و اضافه کردن "-t" به انتهای آن تشکیل می‌شود.
+**Haben + ge + stemm + t** → hat gemacht
+تنها فعا های کمکی در جایگاه 2 قرارمی گیرند  و هر چیزی که در جایگاه دوم قرار گیرد حتما صرف می شود.
+- Ich habe sport gemacht.
+- Meine schwester hat das Abitur gemacht.
+
+همچنین افعالی که به *'ieren'* ختم می شوند دیگر g نمی گیرند
+- studieren → studiert
+- telefonieren → telefoniert
+- informieren → informiert
 
 ### مثال: "machen" (انجام دادن / ساختن)
-- **بنیاد**: machen
+- **مصدر**: machen
 - **شکل سوم**: gemacht
 - **جمله**: Ich habe gemacht. (من انجام داده‌ام / ساخته‌ام.)
 
