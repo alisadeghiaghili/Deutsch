@@ -99,5 +99,5 @@ If you need more examples, please use [this link](https://chatgpt.com/share/6d37
 2. **مثال:** Sie + hören + uns
    - **جمله:** Sie hören uns. (آن‌ها ما را می‌شنوند.)
 
-اگر به مثال‌های بیشتری نیاز دارید، لطفاً از (https://chatgpt.com/share/6d37cf72-706e-4e5c-bafc-e5a6f9149327)[این لینک] استفاده کنید!
+اگر به مثال‌های بیشتری نیاز دارید، لطفاً از [این لینک](https://chatgpt.com/share/6d37cf72-706e-4e5c-bafc-e5a6f9149327) استفاده کنید!
 
