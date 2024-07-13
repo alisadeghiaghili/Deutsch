@@ -7,13 +7,13 @@
 - 🟡 → Plural (plural)
 
 
-# Index of content
+# Table of content
 
 - [Menschen (people)](#menschen-people)
 - [Familie (Family)](#familie-family)
 - [Objekten (Objects)](#objekten-objects)
 - [Tier (animal)](#tier-animal)
-- [#zeit-time](Zeit (Time))
+- [Zeit (Time)](#zeit-time)
   - [#tageszeiten-day-times](#tageszeiten-day-times)
   - [Wochentag (weekday)](#wochentag-weekday)
   - [Monat (Month)](#monat-month)
