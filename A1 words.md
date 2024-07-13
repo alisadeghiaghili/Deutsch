@@ -7,7 +7,7 @@
 - 🟡 → Plural (plural)
 
 
-# index of content
+# Index of content
 
 - [Menschen (people)](#menschen-people)
 - [Familie (Family)](#familie-family)
