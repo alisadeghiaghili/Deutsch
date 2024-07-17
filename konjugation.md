@@ -13,6 +13,8 @@ In German, verbs are conjugated according to the subject of the sentence. The en
 1. **Infinitive Form**: The base form of the verb (e.g., *spielen* - to play).
 2. **Stem**: Remove the -en or -n ending from the infinitive (e.g., *spiel-*).
 
+Stemm + $`\textcolor{red}{\text{Endung}}`$
+
 Add the following endings to the stem:
 
 | Pronoun       | Ending  | Example: spielen (to play) |
@@ -60,6 +62,8 @@ Add the following endings to the stem:
 ## صرف افعال با قاعده
 1. **شکل مصدر**: شکل پایه فعل (مانند spielen - بازی کردن).
 2. **ریشه**: پایان -en یا -n را از مصدر حذف کنید (مانند spiel-).
+
+Stemm + $`\textcolor{red}{\text{Endung}}`$
 
 پایان‌های زیر را به ریشه اضافه کنید:
 
