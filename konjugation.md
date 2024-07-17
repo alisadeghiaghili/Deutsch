@@ -50,6 +50,100 @@ Add the following endings to the stem:
 | ihr     | lernt       |
 | sie/Sie | lernen      |
 
+
+## Irregular Verb Conjugation
+Irregular verbs in German do not follow the standard conjugation patterns. They often involve changes in the stem vowel and sometimes have unique endings.
+
+### Common Irregular Verbs
+
+1. **sein (to be)**
+2. **haben (to have)**
+3. **werden (to become)**
+4. **lesen (to read)**
+5. **geben (to give)**
+6. **fahren (to drive)**
+7. **laufen (to run)**
+
+## Conjugation Patterns
+
+1. **sein (to be)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | bin         |
+| du            | bist        |
+| er/sie/es     | ist         |
+| wir           | sind        |
+| ihr           | seid        |
+| sie/Sie       | sind        |
+
+2. **haben (to have)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | habe        |
+| du            | hast        |
+| er/sie/es     | hat         |
+| wir           | haben       |
+| ihr           | habt        |
+| sie/Sie       | haben       |
+
+3. **werden (to become)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | werde       |
+| du            | wirst       |
+| er/sie/es     | wird        |
+| wir           | werden      |
+| ihr           | werdet      |
+| sie/Sie       | werden      |
+
+4. **lesen (to read)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | lese        |
+| du            | liest       |
+| er/sie/es     | liest       |
+| wir           | lesen       |
+| ihr           | lest        |
+| sie/Sie       | lesen       |
+
+5. **geben (to give)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | gebe        |
+| du            | gibst       |
+| er/sie/es     | gibt        |
+| wir           | geben       |
+| ihr           | gebt        |
+| sie/Sie       | geben       |
+
+6. **fahren (to drive)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | fahre       |
+| du            | fährst      |
+| er/sie/es     | fährt       |
+| wir           | fahren      |
+| ihr           | fahrt       |
+| sie/Sie       | fahren      |
+
+7. **laufen (to run)**
+
+| Pronoun       | Conjugation |
+|---------------|-------------|
+| ich           | laufe       |
+| du            | läufst      |
+| er/sie/es     | läuft       |
+| wir           | laufen      |
+| ihr           | lauft       |
+| sie/Sie       | laufen      |
+
+
 <br>
 <br>
 
@@ -80,7 +174,7 @@ Stemm + $`\textcolor{red}{\text{Endung}}`$
 
 1. **wohnen (زندگی کردن)**
 
-| ضمیر | تصریف   |
+| ضمیر | صرف   |
 |------|---------|
 | ich  | wohne   |
 | du   | wohnst  |
@@ -91,7 +185,7 @@ Stemm + $`\textcolor{red}{\text{Endung}}`$
 
 2. **lernen (یاد گرفتن)**
 
-| ضمیر | تصریف   |
+| ضمیر | صرف   |
 |------|---------|
 | ich  | lerne   |
 | du   | lernst  |
@@ -99,3 +193,96 @@ Stemm + $`\textcolor{red}{\text{Endung}}`$
 | wir  | lernen  |
 | ihr  | lernt   |
 | sie/Sie | lernen  |
+
+
+## صرف افعال بی قاعده
+افعال بی قاعده در زبان آلمانی از الگوهای صرفی استاندارد پیروی نمی کنند. آنها اغلب تغییراتی در مصوت بنیادی دارند و گاهی اوقات پایان های منحصر به فردی دارند.
+
+### افعال بی‌قاعده متداول
+
+1. **sein (بودن)**
+2. **haben (داشتن)**
+3. **werden (شدن)**
+4. **lesen (خواندن)**
+5. **geben (دادن)**
+6. **fahren (رانندگی کردن)**
+7. **laufen (دویدن)**
+
+## الگوهای صرف
+
+1. **sein (بودن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | bin        |
+| du (تو)     | bist       |
+| er/sie/es (او / آن) | ist |
+| wir (ما)    | sind       |
+| ihr (شما، جمع) | seid     |
+| sie/Sie (آن‌ها / شما) | sind |
+
+2. **haben (داشتن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | habe       |
+| du (تو)     | hast       |
+| er/sie/es (او / آن) | hat |
+| wir (ما)    | haben      |
+| ihr (شما، جمع) | habt    |
+| sie/Sie (آن‌ها / شما) | haben |
+
+3. **werden (شدن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | werde      |
+| du (تو)     | wirst      |
+| er/sie/es (او / آن) | wird |
+| wir (ما)    | werden     |
+| ihr (شما، جمع) | werdet  |
+| sie/Sie (آن‌ها / شما) | werden |
+
+4. **lesen (خواندن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | lese       |
+| du (تو)     | liest      |
+| er/sie/es (او / آن) | liest |
+| wir (ما)    | lesen      |
+| ihr (شما، جمع) | lest    |
+| sie/Sie (آن‌ها / شما) | lesen |
+
+5. **geben (دادن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | gebe       |
+| du (تو)     | gibst      |
+| er/sie/es (او / آن) | gibt |
+| wir (ما)    | geben      |
+| ihr (شما، جمع) | gebt    |
+| sie/Sie (آن‌ها / شما) | geben |
+
+6. **fahren (رانندگی کردن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | fahre      |
+| du (تو)     | fährst     |
+| er/sie/es (او / آن) | fährt |
+| wir (ما)    | fahren     |
+| ihr (شما، جمع) | fahrt   |
+| sie/Sie (آن‌ها / شما) | fahren |
+
+7. **laufen (دویدن)**
+
+| ضمیر        | صرف     |
+|-------------|------------|
+| ich (من)    | laufe      |
+| du (تو)     | läufst     |
+| er/sie/es (او / آن) | läuft |
+| wir (ما)    | laufen     |
+| ihr (شما، جمع) | lauft   |
+| sie/Sie (آن‌ها / شما) | laufen |
