@@ -27,6 +27,11 @@ In German, the negative article is "kein" (for masculine and neuter nouns) or "k
 | Neutrum (neuter)       | $`\textcolor{red}{\text{das}}`$  Buch            | $`\textcolor{red}{\text{ein}}`$  Buch              | $`\textcolor{red}{\text{kein}}`$  Buch        |
 | Plural                 | $`\textcolor{red}{\text{die}}`$  Kinder          | $`\textcolor{red}{\text{---}}`$ Kinder   | $`\textcolor{red}{\text{keine}}`$  Kinder     |
 
+
+<br>
+<br>
+-----------------
+
 # حرف تعریف
 
 ## حرف تعریف معلوم (شناخته)
