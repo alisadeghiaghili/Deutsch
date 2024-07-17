@@ -2,6 +2,6 @@
 
 | **Formell** | **Informell** |  Antwort |
 |---|---|---|
-| Wie <font color="red">heißen</font> <font color="green">sie</font>? | Wie <font color="red">heißt</font> <font color="green">du</font>? |<font color="green">Ich</font> <font color="red">heiße</font> Ali.|
-| Wer <font color="red">sind</font> <font color="green">Sie</font>? | Wer <font color="red">bist</font> <font color="green">du</font>?| <font color="green">Ich</font> <font color="red">bin</font> Ali.|
-| Wie <font color="red">ist</font> <font color="green">ihr</font> Name? | Wie <font color="red">ist</font> <font color="green">dein</font> Name?| <font color="green">Mein</font> Name <font color="red">ist</font><span style="color:red"> Ali.</span>|
+| Wie <font color="Red">heißen</font> <font color="Green">sie</font>? | Wie <font color="Red">heißt</font> <font color="Green">du</font>? |<font color="Green">Ich</font> <font color="Red">heiße</font> Ali.|
+| Wer <font color="Red">sind</font> <font color="Green">Sie</font>? | Wer <font color="Red">bist</font> <font color="Green">du</font>?| <font color="Green">Ich</font> <font color="Red">bin</font> Ali.|
+| Wie <font color="Red">ist</font> <font color="Green">ihr</font> Name? | Wie <font color="Red">ist</font> <font color="Green">dein</font> Name?| <font color="Green">Mein</font> Name <font color="Red">ist</font> Ali.|
