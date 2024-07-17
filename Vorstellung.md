@@ -2,13 +2,9 @@
 
 | **Formell** | **Informell** |  Antwort |
 |---|---|---|
-| Wie $`\textcolor{red}{\text{heißen}}`$ $`\textcolor{green}{\text{sie}}`$? | Wie $`\textcolor{red}{\text{heißt}}`$ $`\textcolor{green}{\text{du}}`$? |$`\textcolor{red}{\text{Ich}}`$ $`\textcolor{green}{\text{heiße}}`$ Ali.|
-| Wer <font color="Red">sind</font> <font color="Green">Sie</font>? | Wer <font color="Red">bist</font> <font color="Green">du</font>?| <font color="Green">Ich</font> <font color="Red">bin</font> Ali.|
-| Wie <font color="Red">ist</font> <font color="Green">ihr</font> Name? | Wie <font color="Red">ist</font> <font color="Green">dein</font> Name?| <font color="Green">Mein</font> Name <font color="Red">ist</font> Ali.|
+| Wie $`\textcolor{red}{\text{heißen}}`$ $`\textcolor{green}{\text{sie}}`$? | Wie $`\textcolor{red}{\text{heißt}}`$ $`\textcolor{green}{\text{du}}`$? |$`\textcolor{green}{\text{Ich}}`$ $`\textcolor{red}{\text{heiße}}`$ Ali.|
+| Wer $`\textcolor{red}{\text{sind}}`$ $`\textcolor{green}{\text{Sie}}`$? | Wer $`\textcolor{red}{\text{bist}}`$ $`\textcolor{green}{\text{du}}`$?| $`\textcolor{green}{\text{Ich}}`$Ich $`\textcolor{red}{\text{bin}}`$ Ali.|
+| Wie $`\textcolor{red}{\text{ist}}`$ $`\textcolor{green}{\text{ihr}}`$ Name? | Wie $`\textcolor{red}{\text{ist}}`$ $`\textcolor{green}{\text{dein}}`$ Name?| $`\textcolor{green}{\text{Mein}}`$ Name $`\textcolor{red}{\text{ist}}`$ Ali.|
 
 
-:bulb:: در سوال فعل همیشه جایگاه 2 را دارد و ضکیر جایگاه 3
-
-
-Wie [heißen]() <font color="Green">sie</font>? 
-
+:bulb:: در سوال $`\textcolor{red}{\text{فعل}}`$ همیشه جایگاه 2 را دارد و $`\textcolor{green}{\text{ضمیر}}`$ جایگاه 3
