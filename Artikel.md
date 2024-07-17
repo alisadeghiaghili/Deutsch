@@ -33,5 +33,5 @@ In German, the negative article is "kein" (for masculine and neuter nouns) or "k
 
 ## حرف تعریف منفی یا حرف نفی
 در زبان فارسی با کلمه "هیچ" معادل است، و برای منفی کردن یا نبود وجود چیزی یا کسی استفاده می‌شود.
-- Es gibt keinen Schnee. ((هیچ) برفی نیست.)
+- Es gibt keinen Schnee. (برفی نیست(هیچ) .)
 - Sie hat keine Katze. (او (هیچ) گربه‌ای ندارد)
