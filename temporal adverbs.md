@@ -1,3 +1,9 @@
+- [English/Englisch/انگلیسی](#temporal-adverbs)
+- [Persian/Persisch/فارسی](#قیدهای-زمانی-در-آلمانی)
+
+
+--------------
+
 # Temporal adverbs
 Temporal adverbs in German are used to provide time-related information within sentences. They help specify when an action occurs, how often it happens, or the temporal relationship between different events. 
 These adverbs play a crucial role in structuring sentences and conveying the timing or frequency of actions or events. They can refer to specific points in time (like "today" or "yesterday"), indicate frequency 
