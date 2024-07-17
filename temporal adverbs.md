@@ -20,7 +20,7 @@ For more practice, click [here](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc
 
 <div align='center'>
 
-| German | English | Persian |
+| **German** | **English** | **Persian** |
 |--------|---------|---------|
 | immer | always | همیشه |
 |fastimmer| almost always | تقریبا همیشه|
