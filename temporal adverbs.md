@@ -13,7 +13,7 @@ These adverbs play a crucial role in structuring sentences and conveying the tim
 In German sentences, temporal adverbs typically appear at the beginning or end of a sentence, depending on the emphasis or importance of the time element in the context. They help provide clarity and context 
 to the timeframe of actions or events being described, making them essential for effective communication in both spoken and written German.
 
-📝 For more practice, click [here](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc1-628de0a2f701)
+📝 For more practice, click [here](https://chatgpt.com/share/04d8652a-4dbe-4326-9092-5f0ab556e4be)
 
 
 # قیدهای زمانی در آلمانی
