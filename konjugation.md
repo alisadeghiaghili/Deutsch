@@ -50,6 +50,7 @@ Add the following endings to the stem:
 | ihr     | lernt       |
 | sie/Sie | lernen      |
 
+for more practice on regular verbs click [here](https://chatgpt.com/share/b2037bf4-235b-4b6c-be57-e8f336cb3053)
 
 ## Irregular Verb Conjugation
 Irregular verbs in German do not follow the standard conjugation patterns. They often involve changes in the stem vowel and sometimes have unique endings.
@@ -143,7 +144,7 @@ Irregular verbs in German do not follow the standard conjugation patterns. They 
 | ihr           | lauft       |
 | sie/Sie       | laufen      |
 
-
+for more practice on irregular verbs click [here](https://chatgpt.com/share/76ee11a6-79c4-462e-baa8-b762e3134b7f)
 <br>
 <br>
 
@@ -193,6 +194,8 @@ Stemm + $`\textcolor{red}{\text{Endung}}`$
 | wir  | lernen  |
 | ihr  | lernt   |
 | sie/Sie | lernen  |
+
+برای تمرین بیشتر افعال بی قاعده [اینجا](https://chatgpt.com/share/b2037bf4-235b-4b6c-be57-e8f336cb3053) کلیک کنید
 
 
 ## صرف افعال بی قاعده
@@ -286,3 +289,6 @@ Stemm + $`\textcolor{red}{\text{Endung}}`$
 | wir (ما)    | laufen     |
 | ihr (شما، جمع) | lauft   |
 | sie/Sie (آن‌ها / شما) | laufen |
+
+
+برای تمرین بیشتر افعال بی قاعده [اینجا](https://chatgpt.com/share/76ee11a6-79c4-462e-baa8-b762e3134b7f) کلیک کنید
