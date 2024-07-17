@@ -1,3 +1,9 @@
+- [English/Englisch/انگلیسی](#german-present-verb-conjugation)
+- [Persian/Persisch/فارسی](#صرف-افعال-در-زمان-حال-در-زبان-آلمانی)
+
+
+--------------
+
 # German Present Verb Conjugation
 
 In German, verbs are conjugated according to the subject of the sentence. The endings of the verbs change depending on the subject pronoun. Here's how to conjugate regular verbs in the present tense.
