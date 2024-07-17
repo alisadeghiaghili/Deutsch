@@ -2,6 +2,7 @@
 - [Persian/Persisch/فارسی](#قیدهای-زمانی-در-آلمانی)
 
 
+
 --------------
 
 # Temporal adverbs
@@ -12,7 +13,7 @@ These adverbs play a crucial role in structuring sentences and conveying the tim
 In German sentences, temporal adverbs typically appear at the beginning or end of a sentence, depending on the emphasis or importance of the time element in the context. They help provide clarity and context 
 to the timeframe of actions or events being described, making them essential for effective communication in both spoken and written German.
 
-For more practice, click [here](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc1-628de0a2f701)
+📝 For more practice, click [here](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc1-628de0a2f701)
 
 
 # قیدهای زمانی در آلمانی
@@ -21,7 +22,7 @@ For more practice, click [here](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc
 
 در جملات آلمانی، قیدهای زمانی بسته به تأکید یا اهمیت عنصر زمان در متن معمولاً در ابتدا یا انتهای جمله ظاهر می شوند. آنها به ارائه چارچوب زمانی برای اقدامات یا رویدادهایی که شرح داده می شوند کمک می کنند، و آنها را برای برقراری ارتباط موثر در زبان آلمانی گفتاری و نوشتاری ضروری می کند.
 
-برای تمرین بیشتر [اینجا](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc1-628de0a2f701) کلیک کنید
+📝 برای تمرین بیشتر [اینجا](https://chatgpt.com/share/e8aa408b-dd5d-4ce0-8bc1-628de0a2f701) کلیک کنید
 
 
 <div align='center'>
