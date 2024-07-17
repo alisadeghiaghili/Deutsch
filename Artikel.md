@@ -17,6 +17,16 @@ In German, the negative article is "kein" (for masculine and neuter nouns) or "k
 
 - Es gibt keinen Schnee. (There is no snow.)
 - Sie hat keine Katze. (She doesn't have a cat.)
+
+
+
+| Genus     | Bestimmter Artikel | Unbestimmter Artikel | Negativer Artikel |
+|-----------|--------------------|----------------------|-------------------|
+| Maskulinum (masculine) | $`\textcolor{red}{\text{der}}`$  Mann            | $`\textcolor{red}{\text{ein}}`$  Mann              | $`\textcolor{red}{\text{kein}}`$  Mann         |
+| Femininum (feminine)   | $`\textcolor{red}{\text{die}}`$  Frau            | $`\textcolor{red}{\text{eine}}`$  Frau             | $`\textcolor{red}{\text{keine}}`$  Frau       |
+| Neutrum (neuter)       | $`\textcolor{red}{\text{das}}`$  Buch            | $`\textcolor{red}{\text{ein}}`$  Buch              | $`\textcolor{red}{\text{kein}}`$  Buch        |
+| Plural                 | $`\textcolor{red}{\text{die}}`$  Kinder          | $`\textcolor{red}{\text{---}}`$ Kinder   | $`\textcolor{red}{\text{keine}}`$  Kinder     |
+
 # حرف تعریف
 
 ## حرف تعریف معلوم (شناخته)
@@ -35,3 +45,11 @@ In German, the negative article is "kein" (for masculine and neuter nouns) or "k
 در زبان فارسی با کلمه "هیچ" معادل است، و برای منفی کردن یا نبود وجود چیزی یا کسی استفاده می‌شود.
 - Es gibt keinen Schnee. (برفی نیست)
 - Sie hat keine Katze. (او (هیچ) گربه‌ای ندارد)
+
+
+| Genus     | Bestimmter Artikel | Unbestimmter Artikel | Negativer Artikel |
+|-----------|--------------------|----------------------|-------------------|
+| Maskulinum (masculine) | $`\textcolor{red}{\text{der}}`$  Mann            | $`\textcolor{red}{\text{ein}}`$  Mann              | $`\textcolor{red}{\text{kein}}`$  Mann         |
+| Femininum (feminine)   | $`\textcolor{red}{\text{die}}`$  Frau            | $`\textcolor{red}{\text{eine}}`$  Frau             | $`\textcolor{red}{\text{keine}}`$  Frau       |
+| Neutrum (neuter)       | $`\textcolor{red}{\text{das}}`$  Buch            | $`\textcolor{red}{\text{ein}}`$  Buch              | $`\textcolor{red}{\text{kein}}`$  Buch        |
+| Plural                 | $`\textcolor{red}{\text{die}}`$  Kinder          | $`\textcolor{red}{\text{---}}`$ Kinder   | $`\textcolor{red}{\text{keine}}`$  Kinder     |
