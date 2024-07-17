@@ -26,6 +26,10 @@ Nominative possessive articles indicate possession or ownership of nouns. They a
 :bulb: مذکر و خنثی مثل هم هستند و مونث و جمع مثل هم.
 
 
+
+<br>
+<br>
+  
 |Genus| Nomen | ich | du | er/es | wir | ihr | sie/sie/Sie|
 |---|---|---|---|---|---|---|---|
 |Maskulinum (Masculine)| ein Hund| mein | dein | sein | unser| euer | Ihr |
