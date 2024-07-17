@@ -31,6 +31,8 @@ For more practice, click [here](https://chatgpt.com/share/08679657-8092-4247-9af
 
 <br>
 <br>
+
+<div align='center'>
   
 |Genus| Nomen | ich | du | er/es | wir | ihr | sie/sie/Sie|
 |---|---|---|---|---|---|---|---|
@@ -38,3 +40,5 @@ For more practice, click [here](https://chatgpt.com/share/08679657-8092-4247-9af
 |Femininum (Feminine)| eine Frau| meine |deine| seine| unsere | euere | Ihre |
 |Neutrum (Neuter)| ein kind | mein | dein | sein| unser | euer | Ihr|
 |Plural| Bücher| meine| deine|seine| unsere| euere| Ihre|
+
+</div>
