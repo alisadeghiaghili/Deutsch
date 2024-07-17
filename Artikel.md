@@ -30,6 +30,7 @@ In German, the negative article is "kein" (for masculine and neuter nouns) or "k
 
 <br>
 <br>
+
 -----------------
 
 # حرف تعریف
