@@ -13,6 +13,8 @@ Nominative possessive articles indicate possession or ownership of nouns. They a
 
 :bulb: Masculine and neuter are the same, and feminine and plural are the same.
 
+For more practice, click [here](https://chatgpt.com/share/08679657-8092-4247-9aff-828c71dafcb2)
+
 <br>
 <br>
 
@@ -25,7 +27,7 @@ Nominative possessive articles indicate possession or ownership of nouns. They a
 
 :bulb: مذکر و خنثی مثل هم هستند و مونث و جمع مثل هم.
 
-
+برای تمرین بیشتر [اینجا](https://chatgpt.com/share/08679657-8092-4247-9aff-828c71dafcb2) کلیک کنید
 
 <br>
 <br>
