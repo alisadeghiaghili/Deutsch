@@ -1,3 +1,10 @@
+- [English/Englisch/انگلیسی](#german-akkusativ-case)
+- [Persian/Persisch/فارسی](#اکوزاتیو-akkusativ-در-زبان-آلمانی)
+
+
+--------------
+
+
 # German Akkusativ Case
 
 The Akkusativ case in German is used to indicate the direct object of a sentence, the noun that is receiving the action.
@@ -33,7 +40,7 @@ The Akkusativ case in German is used to indicate the direct object of a sentence
 - Er trinkt den Saft nicht. (He doesn't drink the juice.)
 
 ## Akkusativ pronouns
-Also pronouns could change too when they become objective pronouns. We talked about that in detail [here](https://github.com/alisadeghiaghili/Deutsch/Akkusativ%20Pronouns.md)
+Also pronouns could change too when they become objective pronouns. We talked about that in detail [here](https://github.com/alisadeghiaghili/Deutsch/blob/main/Akkusativ%20Pronouns.md)
 
 ### Examples with Pronouns
 - Er sieht mich. (He sees me.)
@@ -192,7 +199,7 @@ questions use Akkusativ for indicating direction, such as in sentences like "Woh
 - Er trinkt den Saft nicht. (او آب‌میوه را نمی‌نوشد.)
 
 ## ضمایر اکوزاتیو
-همچنین ضمایر نیز هنگام تبدیل شدن به ضمایر مفعولی، تغییر می‌کنند. جزئیات بیشتر را [اینجا](https://github.com/alisadeghiaghili/Deutsch/Akkusativ%20Pronouns.md) مطالعه کنید.
+همچنین ضمایر نیز هنگام تبدیل شدن به ضمایر مفعولی، تغییر می‌کنند. جزئیات بیشتر را [اینجا](https://github.com/alisadeghiaghili/Deutsch/blob/main/Akkusativ%20Pronouns.md) مطالعه کنید.
 
 ### مثال‌هایی از ضمایر آکوزاتیو
 - Er sieht mich. (او من را می‌بیند.)
