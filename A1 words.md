@@ -712,7 +712,7 @@
   - [lektion 5](https://chatgpt.com/share/38e2f1cd-5623-463a-b540-acf9e3bd6fa5)
   - [lektion 6](https://chatgpt.com/share/2884e8bf-7d9d-4674-91a9-d44f65d632a2)
   - [lektion 7](https://chatgpt.com/share/03861a0a-90e6-4506-8393-1a9d1deb2dde)
-  - [lektion 8]()
+  - [lektion 8](https://chatgpt.com/share/6baa415d-f850-4d1a-8b56-01ecdf9f086f)
   - [lektion 9]()
   - [lektion 10]()
   - [lektion 11]()
