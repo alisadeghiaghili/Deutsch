@@ -22,6 +22,9 @@
 - [Freizeit (leisure)](#freizeit-leisure)
 - [Musikinstrument (musical instrument)](#musikinstrument-musical-instrument)
 - [Sport (sport)](#sport-sport)
+- [Körper und Gesundheit (Body and Health)](#körper-und-gesundheit-body-and-health)
+  - [Körperteile (Body Parts)](#körperteile-body-parts)
+  - [Gesundheit und Medizin (Health and Medicine)](#gesundheit-und-medizin-health-and-medicine)
 - [Kurs(Courses)](#kurscourses)
 - [Schreibwaren (stationery)](#schreibwaren-stationery)
 - [Kleidung (Clothing)](#kleidung-clothing)
@@ -38,13 +41,16 @@
 - [Himmelsrichtungen (cardinal directions)](#himmelsrichtungen-cardinal-directions)
 - [Bezahlung und Geld (Payment and money)](#bezahlung-und-geld-payment-and-money)
 - [Technologie (Technology)](#technologie-technology)
+- [Medien (Media)](#medien-media)
 - [Möbel (Furnitures)](#möbel-furnitures)
-- [Hasu (House)](#hasu-house)
+- [Haus (House)](#haus-house)
 - [Büro und Arbeit (Office and work)](#büro-und-arbeit-office-and-work)
 - [Berufe (Occupations)](#berufe-occupations)
+- [Berufsbezogene Begriffe (Job-Related Terms)](#berufsbezogene-begriffe-job-related-terms)
 - [Persönliche Angaben (personal information)](#persönliche-angaben-personal-information)
 - [Kosmetik und Pflege (Cosmetics and Grooming)](#kosmetik-und-pflege-cosmetics-and-grooming)
 - [Wetter (Weather)](#wetter-weather)
+- [Sprache und Kommunikation (Language and Communication)]()
 - [Verschiedenes (Miscellaneous)](#verschiedenes-miscellaneous)
 
 ***
@@ -140,6 +146,7 @@
   - 🔴 die Sekunde (second)
   - 🔴 die Minute (minute)
   - 🔴 die Stunde (hour)
+  - 🔴 die Woche (week)
   - 🔴 die Pause (pause)
   - 🔴 die Freizeit (leisure time)
   - 🔴 die Jahreszeit (season)
@@ -203,14 +210,16 @@
 - **Masculine**
   - 🔵 der Frühstück (breakfast)
   - 🔵 der Brunch (brunch)
-  - 🔵 der Mittagessen (lunch)
   - 🔵 der Nachmittagstee (afternoon tea)
-  - 🔵 der Abendessen (dinner)
   - 🔵 der Mitternachtssnack (midnight snack)
 - **Feminine**
+  - 🔴 die Zeit (time)
   - 🔴 die Hauptmahlzeit (main meal)
   - 🔴 die Zwischenmahlzeit (snack)
 - **Neuter**
+  - 🟢 das Essen (food)
+  - 🟢 der Mittagessen (lunch)
+  - 🟢 der Abendessen (dinner)
   - 🟢 das Abendbrot (evening meal, often light supper)
 
  
@@ -249,17 +258,92 @@
   - 🔵 der Sport (sport)
   - 🔵 der Pool (pool)
   - 🔵 der ball (ball)
+  - 🔵 der Basketball (basketball)
   - 🔵 der Fußball (football)
   - 🔵 der Marathon (marathon)
+  - 🔵 der Ski (ski)
+  - 🔵 das Step (step aerobics)
+  - 🔵 das Tennis (tennis)
+  - 🔵 das Thaiboxen (Thai boxing)
+  - 🔵 das Boxen (boxing)
+  - 🔵 der Fan (fan)
+  - 🔵 der Trainer (male coach)
 - **Feminine**
+  - 🔴 die Sportart (sport)
   - 🔴 die Sauna (sauna)
   - 🔴 die Fitness (fitness)
+  - 🔴 die Trainerin (female coach)
+  - 🔴 die Lieblingssport (favorite sport)
 - **Neuter**
-  - 🟢 das Aerobic (aerobics)
   - 🟢 das Fitness-Studio (Gym)
+  - 🟢 das Aerobic (aerobics)
   - 🟢 das Yoga (yoga)
+  - 🟢 das Pilates (Pilates)
   - 🟢 das Schwimmbad (swimming pool)
   - 🟢 das Schwimmen (swimming)
+  - 🟢 das Yogastudio (yoga studio)
+  - 🟢 das Ski alpin (alpine skiing)
+  - 🟢 das Skispringen (ski jumping)
+  - 🟢 das Spiel (game)
+  - 🟢 das Basketball-Spiel (basketball game)
+  - 🟢 das Tennis-Match (tennis match)
+  - 🟢 das Trikot (jersey)
+  - 🟢 das Team (team)
+  - 🟢 das Training (training)
+  
+
+## Körper und Gesundheit (Body and Health)
+### Körperteile (Body Parts)
+- **Masculine**
+  - 🔵 der Kopf (head)
+  - 🔵 der Arm (arm)
+  - 🔵 der Mund (mouth)
+  - 🔵 der Bauch (stomach)
+  - 🔵 der Körper (body)
+  - 🔵 der Magen (stomach)
+  - 🔵 der Finger (finger)
+  - 🔵 der Nagel (nail)
+  - 🔵 der Hals (neck)
+  - 🔵 der Zahn (tooth)
+  - 🔵 der Muskel (muscel)
+  - 🔵 der Rücken (back)
+  - 🔵 der Fuß (foot)
+  - 🔵 der Körperteil (body part)
+- **Feminine**
+  - 🔴 die Nase (nose)
+  - 🔴 die Niere (kidney)
+  - 🔴 die Haut (skin)
+  - 🔴 die Stirn (forehead)
+  - 🔴 die Hand (hand)
+  - 🔴 die Lunge (lung)
+- **Neuter**
+  - 🟢 das Bein (leg)
+  - 🟢 das Haar (hair)
+  - 🟢 das Ohr (ear)
+  - 🟢 das Gehim (Brain)
+  - 🟢 das Herz (heart)
+  - 🟢 das Auge (eye)
+  - 🟢 das Blut (blood)
+
+
+### Gesundheit und Medizin (Health and Medicine)
+- **Masculine**
+  - 🔵 der Patient (male patient)
+  - 🔵 der Doktor (doctor)
+  - 🔵 der Arzt (doctor)
+  - 🔵 der Schnupfen (cold)
+  - 🔵 der Husten (cough)
+  - 🔵 das Fieber (fever)
+  - 🔵 der Tipp (tip)
+  - 🔵 der Raum (room)
+- **Feminine**
+  - 🔴 die Patientin (female patient)
+  - 🔴 die Ärztin (female doctor)
+  - 🔴 die Medizin (medicine)
+  - 🔴 das Rauchen (smoking)
+- **Neuter**
+  - 🟢 das Antibiotikum (antibiotic)
+  - 🟢 die Tablette (tablet/pill)
 
 
 ## Kurs(Courses)
@@ -269,6 +353,7 @@
 - **Feminine**
   - 🔴 die Studie (study)
   - 🔴 die Prüfung (exam)
+  - 🔴 die Hausaufgabe (homework)
 - **Neuter**
   - 🟢 das Seminar (seminar)
   - 🟢 das abitur (high school diploma)
@@ -298,6 +383,7 @@
   - 🔴 die Farbe (color)
 - **Neuter**
   - 🟢 das Hemd (shirt)
+  - 🟢 das Trikot (jersey)
 
 
 ## Places (Setzt)
@@ -325,6 +411,8 @@
   - 🔴 die Post (post office)
   - 🔴 die Kirche (church)
   - 🔴 die Parkbank (Park bench)
+  - 🔴 die Werkstatt (workshop)
+  - 🔴 die Großküche (industrial kitchen)
 - **Neuter**
   - 🟢 das LandGebäude (building)
   - 🟢 das Haus (house)
@@ -334,6 +422,8 @@
   - 🟢 das Restaurant (restaurant)
   - 🟢 das Geschäft (business)
   - 🟢 das Cafe (coffee shop)
+  - 🟢 das Forschungsstation (research station)
+  - 🟢 das Arbeitsplatz (workplace)
  
  
 ### Ort (Place)
@@ -430,6 +520,7 @@
   - 🔴 die Wurst (sausage)
   - 🔴 die Lasagne (lasagna)
   - 🔴 die Butter (butter)
+  - 🔴 die Hühnersuppe (chicken soup)
 - **Neuter**
   - 🟢 das Essen (food)
   - 🟢 das Mahl (meal)
@@ -523,8 +614,6 @@
   - 🔵 der USB-Stick (USB stick)
   - 🔵 der Maus (mouse)
   - 🔵 der Support (support)
-  - 🔵 der Podcast (podcast)
-  - 🔵 der Radio (radio)
   - 🔵 der Text (text)
   - 🔵 der Status (status)
   - 🔵 der Bildschirm (screen)
@@ -532,17 +621,29 @@
   - 🔴 die Software (software)
   - 🔴 die Maus (mouse)
   - 🔴 die SMS (text message)
-  - 🔴 die Website (website)
   - 🔴 die Tastatur (keyboard)
+  - 🔴 die Information (information)
 - **Neuter**
-  - 🟢 das Internet (internet)
   - 🟢 das Chat (chat)
   - 🟢 das Telefon (phone)
   - 🟢 das Handy (mobile phone)
   - 🟢 das Smartphone (smartphone)
   - 🟢 das App (app)
+  - 🟢 das Programm (program)
   - 🟢 das Ladegerät (charger)
+  - 🟢 das Skript (script)
+ 
 
+## Medien (Media)
+- **Masculine**
+  - 🔵 der Podcast (podcast)
+  - 🔵 der Radio (radio)
+- **Feminine**
+  - 🔴 die Zeitung (newspaper
+  - 🔴 die Website (website)
+- **Neuter**
+  - 🟢 das Video (video)
+  - 🟢 das Internet (internet)
 
 ## Möbel (Furnitures)
 - **Masculine**
@@ -563,7 +664,7 @@
   - 🟡 die Möbel (Furnitures)
 
 
-## Hasu (House)
+## Haus (House)
 - **Masculine**
   - 🔵 der Balkon (balcony)
   - 🔵 der Herd (stove)
@@ -583,6 +684,7 @@
   - 🟢 das Wohnzimmer (living room)
   - 🟢 das Gästezimmer (Guest room)
   - 🟢 das Schlafzimmer (bedroom)
+  - 🟢 das Essenzimmer (dining room)
   - 🟢 das Bad (bath)
   - 🟢 das Fenster (window)
 
@@ -590,6 +692,7 @@
 ## Büro und Arbeit (Office and work)
 - **Masculine**
   - 🔵 der Termin (appointment)
+  - 🔵 der Kunde (customer)
 - **Feminine**
   - 🔴 die Firma (company)
   - 🔴 die Visitenkarte (business card)
@@ -618,6 +721,17 @@
   - 🔵 der Arzt (male doctor)
   - 🔵 der Verkäufer (salesman)
   - 🔵 der Lehrer (teacher)
+  - 🔵 der Journalist (journalist)
+  - 🔵 der Fitnesstrainer (fitness trainer)
+  - 🔵 der Programmierer (programmer)
+  - 🔵 der Pilot (pilot)
+  - 🔵 der Krankenpfleger (male nurse)
+  - 🔵 der Psychologe (psychologist)
+  - 🔵 der Hausmann (househusband)
+  - 🔵 der Automechaniker (auto mechanic)
+  - 🔵 der Redakteur (editor)
+  - 🔵 der Schauspieler (actor)
+  - 🔵 der Trainer (male coach)
 - **Feminine**
   - 🔴 die Arbeit (work)
   - 🔴 die Friseurin (female hairdresser)
@@ -635,6 +749,29 @@
   - 🔴 die Ärztin (female doctor)
   - 🔴 die Verkäuferin (saleswoman)
   - 🔴 die Lehrerin (female teacher)
+  - 🔴 die Journalistin (female journalist)
+  - 🔴 die Fitnesstrainerin (female fitness trainer)
+  - 🔴 die Programmiererin (female programmer)
+  - 🔴 die Pilotin (female pilot)
+  - 🔴 die Krankenschwester (nurse)
+  - 🔴 die Psychologin (female psychologist)
+  - 🔴 die Hausfrau (housewife)
+  - 🔴 die Automechanikerin (female auto mechanic)
+  - 🔴 die Redakteurin (female editor)
+  - 🔴 die Schauspielerin (actress)
+  - 🔴 die Küchenhilfe (kitchen help)
+  - 🔴 die Trainerin (female coach)
+
+
+## Berufsbezogene Begriffe (Job-Related Terms)
+- **Feminine**
+  - 🔴 die Arbeitszeit (working hours)
+  - 🔴 die Karriere (career)
+  - 🔴 die Aufgabe (task)
+- **Neuter**
+  - 🟢 das Traumjob (dream job)
+  - 🟢 das Problem (problem)
+  
 
 
 ## Persönliche Angaben (personal information)
@@ -654,6 +791,7 @@
   - 🔴 die E-Mail-Addresse (E-mail address)
   - 🔴 die Herkunft (origin)
   - 🔴 die Postleitzahl (Postal code)
+  - 🔴 die Muttersprache (native language)
 - **Neuter**
   - 🟢 das Geburstdatum (birthday)
  
@@ -675,6 +813,16 @@
 - **Feminine**
   - 🔴 die Sonne (sun)
   - 🔴 die Wolke (cloud)
+ 
+
+Sprache und Kommunikation (Language and Communication)
+- **Feminine**
+    🔴 die Vokabel (vocabulary word)
+    🔴 die Antwort (answer)
+- **Neuter**
+    🟢 der Dialog (dialogue)
+    🟢 das Prozent (percent)
+    🟢 die Nummer (number)
 
   
 ## Verschiedenes (Miscellaneous)
@@ -686,21 +834,23 @@
   - 🔵 der Krankenpfleger (male nurse)
   - 🔵 der Schüler (male schooler)
   - 🔵 der Baum (tree)
+  - 🔵 die Besuche (visit)
 - **Feminine**
   - 🔴 die Sprache (language)
   - 🔴 die Berlinerin (female citizen of berlin)
   - 🔴 die Vegetarierin (female vegetarian)
   - 🔴 die Liebelingsfarbe (favortie color)
   - 🔴 die Krankenschwester (female nurse)
-  - 🔴 die Medizin (medicine)
   - 🔴 die Schülerin (female schooler)
   - 🔴 die Idee (idea)
   - 🔴 die Meinung (opinion)
+  - 🔴 die Welt (world)
 - **Neuter**
   - 🟢 das Frühstück (breakfast)
   - 🟢 das Licht (light)
   - 🟢 das Leben (life)
   - 🟢 das Problem (problem)
+  - 🟢 das Wort (word)
 
 
 ## Practices
