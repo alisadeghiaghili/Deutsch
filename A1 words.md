@@ -126,6 +126,7 @@
   - 🔴 die Biene (bee)
 - **Neuter**
   - 🟢 das Tier (animal)
+  - 🟢 das Haustier (pet)
   - 🟢 das Pferd (horse)
   - 🟢 das Schaf (sheep)
   - 🟢 das Huhn (chicken)
