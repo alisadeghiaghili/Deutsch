@@ -1,0 +1,73 @@
+German	English	Persian	Gender	Plural	Cases	Example
+Mann	man	مرد	Maskulin	die Männer	[Nom][Akk][Dat][Gen]	Der Mann liest.
+Frau	woman	زن	Feminin	die Frauen	[Nom][Akk][Dat][Gen]	Die Frau arbeitet.
+Kind	child	کودک	Neutral	die Kinder	[Nom][Akk][Dat][Gen]	Das Kind spielt.
+Junge	boy	پسر	Maskulin	die Jungen	[Nom][Akk][Dat][Gen]	Der Junge läuft.
+Lehrer	teacher (male)	معلم	Maskulin	die Lehrer	[Nom][Akk][Dat][Gen]	Der Lehrer unterrichtet.
+Lehrerin	teacher (female)	معلم	Feminin	die Lehrerinnen	[Nom][Akk][Dat][Gen]	Die Lehrerin unterrichtet.
+Mutter	mother	مادر	Feminin	die Mütter	[Nom][Akk][Dat][Gen]	Die Mutter kocht.
+Vater	father	پدر	Maskulin	die Väter	[Nom][Akk][Dat][Gen]	Der Vater liest.
+Bruder	brother	برادر	Maskulin	die Brüder	[Nom][Akk][Dat][Gen]	Der Bruder spielt.
+Schwester	sister	خواهر	Feminin	die Schwestern	[Nom][Akk][Dat][Gen]	Die Schwester singt.
+Großvater	grandfather	پدربزرگ	Maskulin	die Großväter	[Nom][Akk][Dat][Gen]	Der Großvater ist alt.
+Großmutter	grandmother	مادربزرگ	Feminin	die Großmütter	[Nom][Akk][Dat][Gen]	Die Großmutter kocht.
+Sohn	son	پسر	Maskulin	die Söhne	[Nom][Akk][Dat][Gen]	Der Sohn ist klein.
+Tochter	daughter	دختر	Feminin	die Töchter	[Nom][Akk][Dat][Gen]	Die Tochter liest.
+Familie	family	خانواده	Feminin	die Familien	[Nom][Akk][Dat][Gen]	Die Familie ist groß.
+Brot	bread	نان	Neutral	die Brote	[Nom][Akk][Dat][Gen]	Das Brot ist frisch.
+Kaffee	coffee	قهوه	Maskulin	die Kaffees	[Nom][Akk][Dat][Gen]	Der Kaffee ist heiß.
+Milch	milk	شیر	Feminin	-	[Nom][Akk][Dat][Gen]	Die Milch ist kalt.
+Wasser	water	آب	Neutral	-	[Nom][Akk][Dat][Gen]	Das Wasser ist kalt.
+Apfel	apple	سیب	Maskulin	die Äpfel	[Nom][Akk][Dat][Gen]	Der Apfel ist rot.
+Banane	banana	موز	Feminin	die Bananen	[Nom][Akk][Dat][Gen]	Die Banane ist gelb.
+Ei	egg	تخم مرغ	Neutral	die Eier	[Nom][Akk][Dat][Gen]	Das Ei ist weiß.
+Käse	cheese	پنیر	Maskulin	-	[Nom][Akk][Dat][Gen]	Der Käse schmeckt gut.
+Hund	dog	سگ	Maskulin	die Hunde	[Nom][Akk][Dat][Gen]	Der Hund bellt.
+Katze	cat	گربه	Feminin	die Katzen	[Nom][Akk][Dat][Gen]	Die Katze schläft.
+Haus	house	خانه	Neutral	die Häuser	[Nom][Akk][Dat][Gen]	Das Haus ist groß.
+Wohnung	apartment	آپارتمان	Feminin	die Wohnungen	[Nom][Akk][Dat][Gen]	Die Wohnung ist schön.
+Zimmer	room	اتاق	Neutral	die Zimmer	[Nom][Akk][Dat][Gen]	Das Zimmer ist sauber.
+Küche	kitchen	آشپزخانه	Feminin	die Küchen	[Nom][Akk][Dat][Gen]	Die Küche ist klein.
+Bad	bathroom	حمام	Neutral	die Bäder	[Nom][Akk][Dat][Gen]	Das Bad ist neu.
+Tisch	table	میز	Maskulin	die Tische	[Nom][Akk][Dat][Gen]	Der Tisch ist groß.
+Stuhl	chair	صندلی	Maskulin	die Stühle	[Nom][Akk][Dat][Gen]	Der Stuhl ist bequem.
+Bett	bed	تخت	Neutral	die Betten	[Nom][Akk][Dat][Gen]	Das Bett ist weich.
+Uhr	clock/watch	ساعت	Feminin	die Uhren	[Nom][Akk][Dat][Gen]	Die Uhr zeigt 8 Uhr.
+Buch	book	کتاب	Neutral	die Bücher	[Nom][Akk][Dat][Gen]	Das Buch ist interessant.
+Stift	pen	خودکار	Maskulin	die Stifte	[Nom][Akk][Dat][Gen]	Der Stift ist blau.
+Schule	school	مدرسه	Feminin	die Schulen	[Nom][Akk][Dat][Gen]	Die Schule ist groß.
+Kurs	course	دوره	Maskulin	die Kurse	[Nom][Akk][Dat][Gen]	Der Kurs beginnt um 8 Uhr.
+Prüfung	exam	امتحان	Feminin	die Prüfungen	[Nom][Akk][Dat][Gen]	Die Prüfung ist schwer.
+Arzt	doctor (male)	پزشک	Maskulin	die Ärzte	[Nom][Akk][Dat][Gen]	Der Arzt hilft mir.
+Ärztin	doctor (female)	پزشک	Feminin	die Ärztinnen	[Nom][Akk][Dat][Gen]	Die Ärztin ist nett.
+Krankenhaus	hospital	بیمارستان	Neutral	die Krankenhäuser	[Nom][Akk][Dat][Gen]	Das Krankenhaus ist weit.
+Medizin	medicine	دارو	Feminin	die Medizinien	[Nom][Akk][Dat][Gen]	Die Medizin hilft.
+Beruf	profession	شغل	Maskulin	die Berufe	[Nom][Akk][Dat][Gen]	Der Beruf ist wichtig.
+Arbeit	work	کار	Feminin	die Arbeiten	[Nom][Akk][Dat][Gen]	Die Arbeit macht Spaß.
+Büro	office	دفتر	Neutral	die Büros	[Nom][Akk][Dat][Gen]	Das Büro ist klein.
+Sport	sport	ورزش	Maskulin	-	[Nom][Akk][Dat][Gen]	Der Sport macht gesund.
+Musik	music	موسیقی	Feminin	-	[Nom][Akk][Dat][Gen]	Die Musik ist schön.
+Fußball	football	فوتبال	Maskulin	-	[Nom][Akk][Dat][Gen]	Der Fußball ist populär.
+Kino	cinema	سینما	Neutral	die Kinos	[Nom][Akk][Dat][Gen]	Das Kino ist voll.
+Hotel	hotel	هتل	Neutral	die Hotels	[Nom][Akk][Dat][Gen]	Das Hotel ist teuer.
+Bahnhof	train station	ایستگاه قطار	Maskulin	die Bahnhöfe	[Nom][Akk][Dat][Gen]	Der Bahnhof ist weit.
+Flughafen	airport	فرودگاه	Maskulin	die Flughäfen	[Nom][Akk][Dat][Gen]	Der Flughafen ist groß.
+Auto	car	ماشین	Neutral	die Autos	[Nom][Akk][Dat][Gen]	Das Auto ist schnell.
+Zug	train	قطار	Maskulin	die Züge	[Nom][Akk][Dat][Gen]	Der Zug fährt schnell.
+Bus	bus	اتوبوس	Maskulin	die Busse	[Nom][Akk][Dat][Gen]	Der Bus kommt pünktlich.
+Sonne	sun	خورشید	Feminin	die Sonnen	[Nom][Akk][Dat][Gen]	Die Sonne scheint.
+Regen	rain	باران	Maskulin	die Regen	[Nom][Akk][Dat][Gen]	Der Regen fällt.
+Schnee	snow	برف	Maskulin	-	[Nom][Akk][Dat][Gen]	Der Schnee ist weiß.
+rot	red	قرمز	Adjektiv	-	-	Das Auto ist rot.
+blau	blue	آبی	Adjektiv	-	-	Der Himmel ist blau.
+grün	green	سبز	Adjektiv	-	-	Das Gras ist grün.
+gelb	yellow	زرد	Adjektiv	-	-	Die Banane ist gelb.
+schwarz	black	مشکی	Adjektiv	-	-	Die Katze ist schwarz.
+weiß	white	سفید	Adjektiv	-	-	Der Schnee ist weiß.
+groß	big	بزرگ	Adjektiv	-	-	Das Haus ist groß.
+klein	small	کوچک	Adjektiv	-	-	Das Kind ist klein.
+gut	good	خوب	Adjektiv	-	-	Das Essen ist gut.
+schlecht	bad	بد	Adjektiv	-	-	Das Wetter ist schlecht.
+neu	new	جدید	Adjektiv	-	-	Das Buch ist neu.
+alt	old	قدیمی	Adjektiv	-	-	Das Haus ist alt.
+jung	young	جوان	Adjektiv	-	-	Der Mann ist jung.

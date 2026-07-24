@@ -34,10 +34,16 @@ Deutsch/
 │   ├── phrases/
 │   │   └── alltagsphrasen.md     # Greetings, polite expressions, everyday phrases
 │   ├── flashcards/
-│   │   ├── vocabulary-flashcards.md  # Vocabulary flashcards (Markdown + Anki)
-│   │   ├── verbs-flashcards.md       # Verb flashcards (Markdown + Anki)
-│   │   └── grammar-flashcards.md     # Grammar flashcards
-│   └── resources.md            # YouTube, podcasts, movies, books, apps (Markdown + Anki)
+│   │   ├── vocabulary-flashcards.md  # Vocabulary flashcards (Markdown)
+│   │   ├── verbs-flashcards.md       # Verb flashcards (Markdown)
+│   │   ├── grammar-flashcards.md     # Grammar flashcards (Markdown)
+│   │   ├── anki-complete-deck.md     # Complete Anki deck (all topics)
+│   │   ├── vocabulary-anki.tsv       # Anki-importable vocabulary
+│   │   ├── verbs-anki.tsv            # Anki-importable verbs
+│   │   ├── grammar-anki.tsv          # Anki-importable grammar
+│   │   └── phrases-anki.tsv          # Anki-importable phrases
+│   ├── resources.md              # YouTube, podcasts, movies, books, apps
+│   └── vhs-a1-zielpunkte.md     # VHS A1 curriculum overview
 ├── README.md                     # This file
 ├── Perfekt.md                    # Perfect tense
 ├── konjugation.md                # Verb conjugation
