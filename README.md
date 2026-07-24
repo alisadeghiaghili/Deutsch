@@ -33,10 +33,11 @@ Deutsch/
 │   │   └── aussprache-guide.md   # Pronunciation guide
 │   ├── phrases/
 │   │   └── alltagsphrasen.md     # Greetings, polite expressions, everyday phrases
-│   └── flashcards/
-│       ├── vocabulary-flashcards.md  # Vocabulary flashcards (Markdown + Anki)
-│       ├── verbs-flashcards.md       # Verb flashcards (Markdown + Anki)
-│       └── grammar-flashcards.md     # Grammar flashcards (Markdown + Anki)
+│   ├── flashcards/
+│   │   ├── vocabulary-flashcards.md  # Vocabulary flashcards (Markdown + Anki)
+│   │   ├── verbs-flashcards.md       # Verb flashcards (Markdown + Anki)
+│   │   └── grammar-flashcards.md     # Grammar flashcards
+│   └── resources.md            # YouTube, podcasts, movies, books, apps (Markdown + Anki)
 ├── README.md                     # This file
 ├── Perfekt.md                    # Perfect tense
 ├── konjugation.md                # Verb conjugation
