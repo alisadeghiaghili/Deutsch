@@ -100,14 +100,9 @@ These introduce a **dependent clause**. The conjugated verb goes to the **end**.
 
 | Connector | English | Persian | Word Order |
 |-----------|---------|---------|------------|
-| **deshalb** | therefore | بنابراین | Normal order |
+| **deshalb** | therefore/so | بنابراین/پس | Normal order |
+| **trotzdem** | nevertheless | با این حال | Normal order |
 | **deshalb** | for that reason | به همین دلیل | Normal order |
-| **deshalb** | so | پس | Normal order |
-| **deshalb** | that's why | به همین خاطر | Normal order |
-| **deshalb** | therefore | لذا | Normal order |
-| **deshalb** | consequently | در نتیجه | Normal order |
-| **deshalb** | thus | بنابراین | Normal order |
-| **deshalb** | hence | لذا | Normal order |
 
 ---
 

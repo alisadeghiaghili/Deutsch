@@ -1,3 +1,5 @@
+> **Note:** This file has been moved to `A1/grammar/` for better organization. The content below is kept for backward compatibility.
+
 - [English/Englisch/انگلیسی](#perfekt-tense-in-german-a1-level)
 - [Persian/Persisch/فارسی](#زمان-کامل-در-آلمانی-perfekt-tense-سطح-a1)
 ***

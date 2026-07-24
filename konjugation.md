@@ -1,3 +1,5 @@
+> **Note:** This file has been moved to `A1/grammar/` for better organization. The content below is kept for backward compatibility.
+
 - [English/Englisch/انگلیسی](#german-present-verb-conjugation)
 - [Persian/Persisch/فارسی](#صرف-افعال-در-زمان-حال-در-زبان-آلمانی)
 

@@ -5,9 +5,9 @@
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Regular | Cases | Example |
 |--------|---------|---------|------------|---------|-----------|---------|-------|---------|
 | gehen | to go | رفتن | ging | ist gegangen | sein | Irregular | | Ich gehe zur Schule. |
-| essen | to eat | خورden | aß | hat gegessen | haben | Irregular | [Akk] | Ich esse einen Apfel. |
+| essen | to eat | خوردن | aß | hat gegessen | haben | Irregular | [Akk] | Ich esse einen Apfel. |
 | trinken | to drink | نوشیدن | trank | hat getrunken | haben | Irregular | [Akk] | Ich trinke Wasser. |
-| schlafen | to sleep | خوابیدen | schlief | hat geschlafen | haben | Irregular | | Ich schlafe acht Stunden. |
+| schlafen | to sleep | خوابیدن | schlief | hat geschlafen | haben | Irregular | | Ich schlafe acht Stunden. |
 | arbeiten | to work | کار کردن | arbeitete | hat gearbeitet | haben | Regular | | Ich arbeite in einem Büro. |
 | lernen | to learn | یاد گرفتن | lernte | hat gelernt | haben | Regular | [Akk] | Ich lerne Deutsch. |
 | aufstehen | to get up | بلند شدن | stand auf | ist aufgestanden | sein | Irregular (sep) | | Ich stehe um sieben Uhr auf. |
@@ -27,7 +27,7 @@
 | sagen | to say | گفتن | sagte | hat gesagt | haben | Regular | | Ich sage „Hallo". |
 | hören | to hear | شنیدن | hörte | hat gehört | haben | Regular | [Akk] | Ich höre Musik. |
 | antworten | to answer | پاسخ دادن | antwortete | hat geantwortet | haben | Regular | [Dat] | Ich antworte auf die Frage. |
-| fragen | to ask | پرسیدn | fragte | hat gefragt | haben | Regular | [Akk] | Ich frage meinen Lehrer. |
+| fragen | to ask | پرسیدن | fragte | hat gefragt | haben | Regular | [Akk] | Ich frage meinen Lehrer. |
 | erzählen | to tell | تعریف کردن | erzählte | hat erzählt | haben | Regular | [Akk] [Dat] | Ich erzähle dir eine Geschichte. |
 | sprechen | to speak | صحبت کردن | sprach | hat gesprochen | haben | Irregular | | Ich spreche Deutsch. |
 | verstehen | to understand | فهمیدن | verstand | hat verstanden | haben | Irregular | [Akk] | Ich verstehe dich nicht. |
@@ -41,7 +41,7 @@
 | zeigen | to show | نشان دادن | zeigte | hat gezeigt | haben | Regular | [Akk] [Dat] | Ich zeige dir das Foto. |
 | erklären | to explain | توضیح دادن | erklärte | hat erklärt | haben | Regular | [Akk] | Ich erkläre die Grammatik. |
 | vorstellen | to introduce | معرفی کردن | stellte vor | hat vorgestellt | haben | Regular (sep) | [Akk] | Ich stelle mich vor. |
-| kennenlernen | to get to know | شناختen | lernte kennen | hat kennengelernt | haben | Regular (sep) | [Akk] | Ich lerne neue Leute kennen. |
+| kennenlernen | to get to know | شناختن | lernte kennen | hat kennengelernt | haben | Regular (sep) | [Akk] | Ich lerne neue Leute kennen. |
 
 ## Emotions and Expressions
 
@@ -70,7 +70,7 @@
 | reisen | to travel | سفر کردن | reiste | ist gereist | sein | Regular | | Ich reise gern. |
 | fallen | to fall | افتادن | fiel | ist gefallen | sein | Irregular | | Ich falle auf den Boden. |
 | steigen | to climb/rise | بالا رفتن | stieg | ist gestiegen | sein | Irregular | | Der Preis ist gestiegen. |
-| ankommen | to arrive | رسیدen | kam an | ist angekommen | sein | Regular (sep) | | Ich komme um acht Uhr an. |
+| ankommen | to arrive | رسیدن | kam an | ist angekommen | sein | Regular (sep) | | Ich komme um acht Uhr an. |
 | abfahren | to depart | حرکت کردن | fuhr ab | ist abgefahren | sein | Regular (sep) | | Der Zug fährt ab. |
 | einsteigen | to get in | سوار شدن | stieg ein | ist eingestiegen | sein | Regular (sep) | | Ich steige in den Bus ein. |
 | aussteigen | to get out | پیاده شدن | stieg aus | ist ausgestiegen | sein | Regular (sep) | | Ich steige an der Haltestelle aus. |
@@ -134,7 +134,7 @@
 | sehen | to see | دیدن | sah | hat gesehen | haben | Irregular | [Akk] | Ich sehe den Vogel. |
 | beginnen | to begin | شروع کردن | begann | hat begonnen | haben | Irregular | | Der Unterricht beginnt um acht. |
 | aufhören | to stop | تمام کردن | hörte auf | hat aufgehört | haben | Regular (sep) | | Hören Sie auf zu rauchen! |
-| anfangen | to start | شروع کرden | fing an | hat angefangen | haben | Irregular (sep) | | Der Film fängt um acht an. |
+| anfangen | to start | شروع کردن | fing an | hat angefangen | haben | Irregular (sep) | | Der Film fängt um acht an. |
 
 ## Technology
 

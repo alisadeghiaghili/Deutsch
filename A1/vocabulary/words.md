@@ -742,7 +742,6 @@
 | 🔵 Name | name | نام | Maskulin | der | die Namen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Vorname | first name | نام کوچک | Maskulin | der | die Vornamen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Nachname | last name | نام خانوادگی | Maskulin | der | die Nachnamen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Wohnort | place of residence | محل سکونت | Maskulin | der | die Wohnorte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Lebenslauf | CV | رزومه | Maskulin | der | die Lebensläufe | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Geburtsort | place of birth | محل تولد | Maskulin | der | die Geburtsorte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Familienstand | marital status | وضعیت تأهل | Maskulin | der | die Familienstände | [Nom] [Akk] [Dat] [Gen] |
@@ -979,7 +978,6 @@
 | 🔵 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Suppe | soup | سوپ | Feminin | die | die Suppen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Salat | salad | سالاد | Feminin | die | die Salate | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Marmelade | jam | مربا | Feminin | die | die Marmeladen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Butter | butter | کره | Feminin | die | die Butter | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Soße | sauce | سس | Feminin | die | die Soßen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Gewürz | spice | ادویه | Feminin | die | die Gewürze | [Nom] [Akk] [Dat] [Gen] |
@@ -1024,7 +1022,6 @@
 | 🔵 Metzger | butcher | قصاب | Maskulin | der | die Metzger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Mechaniker | mechanic | مکانیک | Maskulin | der | die Mechaniker | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Apotheker | pharmacist | داروساز | Maskulin | der | die Apotheker | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zahnarzt | dentist | دندانپزشک | Maskulin | der | die Zahnärzte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verkäufer | salesman | فروشنده | Maskulin | der | die Verkäufer | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Krankenpfleger | male nurse | پرستار (مرد) | Maskulin | der | die Krankenpfleger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Architekt | architect | معمار | Maskulin | der | die Architekten | [Nom] [Akk] [Dat] [Gen] |
@@ -1084,7 +1081,6 @@
 | 🟢 Schlafzimmer | bedroom | اتاق خواب | Neutral | das | die Schlafzimmer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Wohnzimmer | living room | اتاق نشیمن | Neutral | das | die Wohnzimmer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Esszimmer | dining room | اتاق غذاخوری | Neutral | das | die Esszimmer | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Garten | garden | باغچه | Neutral | das | die Gärten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Balkon | balcony | بالکن | Neutral | das | die Balkone | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fenster | window | پنجره | Neutral | das | die Fenster | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Haustür | front door | در ورودی | Neutral | das | die Haustüren | [Nom] [Akk] [Dat] [Gen] |

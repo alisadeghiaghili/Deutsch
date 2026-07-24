@@ -105,6 +105,47 @@ anrufen	to call	زنگ زدن	rief an	hat angerufen	haben	Regular		Ich rufe dich
 fernsehen	to watch TV	تلویزیون دیدن	sah fern	hat ferngesehen	haben	Irregular		Ich sehe jeden Abend fern.
 aufhören	to stop	ترک کردن	hörte auf	hat aufgehört	haben	Regular		Ich höre mit dem Rauchen auf.
 mitnehmen	to take along	با خود بردن	nehme mit	hat mitgenommen	haben	Irregular		Ich nehme mein Buch mit.
+lesen	to read	خواندن	las	hat gelesen	haben	Irregular	[Akk]	Ich lese ein Buch.
+sehen	to see	دیدن	sah	hat gesehen	haben	Irregular	[Akk]	Ich sehe den Vogel.
+sprechen	to speak	صحبت کردن	sprach	hat gesprochen	haben	Irregular		Ich spreche Deutsch.
+verstehen	to understand	فهمیدن	verstand	hat verstanden	haben	Irregular	[Akk]	Ich verstehe dich nicht.
+wissen	to know	دانستن	wusste	hat gewusst	haben	Irregular		Ich weiß es nicht.
+schreiben	to write	نوشتن	schrieb	hat geschrieben	haben	Irregular	[Akk]	Ich schreibe einen Brief.
+finden	to find	پیدا کردن	fand	hat gefunden	haben	Irregular	[Akk]	Ich finde den Schlüssel.
+geben	to give	دادن	gab	hat gegeben	haben	Irregular	[Akk][Dat]	Ich gebe dir das Buch.
+nehmen	to take	گرفتن	nahm	hat genommen	haben	Irregular	[Akk]	Ich nehme den Stift.
+fahren	to drive	راندن	fuhr	ist gefahren	sein	haben	Irregular	[Akk]	Ich fahre mit dem Auto.
+fliegen	to fly	پرواز کردن	flog	ist geflogen	sein	Irregular		Ich fliege nach Berlin.
+laufen	to run	دویدن	lief	ist gelaufen	sein	Irregular		Ich laufe im Park.
+fallen	to fall	افتادن	fiel	ist gefallen	sein	Irregular		Ich falle auf den Boden.
+sitzen	to sit	نشستن	saß	hat gesessen	haben	Irregular		Ich sitze auf dem Stuhl.
+liegen	to lie down	خوابیدن	lag	hat gelegen	haben	Irregular		Das Buch liegt auf dem Tisch.
+stehen	to stand	ایستادen	stand	hat gestanden	haben	Irregular		Ich stehe an der Bushaltestelle.
+halten	to hold	نگه داشتن	hielt	hat gehalten	haben	Irregular	[Akk]	Ich halte die Tür auf.
+legen	to lay	قرار دادن	legte	hat gelegt	haben	Regular	[Akk]	Ich lege das Buch auf den Tisch.
+stellen	to place	قرار دادن	stellte	hat gestellt	haben	Regular	[Akk]	Ich stelle die Tasse hin.
+gehören	to belong	تعلق داشتن	gehörte	hat gehört	haben	Regular	[Dat]	Das Buch gehört mir.
+fehlen	to be missing	نبودن	fehlte	hat gefehlt	haben	Regular	[Dat]	Es fehlt mir an Zeit.
+gefallen	to please	خوش آمدن	gefiel	hat gefallen	haben	Irregular	[Dat]	Das Bild gefällt mir.
+besuchen	to visit	بازدید کردن	besuchte	hat besucht	haben	Regular	[Akk]	Ich besuche meine Großeltern.
+einladen	to invite	دعوت کردن	lud ein	hat eingeladen	haben	Irregular	[Akk][Dat]	Ich lade dich zum Essen ein.
+empfehlen	to recommend	توصیه کردن	empfahl	hat empfohlen	haben	Irregular	[Akk][Dat]	Ich empfehle dir dieses Buch.
+schenken	to give a gift	هدیه دادن	schenkte	hat geschenkt	haben	Regular	[Akk][Dat]	Ich schenke dir eine Uhr.
+kennen	to know	شناختن	kannte	hat gekannt	haben	Regular	[Akk]	Ich kenne den Lehrer.
+glauben	to believe	باور کردن	glaubte	hat geglaubt	haben	Regular	[Akk][Dat]	Ich glaube dir.
+hoffen	to hope	امیدوار بودن	hoffte	hat gehofft	haben	Regular		Ich hoffe auf besseres Wetter.
+erinnern	to remember	به یاد آوردن	erinnerte	hat erinnert	haben	Regular (refl)	[Präp: an+Akk]	Ich erinnere mich an dich.
+vergessen	to forget	فراموش کردن	vergaß	hat vergessen	haben	Irregular	[Akk]	Ich vergesse meinen Schlüssel.
+warten	to wait	منتظر بودen	wartete	hat gewartet	haben	Regular	[Präp: auf+Dat]	Ich warte auf den Bus.
+fragen	to ask	پرسیدن	fragte	hat gefragt	haben	Regular	[Akk]	Ich frage meinen Lehrer.
+antworten	to answer	پاسخ دادن	antwortete	hat geantwortet	haben	Regular	[Dat]	Ich antworte auf die Frage.
+erzählen	to tell	تعریف کردن	erzählte	hat erzählt	haben	Regular	[Akk][Dat]	Ich erzähle dir eine Geschichte.
+erklären	to explain	توضیح دادن	erklärte	hat erklärt	haben	Regular	[Akk]	Ich erkläre die Grammatik.
+zeigen	to show	نشان دادen	zeigte	hat gezeigt	haben	Regular	[Akk][Dat]	Ich zeige dir das Foto.
+wünschen	to wish	آرزو کردن	wünschte	hat gewünscht	haben	Regular	[Akk][Dat]	Ich wünsche dir alles Gute.
+gratulieren	to congratulate	تبریک گفتن	gratulierte	hat gratuliert	haben	Regular	[Dat]	Ich gratuliere dir zum Geburtstag.
+vorstellen	to introduce	معرفی کردن	stellte vor	hat vorgestellt	haben	Regular (sep)	[Akk]	Ich stelle mich vor.
+kennenlernen	to get to know	شناختن	lernte kennen	hat kennengelernt	haben	Regular (sep)	[Akk]	Ich lerne neue Leute kennen.
 ```
 
 ---
