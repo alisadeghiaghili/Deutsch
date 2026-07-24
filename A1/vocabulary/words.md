@@ -51,740 +51,1082 @@
 - [Wetter (Weather)](#wetter-weather)
 - [Sprache und Kommunikation (Language and Communication)](#sprache-und-kommunikation-language-and-communication)
 - [Verschiedenes (Miscellaneous)](#verschiedenes-miscellaneous)
+- [Gefühle und Emotionen (Feelings & Emotions)](#gefühle-und-emotionen-feelings--emotions)
+- [Körper und Gesundheit - Erweitert (Body & Health - Extended)](#körper-und-gesundheit---erweitert-body--health---extended)
+- [Persönliche Eigenschaften (Personal Traits)](#persönliche-eigenschaften-personal-traits)
+- [Familienbeziehungen (Family Relations)](#familienbeziehungen-family-relations)
+- [Hobbys und Freizeit - Erweitert (Hobbies - Extended)](#hobbys-und-freizeit---erweitert-hobbies---extended)
+- [Essen und Trinken - Erweitert (Food - Extended)](#essen-und-trinken---erweitert-food---extended)
+- [Im Restaurant (At Restaurant)](#im-restaurant-at-restaurant)
+- [Berufe - Erweitert (Occupations - Extended)](#berufe---erweitert-occupations---extended)
+- [Transportmittel - Erweitert (Transport - Extended)](#transportmittel---erweitert-transport---extended)
+- [Wohnung - Erweitert (Housing - Extended)](#wohnung---erweitert-housing---extended)
+- [Elektronik und Technik (Electronics)](#elektronik-und-technik-electronics)
 - [Practices](#practices)
 
 ---
 
 ## Menschen (People)
-- **Maskulin**
-  - 🔵 der Mann (man)
-  - 🔵 der Herr (Mr.)
-  - 🔵 der Mensch (person)
-  - 🔵 der Junge (boy)
-  - 🔵 der Lehrer (male teacher)
-  - 🔵 der Freund (male friend)
-  - 🔵 der Gast (guest)
-  - 🔵 der Familienvater (family man)
-  - 🔵 der Partner (male partner)
-- **Feminin**
-  - 🔴 die Frau (woman)
-  - 🔴 die Lehrerin (female teacher)
-  - 🔴 die Freundin (female friend)
-  - 🔴 die Mutter (mother)
-  - 🔴 die Partnerin (female partner)
-  - 🔴 die Person (person)
-- **Neutral**
-  - 🟢 das Kind (child)
-  - 🟢 das Mädchen (girl)
-  - 🟢 das Baby (baby)
-- **Plural**
-  - 🟡 die Menschen (people)
-  - 🟡 die Leute (people)
-  - 🟡 die Kinder (children)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Mann | man | مرد | Maskulin | der | die Männer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Herr | Mr. | آقا | Maskulin | der | die Herren | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mensch | person | انسان | Maskulin | der | die Menschen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Junge | boy | پسر | Maskulin | der | die Jungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lehrer | male teacher | معلم (مرد) | Maskulin | der | die Lehrer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Freund | male friend | دوست (مرد) | Maskulin | der | die Freunde | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Gast | guest | مهمان | Maskulin | der | die Gäste | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Familienvater | family man | پدر خانواده | Maskulin | der | die Familienväter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Partner | male partner | شریک (مرد) | Maskulin | der | die Partner | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Frau | woman | زن | Feminin | die | die Frauen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lehrerin | female teacher | معلم (زن) | Feminin | die | die Lehrerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Freundin | female friend | دوست (زن) | Feminin | die | die Freundinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Mutter | mother | مادر | Feminin | die | die Mütter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Partnerin | female partner | شریک (زن) | Feminin | die | die Partnerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Person | person | شخص | Feminin | die | die Personen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Kind | child | کودک | Neutral | das | die Kinder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Mädchen | girl | دختر | Neutral | das | die Mädchen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Baby | baby | نوزاد | Neutral | das | die Babys | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Menschen | people | مردم | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Leute | people | مردم | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Kinder | children | بچه‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Familie (Family)
-- **Maskulin**
-  - 🔵 der Vater (father)
-  - 🔵 der Bruder (brother)
-  - 🔵 der Großvater (grandfather)
-  - 🔵 der Sohn (son)
-  - 🔵 der Onkel (uncle)
-- **Feminin**
-  - 🔴 die Mutter (mother)
-  - 🔴 die Schwester (sister)
-  - 🔴 die Großmutter (grandmother)
-  - 🔴 die Tochter (daughter)
-  - 🔴 die Tante (aunt)
-  - 🔴 die Familie (family)
-- **Neutral**
-  - 🟢 das Geschwister (sibling)
-- **Plural**
-  - 🟡 die Eltern (parents)
-  - 🟡 die Großeltern (grandparents)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Vater | father | پدر | Maskulin | der | die Väter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bruder | brother | برادر | Maskulin | der | die Brüder | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Großvater | grandfather | پدربزرگ | Maskulin | der | die Großväter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Sohn | son | پسر | Maskulin | der | die Söhne | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Onkel | uncle | عمو/دایی | Maskulin | der | die Onkel | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Mutter | mother | مادر | Feminin | die | die Mütter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schwester | sister | خواهر | Feminin | die | die Schwestern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Großmutter | grandmother | مادربزرگ | Feminin | die | die Großmütter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tochter | daughter | دختر | Feminin | die | die Töchter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tante | aunt | عمه/خاله | Feminin | die | die Tanten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Familie | family | خانواده | Feminin | die | die Familien | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geschwister | sibling | خواهر و برادر | Neutral | das | die Geschwister | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Eltern | parents | والدین | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Großeltern | grandparents | پدربزرگ و مادربزرگ | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Objekte (Objects)
-- **Maskulin**
-  - 🔵 der Schlüssel (key)
-- **Neutral**
-  - 🟢 das Buch (book)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Schlüssel | key | کلید | Maskulin | der | die Schlüssel | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Buch | book | کتاب | Neutral | das | die Bücher | [Nom] [Akk] [Dat] [Gen] |
 
 ## Tiere (Animals)
-- **Maskulin**
-  - 🔵 der Hund (dog)
-  - 🔵 der Vogel (bird)
-  - 🔵 der Fisch (fish)
-  - 🔵 der Löwe (lion)
-  - 🔵 der Elefant (elephant)
-- **Feminin**
-  - 🔴 die Katze (cat)
-  - 🔴 die Maus (mouse)
-  - 🔴 die Kuh (cow)
-  - 🔴 die Ente (duck)
-  - 🔴 die Biene (bee)
-- **Neutral**
-  - 🟢 das Tier (animal)
-  - 🟢 das Haustier (pet)
-  - 🟢 das Pferd (horse)
-  - 🟢 das Schaf (sheep)
-  - 🟢 das Huhn (chicken)
-  - 🟢 das Pony (pony)
-  - 🟢 das Schwein (pig)
-  - 🟢 das Känguru (kangaroo)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Hund | dog | سگ | Maskulin | der | die Hunde | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Vogel | bird | پرنده | Maskulin | der | die Vögel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fisch | fish | ماهی | Maskulin | der | die Fische | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Löwe | lion | شیر | Maskulin | der | die Löwen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Elefant | elephant | فیل | Maskulin | der | die Elefanten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Katze | cat | گربه | Feminin | die | die Katzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Maus | mouse | موش | Feminin | die | die Mäuse | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kuh | cow | گاو | Feminin | die | die Kühe | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ente | duck | اردک | Feminin | die | die Enten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Biene | bee | زنبور عسل | Feminin | die | die Bienen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Tier | animal | حیوان | Neutral | das | die Tiere | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Haustier | pet | حیوان خانگی | Neutral | das | die Haustiere | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Pferd | horse | اسب | Neutral | das | die Pferde | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schaf | sheep | گوسفند | Neutral | das | die Schafe | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Huhn | chicken | مرغ | Neutral | das | die Hühner | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Pony | pony | اسب کوچک | Neutral | das | die Ponys | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schwein | pig | خوک | Neutral | das | die Schweine | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Känguru | kangaroo | کانگورو | Neutral | das | die Kängurus | [Nom] [Akk] [Dat] [Gen] |
 
 ## Zeit (Time)
+
 ### Zeitangaben (Time Information)
-- **Maskulin**
-  - 🔵 der Tag (day)
-  - 🔵 der Wochentag (weekday)
-  - 🔵 der Monat (month)
-- **Feminin**
-  - 🔴 die Zeit (time)
-  - 🔴 die Sekunde (second)
-  - 🔴 die Minute (minute)
-  - 🔴 die Stunde (hour)
-  - 🔴 die Woche (week)
-  - 🔴 die Pause (break)
-  - 🔴 die Freizeit (leisure time)
-  - 🔴 die Jahreszeit (season)
-- **Neutral**
-  - 🟢 das Jahr (year)
-  - 🟢 das Wochenende (weekend)
-  - 🟢 das Viertel (quarter)
-  - 🟢 das Datum (date)
-  - 🟢 das Geburtsdatum (date of birth)
-  - 🟢 das Frühjahr (spring)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Tag | day | روز | Maskulin | der | die Tage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Wochentag | weekday | روز هفته | Maskulin | der | die Wochentage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Monat | month | ماه | Maskulin | der | die Monate | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zeit | time | زمان | Feminin | die | die Zeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sekunde | second | ثانیه | Feminin | die | die Sekunden | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Minute | minute | دقیقه | Feminin | die | die Minuten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Stunde | hour | ساعت | Feminin | die | die Stunden | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Woche | week | هفته | Feminin | die | die Wochen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Pause | break | استراحت | Feminin | die | die Pausen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Freizeit | leisure time | اوقات فراغت | Feminin | die | die Freizeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Jahreszeit | season | فصل | Feminin | die | die Jahreszeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Jahr | year | سال | Neutral | das | die Jahre | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wochenende | weekend | آخر هفته | Neutral | das | die Wochenenden | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Viertel | quarter | یک چهارم | Neutral | das | die Viertel | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Datum | date | تاریخ | Neutral | das | die Daten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geburtsdatum | date of birth | تاریخ تولد | Neutral | das | die Geburtsdaten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Frühjahr | spring | بهار | Neutral | das | die Frühjahre | [Nom] [Akk] [Dat] [Gen] |
 
 ### Tageszeiten (Times of Day)
-- **Maskulin**
-  - 🔵 der Morgen (morning)
-  - 🔵 der Vormittag (late morning)
-  - 🔵 der Mittag (noon)
-  - 🔵 der Nachmittag (afternoon)
-  - 🔵 der Abend (evening)
-- **Feminin**
-  - 🔴 die Nacht (night)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Morgen | morning | صبح | Maskulin | der | die Morgen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Vormittag | late morning | اواسط صبح | Maskulin | der | die Vormittage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mittag | noon | ظهر | Maskulin | der | die Mittage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Nachmittag | afternoon | بعد از ظهر | Maskulin | der | die Nachmittage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Abend | evening | عصر/شب | Maskulin | der | die Abende | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nacht | night | شب | Feminin | die | die Nächte | [Nom] [Akk] [Dat] [Gen] |
 
 ### Wochentage (Weekdays)
-- **Maskulin**
-  - 🔵 der Montag (Monday)
-  - 🔵 der Dienstag (Tuesday)
-  - 🔵 der Mittwoch (Wednesday)
-  - 🔵 der Donnerstag (Thursday)
-  - 🔵 der Freitag (Friday)
-  - 🔵 der Samstag (Saturday)
-  - 🔵 der Sonntag (Sunday)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Montag | Monday | دوشنبه | Maskulin | der | die Montage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Dienstag | Tuesday | سه‌شنبه | Maskulin | der | die Dienstage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mittwoch | Wednesday | چهارشنبه | Maskulin | der | die Mittwoche | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Donnerstag | Thursday | پنجشنبه | Maskulin | der | die Donnerstage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Freitag | Friday | جمعه | Maskulin | der | die Freitage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Samstag | Saturday | شنبه | Maskulin | der | die Samstage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Sonntag | Sunday | یکشنبه | Maskulin | der | die Sonntage | [Nom] [Akk] [Dat] [Gen] |
 
 ### Monate (Months)
-- **Maskulin**
-  - 🔵 der Januar (January)
-  - 🔵 der Februar (February)
-  - 🔵 der März (March)
-  - 🔵 der April (April)
-  - 🔵 der Mai (May)
-  - 🔵 der Juni (June)
-  - 🔵 der Juli (July)
-  - 🔵 der August (August)
-  - 🔵 der September (September)
-  - 🔵 der Oktober (October)
-  - 🔵 der November (November)
-  - 🔵 der Dezember (December)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Januar | January | ژانویه | Maskulin | der | die Januare | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Februar | February | فوریه | Maskulin | der | die Februare | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 März | March | مارس | Maskulin | der | die Märze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 April | April | آوریل | Maskulin | der | die Aprils | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mai | May | مه | Maskulin | der | die Maitage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Juni | June | ژوئن | Maskulin | der | die Junis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Juli | July | ژوئیه | Maskulin | der | die Julis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 August | August | آگوست | Maskulin | der | die Auguste | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 September | September | سپتامبر | Maskulin | der | die September | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Oktober | October | اکتبر | Maskulin | der | die Oktober | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 November | November | نوامبر | Maskulin | der | die Novembere | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Dezember | December | دسامبر | Maskulin | der | die Dezembere | [Nom] [Akk] [Dat] [Gen] |
 
 ### Jahreszeiten (Seasons)
-- **Maskulin**
-  - 🔵 der Frühling (spring)
-  - 🔵 der Sommer (summer)
-  - 🔵 der Herbst (autumn)
-  - 🔵 der Winter (winter)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Frühling | spring | بهار | Maskulin | der | die Frühlinge | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Sommer | summer | تابستان | Maskulin | der | die Sommer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Herbst | autumn | پاییز | Maskulin | der | die Herbst | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Winter | winter | زمستان | Maskulin | der | die Winter | [Nom] [Akk] [Dat] [Gen] |
 
 ### Mahlzeiten (Meal Times)
-- **Maskulin**
-  - 🔵 der Brunch (brunch)
-  - 🔵 der Nachmittagstee (afternoon tea)
-  - 🔵 der Mitternachtssnack (midnight snack)
-- **Feminin**
-  - 🔴 die Hauptmahlzeit (main meal)
-  - 🔴 die Zwischenmahlzeit (snack)
-- **Neutral**
-  - 🟢 das Frühstück (breakfast)
-  - 🟢 das Mittagessen (lunch)
-  - 🟢 das Abendessen (dinner)
-  - 🟢 das Abendbrot (evening meal / light supper)
-  - 🟢 das Essen (food/meal)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Brunch | brunch | صبحانه ناهار | Maskulin | der | die Brunchs | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Nachmittagstee | afternoon tea | چای بعدازظهر | Maskulin | der | die Nachmittagstees | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mitternachtssnack | midnight snack | میان‌وعده نیمه‌شب | Maskulin | der | die Mitternachtssnacks | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hauptmahlzeit | main meal | وعده اصلی | Feminin | die | die Hauptmahlzeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zwischenmahlzeit | snack | میان‌وعده | Feminin | die | die Zwischenmahlzeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Frühstück | breakfast | صبحانه | Neutral | das | die Frühstücke | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Mittagessen | lunch | ناهار | Neutral | das | die Mittagessen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Abendessen | dinner | شام | Neutral | das | die Abendessen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Abendbrot | evening meal | شام سبک | Neutral | das | die Abendbrote | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Essen | food/meal | غذا | Neutral | das | die Essen | [Nom] [Akk] [Dat] [Gen] |
 
 ## Freizeit (Leisure)
-- **Maskulin**
-  - 🔵 der Club (club)
-- **Feminin**
-  - 🔴 die Party (party)
-  - 🔴 die Musik (music)
-  - 🔴 die Disco (disco)
-  - 🔴 die Show (show)
-  - 🔴 die Ausstellung (exhibition)
-  - 🔴 die Aktivität (activity)
-- **Neutral**
-  - 🟢 das Hobby (hobby)
-  - 🟢 das Kino (cinema)
-  - 🟢 das Konzert (concert)
-  - 🟢 das Theater (theater)
-  - 🟢 das Spiel (game)
-  - 🟢 das Videospiel (video game)
-  - 🟢 das Museum (museum)
-  - 🟢 das Interesse (interest)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Club | club | باشگاه | Maskulin | der | die Clubs | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Party | party | مهمانی | Feminin | die | die Partys | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Musik | music | موسیقی | Feminin | die | die Musiken | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Disco | disco | دیسکو | Feminin | die | die Discos | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Show | show | نمایش | Feminin | die | die Shows | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ausstellung | exhibition | نمایشگاه | Feminin | die | die Ausstellungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Aktivität | activity | فعالیت | Feminin | die | die Aktivitäten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Hobby | hobby | سرگرمی | Neutral | das | die Hobbys | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Kino | cinema | سینما | Neutral | das | die Kinofilme | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Konzert | concert | کنسرت | Neutral | das | die Konzerte | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Theater | theater | تئاتر | Neutral | das | die Theater | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Spiel | game | بازی | Neutral | das | die Spiele | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Videospiel | video game | بازی ویدیویی | Neutral | das | die Videospiele | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Museum | museum | موزه | Neutral | das | die Museen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Interesse | interest | علاقه | Neutral | das | die Interessen | [Nom] [Akk] [Dat] [Gen] |
 
 ## Musikinstrumente (Musical Instruments)
-- **Feminin**
-  - 🔴 die Geige (violin)
-  - 🔴 die Gitarre (guitar)
-- **Neutral**
-  - 🟢 das Klavier (piano)
-  - 🟢 das Schlagzeug (drum set)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔴 Geige | violin | ویولن | Feminin | die | die Geigen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Gitarre | guitar | گیتار | Feminin | die | die Gitarren | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Klavier | piano | پیانو | Neutral | das | die Klaviere | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schlagzeug | drum set | درام | Neutral | das | die Schlagzeuge | [Nom] [Akk] [Dat] [Gen] |
 
 ## Sport (Sport)
-- **Maskulin**
-  - 🔵 der Sport (sport)
-  - 🔵 der Ball (ball)
-  - 🔵 der Basketball (basketball)
-  - 🔵 der Fußball (football/soccer)
-  - 🔵 der Marathon (marathon)
-  - 🔵 der Ski (ski)
-  - 🔵 der Fan (fan)
-  - 🔵 der Trainer (male coach)
-- **Feminin**
-  - 🔴 die Sportart (type of sport)
-  - 🔴 die Sauna (sauna)
-  - 🔴 die Fitness (fitness)
-  - 🔴 die Trainerin (female coach)
-- **Neutral**
-  - 🟢 das Fitness-Studio (gym)
-  - 🟢 das Aerobic (aerobics)
-  - 🟢 das Yoga (yoga)
-  - 🟢 das Pilates (Pilates)
-  - 🟢 das Schwimmbad (swimming pool)
-  - 🟢 das Schwimmen (swimming)
-  - 🟢 das Tennis (tennis)
-  - 🟢 das Boxen (boxing)
-  - 🟢 das Thaiboxen (Thai boxing)
-  - 🟢 das Step (step aerobics)
-  - 🟢 das Ski alpin (alpine skiing)
-  - 🟢 das Skispringen (ski jumping)
-  - 🟢 das Trikot (jersey)
-  - 🟢 das Team (team)
-  - 🟢 das Training (training)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Sport | sport | ورزش | Maskulin | der | die Sportarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Ball | ball | توپ | Maskulin | der | die Bälle | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Basketball | basketball | بسکتبال | Maskulin | der | die Basketbälle | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fußball | football/soccer | فوتبال | Maskulin | der | die Fußball | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Marathon | marathon | ماراتن | Maskulin | der | die Marathons | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Ski | ski | اسکی | Maskulin | der | die Ski | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fan | fan | طرفدار | Maskulin | der | die Fans | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Trainer | male coach | مربی (مرد) | Maskulin | der | die Trainer | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sportart | type of sport | نوع ورزش | Feminin | die | die Sportarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sauna | sauna | سونا | Feminin | die | die Saunen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Fitness | fitness | تناسب اندام | Feminin | die | die Fitness | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Trainerin | female coach | مربی (زن) | Feminin | die | die Trainerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fitness-Studio | gym | باشگاه بدنسازی | Neutral | das | die Fitness-Studios | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Aerobic | aerobics | ایروبیک | Neutral | das | die Aerobic | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Yoga | yoga | یوگا | Neutral | das | die Yoga | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Pilates | Pilates | پیلاتس | Neutral | das | die Pilates | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schwimmbad | swimming pool | استخر | Neutral | das | die Schwimmbäder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schwimmen | swimming | شنا | Neutral | das | die Schwimmen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Tennis | tennis | تنیس | Neutral | das | die Tennis | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Boxen | boxing | بوکس | Neutral | das | die Boxen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Thaiboxen | Thai boxing | موای‌تای | Neutral | das | die Thaiboxen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Step | step aerobics | استپ | Neutral | das | die Steps | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Ski alpin | alpine skiing | اسکی آلپاین | Neutral | das | die Ski alpin | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Skispringen | ski jumping | اسکی پرشی | Neutral | das | die Skispringen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Trikot | jersey | پیراهن ورزشی | Neutral | das | die Trikots | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Team | team | تیم | Neutral | das | die Teams | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Training | training | تمرین | Neutral | das | die Trainings | [Nom] [Akk] [Dat] [Gen] |
 
 ## Körper und Gesundheit (Body and Health)
+
 ### Körperteile (Body Parts)
-- **Maskulin**
-  - 🔵 der Kopf (head)
-  - 🔵 der Arm (arm)
-  - 🔵 der Mund (mouth)
-  - 🔵 der Bauch (stomach/belly)
-  - 🔵 der Körper (body)
-  - 🔵 der Magen (stomach)
-  - 🔵 der Finger (finger)
-  - 🔵 der Nagel (nail)
-  - 🔵 der Hals (neck/throat)
-  - 🔵 der Zahn (tooth)
-  - 🔵 der Muskel (muscle)
-  - 🔵 der Rücken (back)
-  - 🔵 der Fuß (foot)
-- **Feminin**
-  - 🔴 die Nase (nose)
-  - 🔴 die Niere (kidney)
-  - 🔴 die Haut (skin)
-  - 🔴 die Stirn (forehead)
-  - 🔴 die Hand (hand)
-  - 🔴 die Lunge (lung)
-- **Neutral**
-  - 🟢 das Bein (leg)
-  - 🟢 das Haar (hair)
-  - 🟢 das Ohr (ear)
-  - 🟢 das Gehirn (brain)
-  - 🟢 das Herz (heart)
-  - 🟢 das Auge (eye)
-  - 🟢 das Blut (blood)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Kopf | head | سر | Maskulin | der | die Köpfe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Arm | arm | بازو | Maskulin | der | die Arme | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mund | mouth | دهان | Maskulin | der | die Münder | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bauch | stomach/belly | شکم | Maskulin | der | die Bäuche | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Körper | body | بدن | Maskulin | der | die Körper | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Magen | stomach | معده | Maskulin | der | die Mägen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Finger | finger | انگشت | Maskulin | der | die Finger | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Nagel | nail | ناخن | Maskulin | der | die Nägel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Hals | neck/throat | گردن/حلق | Maskulin | der | die Hälse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zahn | tooth | دندان | Maskulin | der | die Zähne | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Muskel | muscle | عضله | Maskulin | der | die Muskeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Rücken | back | کمر | Maskulin | der | die Rücken | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fuß | foot | پا | Maskulin | der | die Füße | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nase | nose | بینی | Feminin | die | die Nasen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Niere | kidney | کلیه | Feminin | die | die Nieren | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Haut | skin | پوست | Feminin | die | die Häute | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Stirn | forehead | پیشانی | Feminin | die | die Stirnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hand | hand | دست | Feminin | die | die Hände | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lunge | lung | ریه | Feminin | die | die Lungen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bein | leg | پا | Neutral | das | die Beine | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Haar | hair | مو | Neutral | das | die Haare | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Ohr | ear | گوش | Neutral | das | die Ohren | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gehirn | brain | مغز | Neutral | das | die Gehirne | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Herz | heart | قلب | Neutral | das | die Herzen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Auge | eye | چشم | Neutral | das | die Augen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Blut | blood | خون | Neutral | das | die Blut | [Nom] [Akk] [Dat] [Gen] |
 
 ### Gesundheit und Medizin (Health and Medicine)
-- **Maskulin**
-  - 🔵 der Patient (male patient)
-  - 🔵 der Arzt (male doctor)
-  - 🔵 der Schnupfen (cold/runny nose)
-  - 🔵 der Husten (cough)
-  - 🔵 der Tipp (tip)
-- **Feminin**
-  - 🔴 die Patientin (female patient)
-  - 🔴 die Ärztin (female doctor)
-  - 🔴 die Medizin (medicine)
-- **Neutral**
-  - 🟢 das Fieber (fever)
-  - 🟢 das Antibiotikum (antibiotic)
-  - 🟢 das Rauchen (smoking)
-- **Plural**
-  - 🟡 die Tabletten (tablets/pills)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Patient | male patient | بیمار (مرد) | Maskulin | der | die Patienten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Arzt | male doctor | پزشک (مرد) | Maskulin | der | die Ärzte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schnupfen | cold/runny nose | آبریزش بینی | Maskulin | der | die Schnupfen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Husten | cough | سرفه | Maskulin | der | die Husten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Tipp | tip | نکته | Maskulin | der | die Tipps | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Patientin | female patient | بیمار (زن) | Feminin | die | die Patientinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ärztin | female doctor | پزشک (زن) | Feminin | die | die Ärztinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Medizin | medicine | دارو/پزشکی | Feminin | die | die Medizinen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fieber | fever | تب | Neutral | das | die Fieber | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Antibiotikum | antibiotic | آنتی‌بیوتیک | Neutral | das | die Antibiotika | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Rauchen | smoking | سیگار کشیدن | Neutral | das | die Rauchen | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Tabletten | tablets/pills | قرص‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Kurse (Courses)
-- **Maskulin**
-  - 🔵 der Kurs (course)
-  - 🔵 der Deutschkurs (German course)
-- **Feminin**
-  - 🔴 die Prüfung (exam)
-  - 🔴 die Hausaufgabe (homework)
-- **Neutral**
-  - 🟢 das Seminar (seminar)
-  - 🟢 das Abitur (high school diploma)
-  - 🟢 das Gymnasium (high school)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Kurs | course | دوره | Maskulin | der | die Kurse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Deutschkurs | German course | دوره آلمانی | Maskulin | der | die Deutschkurse | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Prüfung | exam | امتحان | Feminin | die | die Prüfungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hausaufgabe | homework | تکلیف خانه | Feminin | die | die Hausaufgaben | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Seminar | seminar | سمینار | Neutral | das | die Seminare | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Abitur | high school diploma | دیپلم دبیرستان | Neutral | das | die Abiture | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gymnasium | high school | دبیرستان | Neutral | das | die Gymnasien | [Nom] [Akk] [Dat] [Gen] |
 
 ## Schreibwaren (Stationery)
-- **Maskulin**
-  - 🔵 der Bleistift (pencil)
-  - 🔵 der Stift (pen)
-  - 🔵 der Kugelschreiber (ballpoint pen)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Bleistift | pencil | مداد | Maskulin | der | die Bleistifte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stift | pen | خودکار | Maskulin | der | die Stifte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kugelschreiber | ballpoint pen | خودکار | Maskulin | der | die Kugelschreiber | [Nom] [Akk] [Dat] [Gen] |
 
 ## Kleidung (Clothing)
-- **Maskulin**
-  - 🔵 der Mantel (coat)
-  - 🔵 der Pullover (sweater)
-- **Feminin**
-  - 🔴 die Kleidung (clothing)
-  - 🔴 die Bluse (blouse)
-  - 🔴 die Jeans (jeans)
-  - 🔴 die Jacke (jacket)
-  - 🔴 die Tasche (bag)
-  - 🔴 die Brille (glasses)
-  - 🔴 die Hose (pants)
-  - 🔴 die Farbe (color)
-- **Neutral**
-  - 🟢 das Hemd (shirt)
-  - 🟢 das Trikot (jersey)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Mantel | coat | کت بلند | Maskulin | der | die Mäntel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pullover | sweater | پلیور | Maskulin | der | die Pullover | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kleidung | clothing | لباس | Feminin | die | die Kleidungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bluse | blouse | بلوز | Feminin | die | die Blusen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Jeans | jeans | جین | Feminin | die | die Jeans | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Jacke | jacket | ژاکت | Feminin | die | die Jacken | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tasche | bag | کیف | Feminin | die | die Taschen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Brille | glasses | عینک | Feminin | die | die Brillen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hose | pants | شلوار | Feminin | die | die Hosen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Farbe | color | رنگ | Feminin | die | die Farben | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Hemd | shirt | پیراهن | Neutral | das | die Hemden | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Trikot | jersey | پیراهن ورزشی | Neutral | das | die Trikots | [Nom] [Akk] [Dat] [Gen] |
 
 ## Orte (Places)
+
 ### Gebäude (Buildings)
-- **Maskulin**
-  - 🔵 der Park (park)
-  - 🔵 der Stadtpark (city park)
-  - 🔵 der Bahnhof (train station)
-  - 🔵 der Markt (market)
-  - 🔵 der Supermarkt (supermarket)
-  - 🔵 der Flohmarkt (flea market)
-  - 🔵 der Flughafen (airport)
-  - 🔵 der Spielplatz (playground)
-  - 🔵 der Garten (garden)
-- **Feminin**
-  - 🔴 die Schule (school)
-  - 🔴 die Universität (university)
-  - 🔴 die Straße (street)
-  - 🔴 die Autobahn (highway)
-  - 🔴 die Bank (bank)
-  - 🔴 die Tankstelle (gas station)
-  - 🔴 die Bushaltestelle (bus stop)
-  - 🔴 die Bibliothek (library)
-  - 🔴 die Post (post office)
-  - 🔴 die Kirche (church)
-  - 🔴 die Werkstatt (workshop)
-- **Neutral**
-  - 🟢 das Haus (house)
-  - 🟢 das Hotel (hotel)
-  - 🟢 das Krankenhaus (hospital)
-  - 🟢 das Kindergarten (kindergarten)
-  - 🟢 das Restaurant (restaurant)
-  - 🟢 das Geschäft (shop/business)
-  - 🟢 das Café (café)
-  - 🟢 das Arbeitsamt (job center)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Park | park | پارک | Maskulin | der | die Parks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stadtpark | city park | پارک شهر | Maskulin | der | die Stadtparks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bahnhof | train station | ایستگاه قطار | Maskulin | der | die Bahnhöfe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Markt | market | بازار | Maskulin | der | die Märkte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Supermarkt | supermarket | سوپرمارکت | Maskulin | der | die Supermärkte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Flohmarkt | flea market | بازار کهنه‌فروشان | Maskulin | der | die Flohmärkte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Flughafen | airport | فرودگاه | Maskulin | der | die Flughäfen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Spielplatz | playground | زمین بازی | Maskulin | der | die Spielplätze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Garten | garden | باغچه | Maskulin | der | die Gärten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schule | school | مدرسه | Feminin | die | die Schulen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Universität | university | دانشگاه | Feminin | die | die Universitäten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Straße | street | خیابان | Feminin | die | die Straßen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Autobahn | highway | بزرگراه | Feminin | die | die Autobahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bank | bank | بانک | Feminin | die | die Banken | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tankstelle | gas station | جایگاه سوخت | Feminin | die | die Tankstellen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bushaltestelle | bus stop | ایستگاه اتوبوس | Feminin | die | die Bushaltestellen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bibliothek | library | کتابخانه | Feminin | die | die Bibliotheken | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Post | post office | اداره پست | Feminin | die | die Posten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kirche | church | کلیسا | Feminin | die | die Kirchen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Werkstatt | workshop | کارگاه | Feminin | die | die Werkstätten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Haus | house | خانه | Neutral | das | die Häuser | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Hotel | hotel | هتل | Neutral | das | die Hotels | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Krankenhaus | hospital | بیمارستان | Neutral | das | die Krankenhäuser | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Kindergarten | kindergarten | مهدکودک | Neutral | das | die Kindergärten | Neutral | das | die Kindergärten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Restaurant | restaurant | رستوران | Neutral | das | die Restaurants | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geschäft | shop/business | مغازه | Neutral | das | die Geschäfte | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Café | café | کافه | Neutral | das | die Cafés | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Arbeitsamt | job center | اداره کار | Neutral | das | die Ämter | [Nom] [Akk] [Dat] [Gen] |
 
 ### Ort (Location)
-- **Maskulin**
-  - 🔵 der Ort (place/area)
-  - 🔵 der Geburtsort (place of birth)
-  - 🔵 der Platz (place/square)
-  - 🔵 der Lieblingsplatz (favorite place)
-  - 🔵 der Wohnort (place of residence)
-- **Feminin**
-  - 🔴 die Stadt (city)
-- **Neutral**
-  - 🟢 das Land (country/land)
-  - 🟢 das Dorf (village)
-  - 🟢 das Zentrum (center)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Ort | place/area | مکان | Maskulin | der | die Orte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Geburtsort | place of birth | محل تولد | Maskulin | der | die Geburtsorte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Platz | place/square | میدان | Maskulin | der | die Plätze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lieblingsplatz | favorite place | مکان مورد علاقه | Maskulin | der | die Lieblingsplätze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Wohnort | place of residence | محل سکونت | Maskulin | der | die Wohnorte | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Stadt | city | شهر | Feminin | die | die Städte | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Land | country/land | کشور | Neutral | das | die Länder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Dorf | village | روستا | Neutral | das | die Dörfer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Zentrum | center | مرکز | Neutral | das | die Zentren | [Nom] [Akk] [Dat] [Gen] |
 
 ## Transport (Transportation)
-- **Maskulin**
-  - 🔵 der Bus (bus)
-  - 🔵 der Zug (train)
-  - 🔵 der ICE (ICE high-speed train)
-- **Feminin**
-  - 🔴 die Bahn (railway/train)
-  - 🔴 die U-Bahn (subway)
-  - 🔴 die S-Bahn (suburban train)
-  - 🔴 die Straßenbahn (tram)
-- **Neutral**
-  - 🟢 das Auto (car)
-  - 🟢 das Fahrrad (bicycle)
-  - 🟢 das Motorrad (motorcycle)
-  - 🟢 das Taxi (taxi)
-  - 🟢 das Flugzeug (airplane)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Bus | bus | اتوبوس | Maskulin | der | die Busse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zug | train | قطار | Maskulin | der | die Züge | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 ICE | ICE high-speed train | قطار سریع‌السیر | Maskulin | der | die ICEs | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bahn | railway/train | راه آهن | Feminin | die | die Bahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 U-Bahn | subway | مترو | Feminin | die | die U-Bahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 S-Bahn | suburban train | قطار حومه | Feminin | die | die S-Bahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Straßenbahn | tram | تراموا | Feminin | die | die Straßenbahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Auto | car | ماشین | Neutral | das | die Autos | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fahrrad | bicycle | دوچرخه | Neutral | das | die Fahrräder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Motorrad | motorcycle | موتورسیکلت | Neutral | das | die Motorräder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Taxi | taxi | تاکسی | Neutral | das | die Taxis | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Flugzeug | airplane | هواپیما | Neutral | das | die Flugzeuge | [Nom] [Akk] [Dat] [Gen] |
 
 ## Getränke und Essen (Food and Drink)
+
 ### Getränke (Drinks)
-- **Maskulin**
-  - 🔵 der Tee (tea)
-  - 🔵 der Kaffee (coffee)
-  - 🔵 der Wein (wine)
-  - 🔵 der Saft (juice)
-  - 🔵 der Orangensaft (orange juice)
-  - 🔵 der Apfelsaft (apple juice)
-  - 🔵 der Milchkaffee (latte)
-- **Feminin**
-  - 🔴 die Milch (milk)
-  - 🔴 die Cola (cola)
-- **Neutral**
-  - 🟢 das Getränk (drink)
-  - 🟢 das Bier (beer)
-  - 🟢 das Wasser (water)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Tee | tea | چای | Maskulin | der | die Tees | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kaffee | coffee | قهوه | Maskulin | der | die Kaffees | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Wein | wine | شراب | Maskulin | der | die Weine | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Saft | juice | آب میوه | Maskulin | der | die Säfte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Orangensaft | orange juice | آب پرتقال | Maskulin | der | die Orangensäfte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Apfelsaft | apple juice | آب سیب | Maskulin | der | die Apfelsäfte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Milchkaffee | latte | قهوه شیردار | Maskulin | der | die Milchkaffees | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Milch | milk | شیر | Feminin | die | die Milch | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Cola | cola | کولا | Feminin | die | die Colas | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Getränk | drink | نوشیدنی | Neutral | das | die Getränke | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bier | beer | آبجو | Neutral | das | die Biere | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wasser | water | آب | Neutral | das | die Wasser | [Nom] [Akk] [Dat] [Gen] |
 
 ### Obst und Gemüse (Fruits and Vegetables)
-- **Maskulin**
-  - 🔵 der Apfel (apple)
-  - 🔵 der Pfirsich (peach)
-  - 🔵 der Pilz (mushroom)
-- **Feminin**
-  - 🔴 die Banane (banana)
-  - 🔴 die Orange (orange)
-  - 🔴 die Tomate (tomato)
-  - 🔴 die Zitrone (lemon)
-  - 🔴 die Kartoffel (potato)
-  - 🔴 die Möhre (carrot)
-  - 🔴 die Paprika (bell pepper)
-- **Neutral**
-  - 🟢 das Gemüse (vegetables)
-  - 🟢 das Obst (fruit)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Apfel | apple | سیب | Maskulin | der | die Äpfel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pfirsich | peach | هلو | Maskulin | der | die Pfirsiche | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pilz | mushroom | قارچ | Maskulin | der | die Pilze | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Banane | banana | موز | Feminin | die | die Bananen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Orange | orange | پرتقال | Feminin | die | die Orangen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tomate | tomato | گوجه فرنگی | Feminin | die | die Tomaten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zitrone | lemon | لیمو | Feminin | die | die Zitronen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kartoffel | potato | سیب‌زمینی | Feminin | die | die Kartoffeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Möhre | carrot | هویج | Feminin | die | die Möhren | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Paprika | bell pepper | فلفل دلمه‌ای | Feminin | die | die Paprikas | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gemüse | vegetables | سبزیجات | Neutral | das | die Gemüse | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Obst | fruit | میوه | Neutral | das | die Obst | [Nom] [Akk] [Dat] [Gen] |
 
 ### Essen (Food)
-- **Maskulin**
-  - 🔵 der Müsli (muesli)
-  - 🔵 der Käse (cheese)
-  - 🔵 der Joghurt (yogurt)
-  - 🔵 der Reis (rice)
-  - 🔵 der Fisch (fish)
-  - 🔵 der Hamburger (hamburger)
-  - 🔵 der Schinken (ham)
-  - 🔵 der Toast (toast)
-  - 🔵 der Honig (honey)
-  - 🔵 der Kuchen (cake)
-  - 🔵 der Zucker (sugar)
-- **Feminin**
-  - 🔴 die Pizza (pizza)
-  - 🔴 die Marmelade (jam)
-  - 🔴 die Wurst (sausage)
-  - 🔴 die Lasagne (lasagna)
-  - 🔴 die Butter (butter)
-  - 🔴 die Hühnersuppe (chicken soup)
-- **Neutral**
-  - 🟢 das Essen (food/meal)
-  - 🟢 das Lieblingsessen (favorite food)
-  - 🟢 das Milchprodukt (dairy product)
-  - 🟢 das Öl (oil)
-  - 🟢 das Hähnchen (chicken)
-  - 🟢 das Fleisch (meat)
-  - 🟢 das Brot (bread)
-  - 🟢 das Croissant (croissant)
-  - 🟢 das Brötchen (bread roll)
-  - 🟢 das Ei (egg)
-- **Plural**
-  - 🟡 die Lebensmittel (groceries)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Müsli | muesli | موسلي | Maskulin | der | die Müslis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Käse | cheese | پنیر | Maskulin | der | die Käse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Joghurt | yogurt | ماست | Maskulin | der | die Joghurts | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Reis | rice | برنج | Maskulin | der | die Reis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fisch | fish | ماهی | Maskulin | der | die Fische | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Hamburger | hamburger | همبرگر | Maskulin | der | die Hamburgers | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schinken | ham | ژامبون | Maskulin | der | die Schinken | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Toast | toast | نان تست | Maskulin | der | die Toasts | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Honig | honey | عسل | Maskulin | der | die Honige | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kuchen | cake | کیک | Maskulin | der | die Kuchen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Pizza | pizza | پیتزا | Feminin | die | die Pizzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Marmelade | jam | مربا | Feminin | die | die Marmeladen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wurst | sausage | سوسیس | Feminin | die | die Würste | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lasagne | lasagna | لازانیا | Feminin | die | die Lasagnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Butter | butter | کره | Feminin | die | die Butter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hühnersuppe | chicken soup | سوپ مرغ | Feminin | die | die Hühnersuppen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Essen | food/meal | غذا | Neutral | das | die Essen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Lieblingsessen | favorite food | غذای مورد علاقه | Neutral | das | die Lieblingsessen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Milchprodukt | dairy product | لبنیات | Neutral | das | die Milchprodukte | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Öl | oil | روغن | Neutral | das | die Öle | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Hähnchen | chicken | مرغ | Neutral | das | die Hähnchen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fleisch | meat | گوشت | Neutral | das | die Fleisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Brot | bread | نان | Neutral | das | die Brote | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Croissant | croissant | کروسان | Neutral | das | die Croissants | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Brötchen | bread roll | نان رولی | Neutral | das | die Brötchen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Ei | egg | تخم مرغ | Neutral | das | die Eier | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Lebensmittel | groceries | مواد غذایی | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Verpackung und Menge (Packaging and Amount)
-- **Maskulin**
-  - 🔵 der Liter (liter)
-  - 🔵 der Becher (cup/container)
-  - 🔵 der Zentimeter (centimeter)
-- **Feminin**
-  - 🔴 die Packung (package)
-  - 🔴 die Flasche (bottle)
-  - 🔴 die Tasse (cup)
-- **Neutral**
-  - 🟢 das Paket (parcel)
-  - 🟢 das Kilo (kilogram)
-  - 🟢 das Gramm (gram)
-  - 🟢 das Stück (piece)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Liter | liter | لیتر | Maskulin | der | die Liter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Becher | cup/container | لیوان | Maskulin | der | die Becher | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zentimeter | centimeter | سانتی‌متر | Maskulin | der | die Zentimeter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Packung | package | بسته | Feminin | die | die Packungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Flasche | bottle | بطری | Feminin | die | die Flaschen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tasse | cup | فنجان | Feminin | die | die Tassen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Paket | parcel | بسته پستی | Neutral | das | die Pakete | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Kilo | kilogram | کیلوگرم | Neutral | das | die Kilos | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gramm | gram | گرم | Neutral | das | die Gramm | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Stück | piece | قطعه | Neutral | das | die Stücke | [Nom] [Akk] [Dat] [Gen] |
 
 ## Länder und Sprachen (Countries and Languages)
-- **Maskulin**
-  - 🔵 der Iran (Iran)
-  - 🔵 der Irak (Iraq)
-  - 🔵 der Libanon (Lebanon)
-  - 🔵 der Sudan (Sudan)
-  - 🔵 der Jemen (Yemen)
-  - 🔵 der Amerikaner (American man)
-  - 🔵 der Franzose (French man)
-- **Feminin**
-  - 🔴 die Schweiz (Switzerland)
-  - 🔴 die Türkei (Turkey)
-  - 🔴 die Ukraine (Ukraine)
-  - 🔴 die Amerikanerin (American woman)
-  - 🔴 die Französin (French woman)
-  - 🔴 die Sprache (language)
-  - 🔴 die Muttersprache (mother tongue)
-  - 🔴 die Fremdsprache (foreign language)
-- **Neutral**
-  - 🟢 das Land (country)
-  - 🟢 das Deutsch (German language)
-  - 🟢 das Griechisch (Greek language)
-  - 🟢 das Englisch (English language)
-  - 🟢 das Italienisch (Italian language)
-  - 🟢 das Polnisch (Polish language)
-  - 🟢 das Spanisch (Spanish language)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Iran | Iran | ایران | Maskulin | der | die Irans | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Irak | Iraq | عراق | Maskulin | der | die Iraks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Libanon | Lebanon | لبنان | Maskulin | der | die Libanons | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Sudan | Sudan | سودان | Maskulin | der | die Sudans | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Jemen | Yemen | یمن | Maskulin | der | die Jemens | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Amerikaner | American man | آمریکایی (مرد) | Maskulin | der | die Amerikaner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Franzose | French man | فرانسوی (مرد) | Maskulin | der | die Franzosen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schweiz | Switzerland | سوئیس | Feminin | die | die Schweiz | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Türkei | Turkey | ترکیه | Feminin | die | die Türkeien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ukraine | Ukraine | اوکراین | Feminin | die | die Ukrainen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Amerikanerin | American woman | آمریکایی (زن) | Feminin | die | die Amerikanerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Französin | French woman | فرانسوی (زن) | Feminin | die | die Französinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sprache | language | زبان | Feminin | die | die Sprachen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Muttersprache | mother tongue | زبان مادری | Feminin | die | die Muttersprachen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Fremdsprache | foreign language | زبان خارجی | Feminin | die | die Fremdsprachen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Land | country | کشور | Neutral | das | die Länder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Deutsch | German language | زبان آلمانی | Neutral | das | die Deutsch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Griechisch | Greek language | زبان یونانی | Neutral | das | die Griechisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Englisch | English language | زبان انگلیسی | Neutral | das | die Englisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Italienisch | Italian language | زبان ایتالیایی | Neutral | das | die Italienisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Polnisch | Polish language | زبان لهستانی | Neutral | das | die Polnisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Spanisch | Spanish language | زبان اسپانیایی | Neutral | das | die Spanisch | [Nom] [Akk] [Dat] [Gen] |
 
 ## Himmelsrichtungen (Cardinal Directions)
-- **Maskulin**
-  - 🔵 der Norden (north)
-  - 🔵 der Süden (south)
-  - 🔵 der Westen (west)
-  - 🔵 der Osten (east)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Norden | north | شمال | Maskulin | der | die Norden | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Süden | south | جنوب | Maskulin | der | die Süden | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Westen | west | غرب | Maskulin | der | die Westen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Osten | east | شرق | Maskulin | der | die Osten | [Nom] [Akk] [Dat] [Gen] |
 
 ## Bezahlung und Geld (Payment and Money)
-- **Maskulin**
-  - 🔵 der Tarif (rate)
-  - 🔵 der Preis (price)
-  - 🔵 der Geldautomat (ATM)
-  - 🔵 der Cent (cent)
-  - 🔵 der Euro (euro)
-  - 🔵 der Dollar (dollar)
-- **Feminin**
-  - 🔴 die Kreditkarte (credit card)
-  - 🔴 die Miete (rent)
-- **Neutral**
-  - 🟢 das Geld (money)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Tarif | rate | نرخ | Maskulin | der | die Tarife | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Preis | price | قیمت | Maskulin | der | die Preise | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Geldautomat | ATM | خودپرداز | Maskulin | der | die Geldautomaten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Cent | cent | سنت | Maskulin | der | die Cents | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Euro | euro | یورو | Maskulin | der | die Euros | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Dollar | dollar | دلار | Maskulin | der | die Dollars | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kreditkarte | credit card | کارت اعتباری | Feminin | die | die Kreditkarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Miete | rent | اجاره | Feminin | die | die Mieten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geld | money | پول | Neutral | das | die Geld | [Nom] [Akk] [Dat] [Gen] |
 
 ## Technologie (Technology)
-- **Maskulin**
-  - 🔵 der Computer (computer)
-  - 🔵 der Laptop (laptop)
-  - 🔵 der Drucker (printer)
-  - 🔵 der USB-Stick (USB stick)
-  - 🔵 der Support (support)
-  - 🔵 der Text (text)
-  - 🔵 der Status (status)
-  - 🔵 der Bildschirm (screen)
-- **Feminin**
-  - 🔴 die Software (software)
-  - 🔴 die Maus (mouse)
-  - 🔴 die SMS (text message)
-  - 🔴 die Tastatur (keyboard)
-  - 🔴 die Information (information)
-- **Neutral**
-  - 🟢 das Chat (chat)
-  - 🟢 das Telefon (phone)
-  - 🟢 das Handy (mobile phone)
-  - 🟢 das Smartphone (smartphone)
-  - 🟢 das App (app)
-  - 🟢 das Programm (program)
-  - 🟢 das Ladegerät (charger)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Computer | computer | کامپیوتر | Maskulin | der | die Computer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Laptop | laptop | لپ‌تاپ | Maskulin | der | die Laptops | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Drucker | printer | پرینتر | Maskulin | der | die Drucker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 USB-Stick | USB stick | فلش USB | Maskulin | der | die USB-Sticks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Support | support | پشتیبانی | Maskulin | der | die Supports | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Text | text | متن | Maskulin | der | die Texte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Status | status | وضعیت | Maskulin | der | die Statusse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bildschirm | screen | صفحه نمایش | Maskulin | der | die Bildschirme | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Maus | mouse | ماوس | Feminin | die | die Mäuse | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 SMS | text message | پیامک | Feminin | die | die SMS | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Information | information | اطلاعات | Feminin | die | die Informationen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Chat | chat | چت | Neutral | das | die Chats | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Telefon | phone | تلفن | Neutral | das | die Telefone | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Handy | mobile phone | موبایل | Neutral | das | die Handys | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Smartphone | smartphone | اسمارت‌فون | Neutral | das | die Smartphones | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 App | app | اپلیکیشن | Neutral | das | die Apps | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Programm | program | برنامه | Neutral | das | die Programme | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Ladegerät | charger | شارژر | Neutral | das | die Ladegeräte | [Nom] [Akk] [Dat] [Gen] |
 
 ## Medien (Media)
-- **Maskulin**
-  - 🔵 der Podcast (podcast)
-  - 🔵 der Radio (radio)
-- **Feminin**
-  - 🔴 die Zeitung (newspaper)
-  - 🔴 die Website (website)
-- **Neutral**
-  - 🟢 das Video (video)
-  - 🟢 das Internet (internet)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Podcast | podcast | پادکست | Maskulin | der | die Podcasts | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Radio | radio | رادیو | Maskulin | der | die Radios | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zeitung | newspaper | روزنامه | Feminin | die | die Zeitungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Video | video | ویدیو | Neutral | das | die Videos | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Internet | internet | اینترنت | Neutral | das | die Internet | [Nom] [Akk] [Dat] [Gen] |
 
 ## Möbel (Furniture)
-- **Maskulin**
-  - 🔵 der Tisch (table)
-  - 🔵 der Stuhl (chair)
-  - 🔵 der Schrank (wardrobe)
-  - 🔵 der Fernseher (TV)
-- **Feminin**
-  - 🔴 die Lampe (lamp)
-  - 🔴 die Tischlampe (table lamp)
-  - 🔴 die Couch (couch)
-  - 🔴 die Uhr (clock)
-- **Neutral**
-  - 🟢 das Bild (picture)
-  - 🟢 das Bett (bed)
-  - 🟢 das WC (toilet)
-- **Plural**
-  - 🟡 die Möbel (furniture)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Tisch | table | میز | Maskulin | der | die Tische | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stuhl | chair | صندلی | Maskulin | der | die Stühle | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schrank | wardrobe | کمد | Maskulin | der | die Schränke | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fernseher | TV | تلویزیون | Maskulin | der | die Fernseher | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lampe | lamp | چراغ | Feminin | die | die Lampen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tischlampe | table lamp | چراغ رومیزی | Feminin | die | die Tischlampen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Couch | couch | مبل | Feminin | die | die Couchs | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Uhr | clock | ساعت | Feminin | die | die Uhren | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bild | picture | تصویر | Neutral | das | die Bilder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bett | bed | تختخواب | Neutral | das | die Betten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 WC | toilet | توالت | Neutral | das | die WCs | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Möbel | furniture | مبلمان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Haus (House)
-- **Maskulin**
-  - 🔵 der Balkon (balcony)
-  - 🔵 der Herd (stove)
-  - 🔵 der Grill (grill)
-  - 🔵 der Topf (pot)
-  - 🔵 der Kühlschrank (refrigerator)
-  - 🔵 der Staubsauger (vacuum cleaner)
-- **Feminin**
-  - 🔴 die WG (shared flat)
-  - 🔴 die Küche (kitchen)
-  - 🔴 die Mikrowelle (microwave)
-  - 🔴 die Dusche (shower)
-  - 🔴 die Garage (garage)
-- **Neutral**
-  - 🟢 das Haus (house)
-  - 🟢 das Zimmer (room)
-  - 🟢 das Wohnzimmer (living room)
-  - 🟢 das Gästezimmer (guest room)
-  - 🟢 das Schlafzimmer (bedroom)
-  - 🟢 das Esszimmer (dining room)
-  - 🟢 das Bad (bathroom)
-  - 🟢 das Fenster (window)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Balkon | balcony | بالکن | Maskulin | der | die Balkone | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Herd | stove | اجاق گاز | Maskulin | der | die Herde | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Grill | grill | کباب‌پز | Maskulin | der | die Grills | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Topf | pot | قابلمه | Maskulin | der | die Töpfe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kühlschrank | refrigerator | یخچال | Maskulin | der | die Kühlschränke | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Staubsauger | vacuum cleaner | جاروبرقی | Maskulin | der | die Staubsauger | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 WG | shared flat | خانه مشترک | Feminin | die | die WGs | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Küche | kitchen | آشپزخانه | Feminin | die | die Küchen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Mikrowelle | microwave | مایکروویو | Feminin | die | die Mikrowellen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Dusche | shower | دوش | Feminin | die | die Duschen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Garage | garage | گاراژ | Feminin | die | die Garagen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Haus | house | خانه | Neutral | das | die Häuser | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Zimmer | room | اتاق | Neutral | das | die Zimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wohnzimmer | living room | اتاق نشیمن | Neutral | das | die Wohnzimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gästezimmer | guest room | اتاق مهمان | Neutral | das | die Gästezimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schlafzimmer | bedroom | اتاق خواب | Neutral | das | die Schlafzimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Esszimmer | dining room | اتاق غذاخوری | Neutral | das | die Esszimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bad | bathroom | حمام | Neutral | das | die Bäder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fenster | window | پنجره | Neutral | das | die Fenster | [Nom] [Akk] [Dat] [Gen] |
 
 ## Büro und Arbeit (Office and Work)
-- **Maskulin**
-  - 🔵 der Termin (appointment)
-  - 🔵 der Kunde (customer)
-- **Feminin**
-  - 🔴 die Firma (company)
-  - 🔴 die Visitenkarte (business card)
-  - 🔴 die Besprechung (meeting)
-- **Neutral**
-  - 🟢 das Büro (office)
-  - 🟢 das Interview (interview)
-  - 🟢 das Telefongespräch (telephone conversation)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Termin | appointment | قرار ملاقات | Maskulin | der | die Termine | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kunde | customer | مشتری | Maskulin | der | die Kunden | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Firma | company | شرکت | Feminin | die | die Firmen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Visitenkarte | business card | کارت ویزیت | Feminin | die | die Visitenkarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Besprechung | meeting | جلسه | Feminin | die | die Besprechungen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Büro | office | دفتر | Neutral | das | die Büros | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Interview | interview | مصاحبه | Neutral | das | die Interviews | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Telefongespräch | telephone conversation | مکالمه تلفنی | Neutral | das | die Telefongespräche | [Nom] [Akk] [Dat] [Gen] |
 
 ## Berufe (Occupations)
-- **Maskulin**
-  - 🔵 der Job (job)
-  - 🔵 der Beruf (profession)
-  - 🔵 der Friseur (male hairdresser)
-  - 🔵 der Architekt (male architect)
-  - 🔵 der Kollege (male colleague)
-  - 🔵 der Chef (male boss)
-  - 🔵 der Polizist (male policeman)
-  - 🔵 der Manager (male manager)
-  - 🔵 der IT-Ingenieur (male IT engineer)
-  - 🔵 der Taxifahrer (male taxi driver)
-  - 🔵 der Rentner (male retiree)
-  - 🔵 der Koch (male cook)
-  - 🔵 der Student (male university student)
-  - 🔵 der Arzt (male doctor)
-  - 🔵 der Verkäufer (salesman)
-  - 🔵 der Lehrer (male teacher)
-  - 🔵 der Journalist (male journalist)
-  - 🔵 der Fitnesstrainer (male fitness trainer)
-  - 🔵 der Programmierer (male programmer)
-  - 🔵 der Pilot (male pilot)
-  - 🔵 der Krankenpfleger (male nurse)
-  - 🔵 der Psychologe (male psychologist)
-  - 🔵 der Hausmann (househusband)
-  - 🔵 der Automechaniker (male auto mechanic)
-  - 🔵 der Redakteur (male editor)
-  - 🔵 der Schauspieler (male actor)
-  - 🔵 der Trainer (male coach)
-- **Feminin**
-  - 🔴 die Arbeit (work)
-  - 🔴 die Friseurin (female hairdresser)
-  - 🔴 die Architektin (female architect)
-  - 🔴 die Kollegin (female colleague)
-  - 🔴 die Chefin (female boss)
-  - 🔴 die Polizistin (policewoman)
-  - 🔴 die Managerin (female manager)
-  - 🔴 die IT-Ingenieurin (female IT engineer)
-  - 🔴 die Taxifahrerin (female taxi driver)
-  - 🔴 die Rentnerin (female retiree)
-  - 🔴 die Köchin (female cook)
-  - 🔴 die Studentin (female university student)
-  - 🔴 die Ärztin (female doctor)
-  - 🔴 die Verkäuferin (saleswoman)
-  - 🔴 die Lehrerin (female teacher)
-  - 🔴 die Journalistin (female journalist)
-  - 🔴 die Fitnesstrainerin (female fitness trainer)
-  - 🔴 die Programmiererin (female programmer)
-  - 🔴 die Pilotin (female pilot)
-  - 🔴 die Krankenschwester (female nurse)
-  - 🔴 die Psychologin (female psychologist)
-  - 🔴 die Hausfrau (housewife)
-  - 🔴 die Automechanikerin (female auto mechanic)
-  - 🔴 die Redakteurin (female editor)
-  - 🔴 die Schauspielerin (actress)
-  - 🔴 die Trainerin (female coach)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Job | job | شغل | Maskulin | der | die Jobs | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Beruf | profession | حرفه | Maskulin | der | die Berufe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Friseur | male hairdresser | آرایشگر (مرد) | Maskulin | der | die Friseure | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Architekt | male architect | معمار (مرد) | Maskulin | der | die Architekten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kollege | male colleague | همکار (مرد) | Maskulin | der | die Kollegen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Chef | male boss | رئیس (مرد) | Maskulin | der | die Chefs | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Polizist | male policeman | پلیس (مرد) | Maskulin | der | die Polizisten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Manager | male manager | مدیر (مرد) | Maskulin | der | die Manager | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 IT-Ingenieur | male IT engineer | مهندس IT (مرد) | Maskulin | der | die IT-Ingenieure | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Taxifahrer | male taxi driver | راننده تاکسی (مرد) | Maskulin | der | die Taxifahrer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Rentner | male retiree | بازنشسته (مرد) | Maskulin | der | die Rentner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Koch | male cook | آشپز (مرد) | Maskulin | der | die Köche | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Student | male university student | دانشجو (مرد) | Maskulin | der | die Studenten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Arzt | male doctor | پزشک (مرد) | Maskulin | der | die Ärzte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Verkäufer | salesman | فروشنده (مرد) | Maskulin | der | die Verkäufer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lehrer | male teacher | معلم (مرد) | Maskulin | der | die Lehrer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Journalist | male journalist | روزنامه‌نگار (مرد) | Maskulin | der | die Journalisten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fitnesstrainer | male fitness trainer | مربی بدنسازی (مرد) | Maskulin | der | die Fitnesstrainer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Programmierer | male programmer | برنامه‌نویس (مرد) | Maskulin | der | die Programmierer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pilot | male pilot | خلبان (مرد) | Maskulin | der | die Piloten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Krankenpfleger | male nurse | پرستار (مرد) | Maskulin | der | die Krankenpfleger | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Psychologe | male psychologist | روانشناس (مرد) | Maskulin | der | die Psychologen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Hausmann | househusband | خانه‌دار (مرد) | Maskulin | der | die Hausmänner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Automechaniker | male auto mechanic | مکانیک خودرو (مرد) | Maskulin | der | die Automechaniker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Redakteur | male editor | ویراستار (مرد) | Maskulin | der | die Redakteure | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schauspieler | male actor | بازیگر (مرد) | Maskulin | der | die Schauspieler | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Trainer | male coach | مربی (مرد) | Maskulin | der | die Trainer | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Arbeit | work | کار | Feminin | die | die Arbeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Friseurin | female hairdresser | آرایشگر (زن) | Feminin | die | die Friseurinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Architektin | female architect | معمار (زن) | Feminin | die | die Architektinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kollegin | female colleague | همکار (زن) | Feminin | die | die Kolleginnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Chefin | female boss | رئیس (زن) | Feminin | die | die Chefinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Polizistin | policewoman | پلیس (زن) | Feminin | die | die Polizistinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Managerin | female manager | مدیر (زن) | Feminin | die | die Managerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 IT-Ingenieurin | female IT engineer | مهندس IT (زن) | Feminin | die | die IT-Ingenieurinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Taxifahrerin | female taxi driver | راننده تاکسی (زن) | Feminin | die | die Taxifahrerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Rentnerin | female retiree | بازنشسته (زن) | Feminin | die | die Rentnerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Köchin | female cook | آشپز (زن) | Feminin | die | die Köchinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Studentin | female university student | دانشجو (زن) | Feminin | die | die Studentinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ärztin | female doctor | پزشک (زن) | Feminin | die | die Ärztinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Verkäuferin | saleswoman | فروشنده (زن) | Feminin | die | die Verkäuferinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lehrerin | female teacher | معلم (زن) | Feminin | die | die Lehrerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Journalistin | female journalist | روزنامه‌نگار (زن) | Feminin | die | die Journalistinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Fitnesstrainerin | female fitness trainer | مربی بدنسازی (زن) | Feminin | die | die Fitnesstrainerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Programmiererin | female programmer | برنامه‌نویس (زن) | Feminin | die | die Programmiererinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Pilotin | female pilot | خلبان (زن) | Feminin | die | die Pilotinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Krankenschwester | female nurse | پرستار (زن) | Feminin | die | die Krankenschwestern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Psychologin | female psychologist | روانشناس (زن) | Feminin | die | die Psychologinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hausfrau | housewife | خانه‌دار (زن) | Feminin | die | die Hausfrauen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Automechanikerin | female auto mechanic | مکانیک خودرو (زن) | Feminin | die | die Automechanikerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Redakteurin | female editor | ویراستار (زن) | Feminin | die | die Redakteurinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schauspielerin | actress | بازیگر (زن) | Feminin | die | die Schauspielerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Trainerin | female coach | مربی (زن) | Feminin | die | die Trainerinnen | [Nom] [Akk] [Dat] [Gen] |
 
 ## Berufsbezogene Begriffe (Job-Related Terms)
-- **Feminin**
-  - 🔴 die Arbeitszeit (working hours)
-  - 🔴 die Karriere (career)
-  - 🔴 die Aufgabe (task)
-- **Neutral**
-  - 🟢 das Traumjob (dream job)
-  - 🟢 das Problem (problem)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔴 Arbeitszeit | working hours | ساعات کاری | Feminin | die | die Arbeitszeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Karriere | career | شغل | Feminin | die | die Karrieren | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Aufgabe | task | وظیفه | Feminin | die | die Aufgaben | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Traumjob | dream job | شغل رؤیایی | Neutral | das | die Traumjobs | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Problem | problem | مشکل | Neutral | das | die Probleme | [Nom] [Akk] [Dat] [Gen] |
 
 ## Persönliche Angaben (Personal Information)
-- **Maskulin**
-  - 🔵 der Name (name)
-  - 🔵 der Vorname (first name)
-  - 🔵 der Nachname (last name)
-  - 🔵 der Wohnort (place of residence)
-  - 🔵 der Lebenslauf (CV)
-  - 🔵 der Geburtsort (place of birth)
-  - 🔵 der Familienstand (marital status)
-- **Feminin**
-  - 🔴 die Handynummer (mobile number)
-  - 🔴 die Telefonnummer (phone number)
-  - 🔴 die Hausnummer (house number)
-  - 🔴 die Adresse (address)
-  - 🔴 die E-Mail-Adresse (email address)
-  - 🔴 die Herkunft (origin)
-  - 🔴 die Postleitzahl (postal code)
-  - 🔴 die Muttersprache (native language)
-- **Neutral**
-  - 🟢 das Geburtsdatum (date of birth)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Name | name | نام | Maskulin | der | die Namen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Vorname | first name | نام کوچک | Maskulin | der | die Vornamen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Nachname | last name | نام خانوادگی | Maskulin | der | die Nachnamen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Wohnort | place of residence | محل سکونت | Maskulin | der | die Wohnorte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lebenslauf | CV | رزومه | Maskulin | der | die Lebensläufe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Geburtsort | place of birth | محل تولد | Maskulin | der | die Geburtsorte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Familienstand | marital status | وضعیت تأهل | Maskulin | der | die Familienstände | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Handynummer | mobile number | شماره موبایل | Feminin | die | die Handynummern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Telefonnummer | phone number | شماره تلفن | Feminin | die | die Telefonnummern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hausnummer | house number | شماره خانه | Feminin | die | die Hausnummern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Adresse | address | آدرس | Feminin | die | die Adressen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 E-Mail-Adresse | email address | آدرس ایمیل | Feminin | die | die E-Mail-Adressen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Herkunft | origin | خاستگاه | Feminin | die | die Herkünfte | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Postleitzahl | postal code | کد پستی | Feminin | die | die Postleitzahlen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Muttersprache | native language | زبان مادری | Feminin | die | die Muttersprachen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geburtsdatum | date of birth | تاریخ تولد | Neutral | das | die Geburtsdaten | [Nom] [Akk] [Dat] [Gen] |
 
 ## Kosmetik und Pflege (Cosmetics and Grooming)
-- **Maskulin**
-  - 🔵 der Kamm (comb)
-  - 🔵 der Spiegel (mirror)
-- **Feminin**
-  - 🔴 die Schere (scissors)
-  - 🔴 die Bürste (brush)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Kamm | comb | شانه | Maskulin | der | die Kämme | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Spiegel | mirror | آینه | Maskulin | der | die Spiegel | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schere | scissors | قیچی | Feminin | die | die Scheren | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bürste | brush | برس | Feminin | die | die Bürsten | [Nom] [Akk] [Dat] [Gen] |
 
 ## Wetter (Weather)
-- **Maskulin**
-  - 🔵 der Regen (rain)
-  - 🔵 der Regenbogen (rainbow)
-  - 🔵 der Schnee (snow)
-- **Feminin**
-  - 🔴 die Sonne (sun)
-  - 🔴 die Wolke (cloud)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Regen | rain | باران | Maskulin | der | die Regen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Regenbogen | rainbow | رنگین‌کمان | Maskulin | der | die Regenbogen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schnee | snow | برف | Maskulin | der | die Schnee | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sonne | sun | خورشید | Feminin | die | die Sonnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wolke | cloud | ابر | Feminin | die | die Wolken | [Nom] [Akk] [Dat] [Gen] |
 
 ## Sprache und Kommunikation (Language and Communication)
-- **Feminin**
-  - 🔴 die Vokabel (vocabulary word)
-  - 🔴 die Antwort (answer)
-  - 🔴 die Nummer (number)
-- **Maskulin**
-  - 🔵 der Dialog (dialogue)
-- **Neutral**
-  - 🟢 das Prozent (percent)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔴 Vokabel | vocabulary word | لغت | Feminin | die | die Vokabeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Antwort | answer | پاسخ | Feminin | die | die Antworten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nummer | number | شماره | Feminin | die | die Nummern | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Dialog | dialogue | گفتگو | Maskulin | der | die Dialoge | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Percent | percent | درصد | Neutral | das | die Prozent | [Nom] [Akk] [Dat] [Gen] |
 
 ## Verschiedenes (Miscellaneous)
-- **Maskulin**
-  - 🔵 der Berliner (male citizen of Berlin)
-  - 🔵 der Vegetarier (male vegetarian)
-  - 🔵 der Stress (stress)
-  - 🔵 der Spaß (fun)
-  - 🔵 der Krankenpfleger (male nurse)
-  - 🔵 der Schüler (male student)
-  - 🔵 der Baum (tree)
-- **Feminin**
-  - 🔴 die Berlinerin (female citizen of Berlin)
-  - 🔴 die Vegetarierin (female vegetarian)
-  - 🔴 die Lieblingsfarbe (favorite color)
-  - 🔴 die Krankenschwester (female nurse)
-  - 🔴 die Schülerin (female student)
-  - 🔴 die Idee (idea)
-  - 🔴 die Meinung (opinion)
-  - 🔴 die Welt (world)
-  - 🔴 die Sprache (language)
-- **Neutral**
-  - 🟢 das Frühstück (breakfast)
-  - 🟢 das Licht (light)
-  - 🟢 das Leben (life)
-  - 🟢 das Problem (problem)
-  - 🟢 das Wort (word)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Berliner | male citizen of Berlin | برلینی (مرد) | Maskulin | der | die Berliner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Vegetarier | male vegetarian | گیاه‌خوار (مرد) | Maskulin | der | die Vegetarier | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stress | stress | استرس | Maskulin | der | die Stresse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Spaß | fun | تفریح | Maskulin | der | die Späße | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Krankenpfleger | male nurse | پرستار (مرد) | Maskulin | der | die Krankenpfleger | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schüler | male student | دانش‌آموز (مرد) | Maskulin | der | die Schüler | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Baum | tree | درخت | Maskulin | der | die Bäume | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Berlinerin | female citizen of Berlin | برلینی (زن) | Feminin | die | die Berlinerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Vegetarierin | female vegetarian | گیاه‌خوار (زن) | Feminin | die | die Vegetarierinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Lieblingsfarbe | favorite color | رنگ مورد علاقه | Feminin | die | die Lieblingsfarben | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Krankenschwester | female nurse | پرستار (زن) | Feminin | die | die Krankenschwestern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schülerin | female student | دانش‌آموز (زن) | Feminin | die | die Schülerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Idee | idea | ایده | Feminin | die | die Ideen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Meinung | opinion | نظر | Feminin | die | die Meinungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Welt | world | جهان | Feminin | die | die Welten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Sprache | language | زبان | Feminin | die | die Sprachen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Frühstück | breakfast | صبحانه | Neutral | das | die Frühstücke | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Licht | light | نور | Neutral | das | die Lichter | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Leben | life | زندگی | Neutral | das | die Leben | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Problem | problem | مشکل | Neutral | das | die Probleme | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wort | word | کلمه | Neutral | das | die Wörter | [Nom] [Akk] [Dat] [Gen] |
+
+---
+
+## Gefühle und Emotionen (Feelings & Emotions)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stolz | pride | غرور | Maskulin | der | die Stolze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zorn | anger | خشم | Maskulin | der | die Zorne | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zweifel | doubt | شک | Maskulin | der | die Zweifel | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Angst | fear | ترس | Feminin | die | die Ängste | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Dankbarkeit | gratitude | قدردانی | Feminin | die | die Dankbarkeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Einsamkeit | loneliness | تنهایی | Feminin | die | die Einsamkeiten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Enttäuschung | disappointment | ناامیدی | Feminin | die | die Enttäuschungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Freude | joy | شادی | Feminin | die | die Freuden | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hoffnung | hope | امید | Feminin | die | die Hoffnungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Langeweile | boredom | خستگی/بی‌حوصلگی | Feminin | die | die Langeweilen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nervosität | nervousness | عصبیت | Feminin | die | die Nervositäten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Überraschung | surprise | تعجب | Feminin | die | die Überraschungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wut | rage | خشم | Feminin | die | die Wuten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zufriedenheit | satisfaction | رضایت | Feminin | die | die Zufriedenheiten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Glück | happiness | خوشبختی | Neutral | das | die Glücke | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Interesse | interest | علاقه | Neutral | das | die Interessen | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Gefühle | feelings | احساسات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 glücklich | happy | خوشحال | Adjektiv | — | — | — |
+| 🔵 traurig | sad | غمگین | Adjektiv | — | — | — |
+| 🔵 müde | tired | خسته | Adjektiv | — | — | — |
+| 🔵 wütend | angry | عصبانی | Adjektiv | — | — | — |
+| 🔵 nervös | nervous | عصبی | Adjektiv | — | — | — |
+| 🔵 mutig | brave | شجاع | Adjektiv | — | — | — |
+| 🔵 stolz | proud | مغرور | Adjektiv | — | — | — |
+| 🔵 dankbar | grateful | قدردان | Adjektiv | — | — | — |
+| 🔵 einsam | lonely | تنها | Adjektiv | — | — | — |
+| 🔵 verliebt | in love | عاشق | Adjektiv | — | — | — |
+| 🔵 enttäuscht | disappointed | ناامید | Adjektiv | — | — | — |
+| 🔵 überrascht | surprised | متعجب | Adjektiv | — | — | — |
+| 🔵 gelangweilt | bored | خسته/بی‌حوصله | Adjektiv | — | — | — |
+| 🔵 aufgeregt | excited | هیجان‌زده | Adjektiv | — | — | — |
+| 🔵 ruhig | calm | آرام | Adjektiv | — | — | — |
+| 🔵 zufrieden | satisfied | راضی | Adjektiv | — | — | — |
+| 🔵 unzufrieden | dissatisfied | ناراضی | Adjektiv | — | — | — |
+
+## Körper und Gesundheit - Erweitert (Body & Health - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Medikament | medication | دارو | Maskulin | der | die Medikamente | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Rezept | prescription | نسخه | Maskulin | der | die Rezepte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Verband | bandage | بانداژ | Maskulin | der | die Verbände | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kopfschmerzen | headache | سردرد | Maskulin | der | die Kopfschmerzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bauchschmerzen | stomachache | درد شکم | Maskulin | der | die Bauchschmerzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Halsschmerzen | sore throat | گلو درد | Maskulin | der | die Halsschmerzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Grippe | flu | آنفلوانزا | Maskulin | der | die Grippe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zahnarzt | dentist | دندانپزشک | Maskulin | der | die Zahnärzte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Apotheker | pharmacist | داروساز | Maskulin | der | die Apotheker | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ärztin | female doctor | پزشک (زن) | Feminin | die | die Ärztinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Apotheke | pharmacy | داروخانه | Feminin | die | die Apotheken | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wunde | wound | زخم | Feminin | die | die Wunden | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Behandlung | treatment | درمان | Feminin | die | die Behandlungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Untersuchung | examination | معاینه | Feminin | die | die Untersuchungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Spritze | injection | تزریق | Feminin | die | die Spritzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Salbe | ointment | پماد | Feminin | die | die Salben | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Krankenhaus | hospital | بیمارستان | Neutral | das | die Krankenhäuser | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fieber | fever | تب | Neutral | das | die Fieber | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Tabletten | tablets/pills | قرص‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
+
+## Persönliche Eigenschaften (Personal Traits)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Charakter | character | شخصیت | Maskulin | der | die Charaktere | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fleiß | diligence | سختکوشی | Maskulin | der | die Fleiße | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Eigenschaft | quality/trait | ویژگی | Feminin | die | die Eigenschaften | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Intelligenz | intelligence | هوش | Feminin | die | die Intelligenzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 freundlich | friendly | مهربان | Adjektiv | — | — | — |
+| 🔵 nett | nice | مهربان | Adjektiv | — | — | — |
+| 🔵 lustig | funny | بامزه | Adjektiv | — | — | — |
+| 🔵 ehrlich | honest | صادق | Adjektiv | — | — | — |
+| 🔵 pünktlich | punctual | وقت‌شناس | Adjektiv | — | — | — |
+| 🔵 fleißig | diligent | سختکوش | Adjektiv | — | — | — |
+| 🔵 faul | lazy | تنبل | Adjektiv | — | — | — |
+| 🔵 intelligent | intelligent | باهوش | Adjektiv | — | — | — |
+| 🔵 klug | smart | باهوش | Adjektiv | — | — | — |
+| 🔵 dumm | stupid | احمق | Adjektiv | — | — | — |
+| 🔵 stark | strong | قوی | Adjektiv | — | — | — |
+| 🔵 schwach | weak | ضعیف | Adjektiv | — | — | — |
+| 🔵 groß | big/tall | بزرگ/بلند | Adjektiv | — | — | — |
+| 🔵 klein | small | کوچک | Adjektiv | — | — | — |
+| 🔵 dick | fat/thick | چاق/کلفت | Adjektiv | — | — | — |
+| 🔵 dünn | thin | لاغر/نازک | Adjektiv | — | — | — |
+| 🔵 alt | old | پیر | Adjektiv | — | — | — |
+| 🔵 jung | young | جوان | Adjektiv | — | — | — |
+
+## Familienbeziehungen (Family Relations)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Ehemann | husband | شوهر | Maskulin | der | die Ehemänner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stiefvater | stepfather | ناپدری | Maskulin | der | die Stiefväter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Enkel | grandson | نوه (پسر) | Maskulin | der | die Enkel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Urenkel | great-grandson | نوه نوه (پسر) | Maskulin | der | die Urenkel | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schwiegersohn | son-in-law | داماد | Maskulin | der | die Schwiegersöhne | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Schwiegervater | father-in-law | پدرشوهر | Maskulin | der | die Schwiegerväter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ehefrau | wife | همسر (زن) | Feminin | die | die Ehefrauen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Stiefmutter | stepmother | نامادری | Feminin | die | die Stiefmütter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Enkelin | granddaughter | نوه (دختر) | Feminin | die | die Enkelinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Urenkelin | great-granddaughter | نوه نوه (دختر) | Feminin | die | die Urenkelinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schwiegertochter | daughter-in-law | عروس | Feminin | die | die Schwiegertöchter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Schwiegermutter | mother-in-law | مادرشوهر | Feminin | die | die Schwiegermütter | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Stiefkind | stepchild | فرزندخوانده | Neutral | das | die Stiefkinder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Geschwisterkind | cousin | پسرخاله/پسرعمو | Neutral | das | die Geschwisterkinder | [Nom] [Akk] [Dat] [Gen] |
+
+## Hobbys und Freizeit - Erweitert (Hobbies - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Ausflug | excursion | گردش | Maskulin | der | die Ausflüge | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Spaziergang | walk | پیاده‌روی | Maskulin | der | die Spaziergänge | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Wanderweg | hiking trail | مسیر پیاده‌روی | Maskulin | der | die Wanderwege | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Picknick | picnic | پیکنیک | Maskulin | der | die Picknicks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Campingplatz | campsite | محل اردو زدن | Maskulin | der | die Campingplätze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Joggen | jogging | دویدن | Maskulin | der | die Joggen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Roller | scooter | اسکوتر | Maskulin | der | die Roller | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kanu | canoe | قایق کانو | Maskulin | der | die Kanus | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fotografie | photography | عکاسی | Feminin | die | die Fotografien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Malerei | painting | نقاشی | Feminin | die | die Malereien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zeichnung | drawing | طراحی | Feminin | die | die Zeichnungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Meditation | meditation | مدیتیشن | Feminin | die | die Meditationen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Reise | trip | سفر | Feminin | die | die Reisen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wanderschuhe | hiking boots | کفش‌های پیاده‌روی | Feminin | die | die Wanderschuhe | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Campen | camping | اردو زدن | Neutral | das | die Campen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Tanzen | dancing | رقصیدن | Neutral | das | die Tanzen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Backen | baking | پختن کیک | Neutral | das | die Backen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 malen | to paint | نقاشی کردن | Verb | — | — | — |
+| 🔵 zeichnen | to draw | طراحی کردن | Verb | — | — | — |
+| 🔵 singen | to sing | آواز خواندن | Verb | — | — | — |
+| 🔵 tanzen | to dance | رقصیدن | Verb | — | — | — |
+| 🔵 kochen | to cook | آشپزی کردن | Verb | — | — | — |
+| 🔵 backen | to bake | پختن کیک | Verb | — | — | — |
+| 🔵 lesen | to read | خواندن | Verb | — | — | — |
+| 🔵 schreiben | to write | نوشتن | Verb | — | — | — |
+| 🔵 fotografieren | to photograph | عکس گرفتن | Verb | — | — | — |
+| 🔵 reisen | to travel | سفر کردن | Verb | — | — | — |
+| 🔵 wandern | to hike | پیاده‌روی کردن | Verb | — | — | — |
+| 🔵 campen | to camp | اردو زدن | Verb | — | — | — |
+| 🔵 joggen | to jog | دویدن | Verb | — | — | — |
+| 🔵 schwimmen | to swim | شنا کردن | Verb | — | — | — |
+| 🔵 turnen | to do gymnastics | ژیمناستیک کردن | Verb | — | — | — |
+| 🔵 meditieren | to meditate | مدیتیشن کردن | Verb | — | — | — |
+| 🔵 spazieren gehen | to go for a walk | قدم زدن | Verb | — | — | — |
+| 🔵 picknicken | to picnic | پیکنیک کردن | Verb | — | — | — |
+
+## Essen und Trinken - Erweitert (Food - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Salz | salt | نمک | Maskulin | der | die Salze | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pfeffer | pepper | فلفل | Maskulin | der | die Pfeffer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Essig | vinegar | سرکه | Maskulin | der | die Essige | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Senf | mustard | خردل | Maskulin | der | die Senfe | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Ketchup | ketchup | کچاپ | Maskulin | der | die Ketchups | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Reis | rice | برنج | Maskulin | der | die Reis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Honig | honey | عسل | Maskulin | der | die Honige | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Suppe | soup | سوپ | Feminin | die | die Suppen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Salat | salad | سالاد | Feminin | die | die Salate | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Marmelade | jam | مربا | Feminin | die | die Marmeladen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Butter | butter | کره | Feminin | die | die Butter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Soße | sauce | سس | Feminin | die | die Soßen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Gewürz | spice | ادویه | Feminin | die | die Gewürze | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Brot | bread | نان | Neutral | das | die Brote | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Brötchen | bread roll | نان رولی | Neutral | das | die Brötchen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Öl | oil | روغن | Neutral | das | die Öle | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Mehl | flour | آرد | Neutral | das | die Mehl | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Rezept | recipe | دستور پخت | Neutral | das | die Rezepte | [Nom] [Akk] [Dat] [Gen] |
+
+## Im Restaurant (At Restaurant)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Kellner | male waiter | پیشخدمت (مرد) | Maskulin | der | die Kellner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Reservierung | reservation | رزرو | Feminin | die | die Reservierungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Speisekarte | menu | منوی غذا | Feminin | die | die Speisekarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kellnerin | female waiter | پیشخدمت (زن) | Feminin | die | die Kellnerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Rechnung | bill | صورتحساب | Feminin | die | die Rechnungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Trinkgeld | tip | انعام | Feminin | die | die Trinkgelder | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Vorspeise | appetizer | پیش‌غذا | Feminin | die | die Vorspeisen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Hauptspeise | main course | غذای اصلی | Feminin | die | die Hauptspeisen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nachtisch | dessert | دسر | Feminin | die | die Nachtische | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bestellung | order | سفارش | Feminin | die | die Bestellungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Portion | portion | پرس | Feminin | die | die Portionen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bedienung | service | خدمات | Feminin | die | die Bedienungen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Tisch | table | میز | Neutral | das | die Tische | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Stuhl | chair | صندلی | Neutral | das | die Stühle | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Salz | salt | نمک | Neutral | das | die Salze | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Pfeffer | pepper | فلفل | Neutral | das | die Pfeffer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Frühstück | breakfast | صبحانه | Neutral | das | die Frühstücke | [Nom] [Akk] [Dat] [Gen] |
+
+## Berufe - Erweitert (Occupations - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Ingenieur | engineer | مهندس | Maskulin | der | die Ingenieure | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Feuerwehrmann | firefighter | آتش‌نشان | Maskulin | der | die Feuerwehrmänner | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Soldat | soldier | سرباز | Maskulin | der | die Soldaten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bäcker | baker | نانوا | Maskulin | der | die Bäcker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Metzger | butcher | قصاب | Maskulin | der | die Metzger | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mechaniker | mechanic | مکانیک | Maskulin | der | die Mechaniker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Apotheker | pharmacist | داروساز | Maskulin | der | die Apotheker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zahnarzt | dentist | دندانپزشک | Maskulin | der | die Zahnärzte | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Verkäufer | salesman | فروشنده | Maskulin | der | die Verkäufer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Krankenpfleger | male nurse | پرستار (مرد) | Maskulin | der | die Krankenpfleger | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Architekt | architect | معمار | Maskulin | der | die Architekten | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Polizist | policeman | پلیس | Maskulin | der | die Polizisten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Anwältin | female lawyer | وکیل (زن) | Feminin | die | die Anwältinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Richterin | female judge | قاضی (زن) | Feminin | die | die Richterinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Feuerwehrfrau | female firefighter | آتش‌نشان (زن) | Feminin | die | die Feuerwehrfrauen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Soldatin | female soldier | سرباز (زن) | Feminin | die | die Soldatinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bäckerin | female baker | نانوا (زن) | Feminin | die | die Bäckerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Metzgerin | female butcher | قصاب (زن) | Feminin | die | die Metzgerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Krankenschwester | female nurse | پرستار (زن) | Feminin | die | die Krankenschwestern | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Architektin | female architect | معمار (زن) | Feminin | die | die Architektinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Polizistin | female policeman | پلیس (زن) | Feminin | die | die Polizistinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Ingenieurin | female engineer | مهندس (زن) | Feminin | die | die Ingenieurinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Zahnärztin | female dentist | دندانپزشک (زن) | Feminin | die | die Zahnärztinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Apothekerin | female pharmacist | داروساز (زن) | Feminin | die | die Apothekerinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Verkäuferin | female salesman | فروشنده (زن) | Feminin | die | die Verkäuferinnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Mechanikerin | female mechanic | مکانیک (زن) | Feminin | die | die Mechanikerinnen | [Nom] [Akk] [Dat] [Gen] |
+
+## Transportmittel - Erweitert (Transport - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Straßenbahn | tram | تراموا | Maskulin | der | die Straßenbahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Roller | scooter | اسکوتر | Maskulin | der | die Roller | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Helikopter | helicopter | بالگرد | Maskulin | der | die Helikopter | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lastwagen | truck | کامیون | Maskulin | der | die Lastwagen | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 ICE | ICE high-speed train | قطار سریع‌السیر | Maskulin | der | die ICEs | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Roller | scooter | اسکوتر | Maskulin | der | die Roller | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Fähre | ferry | قایق مسافربری | Feminin | die | die Fähren | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 U-Bahn | subway | مترو | Feminin | die | die U-Bahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 S-Bahn | suburban train | قطار حومه | Feminin | die | die S-Bahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Straßenbahn | tram | تراموا | Feminin | die | die Straßenbahnen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fahrrad | bicycle | دوچرخه | Neutral | das | die Fahrräder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Motorrad | motorcycle | موتورسیکلت | Neutral | das | die Motorräder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Taxi | taxi | تاکسی | Neutral | das | die Taxis | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Flugzeug | airplane | هواپیما | Neutral | das | die Flugzeuge | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schiff | ship | کشتی | Neutral | das | die Schiffe | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Boot | boat | قایق | Neutral | das | die Boote | [Nom] [Akk] [Dat] [Gen] |
+
+## Wohnung - Erweitert (Housing - Extended)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Keller | basement | زیرزمین | Maskulin | der | die Keller | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Dachboden | attic | زیرشیروانی | Maskulin | der | die Dachböden | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Treppenhaus | staircase | راه‌پله | Maskulin | der | die Treppenhäuser | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Aufzug | elevator | آسانسور | Maskulin | der | die Aufzüge | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Balkon | balcony | بالکن | Maskulin | der | die Balkone | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kellerschrank | basement cupboard | کمد زیرزمین | Maskulin | der | die Kellerschränke | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Terrasse | terrace | تراس | Feminin | die | die Terrassen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wohnung | apartment | آپارتمان | Feminin | die | die Wohnungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Küche | kitchen | آشپزخانه | Feminin | die | die Küchen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Garage | garage | گاراژ | Feminin | die | die Garagen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Zimmer | room | اتاق | Neutral | das | die Zimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Bad | bathroom | حمام | Neutral | das | die Bäder | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Schlafzimmer | bedroom | اتاق خواب | Neutral | das | die Schlafzimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wohnzimmer | living room | اتاق نشیمن | Neutral | das | die Wohnzimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Esszimmer | dining room | اتاق غذاخوری | Neutral | das | die Esszimmer | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Garten | garden | باغچه | Neutral | das | die Gärten | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Balkon | balcony | بالکن | Neutral | das | die Balkone | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fenster | window | پنجره | Neutral | das | die Fenster | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Haustür | front door | در ورودی | Neutral | das | die Haustüren | [Nom] [Akk] [Dat] [Gen] |
+| 🟡 Stockwerk | floor/story | طبقه | Plural | die | die Stockwerke | [Nom] [Akk] [Dat] [Gen] |
+
+## Elektronik und Technik (Electronics)
+
+| German | English | Persian | Gender | Article | Plural | Cases |
+|--------|---------|---------|--------|---------|--------|-------|
+| 🔵 Computer | computer | کامپیوتر | Maskulin | der | die Computer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Laptop | laptop | لپ‌تاپ | Maskulin | der | die Laptops | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Drucker | printer | پرینتر | Maskulin | der | die Drucker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Bildschirm | screen | صفحه نمایش | Maskulin | der | die Bildschirme | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Fernseher | TV | تلویزیون | Maskulin | der | die Fernseher | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 USB-Stick | USB stick | فلش USB | Maskulin | der | die USB-Sticks | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Lautsprecher | speaker | بلندگو | Maskulin | der | die Lautsprecher | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kopfhörer | headphones | هدفون | Maskulin | der | die Kopfhörer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Kamera | camera | دوربین | Feminin | die | die Kameras | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Maus | mouse | ماوس | Feminin | die | die Mäuse | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Tablet | tablet | تبلت | Neutral | das | die Tablets | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Smartphone | smartphone | اسمارت‌فون | Neutral | das | die Smartphones | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Handy | mobile phone | موبایل | Neutral | das | die Handys | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Telefon | phone | تلفن | Neutral | das | die Telefone | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Chat | chat | چت | Neutral | das | die Chats | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Programm | program | برنامه | Neutral | das | die Programme | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Ladegerät | charger | شارژر | Neutral | das | die Ladegeräte | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Internet | internet | اینترنت | Neutral | das | die Internet | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Video | video | ویدیو | Neutral | das | die Videos | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Radio | radio | رادیو | Neutral | das | die Radios | [Nom] [Akk] [Dat] [Gen] |
+
+---
 
 ## Practices
+
 - **Starten Wir!**
   - [Lektion 1](https://chatgpt.com/share/3a08b83e-eefd-4196-abd7-6ce16934c4d8)
   - [Lektion 2](https://chatgpt.com/share/1d2d47a8-eddc-4c9d-a586-223368fe1c0a)
