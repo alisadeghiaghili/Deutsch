@@ -4,6 +4,9 @@
 # MiMo memory
 *.mimocode-memory/
 
+# Node modules
+node_modules/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -20,3 +23,4 @@ desktop.ini
 *.tmp
 *.temp
 *.log
+package-lock.json
