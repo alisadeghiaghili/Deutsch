@@ -4,6 +4,18 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
+## [0.3.1] — listening drills without inline answers
+
+### Added
+- `tools/split_listening_answers.py` — moves `question → answer` lines into companion Lösungen files
+- `A2/listening/hoerverstehen-a2-loesungen.md` (grouped by Übung)
+- `B2/listening/hoerverstehen-b2-loesungen.md` (comprehension + Diktat models)
+
+### Fixed
+- A2/B2 listening drills no longer spoil answers next to questions
+- A1 phone phrase Persian gloss and listening heading typo
+- A2 post-office dialogue: Tracking-Nummer spelling
+
 ## [0.3.0] — study resources
 
 ### Added

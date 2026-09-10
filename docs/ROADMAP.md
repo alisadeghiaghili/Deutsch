@@ -8,12 +8,13 @@ Priority order. Do not start a later item while an earlier open P0 item remains.
 |---------|------|
 | v0.2.0 | Policy, validator + blocking CI, critical linguistic fixes, renames, B2 index, legacy quarantine, README truthfulness |
 | v0.3.0 | Per-level `resources.md` (A1–B2) with named books, DW URLs, YouTube series, podcasts; README study path |
+| v0.3.1 | Listening drills separated from answer keys (S3) |
 
-## Open — finish v0.3.x
+## Open
 
 | ID | Work | Exit criteria |
 |----|------|----------------|
-| S3 | Listening packs: transcript/answer split | Usable as drills without inline answers |
+| — | (none blocking) | — |
 
 ## Next — v0.4.x (system)
 

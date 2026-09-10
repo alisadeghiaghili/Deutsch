@@ -21,7 +21,7 @@ At A1 level, you should be able to:
 |--------|---------|---------|
 | **Hallo!** | Hello! | سلام! |
 | **Guten Tag!** | Good day! | روز بخیر! |
-| **Hier ist [Name].** | This is [Name]. | اینجاست [نام]. |
+| **Hier ist [Name].** | This is [Name]. | [نام] هستم (تلفن). |
 | **Kann ich mit [Name] sprechen?** | Can I speak with [Name]? | می‌توانم با [نام] صحبت کنم؟ |
 | **Einen Moment bitte.** | One moment please. | یک لحظه لطفاً. |
 | **Ich rufe später wieder an.** | I'll call back later. | بعداً دوباره زنگ می‌زنم. |
@@ -94,7 +94,7 @@ At A1 level, you should be able to:
 
 ---
 
-# درک ششنیداری
+# درک شنیداری
 
 ## مهارت‌های شنیداری در سطح A1
 
@@ -112,7 +112,7 @@ At A1 level, you should be able to:
 |--------|---------|-------|
 | **Hallo!** | Hello! | سلام! |
 | **Guten Tag!** | Good day! | روز بخیر! |
-| **Hier ist [Name].** | This is [Name]. | اینجاست [نام]. |
+| **Hier ist [Name].** | This is [Name]. | [نام] هستم (تلفن). |
 | **Kann ich mit [Name] sprechen?** | Can I speak with [Name]? | می‌توانم با [نام] صحبت کنم؟ |
 | **Einen Moment bitte.** | One moment please. | یک لحظه لطفاً. |
 | **Tschüss!** | Bye! | خداحافظ! |
