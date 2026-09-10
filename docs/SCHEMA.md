@@ -11,7 +11,15 @@ python tools/export_tsv.py --root .
 python tools/export_tsv.py --root . --level A1
 ```
 
-CI does not regenerate TSV automatically; regenerate after editing Markdown and commit both.
+CI **requires** TSV to match a fresh export (`tools/check_tsv_drift.py`).
+Regenerate and commit both Markdown and TSV together.
+
+Local full gate:
+
+```bash
+npm run gates
+# = validate_corpus + find_duplicates + check_tsv_drift
+```
 
 ## Verb table (all levels)
 

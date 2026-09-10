@@ -8,7 +8,7 @@ on:
 
 jobs:
   validate:
-    name: Corpus validator
+    name: Corpus gates
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -21,6 +21,12 @@ jobs:
 
       - name: Validate study corpus
         run: python tools/validate_corpus.py --root .
+
+      - name: Reject duplicate lemmas
+        run: python tools/find_duplicates.py .
+
+      - name: Reject TSV drift from Markdown
+        run: python tools/check_tsv_drift.py --root .
 
   markdown-lint:
     name: Markdown Linting

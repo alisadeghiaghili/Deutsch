@@ -65,7 +65,7 @@ def main() -> int:
                 print(f"  {lem}: lines {lines}")
                 total += 1
     print(f"\nTotal duplicated lemma keys: {total}")
-    return 0
+    return 1 if total else 0
 
 
 if __name__ == "__main__":

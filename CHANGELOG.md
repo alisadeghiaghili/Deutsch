@@ -4,6 +4,17 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
+## [0.6.0] — blocking corpus gates in CI
+
+### Added
+- `tools/check_tsv_drift.py` — fail when committed TSV ≠ fresh Markdown export
+- CI job steps: duplicate-lemma check + TSV drift check (both blocking)
+- npm scripts: `check:tsv`, `gates`
+
+### Changed
+- `tools/find_duplicates.py` exits 1 when any duplicate lemma remains
+- CI workflow name for the validator job is now **Corpus gates**
+
 ## [0.5.1] — plural corrections
 
 ### Added
