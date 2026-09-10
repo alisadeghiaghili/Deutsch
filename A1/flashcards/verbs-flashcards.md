@@ -120,7 +120,7 @@ laufen	to run	دویدن	lief	ist gelaufen	sein	Irregular		Ich laufe im Park.
 fallen	to fall	افتادن	fiel	ist gefallen	sein	Irregular		Ich falle auf den Boden.
 sitzen	to sit	نشستن	saß	hat gesessen	haben	Irregular		Ich sitze auf dem Stuhl.
 liegen	to lie down	خوابیدن	lag	hat gelegen	haben	Irregular		Das Buch liegt auf dem Tisch.
-stehen	to stand	ایستادen	stand	hat gestanden	haben	Irregular		Ich stehe an der Bushaltestelle.
+stehen	to stand	ایستادن	stand	hat gestanden	haben	Irregular		Ich stehe an der Bushaltestelle.
 halten	to hold	نگه داشتن	hielt	hat gehalten	haben	Irregular	[Akk]	Ich halte die Tür auf.
 legen	to lay	قرار دادن	legte	hat gelegt	haben	Regular	[Akk]	Ich lege das Buch auf den Tisch.
 stellen	to place	قرار دادن	stellte	hat gestellt	haben	Regular	[Akk]	Ich stelle die Tasse hin.
@@ -136,12 +136,12 @@ glauben	to believe	باور کردن	glaubte	hat geglaubt	haben	Regular	[Akk][Da
 hoffen	to hope	امیدوار بودن	hoffte	hat gehofft	haben	Regular		Ich hoffe auf besseres Wetter.
 erinnern	to remember	به یاد آوردن	erinnerte	hat erinnert	haben	Regular (refl)	[Präp: an+Akk]	Ich erinnere mich an dich.
 vergessen	to forget	فراموش کردن	vergaß	hat vergessen	haben	Irregular	[Akk]	Ich vergesse meinen Schlüssel.
-warten	to wait	منتظر بودen	wartete	hat gewartet	haben	Regular	[Präp: auf+Dat]	Ich warte auf den Bus.
+warten	to wait	منتظر بودن	wartete	hat gewartet	haben	Regular	[Präp: auf+Dat]	Ich warte auf den Bus.
 fragen	to ask	پرسیدن	fragte	hat gefragt	haben	Regular	[Akk]	Ich frage meinen Lehrer.
 antworten	to answer	پاسخ دادن	antwortete	hat geantwortet	haben	Regular	[Dat]	Ich antworte auf die Frage.
 erzählen	to tell	تعریف کردن	erzählte	hat erzählt	haben	Regular	[Akk][Dat]	Ich erzähle dir eine Geschichte.
 erklären	to explain	توضیح دادن	erklärte	hat erklärt	haben	Regular	[Akk]	Ich erkläre die Grammatik.
-zeigen	to show	نشان دادen	zeigte	hat gezeigt	haben	Regular	[Akk][Dat]	Ich zeige dir das Foto.
+zeigen	to show	نشان دادن	zeigte	hat gezeigt	haben	Regular	[Akk][Dat]	Ich zeige dir das Foto.
 wünschen	to wish	آرزو کردن	wünschte	hat gewünscht	haben	Regular	[Akk][Dat]	Ich wünsche dir alles Gute.
 gratulieren	to congratulate	تبریک گفتن	gratulierte	hat gratuliert	haben	Regular	[Dat]	Ich gratuliere dir zum Geburtstag.
 vorstellen	to introduce	معرفی کردن	stellte vor	hat vorgestellt	haben	Regular (sep)	[Akk]	Ich stelle mich vor.

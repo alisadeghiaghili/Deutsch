@@ -8,11 +8,11 @@
 | debattieren | to debate | مناظره کردن | debattierte | hat debattiert | haben | Regular | [Präp: über+Akk] | Sie debattieren über das Thema. |
 | argumentieren | to argue | استدلال کردن | argumentierte | hat argumentiert | haben | Regular | | Er argumentiert logisch. |
 | überreden | to persuade | قانع کردن | überredete | hat überredet | haben | Regular | [Akk] [Präp: zu+Dat] | Ich überrede ihn zum Mitmachen. |
-| überzeugen | to convince | متقاعد کرden | überzeugte | hat überzeugt | haben | Regular | [Akk] [Präp: von+Dat] | Sie hat mich von ihrer Idee überzeugt. |
+| überzeugen | to convince | متقاعد کردن | überzeugte | hat überzeugt | haben | Regular | [Akk] [Präp: von+Dat] | Sie hat mich von ihrer Idee überzeugt. |
 | warnen | to warn | هشدار دادن | warnte | hat gewarnt | haben | Regular | [Akk] [Präp: vor+Dat] | Ich warne dich vor dem Hund. |
 | raten | to advise | توصیه کردن | riet | hat geraten | haben | Irregular | [Dat] [Präp: zu+Dat] | Ich rate dir zum Arzt zu gehen. |
 | vorschlagen | to suggest | پیشنهاد دادن | schlug vor | hat vorgeschlagen | haben | Irregular (sep) | [Akk] [Dat] | Ich schlage einen neuen Plan vor. |
-| bitten | to ask/request | خواهش کرden | bat | hat gebeten | haben | Irregular | [Akk] [Präp: um+Akk] | Ich bitte um Ihre Hilfe. |
+| bitten | to ask/request | خواهش کردن | bat | hat gebeten | haben | Irregular | [Akk] [Präp: um+Akk] | Ich bitte um Ihre Hilfe. |
 | danken | to thank | تشکر کردن | dankte | hat gedankt | haben | Regular | [Dat] | Ich danke dir für alles. |
 | entschuldigen | to apologize | عذرخواهی کردن | entschuldigte | hat entschuldigt | haben | Regular (refl) | [Präp: bei+Dat] | Ich entschuldige mich bei Ihnen. |
 | loben | to praise | تحسین کردن | lobte | hat gelobt | haben | Regular | [Akk] | Der Lehrer lobt die Schüler. |
@@ -46,13 +46,13 @@
 | studieren | to study (university) | دانشگاه رفتن | studierte | hat studiert | haben | Regular | [Akk] | Ich studiere Medizin. |
 | verstehen | to understand | فهمیدن | verstand | hat verstanden | haben | Irregular | [Akk] | Ich verstehe die Grammatik nicht. |
 | wiederholen | to repeat | تکرار کردن | wiederholte | hat wiederholt | haben | Regular | [Akk] | Wiederhole den Satz bitte. |
-| üben | to practice | تمرین کرden | übte | hat geübt | haben | Regular | [Akk] | Ich übe das Klavierspielen. |
+| üben | to practice | تمرین کردن | übte | hat geübt | haben | Regular | [Akk] | Ich übe das Klavierspielen. |
 | prüfen | to test | آزمایش کردن | prüfte | hat geprüft | haben | Regular | [Akk] | Der Lehrer prüft die Schüler. |
-| benoten | to grade | نمره دادen | benotete | hat benotet | haben | Regular | [Akk] | Der Lehrer benotet die Arbeiten. |
+| benoten | to grade | نمره دادن | benotete | hat benotet | haben | Regular | [Akk] | Der Lehrer benotet die Arbeiten. |
 | bestehen | to pass (exam) | قبول شدن | bestand | hat bestanden | haben | Irregular | [Akk] | Ich habe die Prüfung bestanden. |
 | scheitern | to fail | رد شدن | scheiterte | ist gescheitert | sein | Regular | | Er ist an der Prüfung gescheitert. |
 | abschließen | to finish/graduate | فارغ التحصیل شدن | schloss ab | hat abgeschlossen | haben | Irregular (sep) | [Akk] | Ich habe mein Studium abgeschlossen. |
-| fortsetzen | to continue | ادامه دادen | setzte fort | hat fortgesetzt | haben | Regular (sep) | [Akk] | Wir setzen das Projekt fort. |
+| fortsetzen | to continue | ادامه دادن | setzte fort | hat fortgesetzt | haben | Regular (sep) | [Akk] | Wir setzen das Projekt fort. |
 | abbrechen | to break off | ترک کردن | brach ab | hat abgebrochen | haben | Irregular (sep) | [Akk] | Er hat das Studium abgebrochen. |
 | lernen | to learn | یاد گرفتن | lernte | hat gelernt | haben | Regular | [Akk] | Ich lerne jeden Tag Deutsch. |
 
@@ -62,12 +62,12 @@
 |--------|---------|---------|------------|---------|-----------|---------|-------|---------|
 | arbeiten | to work | کار کردن | arbeitete | hat gearbeitet | haben | Regular | | Ich arbeite von neun bis fünf. |
 | bewerben | to apply | درخواست دادن | bewarb | hat beworben | haben | Irregular (refl) | [Präp: um+Akk] | Ich bewerbe mich um die Stelle. |
-| einstellen | to hire | استخدام کرden | stellte ein | hat eingestellt | haben | Regular (sep) | [Akk] | Das Unternehmen stellt neue Mitarbeiter ein. |
-| entlassen | to fire/dismiss | اخراج کرden | entließ | hat entlassen | haben | Irregular | [Akk] | Sie hat ihn entlassen. |
-| befördern | to promote | ارتقا دادen | beförderte | hat befördert | haben | Regular | [Akk] | Die Firma befördert ihn zum Manager. |
+| einstellen | to hire | استخدام کردن | stellte ein | hat eingestellt | haben | Regular (sep) | [Akk] | Das Unternehmen stellt neue Mitarbeiter ein. |
+| entlassen | to fire/dismiss | اخراج کردن | entließ | hat entlassen | haben | Irregular | [Akk] | Sie hat ihn entlassen. |
+| befördern | to promote | ارتقا دادن | beförderte | hat befördert | haben | Regular | [Akk] | Die Firma befördert ihn zum Manager. |
 | kündigen | to resign/fire | استعفا دادن | kündigte | hat gekündigt | haben | Regular | [Akk] | Ich kündige meinen Job. |
-| verhandeln | to negotiate | مذاکره کرden | verhandelte | hat verhandelt | haben | Regular | [Präp: über+Akk] | Wir verhandeln über die Bedingungen. |
-| organisieren | to organize | سازماندهی کرden | organisierte | hat organisiert | haben | Regular | [Akk] | Wer organisiert die Veranstaltung? |
+| verhandeln | to negotiate | مذاکره کردن | verhandelte | hat verhandelt | haben | Regular | [Präp: über+Akk] | Wir verhandeln über die Bedingungen. |
+| organisieren | to organize | سازماندهی کردن | organisierte | hat organisiert | haben | Regular | [Akk] | Wer organisiert die Veranstaltung? |
 | planen | to plan | برنامه ریزی کردن | plante | hat geplant | haben | Regular | [Akk] | Ich plane meine Karriere. |
 | koordinieren | to coordinate | هماهنگ کردن | koordinierte | hat koordiniert | haben | Regular | [Akk] | Sie koordiniert das Team. |
 | verantworten | to be responsible for | مسئول بودن | verantwortete | hat verantwortet | haben | Regular | [Akk] | Er verantwortet das Projekt. |
@@ -84,16 +84,16 @@
 | fahren | to drive/go | رانندگی کردن | fuhr | ist gefahren | sein | Irregular | [Akk] | Ich fahre mit dem Auto. |
 | laufen | to run/walk | دویدن | lief | ist gelaufen | sein | Irregular | | Ich laufe zum Bahnhof. |
 | wandern | to hike | پیاده روی کردن | wanderte | ist gewandert | sein | Regular | | Wir wandern in den Bergen. |
-| campen | to camp | کمپ زدن | camperte | ist gecampt | sein | Regular | | Wir campen am See. |
+| campen | to camp | کمپ زدن | campte | ist gecampt | sein | Regular | | Wir campen am See. |
 | buchen | to book | رزرو کردن | buchte | hat gebucht | haben | Regular | [Akk] | Ich buche ein Hotel. |
 | reservieren | to reserve | رزرو کردن | reservierte | hat reserviert | haben | Regular | [Akk] | Ich reserviere einen Tisch. |
 | stornieren | to cancel | لغو کردن | stornierte | hat storniert | haben | Regular | [Akk] | Ich storniere die Buchung. |
 | zurückkehren | to return | برگشتن | kehrte zurück | ist zurückgekehrt | sein | Regular (sep) | | Er kehrt morgen zurück. |
-| umsteigen | to transfer/switch | جا به جا شدن | stieg um | ist umgestiegen | sein | Regular (sep) | | Ich muss in Berlin umsteigen. |
-| einsteigen | to get in | سوار شدن | stieg ein | ist eingestiegen | sein | Regular (sep) | | Ich steige in den Zug ein. |
-| aussteigen | to get out | پیاده شدن | stieg aus | ist ausgestiegen | sein | Regular (sep) | | Ich steige an der Haltestelle aus. |
-| abfahren | to depart | حرکت کردن | fuhr ab | ist abgefahren | sein | Regular (sep) | | Der Zug fährt um acht ab. |
-| ankommen | to arrive | رسیدن | kam an | ist angekommen | sein | Regular (sep) | | Wir kommen pünktlich an. |
+| umsteigen | to transfer/switch | جا به جا شدن | stieg um | ist umgestiegen | sein | Irregular (sep) | | Ich muss in Berlin umsteigen. |
+| einsteigen | to get in | سوار شدن | stieg ein | ist eingestiegen | sein | Irregular (sep) | | Ich steige in den Zug ein. |
+| aussteigen | to get out | پیاده شدن | stieg aus | ist ausgestiegen | sein | Irregular (sep) | | Ich steige an der Haltestelle aus. |
+| abfahren | to depart | حرکت کردن | fuhr ab | ist abgefahren | sein | Irregular (sep) | | Der Zug fährt um acht ab. |
+| ankommen | to arrive | رسیدن | kam an | ist angekommen | sein | Irregular (sep) | | Wir kommen pünktlich an. |
 
 ## 6. Essen und Trinken (Food)
 
@@ -122,19 +122,19 @@
 | sparen | to save | پس انداز کردن | sparte | hat gespart | haben | Regular | [Akk] | Ich spare Geld für den Urlaub. |
 | ausgeben | to spend | خرج کردن | gab aus | hat ausgegeben | haben | Irregular (sep) | [Akk] | Ich gebe zu viel Geld aus. |
 | handeln | to trade | تجارت کردن | handelte | hat gehandelt | haben | Regular | | Sie handeln mit Antiquitäten. |
-| verhandeln | to negotiate | مذاکره کرden | verhandelte | hat verhandelt | haben | Regular | [Präp: über+Akk] | Wir verhandeln über den Preis. |
+| verhandeln | to negotiate | مذاکره کردن | verhandelte | hat verhandelt | haben | Regular | [Präp: über+Akk] | Wir verhandeln über den Preis. |
 | liefern | to deliver | تحویل دادن | lieferte | hat geliefert | haben | Regular | [Akk] | Das Paket wird morgen geliefert. |
 | reklamieren | to complain about product | شکایت کردن | reklamierte | hat reklamiert | haben | Regular | [Akk] | Ich reklamiere das kaputte Produkt. |
 | umtauschen | to exchange | عوض کردن | tauschte um | hat umgetauscht | haben | Regular (sep) | [Akk] | Ich möchte den Pullover umtauschen. |
 | garantieren | to guarantee | ضمانت کردن | garantierte | hat garantiert | haben | Regular | [Akk] | Der Händler garantiert die Qualität. |
-| anbieten | to offer | پیشنهاد کرden | bot an | hat angeboten | haben | Irregular (sep) | [Akk] [Dat] | Er bietet mir Hilfe an. |
+| anbieten | to offer | پیشنهاد کردن | bot an | hat angeboten | haben | Irregular (sep) | [Akk] [Dat] | Er bietet mir Hilfe an. |
 
 ## 8. Gesundheit (Health)
 
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Regular | Cases | Example |
 |--------|---------|---------|------------|---------|-----------|---------|-------|---------|
 | heilen | to heal | درمان کردن | heilte | hat geheilt | haben | Regular | | Die Wunde heilt schnell. |
-| behandeln | to treat | درمان کرden | behandelte | hat behandelt | haben | Regular | [Akk] | Der Arzt behandelt den Patienten. |
+| behandeln | to treat | درمان کردن | behandelte | hat behandelt | haben | Regular | [Akk] | Der Arzt behandelt den Patienten. |
 | untersuchen | to examine | معاینه کردن | untersuchte | hat untersucht | haben | Regular | [Akk] | Der Arzt untersucht den Patienten. |
 | diagnostizieren | to diagnose | تشخیص دادن | diagnostizierte | hat diagnostiziert | haben | Regular | [Akk] | Der Arzt diagnostiziert die Krankheit. |
 | verschreiben | to prescribe | نسخه نوشتن | verschrieb | hat verschrieben | haben | Irregular (sep) | [Akk] [Dat] | Der Arzt verschreibt mir Medikamente. |
@@ -143,8 +143,8 @@
 | genesen | to recover from illness | بهبود یافتن | genas | ist genesen | sein | Irregular | | Sie ist von der Krankheit genesen. |
 | verletzen | to injure | آسیب رساندن | verletzte | hat verletzt | haben | Regular (refl) | [Akk] | Er hat sich beim Sport verletzt. |
 | schützen | to protect | محافظت کردن | schützte | hat geschützt | haben | Regular | [Akk] [Präp: vor+Dat] | Die Sonnencreme schützt vor Sonnenbrand. |
-| vorbeugen | to prevent | جلوگیری کرden | beugte vor | hat vorgebeugt | haben | Regular (sep) | [Dat] | Sport kann Krankheiten vorbeugen. |
-| erkennen | to recognize/diagnose | تشخیص دادen | erkannte | hat erkannt | haben | Irregular | [Akk] | Der Arzt erkennt die Krankheit früh. |
+| vorbeugen | to prevent | جلوگیری کردن | beugte vor | hat vorgebeugt | haben | Regular (sep) | [Dat] | Sport kann Krankheiten vorbeugen. |
+| erkennen | to recognize/diagnose | تشخیص دادن | erkannte | hat erkannt | haben | Irregular | [Akk] | Der Arzt erkennt die Krankheit früh. |
 
 ## 9. Medien und Technik (Media & Technology)
 
@@ -158,9 +158,9 @@
 | laden | to load | بارگذاری کردن | lud | hat geladen | haben | Irregular | [Akk] | Ich lade die Datei herunter. |
 | kopieren | to copy | کپی کردن | kopierte | hat kopiert | haben | Regular | [Akk] | Ich kopiere das Dokument. |
 | teilen | to share | اشتراک گذاشتن | teilte | hat geteilt | haben | Regular | [Akk] | Ich teile das Foto mit Freunden. |
-| kommentieren | to comment | نظر دادen | kommentierte | hat kommentiert | haben | Regular | [Akk] | Ich kommentiere den Beitrag. |
-| bewerten | to rate/review | امتیاز دادen | bewertete | hat bewertet | haben | Regular | [Akk] | Ich bewerte das Produkt. |
-| abonnieren | to subscribe | اشتراک گرفten | abonnierte | hat abonniert | haben | Regular | [Akk] | Ich abonniere den Kanal. |
+| kommentieren | to comment | نظر دادن | kommentierte | hat kommentiert | haben | Regular | [Akk] | Ich kommentiere den Beitrag. |
+| bewerten | to rate/review | امتیاز دادن | bewertete | hat bewertet | haben | Regular | [Akk] | Ich bewerte das Produkt. |
+| abonnieren | to subscribe | اشتراک گرفتن | abonnierte | hat abonniert | haben | Regular | [Akk] | Ich abonniere den Kanal. |
 | drucken | to print | چاپ کردن | druckte | hat gedruckt | haben | Regular | [Akk] | Ich drucke die Datei aus. |
 | speichern | to save | ذخیره کردن | speicherte | hat gespeichert | haben | Regular | [Akk] | Speichern Sie das Dokument. |
 | löschen | to delete | پاک کردن | löschte | hat gelöscht | haben | Regular | [Akk] | Ich lösche die Nachricht. |
@@ -175,28 +175,28 @@
 | verschmutzen | to pollute | آلوده کردن | verschmutzte | hat verschmutzt | haben | Regular | [Akk] | Die Fabrik verschmutzt die Luft. |
 | zerstören | to destroy | نابود کردن | zerstörte | hat zerstört | haben | Regular | [Akk] | Der Sturm zerstört die Häuser. |
 | pflanzen | to plant | کاشتن | pflanzte | hat gepflanzt | haben | Regular | [Akk] | Ich pflanze Blumen im Garten. |
-| gärtnern | to garden | باغبانی کردن | gärtner | hat gärtner | haben | Regular | | Ich gärtnere am Wochenende. |
-| ernten | to harvest | برداشت کرden | ernytete | hat geerntet | haben | Regular | [Akk] | Die Bauern ernten das Getreide. |
+| gärtnern | to garden | باغبانی کردن | gärtnerte | hat gegärtnert | haben | Regular | | Ich gärtnere am Wochenende. |
+| ernten | to harvest | برداشت کردن | erntete | hat geerntet | haben | Regular | [Akk] | Die Bauern ernten das Getreide. |
 | wachsen | to grow | رشد کردن | wuchs | ist gewachsen | sein | Irregular | | Die Pflanze wächst schnell. |
 | blühen | to bloom | شکوفا شدن | blühte | hat geblüht | haben | Regular | | Die Rosen blühen im Frühling. |
 | welken | to wilt | پژمره شدن | welkte | ist gewelkt | sein | Regular | | Die Blumen welken schnell. |
 | schmelzen | to melt | ذوب شدن | schmolz | ist geschmolzen | sein | Irregular | | Der Schnee schmilzt im Frühling. |
 | gefrieren | to freeze | یخ زدن | gefror | ist gefroren | sein | Irregular | | Der See gefriert im Winter. |
 | säubern | to clean up | تمیز کردن | säuberte | hat gesäubert | haben | Regular | [Akk] | Wir säubern den Fluss. |
-| emissionieren | to emit | انتشار دادen | emittierte | hat emittiert | haben | Regular | [Akk] | Die Fabrik emittiert Giftgase. |
+| emittieren | to emit | انتشار دادن | emittierte | hat emittiert | haben | Regular | [Akk] | Die Fabrik emittiert Giftgase. |
 
 ## 11. Kultur und Kunst (Culture & Art)
 
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Regular | Cases | Example |
 |--------|---------|---------|------------|---------|-----------|---------|-------|---------|
-| ausstellen | to exhibit | نمایش دادen | stellte aus | hat ausgestellt | haben | Regular (sep) | [Akk] | Das Museum stellt Gemälde aus. |
-| darstellen | to depict/represent | نمایش دادen | stellte dar | hat dargestellt | haben | Regular (sep) | [Akk] | Das Bild stellt eine Landschaft dar. |
+| ausstellen | to exhibit | نمایش دادن | stellte aus | hat ausgestellt | haben | Regular (sep) | [Akk] | Das Museum stellt Gemälde aus. |
+| darstellen | to depict/represent | نمایش دادن | stellte dar | hat dargestellt | haben | Regular (sep) | [Akk] | Das Bild stellt eine Landschaft dar. |
 | aufführen | to perform | اجرا کردن | führte auf | hat aufgeführt | haben | Regular (sep) | [Akk] | Das Theater führt ein Stück auf. |
 | komponieren | to compose | آهنگ سازی کردن | komponierte | hat komponiert | haben | Regular | [Akk] | Er komponiert Musik. |
 | malen | to paint | نقاشی کردن | malte | hat gemalt | haben | Regular | [Akk] | Sie malt ein Bild. |
 | zeichnen | to draw | طراحی کردن | zeichnete | hat gezeichnet | haben | Regular | [Akk] | Ich zeichne einen Baum. |
 | gestalten | to design | طراحی کردن | gestaltete | hat gestaltet | haben | Regular | [Akk] | Sie gestaltet die Webseite. |
-| entwerfen | to design/create | طراحی کرden | entwarf | hat entworfen | haben | Irregular | [Akk] | Er entwirft ein neues Gebäude. |
+| entwerfen | to design/create | طراحی کردن | entwarf | hat entworfen | haben | Irregular | [Akk] | Er entwirft ein neues Gebäude. |
 | restaurieren | to restore | مرمت کردن | restaurierte | hat restauriert | haben | Regular | [Akk] | Das Gemälde wurde restauriert. |
 | ausdrücken | to express | بیان کردن | drückte aus | hat ausgedrückt | haben | Regular (sep) | [Akk] | Sie drückt ihre Gefühle aus. |
 | interpretieren | to interpret | تفسیر کردن | interpretierte | hat interpretiert | haben | Regular | [Akk] | Er interpretiert das Kunstwerk. |
@@ -207,9 +207,9 @@
 |--------|---------|---------|------------|---------|-----------|---------|-------|---------|
 | bleiben | to stay/remain | ماندن | blieb | ist geblieben | sein | Irregular | | Ich bleibe zu Hause. |
 | werden | to become | شدن | wurde | ist geworden | sein | Irregular | | Er wird Arzt. |
-| scheinen | to seem | به نظر رسیدen | schien | hat geschienen | haben | Irregular | | Es scheint einfach zu sein. |
+| scheinen | to seem | به نظر رسیدن | schien | hat geschienen | haben | Irregular | | Es scheint einfach zu sein. |
 | wirken | to have an effect | اثر گذاشتن | wirkte | hat gewirkt | haben | Regular | | Das Medikament wirkt schnell. |
-| aussehen | to look like | به نظر رسیدen | sah aus | hat ausgesehen | haben | Irregular (sep) | | Sie sieht gut aus. |
+| aussehen | to look like | به نظر رسیدن | sah aus | hat ausgesehen | haben | Irregular (sep) | | Sie sieht gut aus. |
 | klingen | to sound | صدا دادن | klang | hat geklungen | haben | Irregular | | Das klingt gut! |
 | fühlen | to feel | احساس کردن | fühlte | hat gefühlt | haben | Regular (refl) | [Akk] | Ich fühle mich müde. |
 | riechen | to smell | بوییدن | roch | hat gerochen | haben | Irregular | | Die Blumen riechen gut. |

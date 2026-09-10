@@ -19,7 +19,7 @@ This deck is designed for Anki import. Use the corresponding TSV files:
 |--------|---------|---------|
 | der Bewerber | applicant | متقاضی |
 | die Bewerbung | application | درخواست |
-| das Lebenslauf | CV / resume | رزومه |
+| der Lebenslauf | CV / resume | رزومه |
 | das Vorstellungsgespräch | job interview | مصاحبه کاری |
 | die Probezeit | probation period | دوره آزمایشی |
 | die Kündigung | dismissal / resignation | اخراج / استعفا |
@@ -37,7 +37,7 @@ This deck is designed for Anki import. Use the corresponding TSV files:
 | die Tabletten | pills / tablets | قرص‌ها |
 | die Spritze | injection | تزریق / آمپول |
 | die Wunde | wound | زخم |
-| die Fieber | fever | تب |
+| das Fieber | fever | تب |
 | die Erkältung | cold | سرماخوردگی |
 | die Allergie | allergy | آلرژی |
 | die Nebenwirkung | side effect | عارضه جانبی |
@@ -66,8 +66,8 @@ This deck is designed for Anki import. Use the corresponding TSV files:
 | die Gepäckstück | piece of luggage | چمدان |
 | die Rückreise | return journey | سفر برگشت |
 | die Hinreise | outward journey | سفر رفت |
-| die Reisepass | passport | پاسپورت |
-| die Zoll | customs | گمرک |
+| der Reisepass | passport | پاسپورت |
+| der Zoll | customs | گمرک |
 | die Einreise | entry | ورود |
 
 #### 5. Technology & Media / Technologie und Medien

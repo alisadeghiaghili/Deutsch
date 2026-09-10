@@ -96,7 +96,7 @@ Würde-Form: Er sagt, er würde Arzt sein.           ← less formal
 Der Minister sagte, die Wirtschaft werde sich erholen.
 (The minister said the economy would recover.)
 
-Die Polizei teilte mit, der Täter sei noch auf freiem Foot.
+Die Polizei teilte mit, der Täter sei noch auf freiem Fuß.
 (The police reported that the perpetrator was still at large.)
 
 Laut Augenzeugen sei das Auto mit hoher Geschwindigkeit gefahren.

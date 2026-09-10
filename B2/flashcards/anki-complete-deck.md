@@ -160,16 +160,16 @@
 |--------|---------|---------|
 | eine Entscheidung treffen | make a decision | تصمیم گرفتن |
 | eine Frage stellen | ask a question | سؤال پرسیدن |
-| Fortschritte machen | make progress | پیشرفت کرden |
+| Fortschritte machen | make progress | پیشرفت کردن |
 | ein Problem lösen | solve a problem | مشکلی را حل کردن |
 | eine Lösung finden | find a solution | راه حلی پیدا کردن |
 | Rücksicht auf jdn. nehmen | consider someone | به کسی توجه کردن |
 | sich Sorgen machen | worry about | نگران بودن |
 | auf jdn. zugehen | approach someone | به کسی نزدیک شدن |
-| jdn. um Hilfe bitten | ask someone for help | از کسی کمک خواستen |
+| jdn. um Hilfe bitten | ask someone for help | از کسی کمک خواستن |
 | eine Rolle spielen | play a role | نقشی ایفا کردن |
 | in Betracht ziehen | take into consideration | در نظر گرفتن |
-| zum Schluss kommen | come to a conclusion | به نتیجه رسیدen |
+| zum Schluss kommen | come to a conclusion | به نتیجه رسیدن |
 | im Gegensatz zu | in contrast to | در مقابل |
 | im Hinblick auf | with regard to | با توجه به |
 | von Bedeutung sein | be of significance | مهم بودن |

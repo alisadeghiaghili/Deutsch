@@ -205,7 +205,7 @@
 | 🔵 Puls | pulse | نبض | Maskulin | der | die Pulse | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Operation | operation | عمل جراحی | Maskulin | der | die Operationen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Termin | appointment | قرار ملاقات | Maskulin | der | die Termine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Nebenwirkung | side effect | عوارض جانبی | Feminin | die | die Nebenwirkungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nebenwirkung | side effect | عوارض جانبی | Feminin | die | die Nebenwirkungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ärztin | female doctor | پزشک (زن) | Feminin | die | die Ärztinnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Patientin | female patient | بیمار (زن) | Feminin | die | die Patientinnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Apotheke | pharmacy | داروخانه | Feminin | die | die Apotheken | [Nom] [Akk] [Dat] [Gen] |
@@ -282,7 +282,7 @@
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Arbeitsverhältnis | employment relationship | رابطه کاری | Maskulin | der | die Arbeitsverhältnisse | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Aufstieg | promotion | ارتقا | Maskulin | der | die Aufstiege | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bewerbung | application | درخواست | Feminin | die | die Bewerbungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Bewerbung | application | درخواست | Feminin | die | die Bewerbungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Chefin | female boss | رئیس (زن) | Feminin | die | die Chefinnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Kollegin | female colleague | همکار (زن) | Feminin | die | die Kolleginnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Firma | company | شرکت | Feminin | die | die Firmen | [Nom] [Akk] [Dat] [Gen] |
@@ -439,10 +439,10 @@
 | 🔵 Prozessor | processor | پردازنده | Maskulin | der | die Prozessoren | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Akku | rechargeable battery | باتری قابل شارژ | Maskulin | der | die Akkus | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Blog | blog | بلاگ | Maskulin | der | die Blogs | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kamera | camera | دوربین | Feminin | die | die Kameras | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kamera | camera | دوربین | Feminin | die | die Kameras | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Sender | transmitter/broadcaster | فرستنده | Maskulin | der | die Sender | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Empfänger | receiver | گیرنده | Maskulin | der | die Empfänger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Firmware | firmware | فریمور | Maskulin | die | die Firmwares | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Firmware | firmware | فریمور | Feminin | die | die Firmwares | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Virenschutz | antivirus | آنتی‌ویروس | Maskulin | der | die Virenschutz | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Drucker | printer | پرینتر | Maskulin | der | die Drucker | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Scanner | scanner | اسکنر | Maskulin | der | die Scanner | [Nom] [Akk] [Dat] [Gen] |
@@ -451,8 +451,8 @@
 | 🔵 Festplattenlaufwerk | hard disk drive | هارد دیسک | Maskulin | der | die Festplattenlaufwerke | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Netzwerk | network | شبکه | Maskulin | der | die Netzwerke | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Breitband | broadband | پهن‌باند | Maskulin | der | die Breitbänder | [Nom] [Akk] [Dat] [Gen] |
-| 🔵-cloud | cloud storage | فضای ابری | Feminin | die | die-clouds | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴-cloud | cloud storage | فضای ابری | Feminin | die | die-clouds | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Maus | mouse | ماوس | Feminin | die | die Mäuse | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
@@ -1953,7 +1953,7 @@
 | 🔵 Schnee | snow | برف | Maskulin | der | die Schnee | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Sturm | storm | طوفان | Maskulin | der | die Stürme | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Erdbeben | earthquake | زلزله | Maskulin | der | die Erdbeben | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gewitter | thunderstorm | رعد و برق | Maskulin | das | die Gewitter | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gewitter | thunderstorm | رعد و برق | Neutral | das | die Gewitter | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Baum | tree | درخت | Maskulin | der | die Bäume | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Regenbogen | rainbow | رنگین‌کمان | Maskulin | der | die Regenbogen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zaun | fence | حصار | Maskulin | der | die Zäune | [Nom] [Akk] [Dat] [Gen] |
@@ -1966,7 +1966,7 @@
 | 🔵 Donner | thunder | صدای رعد | Maskulin | der | die Donner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Natur | nature | طبیعت | Maskulin | der | die Naturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Umwelt | environment | محیط زیست | Maskulin | der | die Umwelten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Überschwemmung | flood | سیل | Feminin | die | die Überschwemmungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Überschwemmung | flood | سیل | Feminin | die | die Überschwemmungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Sonne | sun | خورشید | Feminin | die | die Sonnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Wolke | cloud | ابر | Feminin | die | die Wolken | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Insel | island | جزیره | Feminin | die | die Inseln | [Nom] [Akk] [Dat] [Gen] |
@@ -1989,7 +1989,7 @@
 | 🔴 Verschmutzung | pollution | آلودگی | Feminin | die | die Verschmutzungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Temperatur | temperature | دما | Feminin | die | die Temperaturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Schadstoff | pollutant | آلاینده | Feminin | die | die Schadstoffe | [Nom] [Akk] [Dat] [Gen] |
-| �pton | protection | حفاظت | Feminin | die | die Schutzmaßnahmen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 �pton | protection | حفاظت | Feminin | die | die Schutzmaßnahmen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Erhaltung | conservation | حفظ | Feminin | die | die Erhaltungen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Meer | sea/ocean | دریا | Neutral | das | die Meere | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 See | lake | دریاچه | Neutral | das | die Seen | [Nom] [Akk] [Dat] [Gen] |
@@ -2025,7 +2025,7 @@
 | 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fest | festival | جشنواره | Maskulin | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
@@ -2034,7 +2034,7 @@
 | 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fest | festival | جشنواره | Maskulin | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
@@ -2043,7 +2043,7 @@
 | 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fest | festival | جشنواره | Maskulin | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
@@ -2052,7 +2052,7 @@
 | 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fest | festival | جشنواره | Maskulin | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
@@ -2061,7 +2061,7 @@
 | 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fest | festival | جشنواره | Maskulin | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
@@ -2165,7 +2165,7 @@
 | 🔵 Straftäter | criminal | مجرم | Maskulin | der | die Straftäter | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Angeklagter | defendant | متهم | Maskulin | der | die Angeklagten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zeuge | witness | شاهد | Maskulin | der | die Zeugen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Wahl | election | انتخابات | Feminin | die | die Wahlen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wahl | election | انتخابات | Feminin | die | die Wahlen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Partei | party | حزب | Feminin | die | die Parteien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Regierung | government | دولت | Feminin | die | die Regierungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Demokratie | democracy | دموکراسی | Feminin | die | die Demokratien | [Nom] [Akk] [Dat] [Gen] |
@@ -2250,7 +2250,7 @@
 | 🔵 Umsatz | revenue | درآمد | Maskulin | der | die Umsätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zinssatz | interest rate | نرخ بهره | Maskulin | der | die Zinssätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Schulden | debt | بدهی | Maskulin | der | die Schulden | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Vertrag | contract | قرارداد | Maskulin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Vertrag | contract | قرارداد | Feminin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Geld | money | پول | Maskulin | der | die Geld | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kredit | credit | اعتبار | Maskulin | der | die Kredite | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Konto | account | حساب | Maskulin | der | die Konten | [Nom] [Akk] [Dat] [Gen] |
@@ -2266,8 +2266,8 @@
 | 🔵 Umsatz | revenue | درآمد | Maskulin | der | die Umsätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zinssatz | interest rate | نرخ بهره | Maskulin | der | die Zinssätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Schulden | debt | بدهی | Maskulin | der | die Schulden | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Vertrag | contract | قرارداد | Maskulin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Aktie | stock | سهام | Feminin | die | die Aktien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Vertrag | contract | قرارداد | Feminin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Aktie | stock | سهام | Feminin | die | die Aktien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Bank | bank | بانک | Feminin | die | die Banken | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Kreditkarte | credit card | کارت اعتباری | Feminin | die | die Kreditkarten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Überweisung | transfer | حواله | Feminin | die | die Überweisungen | [Nom] [Akk] [Dat] [Gen] |
@@ -2340,7 +2340,7 @@
 | 🔵 Gepäck | luggage | چمدان | Maskulin | der | die Gepäcke | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Koffer | suitcase | چمدان | Maskulin | der | die Koffer | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Handgepäck | hand luggage | چمدان دستی | Maskulin | der | die Handgepäcke | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gate | gate | دروازه | Maskulin | das | die Gates | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gate | gate | دروازه | Neutral | das | die Gates | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Terminal | terminal | ترمینال | Maskulin | der | die Terminals | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verspätung | delay | تأخیر | Maskulin | der | die Verspätungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Umstieg | transfer | ترانسفر | Maskulin | der | die Umstiege | [Nom] [Akk] [Dat] [Gen] |
@@ -2356,7 +2356,7 @@
 | 🔵 Gepäck | luggage | چمدان | Maskulin | der | die Gepäcke | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Koffer | suitcase | چمدان | Maskulin | der | die Koffer | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Handgepäck | hand luggage | چمدان دستی | Maskulin | der | die Handgepäcke | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gate | gate | دروازه | Maskulin | das | die Gates | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Gate | gate | دروازه | Neutral | das | die Gates | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Terminal | terminal | ترمینال | Maskulin | der | die Terminals | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verspätung | delay | تأخیر | Maskulin | der | die Verspätungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Umstieg | transfer | ترانسفر | Maskulin | der | die Umstiege | [Nom] [Akk] [Dat] [Gen] |
@@ -2366,7 +2366,7 @@
 | 🔵 Camping | camping | اردو زدن | Maskulin | der | die Campings | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Souvenir | souvenir | یادگاری | Maskulin | der | die Souvenirs | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Ausflug | excursion | گردش | Maskulin | der | die Ausflüge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Reisebüro | travel agency | آژانس مسافرتی | Feminin | die | die Reisebüros | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Reisebüro | travel agency | آژانس مسافرتی | Feminin | die | die Reisebüros | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Visum | visa | ویزا | Feminin | die | die Visa | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Bordkarte | boarding pass | کارت پرواز | Feminin | die | die Bordkarten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Pauschalreise | package tour | تور گردشگری | Feminin | die | die Pauschalreisen | [Nom] [Akk] [Dat] [Gen] |
@@ -2421,7 +2421,7 @@
 | 🔵 Umleitung | detour | انحراف مسیر | Maskulin | der | die Umleitungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Maut | toll | عوارض جاده | Maskulin | der | die Mauten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Werkstatt | workshop | کارگاه | Maskulin | der | die Werkstätten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Tankstelle | gas station | جایگاه سوخت | Feminin | die | die Tankstellen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tankstelle | gas station | جایگاه سوخت | Feminin | die | die Tankstellen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ampel | traffic light | چراغ راهنمایی | Feminin | die | die Ampeln | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Kreuzung | intersection | تقاطع | Feminin | die | die Kreuzungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Autobahn | highway | بزرگراه | Feminin | die | die Autobahnen | [Nom] [Akk] [Dat] [Gen] |
@@ -2469,7 +2469,7 @@
 | 🔵 Reis | rice | برنج | Maskulin | der | die Reis | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Honig | honey | عسل | Maskulin | der | die Honige | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Vorspeise | appetizer | پیش‌غذا | Feminin | die | die Vorspeisen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hauptspeise | main course | غذای اصلی | Feminin | die | die Hauptspeisen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Nachtisch | dessert | دسر | Feminin | die | die Nachtische | [Nom] [Akk] [Dat] [Gen] |
@@ -2550,7 +2550,7 @@
 | 🔵 Zaun | fence | حصار | Maskulin | der | die Zäune | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Tor | gate | دروازه | Maskulin | der | die Tore | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Briefkasten | mailbox | صندوق پستی | Maskulin | der | die Briefkästen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Tür | door | در | Feminin | die | die Türen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Tür | door | در | Feminin | die | die Türen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Terrasse | terrace | تراس | Feminin | die | die Terrassen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Wohnung | apartment | آپارتمان | Feminin | die | die Wohnungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Küche | kitchen | آشپزخانه | Feminin | die | die Küchen | [Nom] [Akk] [Dat] [Gen] |

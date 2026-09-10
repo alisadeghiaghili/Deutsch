@@ -100,7 +100,7 @@ When you want to mention **who** performs the action, use **von + Dativ**.
 | verkauft | verkaufen | to sell | فروختن | Das Auto wird verkauft. |
 | gekauft | kaufen | to buy | خریدن | Das Haus wird gekauft. |
 | gemacht | machen | to do/make | انجام دادن | Die Hausaufgaben werden gemacht. |
-| gesagt | sagen | to say | گفten | Die Wahrheit wird gesagt. |
+| gesagt | sagen | to say | گفتن | Die Wahrheit wird gesagt. |
 | gezeigt | zeigen | to show | نشان دادن | Die Bilder werden gezeigt. |
 | erklärt | erklären | to explain | توضیح دادن | Die Regeln werden erklärt. |
 | benutzt | benutzen | to use | استفاده کردن | Der Computer wird benutzt. |
