@@ -11,13 +11,12 @@
 | bestreiten | to deny | انکار کردن | bestritt | hat bestritten | haben | irr. | — | — |
 | zugeben | to admit | اعتراف کردن | gab zu | hat zugegeben | haben | irr. (sep) | — | — |
 | einräumen | to concede | پذیرفتن | räumte ein | hat eingeräumt | haben | reg. (sep) | — | — |
-| widerlegen | to refute | رد کردن | widerlegte | hat widerlegt | haben | reg. | — | — |
+| widerlegen | to refute | رد کردن | widerlegte | habe widerlegt | haben | reg. | — | — |
 | bekräftigen | to confirm | تأیید کردن | bekräftigte | hat bekräftigt | haben | reg. | — | — |
 | betonen | to emphasize | تأکید کردن | betonte | hat betont | haben | reg. | — | — |
 | hervorheben | to highlight | برجسته کردن | hob hervor | hat hervorgehoben | haben | reg. (sep) | — | — |
-| argumentieren | to argue | استدلال کردن | argumentierte | hat argumentiert | haben | reg. | — | — |
-| widerlegen | to refute | رد کردن | widerlegte | hat widerlegt | haben | reg. | — | — |
-| überzeugen | to convince | متقاعد کردن | überzeugte | hat überzeugt | haben | reg. | — | — |
+| argumentieren | to argue | استدلال کردن | argumentierte | habe argumentiert | haben | reg. | — | — |
+| überzeugen | to convince | متقاعد کردن | überzeugte | habe überzeugt | haben | reg. | — | — |
 
 ## Reflexion / Reflection
 
@@ -41,9 +40,6 @@
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | diskutieren | to discuss | بحث کردن | diskutierte | habe diskutiert | haben | reg. | — | — |
 | debattieren | to debate | مناظره کردن | debattierte | habe debattiert | haben | reg. | — | — |
-| argumentieren | to argue | استدلال کردن | argumentierte | habe argumentiert | haben | reg. | — | — |
-| überzeugen | to convince | متقاعد کردن | überzeugte | habe überzeugt | haben | reg. | — | — |
-| widerlegen | to refute | رد کردن | widerlegte | habe widerlegt | haben | reg. | — | — |
 | kritisieren | to criticize | نقد کردن | kritisierte | habe kritisiert | haben | reg. | — | — |
 | loben | to praise | تحسین کردن | lobte | habe gelobt | haben | reg. | — | — |
 | tadeln | to scold | سرزنش کردن | tadelte | habe getadelt | haben | reg. | — | — |
@@ -87,11 +83,9 @@
 | zitieren | to quote | نقل قول کردن | zitierte | habe zitiert | haben | reg. | — | — |
 | paraphrasieren | to paraphrase | بازگویی کردن | paraphrasierte | habe paraphrasiert | haben | reg. | — | — |
 | zusammenfassen | to summarize | خلاصه کردن | fasste zusammen | habe zusammengefasst | haben | reg. (sep) | — | — |
-| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | — |
 | lehren | to teach | آموزش دادن | lehrte | habe gelehrt | haben | reg. | — | — |
 | lernen | to learn | یاد گرفتن | lernt | habe gelernt | haben | reg. | — | — |
 | üben | to practice | تمرین کردن | übte | habe geübt | haben | reg. | — | — |
-| erklären | to explain | توضیح دادن | erklärte | habe erklärt | haben | reg. | — | — |
 | verstehen | to understand | فهمیدن | verstand | habe verstanden | haben | reg. | — | — |
 | begreifen | to comprehend | درک کردن | begriff | habe begriffen | haben | irr. | — | — |
 | einstudieren | to rehearse | تمرین کردن | studierte ein | habe eingestudiert | haben | reg. (sep) | — | — |
@@ -187,7 +181,6 @@
 | gestalten | to design | طراحی کردن | gestaltete | habe gestaltet | haben | reg. | — | — |
 | entwerfen | to design | طراحی کردن | entwarf | habe entworfen | haben | irr. | — | — |
 | restaurieren | to restore | بازسازی کردن | restaurierte | habe restauriert | haben | reg. | — | — |
-| kritisieren | to critique | نقد کردن | kritisierte | habe kritisirt | haben | reg. | — | — |
 | interpretieren | to interpret | تفسیر کردن | interpretierte | habe interpretiert | haben | reg. | — | — |
 | imitieren | to imitate | تقلید کردن | imitierte | habe imitiert | haben | reg. | — | — |
 | schaffen | to create | خلق کردن | schuf | habe geschaffen | haben | reg. | — | — |

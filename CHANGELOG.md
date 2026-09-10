@@ -4,6 +4,23 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
+## [0.5.0] — corpus depth cleanup
+
+### Added
+- `tools/find_duplicates.py` — report duplicate lemmas
+- `tools/cleanup_v05.py` — dedupe helper used for this pass
+- B2 vocabulary: **Stretch (C1-leaning abstracts)** banner before science/philosophy/politics blocks
+- npm script `dedupe:check`
+
+### Changed
+- Removed **~1.9k** duplicate vocabulary rows (A2 padded the most); unique lemmas only
+- A1/A2 verb `Regular`/`Irregular` cells renamed to unified `Class` (`reg.` / `irr.` / `(sep)`)
+- Verb/vocab TSV regenerated from the cleaned Markdown
+- README measured counts updated after dedupe
+
+### Fixed
+- Exact duplicate lemmas across A1–B2 vocabulary and verb tables
+
 ## [0.4.0] — unified schema and generated TSV
 
 ### Added

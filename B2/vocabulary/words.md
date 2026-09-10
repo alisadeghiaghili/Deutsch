@@ -7,6 +7,11 @@
 
 ---
 
+## Stretch (C1-leaning abstracts)
+
+Science / philosophy / politics abstracts sit **above general B2**.
+Study them after core B2 vocabulary, not as the main exam list.
+
 ## 🔬 Wissenschaft (Science)
 
 | German | English | Persian | Gender | Article | Plural | Cases |
@@ -36,7 +41,6 @@
 | 🔴 die Astronomie | astronomy | نجوم | Feminin | die | die Astronomie | Nom/Acc/Dat/Gen |
 | 🔴 die Geologie | geology | زمین‌شناسی | Feminin | die | die Geologie | Nom/Acc/Dat/Gen |
 | 🔴 die Meteorologie | meteorology | هواشناسی | Feminin | die | die Meteorologie | Nom/Acc/Dat/Gen |
-| ⭐ die These | thesis | تز/فرضیه | Feminin | die | die Thesen | Nom/Acc/Dat/Gen |
 | ⭐ die Prüfung | test/exam | آزمون | Feminin | die | die Prüfungen | Nom/Acc/Dat/Gen |
 | ⭐ die Studie | study | مطالعه | Feminin | die | die Studien | Nom/Acc/Dat/Gen |
 | 💡 "Hypothese" is feminine in German (die Hypothese) |
@@ -158,7 +162,6 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 die Ästhetik | aesthetics | زیبایی‌شناسی | Feminin | die | die Ästhetik | Nom/Acc/Dat/Gen |
 | 🔴 die Moderne | modernism | مدرنیسم | Feminin | die | die Modernen | Nom/Acc/Dat/Gen |
 | 🔴 die Postmoderne | postmodernism | پست‌مدرنیسم | Feminin | die | die Postmodernen | Nom/Acc/Dat/Gen |
 | 🔴 die Avantgarde | avant-garde | پیشگام | Feminin | die | die Avantgarden | Nom/Acc/Dat/Gen |
@@ -168,7 +171,6 @@
 | 🔵 der Impressionismus | impressionism | امپرسیونیسم | Maskulin | der | die Impressionismen | Nom/Acc/Dat/Gen |
 | 🔵 der Dadaismus | dadaism | دادائیسم | Maskulin | der | die Dadaismen | Nom/Acc/Dat/Gen |
 | 🔵 der Futurismus | futurism | فوتوریسم | Maskulin | der | die Futurismen | Nom/Acc/Dat/Gen |
-| 🔵 der Realismus | realism | واقع‌گرایی | Maskulin | der | die Realismen | Nom/Acc/Dat/Gen |
 | 🔵 der Romantizismus | romanticism | رمانتیسم | Maskulin | der | die Romantizismen | Nom/Acc/Dat/Gen |
 | 🔴 die Renaissance | renaissance | رنسانس | Feminin | die | die Renaissance | Nom/Acc/Dat/Gen |
 | ⭐ das Gemälde | painting | نقاشی | Neutral | das | die Gemälde | Nom/Acc/Dat/Gen |
@@ -260,7 +262,7 @@
 | 🟢 das Internet | internet | اینترنت | Neutral | das | die Internetze | Nom/Acc/Dat/Gen |
 | ⭐ der Computer | computer | کامپیوتر | Maskulin | der | die Computer | Nom/Acc/Dat/Gen |
 | ⭐ das Smartphone | smartphone | گوشی هوشمند | Neutral | das | die Smartphones | Nom/Acc/Dat/Gen |
-| ⭐ die App | app | اپلیکیشن | Feminin | die | die Apps | Nom/Acc/Dat/Gen |
+| 🔴 die App | application | اپلیکیشن | Feminin | die | die Apps | Nom/Acc/Dat/Gen |
 | 🔴 die Programmierung | programming | برنامه‌نویسی | Feminin | die | die Programmierungen | Nom/Acc/Dat/Gen |
 | 🔴 die Datenverarbeitung | data processing | پردازش داده | Feminin | die | die Datenverarbeitungen | Nom/Acc/Dat/Gen |
 | 🔴 die Kryptowährung | cryptocurrency | ارز دیجیتال | Feminin | die | die Kryptowährungen | Nom/Acc/Dat/Gen |
@@ -404,7 +406,6 @@
 | ⭐ die Zeitung | newspaper | روزنامه | Feminin | die | die Zeitungen | Nom/Acc/Dat/Gen |
 | ⭐ das Fernsehen | television | تلویزیون | Neutral | das | die Fernsehens | Nom/Acc/Dat/Gen |
 | ⭐ das Radio | radio | رادیو | Neutral | das | die Radios | Nom/Acc/Dat/Gen |
-| ⭐ das Internet | internet | اینترنت | Neutral | das | die Internetze | Nom/Acc/Dat/Gen |
 | ⭐ der Sender | station/channel | ایستگاه/شبکه | Maskulin | der | die Sender | Nom/Acc/Dat/Gen |
 | ⭐ die Sendung | broadcast | برنامه | Feminin | die | die Sendungen | Nom/Acc/Dat/Gen |
 | 🔴 die Nachricht | news | خبر | Feminin | die | die Nachrichten | Nom/Acc/Dat/Gen |
@@ -413,13 +414,11 @@
 | 🔴 die Recherche | research/investigation | تحقیق | Feminin | die | die Recherchen | Nom/Acc/Dat/Gen |
 | 🟢 die Interview | interview | مصاحبه | Neutral | das | die Interviews | Nom/Acc/Dat/Gen |
 | 🔴 die Dokumentation | documentary | مستند | Feminin | die | die Dokumentationen | Nom/Acc/Dat/Gen |
-| 🔴 die Sendung | program | برنامه | Feminin | die | die Sendungen | Nom/Acc/Dat/Gen |
 | ⭐ die Redaktion | editorial | تحریریه | Feminin | die | die Redaktionen | Nom/Acc/Dat/Gen |
 | 🔴 die Auflage | edition/circulation | تیراژ | Feminin | die | die Auflagen | Nom/Acc/Dat/Gen |
 | 🔵 der Ticker | news ticker | خبررسان لحظه‌ای | Maskulin | der | die Ticker | Nom/Acc/Dat/Gen |
 | ⭐ die Kamera | camera | دوربین | Feminin | die | die Kameras | Nom/Acc/Dat/Gen |
 | ⭐ das Foto | photo | عکس | Neutral | das | die Fotos | Nom/Acc/Dat/Gen |
-| 🔴 die App | application | اپلیکیشن | Feminin | die | die Apps | Nom/Acc/Dat/Gen |
 | 🔵 der Kanal | channel | کانال | Maskulin | der | die Kanäle | Nom/Acc/Dat/Gen |
 | 🟢 das Portal | portal | پورتال | Neutral | das | die Portale | Nom/Acc/Dat/Gen |
 | 🔴 die Werbung | advertising | تبلیغات | Feminin | die | die Werbungen | Nom/Acc/Dat/Gen |
@@ -436,8 +435,6 @@
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔴 die Epidemiologie | epidemiology | اپیدمیولوژی | Feminin | die | die Epidemiologien | Nom/Acc/Dat/Gen |
 | 🔴 die Prävention | prevention | پیشگیری | Feminin | die | die Präventionen | Nom/Acc/Dat/Gen |
-| ⭐ die Therapie | therapy | درمان | Feminin | die | die Therapien | Nom/Acc/Dat/Gen |
-| ⭐ die Diagnose | diagnosis | تشخیص | Feminin | die | die Diagnosen | Nom/Acc/Dat/Gen |
 | 🔴 die Pharmakologie | pharmacology | داروشناسی | Feminin | die | die Pharmakologien | Nom/Acc/Dat/Gen |
 | 🔴 die Immunologie | immunology | ایمنی‌شناسی | Feminin | die | die Immunologien | Nom/Acc/Dat/Gen |
 | ⭐ der Arzt | doctor | پزشک | Maskulin | der | die Ärzte | Nom/Acc/Dat/Gen |
@@ -450,7 +447,6 @@
 | 🔴 die Pathologie | pathology | آسیب‌شناسی | Feminin | die | die Pathologien | Nom/Acc/Dat/Gen |
 | 🔴 die Onkologie | oncology | انکولوژی | Feminin | die | die Onkologien | Nom/Acc/Dat/Gen |
 | 🔴 die Kardiologie | cardiology | قلب‌شناسی | Feminin | die | die Kardiologien | Nom/Acc/Dat/Gen |
-| 🔴 die Neurologie | neurology | عصب‌شناسی | Feminin | die | die Neurologien | Nom/Acc/Dat/Gen |
 | 🔴 die Pädiatrie | pediatrics | اطفال | Feminin | die | die Pädiatrien | Nom/Acc/Dat/Gen |
 | 🔴 die Chirurgie | surgery | جراحی | Feminin | die | die Chirurgien | Nom/Acc/Dat/Gen |
 | 🔴 die Anästhesie | anesthesia | بیهوشی | Feminin | die | die Anästhesien | Nom/Acc/Dat/Gen |

@@ -28,7 +28,6 @@
 | 🔵 Traum | dream | رویا | Maskulin | der | die Träume | Akk, Dat, Gen |
 | 🔵 Wunsch | wish | آرزو | Maskulin | der | die Wünsche | Akk, Dat, Gen |
 | 🔵 Glaube | belief | باور | Maskulin | der | die Glauben | Akk, Dat, Gen |
-| 🔵 Zweifel | doubt | شک | Maskulin | der | die Zweifel | Akk, Dat, Gen |
 | 🔵 Hass | hatred | نفرت | Maskulin | der | die Hasse | Akk, Dat, Gen |
 | 🔵 Neid | envy | حسادت | Maskulin | der | die Neide | Akk, Dat, Gen |
 | 🔵 Zorn | anger | خشم | Maskulin | der | die Zorne | Akk, Dat, Gen |
@@ -71,7 +70,6 @@
 | 🔴 Technologie | technology | فناوری | Feminin | die | die Technologien | Akk, Dat, Gen |
 | 🔴 Innovation | innovation | نوآوری | Feminin | die | die Innovationen | Akk, Dat, Gen |
 | 🔴 Entwicklung | development | توسعه | Feminin | die | die Entwicklungen | Akk, Dat, Gen |
-| 🔵 Fortschritt | progress | پیشرفت | Maskulin | der | die Fortschritte | Akk, Dat, Gen |
 | 🔵 Computer | computer | رایانه | Maskulin | der | die Computer | Akk, Dat, Gen |
 | 🟢 Internet | internet | اینترنت | Neutrum | das | die Internet | Akk, Dat, Gen |
 | 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | Akk, Dat, Gen |
@@ -94,7 +92,7 @@
 | 🔴 Kategorie | category | دسته‌بندی | Feminin | die | die Kategorien | Akk, Dat, Gen |
 | 🔴 Definition | definition | تعریف | Feminin | die | die Definitionen | Akk, Dat, Gen |
 | 🟢 Beispiel | example | مثال | Neutrum | das | die Beispiele | Akk, Dat, Gen |
-| 🔵 Beweis | proof | مدرک | Maskulin | der | die Beweise | Akk, Dat, Gen |
+| 🔵 Beweis | evidence | مدرک | Maskulin | der | die Beweise | Akk, Dat, Gen |
 | 🔴 These | thesis | پایان‌نامه | Feminin | die | die Thesen | Akk, Dat, Gen |
 | 🟢 Fachgebiet | field of study | رشته تخصصی | Neutrum | das | die Fachgebiete | Akk, Dat, Gen |
 | 🟢 Labor | laboratory | آزمایشگاه | Neutrum | das | die Labore | Akk, Dat, Gen |
@@ -108,7 +106,7 @@
 | 🔴 Temperatur | temperature | دما | Feminin | die | die Temperaturen | Akk, Dat, Gen |
 | 🔵 Druck | pressure | فشار | Maskulin | der | die Drücke | Akk, Dat, Gen |
 | 🔴 Spannung | voltage | ولتاژ | Feminin | die | die Spannungen | Akk, Dat, Gen |
-| 🔵 Strom | current | جریان | Maskulin | der | die Ströme | Akk, Dat, Gen |
+| 🔵 Strom | electricity | برق | Maskulin | der | die Ströme | Akk, Dat, Gen |
 | 🔴 Schaltung | circuit | مدار | Feminin | die | die Schaltungen | Akk, Dat, Gen |
 | 🔵 Speicher | memory | حافظه | Maskulin | der | die Speicher | Akk, Dat, Gen |
 | 🔵 Prozessor | processor | پردازنده | Maskulin | der | die Prozessoren | Akk, Dat, Gen |
@@ -163,7 +161,6 @@
 | 🔴 Abstimmung | vote | رأی‌گیری | Feminin | die | die Abstimmungen | Akk, Dat, Gen |
 | 🔴 Gesetzgebung | legislation | قانون‌گذاری | Feminin | die | die Gesetzgebungen | Akk, Dat, Gen |
 | 🔴 Verfassung | constitution | قانون اساسی | Feminin | die | die Verfassungen | Akk, Dat, Gen |
-| 🔴 Demokratie | democracy | دموکراسی | Feminin | die | die Demokratien | Akk, Dat, Gen |
 | 🟡 Freiheitsrechte | civil liberties | آزادی‌های مدنی | Plural | die | die Freiheitsrechte | Akk, Dat, Gen |
 | 🟢 Menschenrecht | human right | حق بشر | Neutrum | das | die Menschenrechte | Akk, Dat, Gen |
 | 🔴 Sozialhilfe | social welfare | حمایت اجتماعی | Feminin | die | die Sozialhilfen | Akk, Dat, Gen |
@@ -180,7 +177,6 @@
 | 🔵 Konflikt | conflict | درگیری | Maskulin | der | die Konflikte | Akk, Dat, Gen |
 | 🔵 Frieden | peace | صلح | Maskulin | der | die Frieden | Akk, Dat, Gen |
 | 🔵 Krieg | war | جنگ | Maskulin | der | die Kriege | Akk, Dat, Gen |
-| 🔴 Sicherheit | security | امنیت | Feminin | die | die Sicherheiten | Akk, Dat, Gen |
 | 🔴 Verteidigung | defense | دفاع | Feminin | die | die Verteidigungen | Akk, Dat, Gen |
 | 🔴 Außendienst | diplomacy | دیپلماسی | Feminin | die | die Außendienste | Akk, Dat, Gen |
 
@@ -196,26 +192,16 @@
 | 🔴 Existenz | existence | وجود | Feminin | die | die Existenzen | Akk, Dat, Gen |
 | 🟡 Werte | values | ارزش‌ها | Plural | die | die Werte | Akk, Dat, Gen |
 | 🟡 Normen | norms | هنجارها | Plural | die | die Normen | Akk, Dat, Gen |
-| 🔴 Wahrheit | truth | حقیقت | Feminin | die | die Wahrheiten | Akk, Dat, Gen |
-| 🔴 Freiheit | freedom | آزادی | Feminin | die | die Freiheiten | Akk, Dat, Gen |
-| 🔴 Gerechtigkeit | justice | عدالت | Feminin | die | die Gerechtigkeiten | Akk, Dat, Gen |
 | 🔴 Tugend | virtue | فضیلت | Feminin | die | die Tugenden | Akk, Dat, Gen |
 | 🟢 Laster | vice | رذیلت | Neutrum | das | die Laster | Akk, Dat, Gen |
-| 🔴 Toleranz | tolerance | مدارا | Feminin | die | die Toleranzen | Akk, Dat, Gen |
 | 🔴 Verantwortung | responsibility | مسئولیت | Feminin | die | die Verantwortungen | Akk, Dat, Gen |
-| 🔴 Pflicht | duty | وظیفه | Feminin | die | die Pflichten | Akk, Dat, Gen |
-| 🔴 Schuld | guilt | گناه | Feminin | die | die Schulden | Akk, Dat, Gen |
 | 🔴 Sünde | sin | گناه | Feminin | die | die Sünden | Akk, Dat, Gen |
 | 🔴 Erlösung | redemption | رستگاری | Feminin | die | die Erlösungen | Akk, Dat, Gen |
 | 🔴 Erkenntnis | cognition | معرفت | Feminin | die | die Erkenntnisse | Akk, Dat, Gen |
-| 🔴 Vernunft | reason | عقل | Feminin | die | die Vernünfte | Akk, Dat, Gen |
 | 🔴 Intuition | intuition | شهود | Feminin | die | die Intuitionen | Akk, Dat, Gen |
 | 🟢 Bewusstsein | consciousness | آگاهی | Neutrum | das | die Bewusstseins | Akk, Dat, Gen |
-| 🔴 Seele | soul | روح | Feminin | die | die Seelen | Akk, Dat, Gen |
-| 🔵 Geist | spirit | روح | Maskulin | der | die Geister | Akk, Dat, Gen |
 | 🔵 Körper | body | بدن | Maskulin | der | die Körper | Akk, Dat, Gen |
 | 🔴 Materie | matter | ماده | Feminin | die | die Materien | Akk, Dat, Gen |
-| 🔴 Energie | energy | انرژی | Feminin | die | die Energien | Akk, Dat, Gen |
 | 🔴 Zeit | time | زمان | Feminin | die | die Zeiten | Akk, Dat, Gen |
 | 🔵 Raum | space | فضا | Maskulin | der | die Räume | Akk, Dat, Gen |
 | 🔴 Ursache | cause | علت | Feminin | die | die Ursachen | Akk, Dat, Gen |
@@ -225,11 +211,7 @@
 | 🔴 Wirklichkeit | reality | واقعیت | Feminin | die | die Wirklichkeiten | Akk, Dat, Gen |
 | 🔴 Idee | idea | ایده | Feminin | die | die Ideen | Akk, Dat, Gen |
 | 🟢 Konzept | concept | مفهوم | Neutrum | das | die Konzepte | Akk, Dat, Gen |
-| 🟢 Prinzip | principle | اصل | Neutrum | das | die Prinzipien | Akk, Dat, Gen |
 | 🔴 Regel | rule | قاعده | Feminin | die | die Regeln | Akk, Dat, Gen |
-| 🔴 Theorie | theory | نظریه | Feminin | die | die Theorien | Akk, Dat, Gen |
-| 🔴 Hypothese | hypothesis | فرضیه | Feminin | die | die Hypothesen | Akk, Dat, Gen |
-| 🔵 Beweis | proof | مدرک | Maskulin | der | die Beweise | Akk, Dat, Gen |
 | 🟢 Argument | argument | استدلال | Neutrum | das | die Argumente | Akk, Dat, Gen |
 | 🔴 Schlussfolgerung | conclusion | نتیجه‌گیری | Feminin | die | die Schlussfolgerungen | Akk, Dat, Gen |
 
@@ -269,7 +251,6 @@
 | 🟢 Bild | image | تصویر | Neutrum | das | die Bilder | Akk, Dat, Gen |
 | 🟢 Gemälde | painting | تابلو | Neutrum | das | die Gemälde | Akk, Dat, Gen |
 | 🔴 Zeichnung | drawing | نقاشی | Feminin | die | die Zeichnungen | Akk, Dat, Gen |
-| 🔵 Druck | print | چاپ | Maskulin | der | die Drücke | Akk, Dat, Gen |
 | 🔵 Stil | style | سبک | Maskulin | der | die Stile | Akk, Dat, Gen |
 | 🔴 Epoche | epoch | دوره | Feminin | die | die Epochen | Akk, Dat, Gen |
 | 🔴 Ära | era | عصر | Feminin | die | die Ären | Akk, Dat, Gen |
@@ -295,7 +276,6 @@
 | 🔴 Antipathie | antipathy | بیزاری | Feminin | die | die Antipathien | Akk, Dat, Gen |
 | 🔴 Bewunderung | admiration | تحسین | Feminin | die | die Bewunderungen | Akk, Dat, Gen |
 | 🔴 Verachtung | contempt | تحقیر | Feminin | die | die Verachtungen | Akk, Dat, Gen |
-| 🔴 Leidenschaft | passion | شور و شوق | Feminin | die | die Leidenschaften | Akk, Dat, Gen |
 | 🔴 Begeisterung | enthusiasm | شور و شوق | Feminin | die | die Begeisterungen | Akk, Dat, Gen |
 | 🔴 Enttäuschung | disappointment | ناامیدی | Feminin | die | die Enttäuschungen | Akk, Dat, Gen |
 | 🔴 Frustration | frustration | ناکامی | Feminin | die | die Frustrationen | Akk, Dat, Gen |
@@ -303,11 +283,8 @@
 | 🔴 Wut | rage | خشم | Feminin | die | die Wüte | Akk, Dat, Gen |
 | 🔴 Trauer | grief | اندوه | Feminin | die | die Trauern | Akk, Dat, Gen |
 | 🔴 Traurigkeit | sadness | غم | Feminin | die | die Traurigkeiten | Akk, Dat, Gen |
-| 🔴 Freude | joy | شادی | Feminin | die | die Freuden | Akk, Dat, Gen |
-| 🟢 Glück | happiness | خوشبختی | Neutrum | das | die Glücker | Akk, Dat, Gen |
 | 🔴 Zufriedenheit | satisfaction | رضایت | Feminin | die | die Zufriedenheiten | Akk, Dat, Gen |
 | 🟢 Unglück | unhappiness | بدبختی | Neutrum | das | die Unglücker | Akk, Dat, Gen |
-| 🔴 Hoffnung | hope | امید | Feminin | die | die Hoffnungen | Akk, Dat, Gen |
 | 🔴 Mutlosigkeit | hopelessness | ناامیدی | Feminin | die | die Mutlosigkeiten | Akk, Dat, Gen |
 | 🔴 Zuversicht | confidence | اطمینان | Feminin | die | die Zuversichten | Akk, Dat, Gen |
 | 🟢 Selbstvertrauen | self-confidence | اعتماد به نفس | Neutrum | das | die Selbstvertrauen | Akk, Dat, Gen |
@@ -319,9 +296,7 @@
 | 🟢 Staunen | astonishment | حیرت | Neutrum | das | die Staunens | Akk, Dat, Gen |
 | 🔴 Verwirrung | confusion | سردرگمی | Feminin | die | die Verwirrungen | Akk, Dat, Gen |
 | 🔴 Langeweile | boredom | کسالت | Feminin | die | die Langeweilen | Akk, Dat, Gen |
-| 🔴 Spannung | tension | تنش | Feminin | die | die Spannungen | Akk, Dat, Gen |
 | 🔵 Stress | stress | استرس | Maskulin | der | die Stresse | Akk, Dat, Gen |
-| 🔵 Druck | pressure | فشار | Maskulin | der | die Drücke | Akk, Dat, Gen |
 | 🔴 Erwartung | expectation | انتظار | Feminin | die | die Erwartungen | Akk, Dat, Gen |
 | 🔴 Vorfreude | anticipation | پیش‌بینی | Feminin | die | die Vorfreuden | Akk, Dat, Gen |
 | 🔴 Sehnsucht | longing | دلتنگی | Feminin | die | die Sehnsüchte | Akk, Dat, Gen |
@@ -329,10 +304,8 @@
 | 🔴 Dankbarkeit | gratitude | سپاسگزاری | Feminin | die | die Dankbarkeiten | Akk, Dat, Gen |
 | 🔴 Scham | shame | شرم | Feminin | die | die Schamen | Akk, Dat, Gen |
 | 🔴 Peinlichkeit | embarrassment | خجالت | Feminin | die | die Peinlichkeiten | Akk, Dat, Gen |
-| 🔵 Zorn | anger | خشم | Maskulin | der | die Zorne | Akk, Dat, Gen |
 | 🔴 Furcht | fear | ترس | Feminin | die | die Furchten | Akk, Dat, Gen |
 | 🔵 Ekel | disgust | انزجار | Maskulin | der | die Ekels | Akk, Dat, Gen |
-| 🟢 Vertrauen | trust | اعتماد | Neutrum | das | die Vertrauen | Akk, Dat, Gen |
 | 🟢 Misstrauen | distrust | بی‌اعتمادی | Neutrum | das | die Misstrauen | Akk, Dat, Gen |
 | 🔴 Neugier | curiosity | کنجکاوی | Feminin | die | die Neugieren | Akk, Dat, Gen |
 | 🔴 Gleichgültigkeit | indifference | بی‌تفاوتی | Feminin | die | die Gleichgültigkeiten | Akk, Dat, Gen |
@@ -378,16 +351,12 @@
 | 🔴 Präsentation | presentation | ارائه | Feminin | die | die Präsentationen | Akk, Dat, Gen |
 | 🔵 Bericht | report | گزارش | Maskulin | der | die Berichte | Akk, Dat, Gen |
 | 🟢 Ziel | goal | هدف | Neutrum | das | die Ziele | Akk, Dat, Gen |
-| 🔵 Erfolg | success | موفقیت | Maskulin | der | die Erfolge | Akk, Dat, Gen |
-| 🔵 Misserfolg | failure | شکست | Maskulin | der | die Misserfolge | Akk, Dat, Gen |
 | 🔴 Leistung | performance | عملکرد | Feminin | die | die Leistungen | Akk, Dat, Gen |
 | 🔴 Qualifikation | qualification | صلاحیت | Feminin | die | die Qualifikationen | Akk, Dat, Gen |
 | 🔴 Erfahrung | experience | تجربه | Feminin | die | die Erfahrungen | Akk, Dat, Gen |
 | 🟡 Kenntnisse | skills | مهارت‌ها | Plural | die | die Kenntnisse | Akk, Dat, Gen |
 | 🔴 Fähigkeit | ability | توانایی | Feminin | die | die Fähigkeiten | Akk, Dat, Gen |
 | 🔴 Kompetenz | competence | شایستگی | Feminin | die | die Kompetenzen | Akk, Dat, Gen |
-| 🔴 Verantwortung | responsibility | مسئولیت | Feminin | die | die Verantwortungen | Akk, Dat, Gen |
-| 🟢 Gehalt | salary | حقوق | Neutrum | das | die Gehälter | Akk, Dat, Gen |
 | 🔵 Lohn | wage | دستمزد | Maskulin | der | die Löhne | Akk, Dat, Gen |
 | 🔵 Bonus | bonus | پاداش | Maskulin | der | die Boni | Akk, Dat, Gen |
 | 🔴 Provision | commission | پورسانت | Feminin | die | die Provisionen | Akk, Dat, Gen |
@@ -428,7 +397,6 @@
 | 🔵 Pfleger | nurse | پرستار | Maskulin | der | die Pfleger | Akk, Dat, Gen |
 | 🔴 Schwester | nurse | پرستار | Feminin | die | die Schwestern | Akk, Dat, Gen |
 | 🔵 Patient | patient | بیمار | Maskulin | der | die Patienten | Akk, Dat, Gen |
-| 🟢 Rezept | prescription | نسخه | Neutrum | das | die Rezepte | Akk, Dat, Gen |
 | 🔴-tablette | tablet | قرص | Feminin | die | die Tabletten | Akk, Dat, Gen |
 | 🔴 Injektion | injection | تزریق | Feminin | die | die Injektionen | Akk, Dat, Gen |
 | 🔴 Spritze | syringe | سرنگ | Feminin | die | die Spritzen | Akk, Dat, Gen |
@@ -444,15 +412,12 @@
 | 🔴 Meditation | meditation | مدیتیشن | Feminin | die | die Meditationen | Akk, Dat, Gen |
 | 🔴 Entspannung | relaxation | آرامش | Feminin | die | die Entspannungen | Akk, Dat, Gen |
 | 🔵 Schlaf | sleep | خواب | Maskulin | der | die Schläfe | Akk, Dat, Gen |
-| 🔵 Traum | dream | رویا | Maskulin | der | die Träume | Akk, Dat, Gen |
 
 ## Umwelt und Natur / Environment & Nature
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Klimawandel | climate change | تغییرات اقلیمی | Maskulin | der | die Klimawandeln | Akk, Dat, Gen |
-| 🔴 Nachhaltigkeit | sustainability | پایداری | Feminin | die | die Nachhaltigkeiten | Akk, Dat, Gen |
-| 🔵 Umweltschutz | environmental protection | حفاظت از محیط زیست | Maskulin | der | die Umweltschütze | Akk, Dat, Gen |
 | 🟢 Recycling | recycling | بازیافت | Neutrum | das | die Recyclings | Akk, Dat, Gen |
 | 🔵 Erneuerbar | renewable | تجدیدپذیر | Adjektiv | - | - | - |
 | 🔴 Verschmutzung | pollution | آلودگی | Feminin | die | die Verschmutzungen | Akk, Dat, Gen |
@@ -514,16 +479,13 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🟢 Gesetz | law | قانون | Neutrum | das | die Gesetze | Akk, Dat, Gen |
 | 🔴 Verordnung | regulation | مقررات | Feminin | die | die Verordnungen | Akk, Dat, Gen |
 | 🔴 Strafe | punishment | مجازات | Feminin | die | die Strafen | Akk, Dat, Gen |
 | 🟢 Gericht | court | دادگاه | Neutrum | das | die Gerichte | Akk, Dat, Gen |
 | 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | Akk, Dat, Gen |
 | 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | Akk, Dat, Gen |
 | 🟢 Urteil | verdict | حکم | Neutrum | das | die Urteile | Akk, Dat, Gen |
-| 🔵 Vertrag | contract | قرارداد | Maskulin | der | die Verträge | Akk, Dat, Gen |
 | 🔴 Klage | lawsuit | شکایت | Feminin | die | die Klagen | Akk, Dat, Gen |
-| 🔵 Beweis | evidence | مدرک | Maskulin | der | die Beweise | Akk, Dat, Gen |
 | 🔵 Zeuge | witness | شاهد | Maskulin | der | die Zeugen | Akk, Dat, Gen |
 | 🔵 Angeklagter | defendant | متهم | Maskulin | der | die Angeklagten | Akk, Dat, Gen |
 | 🔵 Verbrecher | criminal | مجرم | Maskulin | der | die Verbrecher | Akk, Dat, Gen |
@@ -531,13 +493,6 @@
 | 🔴 Haftstrafe | prison sentence | حبس | Feminin | die | die Haftstrafen | Akk, Dat, Gen |
 | 🔴 Freiheitsstrafe | imprisonment | حبس | Feminin | die | die Freiheitsstrafen | Akk, Dat, Gen |
 | 🔴 Geldstrafe | fine | جریمه نقدی | Feminin | die | die Geldstrafen | Akk, Dat, Gen |
-| 🟢 Recht | law | حق | Neutrum | das | die Rechte | Akk, Dat, Gen |
-| 🔴 Pflicht | duty | وظیفه | Feminin | die | die Pflichten | Akk, Dat, Gen |
-| 🔴 Verfassung | constitution | قانون اساسی | Feminin | die | die Verfassungen | Akk, Dat, Gen |
-| 🔴 Demokratie | democracy | دموکراسی | Feminin | die | die Demokratien | Akk, Dat, Gen |
-| 🔴 Freiheit | freedom | آزادی | Feminin | die | die Freiheiten | Akk, Dat, Gen |
-| 🔴 Gleichheit | equality | برابری | Feminin | die | die Gleichheiten | Akk, Dat, Gen |
-| 🟢 Menschenrecht | human right | حق بشر | Neutrum | das | die Menschenrechte | Akk, Dat, Gen |
 | 🟢 Bürgerrecht | civil right | حق مدنی | Neutrum | das | die Bürgerrechte | Akk, Dat, Gen |
 | 🟢 Grundrecht | fundamental right | حق اساسی | Neutrum | das | die Grundrechte | Akk, Dat, Gen |
 | 🟢 Verbrechen | crime | جرم | Neutrum | das | die Verbrechen | Akk, Dat, Gen |
@@ -567,10 +522,7 @@
 | 🟡 Finanzen | finances | امور مالی | Plural | die | die Finanzen | Akk, Dat, Gen |
 | 🔴 Investition | investment | سرمایه‌گذاری | Feminin | die | die Investitionen | Akk, Dat, Gen |
 | 🔴 Aktie | stock | سهام | Feminin | die | die Aktien | Akk, Dat, Gen |
-| 🔴 Rente | pension | بازنشستگی | Feminin | die | die Renten | Akk, Dat, Gen |
-| 🔴 Versicherung | insurance | بیمه | Feminin | die | die Versicherungen | Akk, Dat, Gen |
 | 🔵 Kredit | credit | اعتبار | Maskulin | der | die Kredite | Akk, Dat, Gen |
-| 🔴 Steuer | tax | مالیات | Feminin | die | die Steuern | Akk, Dat, Gen |
 | 🟢 Geld | money | پول | Neutrum | das | die Gelder | Akk, Dat, Gen |
 | 🔴 Münze | coin | سکه | Feminin | die | die Münzen | Akk, Dat, Gen |
 | 🔵 Schein | bill | اسکناس | Maskulin | der | die Scheine | Akk, Dat, Gen |
@@ -628,21 +580,18 @@
 | 🔴 Zeitung | newspaper | روزنامه | Feminin | die | die Zeitungen | Akk, Dat, Gen |
 | 🔴 Zeitschrift | magazine | مجله | Feminin | die | die Zeitschriften | Akk, Dat, Gen |
 | 🔵 Artikel | article | مقاله | Maskulin | der | die Artikel | Akk, Dat, Gen |
-| 🔵 Bericht | report | گزارش | Maskulin | der | die Berichte | Akk, Dat, Gen |
 | 🟢 Interview | interview | مصاحبه | Neutrum | das | die Interviews | Akk, Dat, Gen |
 | 🔴 Pressekonferenz | press conference | کنفرانس خبری | Feminin | die | die Pressekonferenzen | Akk, Dat, Gen |
 | 🔴 Sendung | broadcast | برنامه | Feminin | die | die Sendungen | Akk, Dat, Gen |
 | 🔴 Nachricht | message | پیام | Feminin | die | die Nachrichten | Akk, Dat, Gen |
 | 🔴 E-Mail | email | ایمیل | Feminin | die | die E-Mails | Akk, Dat, Gen |
 | 🔵 Brief | letter | نامه | Maskulin | der | die Briefe | Akk, Dat, Gen |
-| 🔴 Post | mail | پست | Feminin | die | die Posten | Akk, Dat, Gen |
+| 🔴 Post | post office | اداره پست | Feminin | die | die Posten | Akk, Dat, Gen |
 | 🟢 Telefon | telephone | تلفن | Neutrum | das | die Telefone | Akk, Dat, Gen |
 | 🟢 Handy | mobile phone | تلفن همراه | Neutrum | das | die Handys | Akk, Dat, Gen |
 | 🟢 Smartphone | smartphone | تلفن هوشمند | Neutrum | das | die Smartphones | Akk, Dat, Gen |
-| 🔵 Computer | computer | رایانه | Maskulin | der | die Computer | Akk, Dat, Gen |
 | 🔵 Laptop | laptop | لپ‌تاپ | Maskulin | der | die Laptops | Akk, Dat, Gen |
 | 🟢 Tablet | tablet | تبلت | Neutrum | das | die Tablets | Akk, Dat, Gen |
-| 🟢 Internet | internet | اینترنت | Neutrum | das | die Internet | Akk, Dat, Gen |
 | 🔴 Webseite | website | وب سایت | Feminin | die | die Webseiten | Akk, Dat, Gen |
 | 🔴 Suchmaschine | search engine | موتور جستجو | Feminin | die | die Suchmaschinen | Akk, Dat, Gen |
 | 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | Akk, Dat, Gen |
@@ -705,12 +654,8 @@
 | 🔴 Physik | physics | فیزیک | Feminin | die | die Physiken | Akk, Dat, Gen |
 | 🔴 Chemie | chemistry | شیمی | Feminin | die | die Chemien | Akk, Dat, Gen |
 | 🔴 Biologie | biology | زیست‌شناسی | Feminin | die | die Biologien | Akk, Dat, Gen |
-| 🔴 Geschichte | history | تاریخ | Feminin | die | die Geschichten | Akk, Dat, Gen |
 | 🔴 Geografie | geography | جغرافیا | Feminin | die | die Geografien | Akk, Dat, Gen |
 | 🔴 Sprache | language | زبان | Feminin | die | die Sprachen | Akk, Dat, Gen |
-| 🔴 Literatur | literature | ادبیات | Feminin | die | die Literaturen | Akk, Dat, Gen |
-| 🔴 Kunst | art | هنر | Feminin | die | die Künste | Akk, Dat, Gen |
-| 🔴 Musik | music | موسیقی | Feminin | die | die Musiken | Akk, Dat, Gen |
 | 🔴 Informatik | computer science | علوم کامپیوتر | Feminin | die | die Informatiken | Akk, Dat, Gen |
 | 🟢 Buch | book | کتاب | Neutrum | das | die Bücher | Akk, Dat, Gen |
 | 🟢 Heft | notebook | دفتر | Neutrum | das | die Hefte | Akk, Dat, Gen |
@@ -722,13 +667,11 @@
 | 🔴 Kreide | chalk | گچ | Feminin | die | die Kreiden | Akk, Dat, Gen |
 | 🟢 Schulbuch | textbook | کتاب درسی | Neutrum | das | die Schulbücher | Akk, Dat, Gen |
 | 🟢 Wörterbuch | dictionary | فرهنگ لغت | Neutrum | das | die Wörterbücher | Akk, Dat, Gen |
-| 🔴 Aufgabe | task | تکلیف | Feminin | die | die Aufgaben | Akk, Dat, Gen |
 | 🔴 Hausaufgabe | homework | تکلیف خانه | Feminin | die | die Hausaufgaben | Akk, Dat, Gen |
 | 🟢 Referat | presentation | ارائه | Neutrum | das | die Referate | Akk, Dat, Gen |
 | 🟢 Seminar | seminar | سمینار | Neutrum | das | die Seminare | Akk, Dat, Gen |
 | 🔴 Vorlesung | lecture | سخنرانی | Feminin | die | die Vorlesungen | Akk, Dat, Gen |
 | 🟢 Tutorium | tutorial | کارگاه | Neutrum | das | die Tutorien | Akk, Dat, Gen |
-| 🔴 Forschung | research | تحقیق | Feminin | die | die Forschungen | Akk, Dat, Gen |
 | 🟢 Studium | studies | تحصیلات | Neutrum | das | die Studien | Akk, Dat, Gen |
 | 🔴 Promotion | doctoral studies | دکترا | Feminin | die | die Promotionen | Akk, Dat, Gen |
 | 🔴 Habilitation | post-doctoral | پسادکترا | Feminin | die | die Habilitationen | Akk, Dat, Gen |
@@ -779,7 +722,6 @@
 | 🔵 Weg | road | جاده | Maskulin | der | die Wege | Akk, Dat, Gen |
 | 🔴 Richtung | direction | جهت | Feminin | die | die Richtungen | Akk, Dat, Gen |
 | 🔴 Entfernung | distance | فاصله | Feminin | die | die Entfernungen | Akk, Dat, Gen |
-| 🔴 Geschwindigkeit | speed | سرعت | Feminin | die | die Geschwindigkeiten | Akk, Dat, Gen |
 | 🔵 Stau | traffic jam | ترافیک | Maskulin | der | die Staus | Akk, Dat, Gen |
 | 🔴 Umleitung | detour | انحراف از مسیر | Feminin | die | die Umleitungen | Akk, Dat, Gen |
 | 🟢 Parken | parking | پارک کردن | Neutrum | das | die Parken | Akk, Dat, Gen |
@@ -860,7 +802,7 @@
 | 🔵 blau | blue | آبی | Adjektiv | - | - | - |
 | 🔵 grün | green | سبز | Adjektiv | - | - | - |
 | 🔵 gelb | yellow | زرد | Adjektiv | - | - | - |
-| 🔵 orange | orange | نارنجی | Adjektiv | - | - | - |
+| 🔴 Orange | orange | پرتقال | Feminin | die | die Orangen | Akk, Dat, Gen |
 | 🔵 lila | purple | بنفش | Adjektiv | - | - | - |
 | 🔵 rosa | pink | صورتی | Adjektiv | - | - | - |
 | 🔵 braun | brown | قهوه‌ای | Adjektiv | - | - | - |
@@ -882,7 +824,6 @@
 | 🔵 Sohn | son | پسر | Maskulin | der | die Söhne | Akk, Dat, Gen |
 | 🔴 Tochter | daughter | دختر | Feminin | die | die Töchter | Akk, Dat, Gen |
 | 🔵 Bruder | brother | برادر | Maskulin | der | die Brüder | Akk, Dat, Gen |
-| 🔴 Schwester | sister | خواهر | Feminin | die | die Schwestern | Akk, Dat, Gen |
 | 🔵 Großvater | grandfather | پدربزرگ | Maskulin | der | die Großväter | Akk, Dat, Gen |
 | 🔴 Großmutter | grandmother | مادربزرگ | Feminin | die | die Großmütter | Akk, Dat, Gen |
 | 🔵 Enkel | grandchild | نوه | Maskulin | der | die Enkel | Akk, Dat, Gen |
@@ -960,7 +901,6 @@
 | 🔴 Decke | ceiling | سقف | Feminin | die | die Decken | Akk, Dat, Gen |
 | 🔴 Treppe | stairs | پله | Feminin | die | die Treppen | Akk, Dat, Gen |
 | 🔵 Aufzug | elevator | آسانسور | Maskulin | der | die Aufzüge | Akk, Dat, Gen |
-| 🔵 Balkon | balcony | بالکن | Maskulin | der | die Balkone | Akk, Dat, Gen |
 | 🔴 Terrasse | terrace | تراس | Feminin | die | die Terrassen | Akk, Dat, Gen |
 | 🔴 Einfahrt | driveway | ورودی | Feminin | die | die Einfahrten | Akk, Dat, Gen |
 | 🔵 Zaun | fence | حصار | Maskulin | der | die Zäune | Akk, Dat, Gen |
@@ -979,12 +919,10 @@
 | 🟢 Ei | egg | تخم مرغ | Neutrum | das | die Eier | Akk, Dat, Gen |
 | 🟢 Fleisch | meat | گوشت | Neutrum | das | die Fleische | Akk, Dat, Gen |
 | 🟢 Hähnchen | chicken | مرغ | Neutrum | das | die Hähnchen | Akk, Dat, Gen |
-| 🔵 Fisch | fish | ماهی | Maskulin | der | die Fische | Akk, Dat, Gen |
 | 🟢 Gemüse | vegetable | سبزیجات | Neutrum | das | die Gemüse | Akk, Dat, Gen |
 | 🟢 Obst | fruit | میوه | Neutrum | das | die Obst | Akk, Dat, Gen |
 | 🔵 Apfel | apple | سیب | Maskulin | der | die Äpfel | Akk, Dat, Gen |
 | 🔴 Banane | banana | موز | Feminin | die | die Bananen | Akk, Dat, Gen |
-| 🔴 Orange | orange | پرتقال | Feminin | die | die Orangen | Akk, Dat, Gen |
 | 🔴 Erdbeere | strawberry | توت فرنگی | Feminin | die | die Erdbeeren | Akk, Dat, Gen |
 | 🔴 Kirsche | cherry | گیلاس | Feminin | die | die Kirschen | Akk, Dat, Gen |
 | 🔵 Reis | rice | برنج | Maskulin | der | die Reise | Akk, Dat, Gen |
@@ -999,7 +937,6 @@
 | 🔵 Pfeffer | pepper | فلفل | Maskulin | der | die Pfeffer | Akk, Dat, Gen |
 | 🔵 Tee | tea | چای | Maskulin | der | die Tees | Akk, Dat, Gen |
 | 🔵 Kaffee | coffee | قهوه | Maskulin | der | die Kaffees | Akk, Dat, Gen |
-| 🟢 Wasser | water | آب | Neutrum | das | die Wasser | Akk, Dat, Gen |
 | 🔵 Saft | juice | آب میوه | Maskulin | der | die Säfte | Akk, Dat, Gen |
 | 🟢 Bier | beer | آبجو | Neutrum | das | die Biere | Akk, Dat, Gen |
 | 🔵 Wein | wine | شراب | Maskulin | der | die Weine | Akk, Dat, Gen |
@@ -1024,7 +961,6 @@
 | 🔵 Anzug | suit | کت و شلوار | Maskulin | der | die Anzüge | Akk, Dat, Gen |
 | 🟢 Kleid | dress | لباس زنانه | Neutrum | das | die Kleider | Akk, Dat, Gen |
 | 🔵 Rock | skirt | دامن | Maskulin | der | die Röcke | Akk, Dat, Gen |
-| 🔵 Rock | skirt | دامن | Maskulin | der | die Röcke | Akk, Dat, Gen |
 | 🔵 Schuh | shoe | کفش | Maskulin | der | die Schuhe | Akk, Dat, Gen |
 | 🔵 Stiefel | boot | چکمه | Maskulin | der | die Stiefel | Akk, Dat, Gen |
 | 🔴 Socke | sock | جوراب | Feminin | die | die Socken | Akk, Dat, Gen |
@@ -1035,7 +971,6 @@
 | 🔴 Krawatte | tie | کراوات | Feminin | die | die Krawatten | Akk, Dat, Gen |
 | 🔵 Gürtel | belt | کمربند | Maskulin | der | die Gürtel | Akk, Dat, Gen |
 | 🔴 Tasche | bag | کیف | Feminin | die | die Taschen | Akk, Dat, Gen |
-| 🔵 Rucksack | backpack | کوله‌پشتی | Maskulin | der | die Rucksäcke | Akk, Dat, Gen |
 | 🔵 Geldbeutel | wallet | کیف پول | Maskulin | der | die Geldbeutel | Akk, Dat, Gen |
 | 🔴 Brille | glasses | عینک | Feminin | die | die Brillen | Akk, Dat, Gen |
 | 🔴 Sonnenbrille | sunglasses | عینک آفتابی | Feminin | die | die Sonnenbrillen | Akk, Dat, Gen |
@@ -1056,20 +991,8 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🟢 Wetter | weather | هوا | Neutrum | das | die Wetter | Akk, Dat, Gen |
-| 🟢 Klima | climate | آب و هوا | Neutrum | das | die Klimas | Akk, Dat, Gen |
-| 🔴 Temperatur | temperature | دما | Feminin | die | die Temperaturen | Akk, Dat, Gen |
-| 🔴 Sonne | sun | خورشید | Feminin | die | die Sonnen | Akk, Dat, Gen |
-| 🔵 Regen | rain | باران | Maskulin | der | die Regen | Akk, Dat, Gen |
-| 🔵 Schnee | snow | برف | Maskulin | der | die Schneen | Akk, Dat, Gen |
-| 🔵 Wind | wind | باد | Maskulin | der | die Winde | Akk, Dat, Gen |
-| 🔵 Sturm | storm | طوفان | Maskulin | der | die Stürme | Akk, Dat, Gen |
-| 🔵 Blitz | lightning | رعد | Maskulin | der | die Blitze | Akk, Dat, Gen |
-| 🔵 Donner | thunder | thunder | Maskulin | der | die Donner | Akk, Dat, Gen |
 | 🟢 Gewitter | thunderstorm | طوفان | Neutrum | das | die Gewitter | Akk, Dat, Gen |
 | 🔵 Nebel | fog | مه | Maskulin | der | die Nebel | Akk, Dat, Gen |
-| 🔴 Wolke | cloud | ابر | Feminin | die | die Wolken | Akk, Dat, Gen |
-| 🔵 Himmel | sky | آسمان | Maskulin | der | die Himmel | Akk, Dat, Gen |
 | 🔵 Regenbogen | rainbow | رنگین کمان | Maskulin | der | die Regenbogen | Akk, Dat, Gen |
 | 🟢 Eis | ice | یخ | Neutrum | das | die Eise | Akk, Dat, Gen |
 | 🔵 Frost | frost | یخبندان | Maskulin | der | die Frost | Akk, Dat, Gen |
@@ -1091,12 +1014,8 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔵 Arzt | doctor | پزشک | Maskulin | der | die Ärzte | Akk, Dat, Gen |
-| 🔵 Lehrer | teacher | معلم | Maskulin | der | die Lehrer | Akk, Dat, Gen |
 | 🔵 Ingenieur | engineer | مهندس | Maskulin | der | die Ingenieure | Akk, Dat, Gen |
-| 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | Akk, Dat, Gen |
 | 🔵 Architekt | architect | معمار | Maskulin | der | die Architekten | Akk, Dat, Gen |
-| 🔵 Künstler | artist | هنرمند | Maskulin | der | die Künstler | Akk, Dat, Gen |
 | 🔵 Schauspieler | actor | بازیگر | Maskulin | der | die Schauspieler | Akk, Dat, Gen |
 | 🔵 Sänger | singer | خواننده | Maskulin | der | die Sänger | Akk, Dat, Gen |
 | 🔵 Musiker | musician | نوازنده | Maskulin | der | die Musiker | Akk, Dat, Gen |
@@ -1109,8 +1028,6 @@
 | 🔵 Schlosser | locksmith | قفل‌ساز | Maskulin | der | die Schlosser | Akk, Dat, Gen |
 | 🔵 Zimmermann | carpenter | نجار | Maskulin | der | die Zimmermänner | Akk, Dat, Gen |
 | 🔵 Maler | painter | نقاش | Maskulin | der | die Maler | Akk, Dat, Gen |
-| 🔵 Schriftsteller | writer | نویسنده | Maskulin | der | die Schriftsteller | Akk, Dat, Gen |
-| 🔵 Journalist | journalist | روزنامه‌نگار | Maskulin | der | die Journalisten | Akk, Dat, Gen |
 | 🔵 Polizist | policeman | پلیس | Maskulin | der | die Polizisten | Akk, Dat, Gen |
 | 🔵 Feuerwehrmann | firefighter | آتش‌نشان | Maskulin | der | die Feuerwehrmänner | Akk, Dat, Gen |
 | 🔵 Soldat | soldier | سرباز | Maskulin | der | die Soldaten | Akk, Dat, Gen |
@@ -1119,16 +1036,10 @@
 | 🔵 Empfang | receptionist | منشی | Maskulin | der | die Empfänge | Akk, Dat, Gen |
 | 🔵 Sekretär | secretary | دبیر | Maskulin | der | die Sekretäre | Akk, Dat, Gen |
 | 🔵 Buchhalter | accountant | حسابدار | Maskulin | der | die Buchhalter | Akk, Dat, Gen |
-| 🔵 Manager | manager | مدیر | Maskulin | der | die Manager | Akk, Dat, Gen |
-| 🔵 Geschäftsführer | managing director | مدیرعامل | Maskulin | der | die Geschäftsführer | Akk, Dat, Gen |
 | 🔵 Programmierer | programmer | برنامه‌نویس | Maskulin | der | die Programmierer | Akk, Dat, Gen |
 | 🔵 Wissenschaftler | scientist | دانشمند | Maskulin | der | die Wissenschaftler | Akk, Dat, Gen |
-| 🔵 Forscher | researcher | پژوهشگر | Maskulin | der | die Forscher | Akk, Dat, Gen |
 | 🔵 Übersetzer | translator | مترجم | Maskulin | der | die Übersetzer | Akk, Dat, Gen |
 | 🔵 Dolmetscher | interpreter | مترجم هم‌زمان | Maskulin | der | die Dolmetscher | Akk, Dat, Gen |
-| 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | Akk, Dat, Gen |
-| 🔵 Staatsanwalt | prosecutor | دادستان | Maskulin | der | die Staatsanwälte | Akk, Dat, Gen |
-| 🔵 Pfleger | nurse | پرستار | Maskulin | der | die Pfleger | Akk, Dat, Gen |
 | 🔵 Krankenpfleger | male nurse | پرستار مرد | Maskulin | der | die Krankenpfleger | Akk, Dat, Gen |
 | 🔵 Zahnarzt | dentist | دندانپزشک | Maskulin | der | die Zahnärzte | Akk, Dat, Gen |
 | 🔵 Tierarzt | veterinarian | دامپزشک | Maskulin | der | die Tierärzte | Akk, Dat, Gen |
@@ -1139,14 +1050,12 @@
 | 🔵 Jäger | hunter | شکارچی | Maskulin | der | die Jäger | Akk, Dat, Gen |
 | 🔵 Bergmann | miner | معدنچی | Maskulin | der | die Bergleute | Akk, Dat, Gen |
 | 🔵 Seemann | sailor | ملوان | Maskulin | der | die Seeleute | Akk, Dat, Gen |
-| 🔵 Friseur | hairdresser | آرایشگر | Maskulin | der | die Friseure | Akk, Dat, Gen |
 | 🔵 Trainer | trainer | مربی | Maskulin | der | die Trainer | Akk, Dat, Gen |
 
 ## Mathematik / Mathematics
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 Mathematik | mathematics | ریاضیات | Feminin | die | die Mathematiken | Akk, Dat, Gen |
 | 🟢 Plus | plus | به علاوه | Neutrum | das | die Plusse | Akk, Dat, Gen |
 | 🟢 Minus | minus | منها | Neutrum | das | die Minusse | Akk, Dat, Gen |
 | 🟢 Mal | times | ضربدر | Neutrum | das | die Mal | Akk, Dat, Gen |
@@ -1162,7 +1071,6 @@
 | 🔴 Analysis | analysis | آنالیز | Feminin | die | die Analysen | Akk, Dat, Gen |
 | 🔴 Formel | formula | فرمول | Feminin | die | die Formeln | Akk, Dat, Gen |
 | 🔴 Gleichung | equation | معادله | Feminin | die | die Gleichungen | Akk, Dat, Gen |
-| 🔴 Funktion | function | تابع | Feminin | die | die Funktionen | Akk, Dat, Gen |
 | 🔵 Vektor | vector | بردار | Maskulin | der | die Vektoren | Akk, Dat, Gen |
 | 🔴 Matrix | matrix | ماتریس | Feminin | die | die Matrizen | Akk, Dat, Gen |
 | 🟢 Integral | integral | انتگرال | Neutrum | das | die Integrale | Akk, Dat, Gen |
@@ -1187,7 +1095,6 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 Technik | technology | فناوری | Feminin | die | die Techniken | Akk, Dat, Gen |
 | 🔴 Maschine | machine | ماشین | Feminin | die | die Maschinen | Akk, Dat, Gen |
 | 🟢 Gerät | device | دستگاه | Neutrum | das | die Geräte | Akk, Dat, Gen |
 | 🟢 Werkzeug | tool | ابزار | Neutrum | das | die Werkzeuge | Akk, Dat, Gen |
@@ -1198,7 +1105,6 @@
 | 🔴 Montage | assembly | مونتاژ | Feminin | die | die Montagen | Akk, Dat, Gen |
 | 🔴 Reparatur | repair | تعمیر | Feminin | die | die Reparaturen | Akk, Dat, Gen |
 | 🔴 Wartung | maintenance | نگهداری | Feminin | die | die Wartungen | Akk, Dat, Gen |
-| 🔵 Strom | electricity | برق | Maskulin | der | die Ströme | Akk, Dat, Gen |
 | 🟢 Gas | gas | گاز | Neutrum | das | die Gase | Akk, Dat, Gen |
 | 🟢 Öl | oil | نفت | Neutrum | das | die Öle | Akk, Dat, Gen |
 | 🔴 Kohle | coal | زغال سنگ | Feminin | die | die Kohlen | Akk, Dat, Gen |
@@ -1277,7 +1183,6 @@
 | 🔵 ungeduldig | impatient | بی‌صبر | Adjektiv | - | - | - |
 | 🔵 vorsichtig | careful | محتاط | Adjektiv | - | - | - |
 | 🔵 mutig | brave | شجاع | Adjektiv | - | - | - |
-| 🔵 ängstlich | fearful | ترسو | Adjektiv | - | - | - |
 | 🔵 fleißig | diligent | زحمتکش | Adjektiv | - | - | - |
 | 🔵 faul | lazy | تنبل | Adjektiv | - | - | - |
 | 🔵 klug | smart | باهوش | Adjektiv | - | - | - |
@@ -1287,7 +1192,6 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 Zeit | time | زمان | Feminin | die | die Zeiten | Akk, Dat, Gen |
 | 🔴 Stunde | hour | ساعت | Feminin | die | die Stunden | Akk, Dat, Gen |
 | 🔴 Minute | minute | دقیقه | Feminin | die | die Minuten | Akk, Dat, Gen |
 | 🔴 Sekunde | second | ثانیه | Feminin | die | die Sekunden | Akk, Dat, Gen |
@@ -1305,16 +1209,14 @@
 | 🔵 Abend | evening | عصر | Maskulin | der | die Abende | Akk, Dat, Gen |
 | 🔴 Nacht | night | شب | Feminin | die | die Nächte | Akk, Dat, Gen |
 | 🔵 heute | today | امروز | Adverb | - | - | - |
-| 🔵 morgen | tomorrow | فردا | Adverb | - | - | - |
 | 🔵 gestern | yesterday | دیروز | Adverb | - | - | - |
 | 🔵 vorgestern | the day before yesterday | پریروز | Adverb | - | - | - |
 | 🔵 übermorgen | the day after tomorrow | پس‌فردا | Adverb | - | - | - |
 | 🔵 bald | soon | به زودی | Adverb | - | - | - |
 | 🔵 gerade | just | همین الان | Adverb | - | - | - |
 | 🔵 sofort | immediately | فوراً | Adverb | - | - | - |
-| 🔵 sofort | immediately | فوراً | Adverb | - | - | - |
 | 🔵 später | later | بعداً | Adverb | - | - | - |
-| 🔵 früher | earlier | قبلاً | Adverb | - | - | - |
+| 🔵 früher | in the past | در گذشته | Adjektiv | - | - | - |
 | 🔵 manchmal | sometimes | گاهی | Adverb | - | - | - |
 | 🔵 oft | often | اغلب | Adverb | - | - | - |
 | 🔵 selten | rarely | به ندرت | Adverb | - | - | - |
@@ -1324,13 +1226,11 @@
 | 🔵 dann | then | سپس | Adverb | - | - | - |
 | 🔵 danach | afterwards | بعد از آن | Adverb | - | - | - |
 | 🔵 vorher | before | قبل از آن | Adverb | - | - | - |
-| 🔵 gleich | soon | به زودی | Adverb | - | - | - |
 | 🔵 bereits | already | قبلاً | Adverb | - | - | - |
 | 🔵 noch | still | هنوز | Adverb | - | - | - |
 | 🔵 schon | already | قبلاً | Adverb | - | - | - |
 | 🔵 immer noch | still | هنوز | Adverb | - | - | - |
 | 🔵 künftig | in the future | در آینده | Adjektiv | - | - | - |
-| 🔵 früher | in the past | در گذشته | Adjektiv | - | - | - |
 
 ## Orte und Gebäude / Places & Buildings
 
@@ -1340,48 +1240,31 @@
 | 🟢 Dorf | village | روستا | Neutrum | das | die Dörfer | Akk, Dat, Gen |
 | 🟢 Land | country | کشور | Neutrum | das | die Länder | Akk, Dat, Gen |
 | 🔴 Hauptstadt | capital | پایتخت | Feminin | die | die Hauptstädte | Akk, Dat, Gen |
-| 🔴 Straße | street | خیابان | Feminin | die | die Straßen | Akk, Dat, Gen |
 | 🔵 Platz | square | میدان | Maskulin | der | die Plätze | Akk, Dat, Gen |
 | 🔵 Park | park | پارک | Maskulin | der | die Parks | Akk, Dat, Gen |
-| 🔵 Garten | garden | باغچه | Maskulin | der | die Gärten | Akk, Dat, Gen |
 | 🔴 Kirche | church | کلیسا | Feminin | die | die Kirchen | Akk, Dat, Gen |
 | 🔴 Mosque | mosque | مسجد | Feminin | die | die Moscheen | Akk, Dat, Gen |
 | 🔴 Synagoge | synagogue | کنیسه | Feminin | die | die Synagogen | Akk, Dat, Gen |
 | 🔵 Tempel | temple | معبد | Maskulin | der | die Tempel | Akk, Dat, Gen |
-| 🔴 Schule | school | مدرسه | Feminin | die | die Schulen | Akk, Dat, Gen |
-| 🔴 Universität | university | دانشگاه | Feminin | die | die Universitäten | Akk, Dat, Gen |
 | 🔴 Bibliothek | library | کتابخانه | Feminin | die | die Bibliotheken | Akk, Dat, Gen |
-| 🟢 Museum | museum | موزه | Neutrum | das | die Museen | Akk, Dat, Gen |
-| 🟢 Theater | theater | تئاتر | Neutrum | das | die Theater | Akk, Dat, Gen |
 | 🟢 Kino | cinema | سینما | Neutrum | das | die Kinos | Akk, Dat, Gen |
-| 🔴 Oper | opera | اپرا | Feminin | die | die Opern | Akk, Dat, Gen |
-| 🟢 Krankenhaus | hospital | بیمارستان | Neutrum | das | die Krankenhäuser | Akk, Dat, Gen |
 | 🔴 Arztpraxis | doctor's office | مطب | Feminin | die | die Arztpraxen | Akk, Dat, Gen |
-| 🔴 Apotheke | pharmacy | داروخانه | Feminin | die | die Apotheken | Akk, Dat, Gen |
 | 🔵 Supermarkt | supermarket | سوپرمارکت | Maskulin | der | die Supermärkte | Akk, Dat, Gen |
 | 🟢 Geschäft | shop | فروشگاه | Neutrum | das | die Geschäfte | Akk, Dat, Gen |
 | 🔵 Laden | shop | مغازه | Maskulin | der | die Läden | Akk, Dat, Gen |
-| 🔵 Markt | market | بازار | Maskulin | der | die Märkte | Akk, Dat, Gen |
 | 🟢 Restaurant | restaurant | رستوران | Neutrum | das | die Restaurants | Akk, Dat, Gen |
 | 🟢 Café | café | کافه | Neutrum | das | die Cafés | Akk, Dat, Gen |
 | 🔴 Bar | bar | بار | Feminin | die | die Bars | Akk, Dat, Gen |
-| 🟢 Hotel | hotel | هتل | Neutrum | das | die Hotels | Akk, Dat, Gen |
-| 🔵 Bahnhof | station | ایستگاه قطار | Maskulin | der | die Bahnhöfe | Akk, Dat, Gen |
-| 🔵 Flughafen | airport | فرودگاه | Maskulin | der | die Flughäfen | Akk, Dat, Gen |
 | 🔵 Busbahnhof | bus station | ایستگاه اتوبوس | Maskulin | der | die Busbahnhöfe | Akk, Dat, Gen |
-| 🔴 Bank | bank | بانک | Feminin | die | die Banken | Akk, Dat, Gen |
-| 🔴 Post | post office | اداره پست | Feminin | die | die Posten | Akk, Dat, Gen |
 | 🟢 Rathaus | town hall | شهرداری | Neutrum | das | die Rathäuser | Akk, Dat, Gen |
 | 🔴 Polizei | police station | پلیس | Feminin | die | die Polizeien | Akk, Dat, Gen |
 | 🔴 Feuerwehr | fire station | آتش‌نشانی | Feminin | die | die Feuerwehren | Akk, Dat, Gen |
 | 🔴 Botschaft | embassy | سفارت | Feminin | die | die Botschaften | Akk, Dat, Gen |
 | 🟢 Konsulat | consulate | کنسولگری | Neutrum | das | die Konsulate | Akk, Dat, Gen |
-| 🔴 Fabrik | factory | کارخانه | Feminin | die | die Fabriken | Akk, Dat, Gen |
 | 🔴 Bürod写字楼 | office building | ساختمان اداری | Feminin | die | die Bürod写字楼e | Akk, Dat, Gen |
 | 🟢 Wohngebäude | residential building | ساختمان مسکونی | Neutrum | das | die Wohngebäude | Akk, Dat, Gen |
 | 🟢 Einkaufszentrum | shopping center | مرکز خرید | Neutrum | das | die Einkaufszentren | Akk, Dat, Gen |
 | 🟢 Parkhaus | parking garage | پارکینگ طبقاتی | Neutrum | das | die Parkhäuser | Akk, Dat, Gen |
-| 🔴 Werkstatt | workshop | کارگاه | Feminin | die | die Werkstätten | Akk, Dat, Gen |
 | 🟢 Lager | warehouse | انبار | Neutrum | das | die Lager | Akk, Dat, Gen |
 
 ---

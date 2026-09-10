@@ -24,7 +24,6 @@ Physik	physics	فیزیک	Feminin	die	die Physik	Nom/Acc/Dat/Gen	—
 Astronomie	astronomy	نجوم	Feminin	die	die Astronomie	Nom/Acc/Dat/Gen	—
 Geologie	geology	زمین‌شناسی	Feminin	die	die Geologie	Nom/Acc/Dat/Gen	—
 Meteorologie	meteorology	هواشناسی	Feminin	die	die Meteorologie	Nom/Acc/Dat/Gen	—
-These	thesis	تز/فرضیه	Feminin	die	die Thesen	Nom/Acc/Dat/Gen	—
 Prüfung	test/exam	آزمون	Feminin	die	die Prüfungen	Nom/Acc/Dat/Gen	—
 Studie	study	مطالعه	Feminin	die	die Studien	Nom/Acc/Dat/Gen	—
 Philosophie	philosophy	فلسفه	Feminin	die	die Philosophien	Nom/Acc/Dat/Gen	—
@@ -110,7 +109,6 @@ Aktienmarkt	stock market	بورس اوراق بهادار	Maskulin	der	die Aktie
 Wirtschaftskrise	economic crisis	بحران اقتصادی	Feminin	die	die Wirtschaftskrisen	Nom/Acc/Dat/Gen	—
 Schulden	debt	بدهی	Feminin	die	die Schulden	Nom/Acc/Dat/Gen	—
 Lohn	wage	دستمزد	Maskulin	der	die Löhne	Nom/Acc/Dat/Gen	—
-Ästhetik	aesthetics	زیبایی‌شناسی	Feminin	die	die Ästhetik	Nom/Acc/Dat/Gen	—
 Moderne	modernism	مدرنیسم	Feminin	die	die Modernen	Nom/Acc/Dat/Gen	—
 Postmoderne	postmodernism	پست‌مدرنیسم	Feminin	die	die Postmodernen	Nom/Acc/Dat/Gen	—
 Avantgarde	avant-garde	پیشگام	Feminin	die	die Avantgarden	Nom/Acc/Dat/Gen	—
@@ -120,7 +118,6 @@ Kubismus	cubism	کوبیسم	Maskulin	der	die Kubismen	Nom/Acc/Dat/Gen	—
 Impressionismus	impressionism	امپرسیونیسم	Maskulin	der	die Impressionismen	Nom/Acc/Dat/Gen	—
 Dadaismus	dadaism	دادائیسم	Maskulin	der	die Dadaismen	Nom/Acc/Dat/Gen	—
 Futurismus	futurism	فوتوریسم	Maskulin	der	die Futurismen	Nom/Acc/Dat/Gen	—
-Realismus	realism	واقع‌گرایی	Maskulin	der	die Realismen	Nom/Acc/Dat/Gen	—
 Romantizismus	romanticism	رمانتیسم	Maskulin	der	die Romantizismen	Nom/Acc/Dat/Gen	—
 Renaissance	renaissance	رنسانس	Feminin	die	die Renaissance	Nom/Acc/Dat/Gen	—
 Gemälde	painting	نقاشی	Neutral	das	die Gemälde	Nom/Acc/Dat/Gen	—
@@ -194,7 +191,7 @@ Augmented Reality	augmented reality	واقعیت افزوده	Feminin	die	die Au
 Internet	internet	اینترنت	Neutral	das	die Internetze	Nom/Acc/Dat/Gen	—
 Computer	computer	کامپیوتر	Maskulin	der	die Computer	Nom/Acc/Dat/Gen	—
 Smartphone	smartphone	گوشی هوشمند	Neutral	das	die Smartphones	Nom/Acc/Dat/Gen	—
-App	app	اپلیکیشن	Feminin	die	die Apps	Nom/Acc/Dat/Gen	—
+App	application	اپلیکیشن	Feminin	die	die Apps	Nom/Acc/Dat/Gen	—
 Programmierung	programming	برنامه‌نویسی	Feminin	die	die Programmierungen	Nom/Acc/Dat/Gen	—
 Datenverarbeitung	data processing	پردازش داده	Feminin	die	die Datenverarbeitungen	Nom/Acc/Dat/Gen	—
 Kryptowährung	cryptocurrency	ارز دیجیتال	Feminin	die	die Kryptowährungen	Nom/Acc/Dat/Gen	—
@@ -302,7 +299,6 @@ Meinungsfreiheit	freedom of speech	آزادی بیان	Feminin	die	die Meinungsf
 Zeitung	newspaper	روزنامه	Feminin	die	die Zeitungen	Nom/Acc/Dat/Gen	—
 Fernsehen	television	تلویزیون	Neutral	das	die Fernsehens	Nom/Acc/Dat/Gen	—
 Radio	radio	رادیو	Neutral	das	die Radios	Nom/Acc/Dat/Gen	—
-Internet	internet	اینترنت	Neutral	das	die Internetze	Nom/Acc/Dat/Gen	—
 Sender	station/channel	ایستگاه/شبکه	Maskulin	der	die Sender	Nom/Acc/Dat/Gen	—
 Sendung	broadcast	برنامه	Feminin	die	die Sendungen	Nom/Acc/Dat/Gen	—
 Nachricht	news	خبر	Feminin	die	die Nachrichten	Nom/Acc/Dat/Gen	—
@@ -311,13 +307,11 @@ Bericht	report	گزارش	Maskulin	der	die Berichte	Nom/Acc/Dat/Gen	—
 Recherche	research/investigation	تحقیق	Feminin	die	die Recherchen	Nom/Acc/Dat/Gen	—
 Interview	interview	مصاحبه	Neutral	das	die Interviews	Nom/Acc/Dat/Gen	—
 Dokumentation	documentary	مستند	Feminin	die	die Dokumentationen	Nom/Acc/Dat/Gen	—
-Sendung	program	برنامه	Feminin	die	die Sendungen	Nom/Acc/Dat/Gen	—
 Redaktion	editorial	تحریریه	Feminin	die	die Redaktionen	Nom/Acc/Dat/Gen	—
 Auflage	edition/circulation	تیراژ	Feminin	die	die Auflagen	Nom/Acc/Dat/Gen	—
 Ticker	news ticker	خبررسان لحظه‌ای	Maskulin	der	die Ticker	Nom/Acc/Dat/Gen	—
 Kamera	camera	دوربین	Feminin	die	die Kameras	Nom/Acc/Dat/Gen	—
 Foto	photo	عکس	Neutral	das	die Fotos	Nom/Acc/Dat/Gen	—
-App	application	اپلیکیشن	Feminin	die	die Apps	Nom/Acc/Dat/Gen	—
 Kanal	channel	کانال	Maskulin	der	die Kanäle	Nom/Acc/Dat/Gen	—
 Portal	portal	پورتال	Neutral	das	die Portale	Nom/Acc/Dat/Gen	—
 Werbung	advertising	تبلیغات	Feminin	die	die Werbungen	Nom/Acc/Dat/Gen	—
@@ -325,8 +319,6 @@ Meinung	opinion	نظر	Feminin	die	die Meinungen	Nom/Acc/Dat/Gen	—
 Kolumnist	columnist	ستون‌نویس	Maskulin	der	die Kolumnisten	Nom/Acc/Dat/Gen	—
 Epidemiologie	epidemiology	اپیدمیولوژی	Feminin	die	die Epidemiologien	Nom/Acc/Dat/Gen	—
 Prävention	prevention	پیشگیری	Feminin	die	die Präventionen	Nom/Acc/Dat/Gen	—
-Therapie	therapy	درمان	Feminin	die	die Therapien	Nom/Acc/Dat/Gen	—
-Diagnose	diagnosis	تشخیص	Feminin	die	die Diagnosen	Nom/Acc/Dat/Gen	—
 Pharmakologie	pharmacology	داروشناسی	Feminin	die	die Pharmakologien	Nom/Acc/Dat/Gen	—
 Immunologie	immunology	ایمنی‌شناسی	Feminin	die	die Immunologien	Nom/Acc/Dat/Gen	—
 Arzt	doctor	پزشک	Maskulin	der	die Ärzte	Nom/Acc/Dat/Gen	—
@@ -339,7 +331,6 @@ Symptomatik	symptomatology	علائم‌شناسی	Feminin	die	die Symptomatiken
 Pathologie	pathology	آسیب‌شناسی	Feminin	die	die Pathologien	Nom/Acc/Dat/Gen	—
 Onkologie	oncology	انکولوژی	Feminin	die	die Onkologien	Nom/Acc/Dat/Gen	—
 Kardiologie	cardiology	قلب‌شناسی	Feminin	die	die Kardiologien	Nom/Acc/Dat/Gen	—
-Neurologie	neurology	عصب‌شناسی	Feminin	die	die Neurologien	Nom/Acc/Dat/Gen	—
 Pädiatrie	pediatrics	اطفال	Feminin	die	die Pädiatrien	Nom/Acc/Dat/Gen	—
 Chirurgie	surgery	جراحی	Feminin	die	die Chirurgien	Nom/Acc/Dat/Gen	—
 Anästhesie	anesthesia	بیهوشی	Feminin	die	die Anästhesien	Nom/Acc/Dat/Gen	—

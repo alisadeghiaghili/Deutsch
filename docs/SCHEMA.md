@@ -24,15 +24,17 @@ CI does not regenerate TSV automatically; regenerate after editing Markdown and 
 - **Auxiliary:** `haben` \| `sein` \| `—`
 - **Frame:** case or preposition frame, e.g. `[Akk]`, `[Präp: auf+Akk]`, or `—`
 
-### Legacy headers (pre-v0.4, still parsed by the exporter)
+### Legacy headers (pre-v0.4/v0.5, still parsed by the exporter)
 
 | Level | Old header family |
 |-------|-------------------|
-| A1/A2 | German \| English \| Persian \| Präteritum \| Perfekt \| Auxiliary \| Regular \| Cases \| Example |
+| A1/A2 (pre-v0.5) | German \| English \| Persian \| Präteritum \| Perfekt \| Auxiliary \| **Regular** \| **Cases** \| Example |
 | B1 (old) | German \| English \| Persian \| Present (ich) \| Past (ich) \| Perfect \| Separable |
 | B2 (old) | German \| English \| Persian \| Type \| Präteritum \| Perfekt (haben) \| Partizip II \| Example |
 
-B1 and B2 verb files were migrated to the unified header in v0.4.0.
+As of v0.5.0, A1/A2 use unified `Class` / `Frame` tokens (`reg.`, `irr.`, `(sep)`).
+B1/B2 verb files were migrated to the unified header in v0.4.0.
+The exporter still accepts older `Regular`/`Irregular` values if reintroduced.
 
 ## Vocabulary table (all levels)
 

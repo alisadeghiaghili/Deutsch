@@ -39,7 +39,6 @@
 | 🔵 Neid | envy | حسادت | Maskulin | der | die Neide | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Jammer | misery | بدبختی | Maskulin | der | die Jammer | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Trotz | defiance | لجبازی | Maskulin | der | die Trotze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Enthusiasmus | enthusiasm | اشتیاق | Maskulin | der | die Enthusiasmusse | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Angst | fear | ترس | Feminin | die | die Ängste | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Freude | joy | شادی | Feminin | die | die Freuden | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hoffnung | hope | امید | Feminin | die | die Hoffnungen | [Nom] [Akk] [Dat] [Gen] |
@@ -70,7 +69,6 @@
 | 🔵 traurig | sad | غمگین | Adjektiv | — | — | — |
 | 🔵 wütend | angry | عصبانی | Adjektiv | — | — | — |
 | 🔵 nervös | nervous | عصبی | Adjektiv | — | — | — |
-| 🔵 stolz | proud | مغرور | Adjektiv | — | — | — |
 | 🔵 mutig | brave | شجاع | Adjektiv | — | — | — |
 | 🔵 dankbar | grateful | قدردان | Adjektiv | — | — | — |
 | 🔵 einsam | lonely | تنها | Adjektiv | — | — | — |
@@ -113,12 +111,8 @@
 | 🔵 Ehrgeiz | ambition | جاه‌طلبی | Maskulin | der | die Ehrgeize | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Egoismus | selfishness | خودخواهی | Maskulin | der | die Egoismen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Altruismus | altruism | نوع‌دوستی | Maskulin | der | die Altruismen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Stolz | pride | غرور | Maskulin | der | die Stolze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fleiß | diligence | زحمت | Maskulin | der | die Fleiße | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Anstand | decency | نزاکت | Maskulin | der | die Anstände | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Respekt | respect | احترام | Maskulin | der | die Respekts | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Stolz | pride | غرور | Maskulin | der | die Stolze | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Geduld | patience | صبر | Feminin | die | die Gedulden | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ehrlichkeit | honesty | صداقت | Feminin | die | die Ehrlichkeiten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Freundlichkeit | friendliness | مهربانی | Feminin | die | die Freundlichkeiten | [Nom] [Akk] [Dat] [Gen] |
@@ -237,14 +231,12 @@
 | 🔴 Röntgenaufnahme | X-ray | رادیولوژی | Feminin | die | die Röntgenaufnahmen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Blutuntersuchung | blood test | آزمایش خون | Feminin | die | die Blutuntersuchungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Narkose | anesthesia | بیهوشی | Feminin | die | die Narkosen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Spritze | syringe | سرنگ | Feminin | die | die Spritzen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Überweisung | referral | ارجاع | Feminin | die | die Überweisungen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Krankenhaus | hospital | بیمارستان | Neutral | das | die Krankenhäuser | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fieber | fever | تب | Neutral | das | die Fieber | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Gewicht | weight | وزن | Neutral | das | die Gewichte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Wohlbefinden | well-being | بهزیستی | Neutral | das | die Wohlbefinden | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Tabletten | tablets/pills | قرص‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Schmerzen | pain | دردها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Symptome | symptoms | علائم | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
@@ -276,7 +268,6 @@
 | 🔵 Team | team | تیم | Maskulin | der | die Teams | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Meeting | meeting | جلسه | Maskulin | der | die Meetings | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Projekt | project | پروژه | Maskulin | der | die Projekte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Termin | appointment | قرار | Maskulin | der | die Termine | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Auftraggeber | client | کارفرما | Maskulin | der | die Auftraggeber | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Dienstwagen | company car | ماشین شرکتی | Maskulin | der | die Dienstwagen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
@@ -312,10 +303,8 @@
 | 🔴 Einzelarbeit | individual work | کار انفرادی | Feminin | die | die Einzelarbeiten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Teamarbeit | teamwork | کار تیمی | Feminin | die | die Teamarbeiten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Büro | office | دفتر | Neutral | das | die Büros | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Praktikum | internship | کارآموزی | Neutral | das | die Praktika | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Zeugnis | certificate | گواهینامه | Neutral | das | die Zeugnisse | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Kollegen | colleagues | همکاران | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Ferien | holidays | تعطیلات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
 
@@ -347,7 +336,6 @@
 | 🔵 Universitätsprofessor | university professor | استاد دانشگاه | Maskulin | der | die Universitätsprofessoren | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Fachhochschuldozent | university of applied sciences lecturer | مدرس دانشگاه علوم کاربردی | Maskulin | der | die Fachhochschuldozenten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Studienberater | academic advisor | مشاور تحصیلی | Maskulin | der | die Studienberater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Universitätsabschluss | university degree | مدرک دانشگاهی | Maskulin | der | die Universitätsabschlüsse | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Hochschullehrer | university teacher | استاد دانشگاه | Maskulin | der | die Hochschullehrer | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Wissenschaftler | scientist | دانشمند | Maskulin | der | die Wissenschaftler | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Lehrling | apprentice | کارآموز | Maskulin | der | die Lehrlinge | [Nom] [Akk] [Dat] [Gen] |
@@ -360,12 +348,10 @@
 | 🔴 Übung | exercise | تمرین | Feminin | die | die Übungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Klausur | exam | امتحان | Feminin | die | die Klausuren | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Note | grade | نمره | Feminin | die | die Noten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Zeugnis | certificate | گواهینامه | Feminin | die | die Zeugnisse | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Diplom | diploma | دیپلم | Feminin | die | die Diplome | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Fachrichtung | specialization | تخصص | Feminin | die | die Fachrichtungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hausarbeit | term paper | پایان‌نامه | Feminin | die | die Hausarbeiten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Seminar | seminar | سمینار | Feminin | die | die Seminare | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Prüfung | exam | امتحان | Feminin | die | die Prüfungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Bibliothek | library | کتابخانه | Feminin | die | die Bibliotheken | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Einschreibung | enrollment | ثبت‌نام | Feminin | die | die Einschreibungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Forschung | research | تحقیق | Feminin | die | die Forschungen | [Nom] [Akk] [Dat] [Gen] |
@@ -383,8 +369,6 @@
 | 🔴 Grundschule | primary school | دبستان | Feminin | die | die Grundschulen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Realschule | intermediate secondary school | دبیرستان متوسطه | Feminin | die | die Realschulen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hauptschule | basic secondary school | دبیرستان پایه | Feminin | die | die Hauptschulen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Weiterbildung | further education | آموزش تکمیلی | Feminin | die | die Weiterbildungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ausbildung | training | آموزش | Feminin | die | die Ausbildungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Nachhilfe | tutoring | کلاس خصوصی | Feminin | die | die Nachhilfen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Lerngruppe | study group | گروه مطالعه | Feminin | die | die Lerngruppen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Fachwissen | specialist knowledge | دانش تخصصی | Feminin | die | die Fachwissen | [Nom] [Akk] [Dat] [Gen] |
@@ -397,25 +381,18 @@
 | 🔴 Lehrveranstaltung | course | درس | Feminin | die | die Lehrveranstaltungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Pflichtveranstaltung | mandatory course | درس اجباری | Feminin | die | die Pflichtveranstaltungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Wahlfach | elective course | درس اختیاری | Feminin | die | die Wahlfächer | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Praktikum | internship | کارآموزی | Feminin | die | die Praktika | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Beratung | counseling | مشاوره | Feminin | die | die Beratungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Bildungseinrichtung | educational institution | مرکز آموزشی | Feminin | die | die Bildungseinrichtungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Studienjahr | academic year | سال تحصیلی | Feminin | die | die Studienjahre | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Fachhochschulreife | university of applied sciences entrance qualification | صلاحیت ورود به دانشگاه علوم کاربردی | Feminin | die | die Fachhochschulreifen | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Seminar | seminar | سمینار | Neutral | das | die Seminare | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Praktikum | internship | کارآموزی | Neutral | das | die Praktika | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Gymnasium | high school | دبیرستان | Neutral | das | die Gymnasien | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Studium | studies | تحصیلات | Neutral | das | die Studien | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Semester | semester | ترم | Neutral | das | die Semester | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hauptfach | major | رشته اصلی | Neutral | das | die Hauptfächer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Nebenfach | minor | رشته فرعی | Neutral | das | die Nebenfächer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Diplomarbeit | thesis | پایان‌نامه | Neutral | das | die Diplomarbeiten | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Vorlesung | lecture | سخنرانی | Neutral | das | die Vorlesungen | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Ausbildung | training | آموزش | Neutral | das | die Ausbildungen | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Weiterbildung | further education | آموزش تکمیلی | Neutral | das | die Weiterbildungen | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Kommilitonen | fellow students | هم‌دانشگاهیان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Dozenten | lecturers | اساتید | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Studiengebühren | tuition fees | شهریه‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
 
@@ -444,7 +421,6 @@
 | 🔵 Empfänger | receiver | گیرنده | Maskulin | der | die Empfänger | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Firmware | firmware | فریمور | Feminin | die | die Firmwares | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Virenschutz | antivirus | آنتی‌ویروس | Maskulin | der | die Virenschutz | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Drucker | printer | پرینتر | Maskulin | der | die Drucker | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Scanner | scanner | اسکنر | Maskulin | der | die Scanner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Flash-Speicher | flash memory | حافظه فلش | Maskulin | der | die Flash-Speicher | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Datenträger | data carrier | حافظه داده | Maskulin | der | die Datenträger | [Nom] [Akk] [Dat] [Gen] |
@@ -476,1452 +452,7 @@
 | 🔴 Fernsehserie | TV series | مجموعه تلویزیونی | Feminin | die | die Fernsehserien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Fernsehprogramm | TV schedule | برنامه تلویزیونی | Feminin | die | die Fernsehprogramme | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Fernsehapparat | television set | تلویزیون | Feminin | die | die Fernsehgeräte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Kopfhörer | headphones | هدفون | Feminin | die | die Kopfhörer | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikrofone | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unterhaltung | entertainment | سرگرمی | Feminin | die | die Unterhaltungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Nachricht | news | خبر | Feminin | die | die Nachrichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 App | app | اپلیکیشن | Feminin | die | die Apps | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Passwort | password | رمز عبور | Feminin | die | die Passwörter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Social Media | social media | رسانه اجتماعی | Feminin | die | die Social Media | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Mikrofon | microphone | میکروفن | Feminin | die | die Mikروfon | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Webcam | webcam | وب‌کم | Feminin | die | die Webcams | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Festplatte | hard drive | هارد دیسک | Feminin | die | die Festplatten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Batterie | battery | باتری | Feminin | die | die Batterien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Speicherkarte | memory card | کارت حافظه | Feminin | die | die Speicherkarten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Tablet | tablet | تبلت | Neutral | das | die Tablets | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Smartphone | smartphone | اسمارت‌فون | Neutral | das | die Smartphones | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Handy | mobile phone | موبایل | Neutral | das | die Handys | [Nom] [Akk] [Dat] [Gen] |
@@ -1934,10 +465,7 @@
 | 🟢 Radio | radio | رادیو | Neutral | das | die Radios | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Podcast | podcast | پادکست | Neutral | das | die Podcasts | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hardware | hardware | سخت‌افزار | Neutral | das | die Hardware | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Software | software | نرم‌افزار | Neutral | das | die Software | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Blog | blog | بلاگ | Neutral | das | die Blogs | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fenster | window | پنجره | Neutral | das | die Fenster | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Kopfhörer | headphones | هدفون‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
 
@@ -1987,7 +515,6 @@
 | 🔴 Energie | energy | انرژی | Feminin | die | die Energien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ressource | resource | منبع | Feminin | die | die Ressourcen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Verschmutzung | pollution | آلودگی | Feminin | die | die Verschmutzungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Temperatur | temperature | دما | Feminin | die | die Temperaturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Schadstoff | pollutant | آلاینده | Feminin | die | die Schadstoffe | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 �pton | protection | حفاظت | Feminin | die | die Schutzmaßnahmen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Erhaltung | conservation | حفظ | Feminin | die | die Erhaltungen | [Nom] [Akk] [Dat] [Gen] |
@@ -2004,11 +531,9 @@
 | 🟡 Vögel | birds | پرندگان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Tiere | animals | حیوانات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Pflanzen | plants | گیاهان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Natur | nature | طبیعت‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Umwelten | environments | محیط‌زیست‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Landschaften | landscapes | منظره‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Temperaturen | temperatures | دماها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Gewitter | thunderstorms | طوفان‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
 
@@ -2017,56 +542,12 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Brauch | custom | رسم | Maskulin | der | die Bräuche | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Feiertag | holiday | تعطیلات رسمی | Maskulin | der | die Feiertage | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Einwohner | resident | ساکن | Maskulin | der | die Einwohner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verein | club/association | باشگاه/انجمن | Maskulin | der | die Vereine | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Theater | theater | تئاتر | Maskulin | der | die Theater | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Oper | opera | اپرا | Maskulin | der | die Opern | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kultur | culture | فرهنگ | Maskulin | der | die Kulturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Tradition | tradition | سنت | Feminin | die | die Traditionen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Feier | celebration | جشن | Feminin | die | die Feiern | [Nom] [Akk] [Dat] [Gen] |
@@ -2087,7 +568,6 @@
 | 🔴 Migration | migration | مهاجرت | Feminin | die | die Migrationen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Vielfalt | diversity | تنوع | Feminin | die | die Vielfalten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Gleichberechtigung | equality | برابری | Feminin | die | die Gleichberechtigungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Toleranz | tolerance | مدارا | Feminin | die | die Toleranzen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Zivilisation | civilization | تمدن | Feminin | die | die Zivilisationen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Folklore | folklore | فولکلور | Feminin | die | die Folkloren | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Mythologie | mythology | اسطوره‌شناسی | Feminin | die | die Mythologien | [Nom] [Akk] [Dat] [Gen] |
@@ -2097,12 +577,9 @@
 | 🟢 Kino | cinema | سینما | Neutral | das | die Kinofilme | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Konzert | concert | کنسرت | Neutral | das | die Konzerte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Musik | music | موسیقی | Neutral | das | die Musiken | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fest | festival | جشنواره | Neutral | das | die Feste | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Ritus | ritual | آیین | Neutral | das | die Riten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Erbe | heritage | میراث | Neutral | das | die Erbe | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Weltkulturerbe | world heritage | میراث فرهنگی جهان | Neutral | das | die Weltkulturerbe | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Bürger | citizens | شهروندان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Einwohner | residents | ساکنان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Traditionen | traditions | سنت‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Kulturen | cultures | فرهنگ‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Religionen | religions | ادیان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
@@ -2117,41 +594,6 @@
 | 🔵 Gesetz | law | قانون | Maskulin | der | die Gesetze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Präsident | president | رئیس‌جمهور | Maskulin | der | die Präsidenten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürgermeister | mayor | شهردار | Maskulin | der | die Bürgermeister | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Minister | minister | وزیر | Maskulin | der | die Minister | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kandidat | candidate | نامزد | Maskulin | der | die Kandidaten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Wahlzettel | ballot | برگه رأی | Maskulin | der | die Wahlzettel | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Staat | state | دولت | Maskulin | der | die Staaten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gericht | court | دادگاه | Maskulin | der | die Gerichte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gefängnis | prison | زندان | Maskulin | der | die Gefängnisse | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Strafprozess | criminal trial | محاکمه کیفری | Maskulin | der | die Strafprozesse | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verdächtiger | suspect | مظنون | Maskulin | der | die Verdächtigen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Straftäter | criminal | مجرم | Maskulin | der | die Straftäter | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Angeklagter | defendant | متهم | Maskulin | der | die Angeklagten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zeuge | witness | شاهد | Maskulin | der | die Zeugen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gesetz | law | قانون | Maskulin | der | die Gesetze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Präsident | president | رئیس‌جمهور | Maskulin | der | die Präsidenten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürgermeister | mayor | شهردار | Maskulin | der | die Bürgermeister | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Minister | minister | وزیر | Maskulin | der | die Minister | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kandidat | candidate | نامزد | Maskulin | der | die Kandidaten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Wahlzettel | ballot | برگه رأی | Maskulin | der | die Wahlzettel | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Staat | state | دولت | Maskulin | der | die Staaten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gericht | court | دادگاه | Maskulin | der | die Gerichte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gefängnis | prison | زندان | Maskulin | der | die Gefängnisse | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Strafprozess | criminal trial | محاکمه کیفری | Maskulin | der | die Strafprozesse | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verdächtiger | suspect | مظنون | Maskulin | der | die Verdächtigen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Straftäter | criminal | مجرم | Maskulin | der | die Straftäter | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Angeklagter | defendant | متهم | Maskulin | der | die Angeklagten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zeuge | witness | شاهد | Maskulin | der | die Zeugen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gesetz | law | قانون | Maskulin | der | die Gesetze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Richter | judge | قاضی | Maskulin | der | die Richter | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Anwalt | lawyer | وکیل | Maskulin | der | die Anwälte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Bürger | citizen | شهروند | Maskulin | der | die Bürger | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Präsident | president | رئیس‌جمهور | Maskulin | der | die Präsidenten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bürgermeister | mayor | شهردار | Maskulin | der | die Bürgermeister | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Minister | minister | وزیر | Maskulin | der | die Minister | [Nom] [Akk] [Dat] [Gen] |
@@ -2194,36 +636,7 @@
 | 🔴 Strafrecht | criminal law | حقوق جزا | Feminin | die | die Strafrechte | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Zivilrecht | civil law | حقوق مدنی | Feminin | die | die Zivilrechte | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Internationales Recht | international law | حقوق بین‌الملل | Feminin | die | die Internationalen Rechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Partei | party | حزب | Feminin | die | die Parteien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Regierung | government | دولت | Feminin | die | die Regierungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Demokratie | democracy | دموکراسی | Feminin | die | die Demokratien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Freiheit | freedom | آزادی | Feminin | die | die Freiheiten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gleichheit | equality | برابری | Feminin | die | die Gleichheiten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Strafe | penalty | مجازات | Feminin | die | die Strafen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Geldstrafe | fine | جریمه نقدی | Feminin | die | die Geldstrafen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Verordnung | regulation | مقررات | Feminin | die | die Verordnungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Regel | rule | قاعده | Feminin | die | die Regeln | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Staatsbürger | citizen | تبعه | Feminin | die | die Staatsbürger | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ausländer | foreigner | خارجی | Feminin | die | die Ausländer | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Steuer | tax | مالیات | Feminin | die | die Steuern | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Abstimmung | vote | رأی‌گیری | Feminin | die | die Abstimmungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Opposition | opposition | مخالفت | Feminin | die | die Oppositionen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Koalition | coalition | ائتلاف | Feminin | die | die Koalitionen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Parlament | parliament | پارلمان | Feminin | die | die Parlamente | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gesetzgebung | legislation | قانون‌گذاری | Feminin | die | die Gesetzgebungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Verfassung | constitution | قانون اساسی | Feminin | die | die Verfassungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Verhandlung | trial | محاکمه | Feminin | die | die Verhandlungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Staatsanwalt | prosecutor | دادستان | Feminin | die | die Staatsanwälte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Bürgerrecht | civil right | حق شهروندی | Feminin | die | die Bürgerrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Menschenrecht | human right | حق بشر | Feminin | die | die Menschenrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Stimmrecht | voting right | حق رأی | Feminin | die | die Stimmrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Recht | law/right | حق/قانون | Feminin | die | die Rechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Pflicht | duty | تکلیف | Feminin | die | die Pflichten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Strafrecht | criminal law | حقوق جزا | Feminin | die | die Strafrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Zivilrecht | civil law | حقوق مدنی | Feminin | die | die Zivilrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Internationales Recht | international law | حقوق بین‌الملل | Feminin | die | die Internationalen Rechte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Wahlrecht | right to vote | حق رأی | Neutral | das | die Wahlrechte | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Bürger | citizens | شهروندان | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Parteien | parties | احزاب | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Gesetze | laws | قوانین | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Wahlen | elections | انتخابات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
@@ -2250,59 +663,12 @@
 | 🔵 Umsatz | revenue | درآمد | Maskulin | der | die Umsätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zinssatz | interest rate | نرخ بهره | Maskulin | der | die Zinssätze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Schulden | debt | بدهی | Maskulin | der | die Schulden | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Vertrag | contract | قرارداد | Feminin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Geld | money | پول | Maskulin | der | die Geld | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kredit | credit | اعتبار | Maskulin | der | die Kredite | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Konto | account | حساب | Maskulin | der | die Konten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Betrag | amount | مبلغ | Maskulin | der | die Beträge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gewinn | profit | سود | Maskulin | der | die Gewinne | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verlust | loss | زیان | Maskulin | der | die Verluste | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Markt | market | بازار | Maskulin | der | die Märkte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Konzern | corporation | شرکت بزرگ | Maskulin | der | die Konzerne | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Aktienmarkt | stock market | بورس | Maskulin | der | die Aktienmärkte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Handel | trade | تجارت | Maskulin | der | die Handel | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Export | export | صادرات | Maskulin | der | die Exporte | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Import | import | واردات | Maskulin | der | die Importe | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Umsatz | revenue | درآمد | Maskulin | der | die Umsätze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zinssatz | interest rate | نرخ بهره | Maskulin | der | die Zinssätze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Schulden | debt | بدهی | Maskulin | der | die Schulden | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Vertrag | contract | قرارداد | Feminin | die | die Verträge | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Aktie | stock | سهام | Feminin | die | die Aktien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Bank | bank | بانک | Feminin | die | die Banken | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Kreditkarte | credit card | کارت اعتباری | Feminin | die | die Kreditkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Überweisung | transfer | حواله | Feminin | die | die Überweisungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Rechnung | bill | صورتحساب | Feminin | die | die Rechnungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Quittung | receipt | رسید | Feminin | die | die Quittungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Steuer | tax | مالیات | Feminin | die | die Steuern | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Miete | rent | اجاره | Feminin | die | die Mieten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gehalt | salary | حقوق | Feminin | die | die Gehälter | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Einkommen | income | درآمد | Feminin | die | die Einkommen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ausgaben | expenses | هزینه‌ها | Feminin | die | die Ausgaben | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ersparnisse | savings | پس‌انداز | Feminin | die | die Ersparnisse | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Rente | pension | بازنشستگی | Feminin | die | die Renten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Versicherung | insurance | بیمه | Feminin | die | die Versicherungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Darlehen | loan | وام | Feminin | die | die Darlehen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Investment | investment | سرمایه‌گذاری | Feminin | die | die Investments | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Buchführung | bookkeeping | حسابداری | Feminin | die | die Buchführungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Bilanz | balance sheet | ترازنامه | Feminin | die | die Bilanzen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Provision | commission | حق‌الزحمه | Feminin | die | die Provisionen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Dividende | dividend | سود سهام | Feminin | die | die Dividenden | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Hypothek | mortgage | رهن | Feminin | die | die Hypotheken | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Sparkasse | savings bank | بانک پس‌انداز | Feminin | die | die Sparkassen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Währung | currency | ارز | Feminin | die | die Währungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Inflation | inflation | تورم | Feminin | die | die Inflationen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Deflation | deflation | کاهش قیمت‌ها | Feminin | die | die Deflationen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Rezession | recession | رکود اقتصادی | Feminin | die | die Rezessionen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Konjunktur | economy | اقتصاد | Feminin | die | die Konjunkturen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Aktie | stock | سهام | Feminin | die | die Aktien | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Bank | bank | بانک | Feminin | die | die Banken | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Kreditkarte | credit card | کارت اعتباری | Feminin | die | die Kreditkarten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Überweisung | transfer | حواله | Feminin | die | die Überweisungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Rechnung | bill | صورتحساب | Feminin | die | die Rechnungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Quittung | receipt | رسید | Feminin | die | die Quittungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Steuer | tax | مالیات | Feminin | die | die Steuern | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Miete | rent | اجاره | Feminin | die | die Mieten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gehalt | salary | حقوق | Feminin | die | die Gehälter | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Einkommen | income | درآمد | Feminin | die | die Einkommen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ausgaben | expenses | هزینه‌ها | Feminin | die | die Ausgaben | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ersparnisse | savings | پس‌انداز | Feminin | die | die Ersparnisse | [Nom] [Akk] [Dat] [Gen] |
@@ -2322,8 +688,6 @@
 | 🔴 Rezession | recession | رکود اقتصادی | Feminin | die | die Rezessionen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Konjunktur | economy | اقتصاد | Feminin | die | die Konjunkturen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Portfolio | portfolio | سبد سهام | Neutral | das | die Portfolios | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Schulden | debts | بدهی‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Ersparnisse | savings | پس‌اندازها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Aktien | stocks | سهام‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Zinsen | interests | بهره‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Steuern | taxes | مالیات‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
@@ -2334,22 +698,6 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔵 Reise | trip | سفر | Maskulin | der | die Reisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Reisepass | passport | پاسپورت | Maskulin | der | die Reisepässe | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Flughafen | airport | فرودگاه | Maskulin | der | die Flughäfen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Gepäck | luggage | چمدان | Maskulin | der | die Gepäcke | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Koffer | suitcase | چمدان | Maskulin | der | die Koffer | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Handgepäck | hand luggage | چمدان دستی | Maskulin | der | die Handgepäcke | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Gate | gate | دروازه | Neutral | das | die Gates | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Terminal | terminal | ترمینال | Maskulin | der | die Terminals | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Verspätung | delay | تأخیر | Maskulin | der | die Verspätungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Umstieg | transfer | ترانسفر | Maskulin | der | die Umstiege | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Hinflug | outbound flight | پرواز رفت | Maskulin | der | die Hinflüge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Rückflug | return flight | پرواز برگشت | Maskulin | der | die Rückflüge | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Backpacker | backpacker | کوله‌گرد | Maskulin | der | die Backpacker | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Camping | camping | اردو زدن | Maskulin | der | die Campings | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Souvenir | souvenir | یادگاری | Maskulin | der | die Souvenirs | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Ausflug | excursion | گردش | Maskulin | der | die Ausflüge | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Reise | trip | سفر | Maskulin | der | die Reisen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Reisepass | passport | پاسپورت | Maskulin | der | die Reisepässe | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Flughafen | airport | فرودگاه | Maskulin | der | die Flughäfen | [Nom] [Akk] [Dat] [Gen] |
@@ -2379,18 +727,8 @@
 | 🔴 Rückreise | return journey | سفر برگشت | Feminin | die | die Rückreisen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hinreise | outbound journey | سفر رفت | Feminin | die | die Hinreisen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Gepäckausgabe | baggage claim | تحویل بار | Feminin | die | die Gepäckausgaben | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Reisebüro | travel agency | آژانس مسافرتی | Feminin | die | die Reisebüros | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Reise | trip | سفر | Feminin | die | die Reisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Rückreise | return journey | سفر برگشت | Feminin | die | die Rückreisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Hinreise | outbound journey | سفر رفت | Feminin | die | die Hinreisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gepäckausgabe | baggage claim | تحویل بار | Feminin | die | die Gepäckausgaben | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Reisebüro | travel agency | آژانس مسافرتی | Feminin | die | die Reisebüros | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Rückreise | return journey | سفر برگشت | Feminin | die | die Rückreisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Hinreise | outbound journey | سفر رفت | Feminin | die | die Hinreisen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Gepäckausgabe | baggage claim | تحویل بار | Feminin | die | die Gepäckausgaben | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hotel | hotel | هتل | Neutral | das | die Hotels | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hostel | hostel | مسافرخانه | Neutral | das | die Hostels | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Camping | camping | اردو زدن | Neutral | das | die Campings | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Reisen | trips | سفرها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Gepäcke | luggages | چمدان‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Flüge | flights | پروازها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
@@ -2416,31 +754,10 @@
 | 🔵 Reifen | tire | لاستیک | Maskulin | der | die Reifen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Ölwechsel | oil change | تعویض روغن | Maskulin | der | die Ölwechsel | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 TÜV | technical inspection | معاینه فنی | Maskulin | der | die TÜV | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Unfall | accident | تصادف | Maskulin | der | die Unfälle | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Stau | traffic jam | ترافیک | Maskulin | der | die Staus | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Umleitung | detour | انحراف مسیر | Maskulin | der | die Umleitungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Maut | toll | عوارض جاده | Maskulin | der | die Mauten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Werkstatt | workshop | کارگاه | Maskulin | der | die Werkstätten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Tankstelle | gas station | جایگاه سوخت | Feminin | die | die Tankstellen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ampel | traffic light | چراغ راهنمایی | Feminin | die | die Ampeln | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Kreuzung | intersection | تقاطع | Feminin | die | die Kreuzungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Autobahn | highway | بزرگراه | Feminin | die | die Autobahnen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Fußgänger | pedestrian | عابر پیاده | Feminin | die | die Fußgänger | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Radfahrer | cyclist | دوچرخه‌سوار | Feminin | die | die Radfahrer | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Parkplatz | parking lot | پارکینگ | Feminin | die | die Parkplätze | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Parkhaus | parking garage | پارکینگ سرپوشیده | Feminin | die | die Parkhäuser | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Benzin | gasoline | بنزین | Feminin | die | die Benzine | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Diesel | diesel | گازوئیل | Feminin | die | die Diesels | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Führerschein | driver's license | گواهینامه رانندگی | Feminin | die | die Führerscheine | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Autohändler | car dealer | فروشنده ماشین | Feminin | die | die Autohändler | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Reifen | tire | لاستیک | Feminin | die | die Reifen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Ölwechsel | oil change | تعویض روغن | Feminin | die | die Ölwechsel | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 TÜV | technical inspection | معاینه فنی | Feminin | die | die TÜV | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Unfall | accident | تصادف | Feminin | die | die Unfälle | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Stau | traffic jam | ترافیک | Feminin | die | die Staus | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Umleitung | detour | انحراف مسیر | Feminin | die | die Umleitungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Maut | toll | عوارض جاده | Feminin | die | die Mauten | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Werkstatt | workshop | کارگاه | Feminin | die | die Werkstätten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Tankstelle | gas station | جایگاه سوخت | Feminin | die | die Tankstellen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Auto | car | ماشین | Neutral | das | die Autos | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fahrrad | bicycle | دوچرخه | Neutral | das | die Fahrräder | [Nom] [Akk] [Dat] [Gen] |
@@ -2459,7 +776,6 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔵 Gericht | dish | غذا | Maskulin | der | die Gerichte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Spezialität | specialty | تخصص | Maskulin | der | die Spezialitäten | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Salz | salt | نمک | Maskulin | der | die Salze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Pfeffer | pepper | فلفل | Maskulin | der | die Pfeffer | [Nom] [Akk] [Dat] [Gen] |
@@ -2488,7 +804,6 @@
 | 🟢 Brötchen | bread roll | نان رولی | Neutral | das | die Brötchen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Öl | oil | روغن | Neutral | das | die Öle | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Mehl | flour | آرد | Neutral | das | die Mehl | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Rezept | recipe | دستور پخت | Neutral | das | die Rezepte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Besteck | cutlery | کارد و چنگال | Neutral | das | die Bestecke | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Messer | knife | چاقو | Neutral | das | die Messer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Gabel | fork | چنگال | Neutral | das | die Gabeln | [Nom] [Akk] [Dat] [Gen] |
@@ -2527,11 +842,6 @@
 | 🟢 Hemd | shirt | پیراهن | Neutral | das | die Hemden | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Trikot | jersey | پیراهن ورزشی | Neutral | das | die Trikots | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Kleidung | clothing | لباس | Neutral | das | die Kleidungen | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Schuhe | shoes | کفش‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Stiefel | boots | چکمه‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Sandalen | sandals | صندل‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Sneaker | sneakers | کفش‌های ورزشی | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Handschuhe | gloves | دستکش‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Hosen | pants | شلوارها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
@@ -2547,7 +857,6 @@
 | 🔵 Balkon | balcony | بالکن | Maskulin | der | die Balkone | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kellerschrank | basement cupboard | کمد زیرزمین | Maskulin | der | die Kellerschränke | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Garten | garden | باغچه | Maskulin | der | die Gärten | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zaun | fence | حصار | Maskulin | der | die Zäune | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Tor | gate | دروازه | Maskulin | der | die Tore | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Briefkasten | mailbox | صندوق پستی | Maskulin | der | die Briefkästen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Tür | door | در | Feminin | die | die Türen | [Nom] [Akk] [Dat] [Gen] |
@@ -2562,11 +871,9 @@
 | 🟢 Schlafzimmer | bedroom | اتاق خواب | Neutral | das | die Schlafzimmer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Wohnzimmer | living room | اتاق نشیمن | Neutral | das | die Wohnzimmer | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Esszimmer | dining room | اتاق غذاخوری | Neutral | das | die Esszimmer | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fenster | window | پنجره | Neutral | das | die Fenster | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Haustür | front door | در ورودی | Neutral | das | die Haustüren | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Einfahrt | driveway | ورودی | Neutral | das | die Einfahrten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Stockwerk | floor/story | طبقه | Neutral | das | die Stockwerke | [Nom] [Akk] [Dat] [Gen] |
-| 🟡 Zimmer | rooms | اتاق‌ها | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Stockwerke | floors | طبقات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 
 ---
