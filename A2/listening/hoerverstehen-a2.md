@@ -1,4 +1,9 @@
 # Hörverstehen A2 - Listening Comprehension
+
+> **Drill mode:** questions only. Answer key: [`hoerverstehen-a2-loesungen.md`](hoerverstehen-a2-loesungen.md) — open only after you answered on paper.
+
+> **حالت تمرین:** فقط سؤال‌ها. پاسخ‌نامه در [`hoerverstehen-a2-loesungen.md`](hoerverstehen-a2-loesungen.md) — پس از پاسخ‌نگاری باز کنید.
+
 # درک شنیداری سطح A2
 
 ## Übersicht A2 Listening
@@ -23,9 +28,9 @@ Der Checkout ist bis 11 Uhr. Aber Sie können auch spätestens bis 12 Uhr ausche
 Super, danke für die Information!
 
 **Fragen**:
-1. Wie lange ist Herr Müller im Hotel? → 2 Nächte
-2. Wann gibt es Frühstück? → 7 bis 10 Uhr
-3. Wann ist der Checkout? → bis 11 Uhr, spätestens 12 Uhr
+1. Wie lange ist Herr Müller im Hotel?
+2. Wann gibt es Frühstück?
+3. Wann ist der Checkout?
 
 **Vokabeln**:
 - die Reservierung: رزرو
@@ -51,10 +56,10 @@ Ich schreibe Ihnen ein Rezept. Ruhen Sie sich viel aus und trinken Sie viel Wass
 Danke, Herr Doktor.
 
 **Fragen**:
-1. Was hat Frau Weber? → Kopfschmerzen und Übelkeit
-2. Seit wie vielen Tagen ist sie krank? → 3 Tage
-3. Welches Fieber hatte sie? → 38,5 Grad
-4. Was soll sie tun? → Ruhen und viel Wasser trinken
+1. Was hat Frau Weber?
+2. Seit wie vielen Tagen ist sie krank?
+3. Welches Fieber hatte sie?
+4. Was soll sie tun?
 
 **Vokabeln**:
 - der Kopfschmerz: سردرد
@@ -86,11 +91,11 @@ Der ist auch schön. Ich nehme den grauen Pullover.
 Sehr gut! Kann ich die Kasse?
 
 **Fragen**:
-1. Was sucht die Kundin? → einen Pullover für ihren Mann
-2. In welcher Größe? → Größe L
-3. Wie viel kostet der blaue Pullover? → 49,99 Euro
-4. Wie viel kostet der graue Pullover? → 29,99 Euro
-5. Welchen Pullover kauft sie? → den grauen Pullover
+1. Was sucht die Kundin?
+2. In welcher Größe?
+3. Wie viel kostet der blaue Pullover?
+4. Wie viel kostet der graue Pullover?
+5. Welchen Pullover kauft sie?
 
 **Vokabeln**:
 - der Pullover: پلیور
@@ -122,11 +127,11 @@ Gut, ich bestelle das sofort.
 Danke!
 
 **Fragen**:
-1. Auf welchen Namen ist die Reservierung? → Schmidt
-2. Was möchte die Frau trinken? → ein Glas Rotwein
-3. Was möchte der Mann trinken? → Mineralwasser
-4. Was bestellt die Frau? → Schnitzel mit Kartoffelsalat
-5. Was bestellt der Mann? → Lachs mit Gemüse
+1. Auf welchen Namen ist die Reservierung?
+2. Was möchte die Frau trinken?
+3. Was möchte der Mann trinken?
+4. Was bestellt die Frau?
+5. Was bestellt der Mann?
 
 **Vokabeln**:
 - der Rotwein: شراب قرمز
@@ -158,11 +163,11 @@ Das macht insgesamt 178 Euro. Bitte sehr.
 Danke!
 
 **Fragen**:
-1. Wohin möchte der Mann fahren? → nach Berlin
-2. Wann möchte er fahren? → morgen früh
-3. Was kostet der Zug um 6:30 Uhr? → 89 Euro
-4. Was kostet der Zug um 7:15 Uhr? → 112 Euro
-5. Welchen Zug nimmt er? → den Zug um 6:30 Uhr
+1. Wohin möchte der Mann fahren?
+2. Wann möchte er fahren?
+3. Was kostet der Zug um 6:30 Uhr?
+4. Was kostet der Zug um 7:15 Uhr?
+5. Welchen Zug nimmt er?
 
 **Vokabeln**:
 - die Fahrkarte: بلیط
@@ -190,10 +195,10 @@ Danke, tschüss!
 Tschüss, Maria!
 
 **Fragen**:
-1. Wer ruft an? → Maria
-2. Ist Anna da? → nein, sie ist nicht da
-3. Warum kann Maria nicht ins Kino kommen? → sie hat Kopfschmerzen
-4. Wann können sie sich treffen? → morgen
+1. Wer ruft an?
+2. Ist Anna da?
+3. Warum kann Maria nicht ins Kino kommen?
+4. Wann können sie sich treffen?
 
 **Vokabeln**:
 - die Nachricht: پیام
@@ -219,10 +224,10 @@ Etwa 10 Minuten.
 Super, vielen Dank!
 
 **Fragen**:
-1. Was sucht der Tourist? → den Dom
-2. Wohin soll er gehen? → geradeaus, dann links
-3. Wo ist der Dom? → auf der rechten Seite
-4. Wie lange dauert es zu Fuß? → etwa 10 Minuten
+1. Was sucht der Tourist?
+2. Wohin soll er gehen?
+3. Wo ist der Dom?
+4. Wie lange dauert es zu Fuß?
 
 **Vokabeln**:
 - der Dom: کلیسای جامع
@@ -244,22 +249,22 @@ Nach München, Deutschland.
 Brauchen Sie eine Prioritätsversendung oder Standard?
 Standard, bitte.
 Gut. Das Paket wiegt 2 Kilogramm. Das kostet 12,50 Euro.
-Kann ich eine_tracking_Nummer bekommen?
+Kann ich eine Tracking-Nummer bekommen?
 Ja, hier ist die Quittung mit der Nummer.
 Danke. Wann kommt das Paket an?
 Bei Standard dauert es etwa 5-7 Werktage.
 Gut, danke für die Information!
 
 **Fragen**:
-1. Wohin soll das Paket gehen? → nach München, Deutschland
-2. Welche Versendung wählt er? → Standard
-3. Wie viel kostet es? → 12,50 Euro
-4. Wann kommt das Paket an? → 5-7 Werktage
+1. Wohin soll das Paket gehen?
+2. Welche Versendung wählt er?
+3. Wie viel kostet es?
+4. Wann kommt das Paket an?
 
 **Vokabeln**:
 - das Paket: بسته
 - die Prioritätsversendung: ارسال اولویت‌دار
-- die Standard: استاندارد
+- die Standardversendung: ارسال استاندارد
 - wiegen: وزن داشتن
 - die Quittung: رسید
 - die Werktage: روزهای کاری

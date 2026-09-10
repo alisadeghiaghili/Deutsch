@@ -1,7 +1,7 @@
 {
   "name": "deutsch-study-notes",
   "private": true,
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "CEFR German study notes with Persian glosses",
   "scripts": {
     "lint": "markdownlint-cli '**/*.md' --config .markdownlint.json --ignore node_modules --ignore legacy",

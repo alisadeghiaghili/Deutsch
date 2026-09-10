@@ -1,4 +1,9 @@
 # Hören auf B2-Niveau
+
+> **Drill mode:** questions only. Answer key: [`hoerverstehen-b2-loesungen.md`](hoerverstehen-b2-loesungen.md) — open only after you answered on paper.
+
+> **حالت تمرین:** فقط سؤال‌ها. پاسخ‌نامه در [`hoerverstehen-b2-loesungen.md`](hoerverstehen-b2-loesungen.md) — پس از پاسخ‌نگاری باز کنید.
+
 # گوش دادن در سطح B2
 
 ---
@@ -192,10 +197,10 @@
 „Das Projekt „Zukunftsschule" wurde im Jahr 2023 gestartet. Bisher haben 45 Schulen in Bayern teilgenommen. Das Budget beträgt 2 Millionen Euro. Der Schwerpunkt liegt auf digitalen Lernmethoden."
 
 **Fragen**:
-1. Wann wurde das Projekt gestartet? → 2023
-2. Wie viele Schulen nehmen teil? → 45
-3. Wie groß ist das Budget? → 2 Millionen Euro
-4. Worin liegt der Schwerpunkt? → Digitale Lernmethoden
+1. Wann wurde das Projekt gestartet?
+2. Wie viele Schulen nehmen teil?
+3. Wie groß ist das Budget?
+4. Worin liegt der Schwerpunkt?
 
 ---
 
@@ -228,17 +233,17 @@
 
 ### Exercise 5: Diktat | املا
 
+See [`hoerverstehen-b2-loesungen.md`](hoerverstehen-b2-loesungen.md) for model sentences (Diktat).
+
+
 **Aufgabe**: Hören Sie den Satz und schreiben Sie ihn genau auf.
 
 **Beispiele**:
-1. „Die Umweltverschörung ist eines der größten Probleme unserer Zeit."
-   → Die Umweltverschmutzung ist eines der größten Probleme unserer Zeit.
+1. „Die Umweltverschmutzung ist eines der größten Probleme unserer Zeit."
 
 2. „Er hat mir versprochen, dass er pünktlich kommt."
-   → Er hat mir versprochen, dass er pünktlich kommt.
 
 3. „Wir müssen über die Konsequenzen dieser Entscheidung nachdenken."
-   → Wir müssen über die Konsequenzen dieser Entscheidung nachdenken.
 
 ---
 
