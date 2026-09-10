@@ -9,12 +9,12 @@
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | argumentieren | to argue | استدلال کردن | argumentierte | habe argumentiert | haben | reg. | — | Er argumentiert mit Fakten. |
 | debattieren | to debate | بحث کردن | debattierte | habe debattiert | haben | reg. | — | Sie debattieren über Politik. |
-| diskutieren | to discuss | بحث کردن | diskutierte | habe diskutiert | haben | reg. | — | Wir diskutieren das Thema. |
+| diskutieren | to discuss | بحث کردن | diskutierte | habe diskutiert | haben | reg. | — | Er diskutiert das Thema im Fernsehen. |
 | überzeugen | to convince | متقاعد کردن | überzeugte | habe überzeugt | haben | reg. | — | Er hat mich überzeugt. |
 | widerlegen | to refute | رد کردن | widerlegte | habe widerlegt | haben | reg. | — | Sie widerlegte seine Theorie. |
 | bekräftigen | to confirm | تأکید کردن | bekräftigte | habe bekräftigt | haben | reg. | — | Er bekräftigte seine Aussage. |
 | kritisieren | to criticize | انتقاد کردن | kritisierte | habe kritisiert | haben | reg. | — | Sie kritisiert die Regierung. |
-| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | Er analysiert die Daten. |
+| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | Er analysiert das Verhalten. |
 | behaupten | to claim | ادعا کردن | behauptete | habe behauptet | haben | reg. | — | Sie behauptet, dass... |
 | einwenden | to object | اعتراض کردن | wandte ein | habe eingewandt | haben | reg. | — | Er wandte ein, dass... |
 | zustimmen | to agree | موافقت کردن | stimmte zu | habe zugestimmt | haben | reg. | — | Sie stimmt zu. |
@@ -47,7 +47,7 @@
 | empfinden | to feel/sense | احساس کردن | empfand | habe empfunden | haben | irr. | — | Er empfindet Freude. |
 | fühlen | to feel | احساس کردن | fühlte | habe gefühlt | haben | reg. | — | Sie fühlt sich glücklich. |
 | erleben | to experience | تجربه کردن | erlebte | habe erlebt | haben | reg. | — | Er erlebt eine Krise. |
-| reagieren | to react | واکنش نشان دادن | reagierte | habe reagiert | haben | reg. | — | Sie reagiert schnell. |
+| reagieren | to react | واکنش نشان دادن | reagierte | habe reagiert | haben | reg. | — | Sie reagiert auf den Reiz. |
 | beeindrucken | to impress | تحت تأثیر قرار دادن | beeindruckte | habe beeindruckt | haben | reg. | — | Er beeindruckt das Publikum. |
 | berühren | to touch/emotional | لمس کردن/تحت تأثیر قرار دادن | berührte | habe berührt | haben | reg. | — | Das Lied berührt mich. |
 | begeistern | to inspire/enthusiast | هیجان زده کردن | begeisterte | habe begeistert | haben | reg. | — | Sie begeistert das Publikum. |
@@ -65,7 +65,6 @@
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | forschen | to research | تحقیق کردن | forschte | habe geforscht | haben | reg. | — | Er forscht über das Thema. |
-| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | Sie analysiert die Daten. |
 | synthetisieren | to synthesize | ترکیب کردن | synthetisierte | habe synthetisiert | haben | reg. | — | Er synthetisiert die Verbindung. |
 | experimentieren | to experiment | آزمایش کردن | experimentierte | habe experimentiert | haben | reg. | — | Sie experimentiert im Labor. |
 | publizieren | to publish | منتشر کردن | publizierte | habe publiziert | haben | reg. | — | Er publiziert seinen Artikel. |
@@ -74,7 +73,6 @@
 | beobachten | to observe | مشاهده کردن | beobachtete | habe beobachtet | haben | reg. | — | Sie beobachtet das Experiment. |
 | vergleichen | to compare | مقایسه کردن | verglich | habe verglichen | haben | reg. | — | Er vergleicht die Ergebnisse. |
 | beweisen | to prove | اثبات کردن | bewies | habe bewiesen | haben | irr. | — | Sie beweist ihre These. |
-| widerlegen | to refute | رد کردن | widerlegte | habe widerlegt | haben | reg. | — | Er widerlegt die Hypothese. |
 | schlussfolgern | to conclude | نتیجه گرفتن | schlussfolgerte | habe geschlussfolgert | haben | reg. | — | Sie schlussfolgert aus den Daten. |
 
 ## 🏛️ Philosophie (Philosophy)
@@ -83,7 +81,6 @@
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | philosophieren | to philosophize | فلسفه ورزیدن | philosophierte | habe philosophiert | haben | reg. | — | Er philosophiert über das Leben. |
 | moralisieren | to moralize | اخلاق گرایی کردن | moralisierte | habe moralisiert | haben | reg. | — | Sie moralisiert zu viel. |
-| argumentieren | to argue | استدلال کردن | argumentierte | habe argumentiert | haben | reg. | — | Er argumentiert logisch. |
 | deduzieren | to deduce | استنتاج کردن | deduzierte | habe deduziert | haben | reg. | — | Sie deduziert aus den Prämissen. |
 | induzieren | to induce | القا کردن | induzierte | habe induziert | haben | reg. | — | Er induziert aus den Beobachtungen. |
 | spekulieren | to speculate | گمانه زنی کردن | spekulierte | habe spekuliert | haben | reg. | — | Sie spekuliert über die Zukunft. |
@@ -96,12 +93,11 @@
 
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| regieren | to govern | حکومت کردن | regierte | habe regiert | haben | reg. | — | Er regiert das Land. |
+| regieren | to rule | حکومت کردن | regierte | habe regiert | haben | reg. | — | Sie regiert mit Koalition. |
 | parlamentarieren | to parliamentary | پارلمانی عمل کردن | parlamentierte | habe parlamentiert | haben | reg. | — | Sie parlamentiert über die Reform. |
 | koalieren | to form coalition | ائتلاف کردن | koalierte | habe koaliert | haben | reg. | — | Die Parteien koalieren. |
 | oppositionieren | to oppose | مخالفت کردن | oppositionierte | habe oppositioniert | haben | reg. | — | Sie oppositioniert die Regierung. |
 | wählen | to choose/vote | انتخاب کردن/رأی دادن | wählte | habe gewählt | haben | irr. | — | Er wählt die Partei. |
-| regieren | to rule | حکومت کردن | regierte | habe regiert | haben | reg. | — | Sie regiert mit Koalition. |
 | verhandeln | to negotiate | مذاکره کردن | verhandelte | habe verhandelt | haben | reg. | — | Er verhandelt mit der Gegenseite. |
 | streiken | to strike | اعتصاب کردن | strikte | habe gestreikt | haben | reg. | — | Die Arbeiter streiken. |
 | demonstrieren to demonstrate | اعتراض کردن | reg. | habe demonstriert | demonstriert | haben | reg. | — | — |
@@ -114,7 +110,6 @@
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | investieren | to invest | سرمایه‌گذاری کردن | investierte | habe investiert | haben | reg. | — | Er investiert in Aktien. |
-| spekulieren | to speculate | گمانه زنی کردن | spekulierte | habe spekuliert | haben | reg. | — | Sie spekuliert mit Immobilien. |
 | handeln | to trade | تجارت کردن | handelte | habe gehandelt | haben | reg. | — | Er handelt mit Waren. |
 | produzieren | to produce | تولید کردن | produzierte | habe produziert | haben | reg. | — | Die Fabrik produziert Autos. |
 | konsumieren | to consume | مصرف کردن | konsumierte | habe konsumiert | haben | reg. | — | Die Menschen konsumieren viel. |
@@ -149,18 +144,14 @@
 
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | Er analysiert das Verhalten. |
 | diagnostizieren | to diagnose | تشخیص دادن | diagnostizierte | habe diagnostiziert | haben | reg. | — | Sie diagnostiziert die Krankheit. |
-| behandeln | to treat | درمان کردن | behandelte | habe behandelt | haben | reg. | — | Er behandelt den Patienten. |
+| behandeln | to treat | درمان کردن | behandelte | habe behandelt | haben | reg. | — | Der Arzt behandelt den Patienten. |
 | therapieren | to therapy | درمان کردن | therapierte | habe therapiert | haben | reg. | — | Sie therapiert ihre Patienten. |
-| beobachten | to observe | مشاهده کردن | beobachtete | habe beobachtet | haben | reg. | — | Er beobachtet das Verhalten. |
 | bewerten | to evaluate | ارزیابی کردن | bewertete | habe bewertet | haben | reg. | — | Sie bewertet die Symptome. |
-| diagnostizieren | to diagnose | تشخیص دادن | diagnostizierte | habe diagnostiziert | haben | reg. | — | Er diagnostiziert die Störung. |
 | entwickeln | to develop | توسعه دادن | entwickelte | habe entwickelt | haben | reg. | — | Sie entwickelt eine Therapie. |
 | stimulieren | to stimulate | تحریک کردن | stimulierte | habe stimuliert | haben | reg. | — | Er stimuliert die Gehirnzellen. |
 | konditionieren | to condition | شرطی کردن | konditionierte | habe konditioniert | haben | reg. | — | Sie konditioniert das Verhalten. |
 | assoziieren | to associate | تداعی کردن | assoziierte | habe assoziiert | haben | reg. | — | Er assoziiert Wörter. |
-| reagieren | to react | واکنش نشان دادن | reagierte | habe reagiert | haben | reg. | — | Sie reagiert auf den Reiz. |
 
 ## 💻 Technologie (Technology)
 
@@ -175,7 +166,7 @@
 | uploaden | to upload | آپلود کردن | uploadete | habe geuploadet | haben | reg. | — | Er lädt das Bild hoch. |
 | suchen | to search | جستجو کردن | suchte | habe gesucht | haben | reg. | — | Sie sucht im Internet. |
 | codieren | to code | کدنویسی کردن | codierte | habe codiert | haben | reg. | — | Er codiert das Programm. |
-| drucken | to print | چاپ کردن | druckte | habe gedruckt | haben | reg. | — | Sie druckt das Dokument. |
+| drucken | to print | چاپ کردن | druckte | habe gedruckt | haben | reg. | — | Die Zeitung druckt den Artikel. |
 | speichern | to save | ذخیره کردن | speicherte | habe gespeichert | haben | reg. | — | Er speichert die Datei. |
 | hochladen | to upload | آپلود کردن | lud hoch | habe hochgeladen | haben | irr. | — | Sie lädt das Video hoch. |
 
@@ -185,14 +176,12 @@
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | recyceln | to recycle | بازیافت کردن | recycelte | habe recycelt | haben | reg. | — | Sie recycelt den Müll. |
 | verschmutzen | to pollute | آلوده کردن | verschmutzte | habe verschmutzt | haben | reg. | — | Die Fabrik verschmutzt die Luft. |
-| schützen | to protect | محافظت کردن | schützte | habe geschützt | haben | reg. | — | Er schützt die Umwelt. |
+| schützen | to protect | محافظت کردن | schützte | habe geschützt | haben | reg. | — | Das Gesetz schützt die Bürger. |
 | zerstören | to destroy | ویران کردن | zerstörte | habe zerstört | haben | reg. | — | Die Firma zerstört den Wald. |
-| wachsen | to grow | رشد کردن | wuchs | habe gewachsen | haben | irr. | — | Die Pflanzen wachsen. |
 | emittieren | to emit | انتشار دادن | emittierte | habe emittiert | haben | reg. | — | Die Fabrik emittiert CO₂. |
 | reduzieren | to reduce | کاهش دادن | reduzierte | habe reduziert | haben | reg. | — | Er reduziert seinen CO₂-Fußabdruck. |
 | verbrauchen | to consume | مصرف کردن | verbrauchte | habe verbraucht | haben | reg. | — | Sie verbraucht viel Energie. |
 | erzeugen | to produce | تولید کردن | erzeugte | habe erzeugt | haben | reg. | — | Die Sonne erzeugt Energie. |
-| sparen | to save | صرفه جویی کردن | sparte | habe gespart | haben | reg. | — | Er spart Wasser. |
 | entsorgen | to dispose | دفع کردن | entsorgte | habe entsorgt | haben | reg. | — | Sie entsorgt den Müll. |
 | verursachen | to cause | ایجاد کردن | verursachte | habe verursacht | haben | reg. | — | Das verursacht Verschmutzung. |
 
@@ -220,13 +209,11 @@
 | verurteilen | to convict | محکوم کردن | verurteilte | habe verurteilt | haben | reg. | — | Das Gericht verurteilt ihn. |
 | freisprechen | to acquit | تبرئه کردن | sprach frei | habe freigesprochen | haben | irr. | — | Das Gericht spricht ihn frei. |
 | klagen | to sue | شکایت کردن | klagte | habe geklagt | haben | reg. | — | Sie klagt gegen die Firma. |
-| verhandeln | to negotiate | مذاکره کردن | verhandelte | habe verhandelt | haben | reg. | — | Er verhandelt mit der Gegenseite. |
 | festnehmen | to arrest | بازداشت کردن | nahm fest | habe festgenommen | haben | irr. | — | Die Polizei nimmt ihn fest. |
 | bestrafen | to punish | مجازات کردن | bestrafte | habe bestraft | haben | reg. | — | Das Gericht bestraft den Täter. |
 | entscheiden | to decide | تصمیم گرفتن | entschied | habe entschieden | haben | irr. | — | Das Gericht entscheidet. |
 | verhindern | to prevent | جلوگیری کردن | verhinderte | habe verhindert | haben | reg. | — | Sie verhindert den Diebstahl. |
 | verletzen | to violate | نقض کردن | verletzte | habe verletzt | haben | reg. | — | Er verletzt das Gesetz. |
-| schützen | to protect | محافظت کردن | schützte | habe geschützt | haben | reg. | — | Das Gesetz schützt die Bürger. |
 | büßen | to atone | کفاره دادن | büßte | habe gebüßt | haben | reg. | — | Er büßt für seine Tat. |
 | appellieren | to appeal | استیناف کردن | appellierte | habe appelliert | haben | reg. | — | Sie appelliert an das Gericht. |
 
@@ -239,20 +226,14 @@
 | zensieren | to censor | سانسور کردن | zensierte | habe zensiert | haben | reg. | — | Die Regierung zensiert die Medien. |
 | veröffentlichen | to publish | منتشر کردن | veröffentlichte | habe veröffentlicht | haben | reg. | — | Sie veröffentlicht den Artikel. |
 | interviewen | to interview | مصاحبه کردن | interviewte | habe interviewt | haben | reg. | — | Er interviewt den Politiker. |
-| fotografieren | to photograph | عکاسی کردن | fotografierte | habe fotografiert | haben | reg. | — | Sie fotografiert das Ereignis. |
 | filmen | to film | فیلمبرداری کردن | filmte | habe gefilmt | haben | reg. | — | Er filmt die Szene. |
-| drucken | to print | چاپ کردن | druckte | habe gedruckt | haben | reg. | — | Die Zeitung druckt den Artikel. |
 | verbreiten | to spread | گسترش داد irreg. | habe verbreitet | verbreitet | haben | reg. | — | — |
 | informieren | to inform | اطلاع رسانی کردن | informierte | habe informiert | haben | reg. | — | Er informiert die Öffentlichkeit. |
-| analysieren | to analyze | تحلیل کردن | analysierte | habe analysiert | haben | reg. | — | Sie analysiert die Umfrage. |
-| diskutieren | to discuss | بحث کردن | diskutierte | habe diskutiert | haben | reg. | — | Er diskutiert das Thema im Fernsehen. |
 
 ## 🏥 Gesundheit (Health)
 
 | German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
 |--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| behandeln | to treat | درمان کردن | behandelte | habe behandelt | haben | reg. | — | Der Arzt behandelt den Patienten. |
-| diagnostizieren | to diagnose | تشخیص دادن | diagnostizierte | habe diagnostiziert | haben | reg. | — | Er diagnostiziert die Krankheit. |
 | impfen | to vaccinate | واکسینه کردن | impfte | habe geimpft | haben | reg. | — | Die Ärztin impft die Kinder. |
 | heilen | to heal | بهبود یافتن | heilte | habe geheilt | haben | reg. | — | Die Wunde heilt schnell. |
 | infizieren | to infect | آلوده کردن | infizierte | habe infiziert | haben | reg. | — | Das Virus infiziert die Menschen. |

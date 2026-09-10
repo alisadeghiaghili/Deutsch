@@ -25,7 +25,6 @@ Bruder	brother	برادر	Maskulin	der	die Brüder	[Nom] [Akk] [Dat] [Gen]	—
 Großvater	grandfather	پدربزرگ	Maskulin	der	die Großväter	[Nom] [Akk] [Dat] [Gen]	—
 Sohn	son	پسر	Maskulin	der	die Söhne	[Nom] [Akk] [Dat] [Gen]	—
 Onkel	uncle	عمو/دایی	Maskulin	der	die Onkel	[Nom] [Akk] [Dat] [Gen]	—
-Mutter	mother	مادر	Feminin	die	die Mütter	[Nom] [Akk] [Dat] [Gen]	—
 Schwester	sister	خواهر	Feminin	die	die Schwestern	[Nom] [Akk] [Dat] [Gen]	—
 Großmutter	grandmother	مادربزرگ	Feminin	die	die Großmütter	[Nom] [Akk] [Dat] [Gen]	—
 Tochter	daughter	دختر	Feminin	die	die Töchter	[Nom] [Akk] [Dat] [Gen]	—
@@ -42,7 +41,7 @@ Fisch	fish	ماهی	Maskulin	der	die Fische	[Nom] [Akk] [Dat] [Gen]	—
 Löwe	lion	شیر	Maskulin	der	die Löwen	[Nom] [Akk] [Dat] [Gen]	—
 Elefant	elephant	فیل	Maskulin	der	die Elefanten	[Nom] [Akk] [Dat] [Gen]	—
 Katze	cat	گربه	Feminin	die	die Katzen	[Nom] [Akk] [Dat] [Gen]	—
-Maus	mouse	موش	Feminin	die	die Mäuse	[Nom] [Akk] [Dat] [Gen]	—
+Maus	mouse	ماوس	Feminin	die	die Mäuse	[Nom] [Akk] [Dat] [Gen]	—
 Kuh	cow	گاو	Feminin	die	die Kühe	[Nom] [Akk] [Dat] [Gen]	—
 Ente	duck	اردک	Feminin	die	die Enten	[Nom] [Akk] [Dat] [Gen]	—
 Biene	bee	زنبور عسل	Feminin	die	die Bienen	[Nom] [Akk] [Dat] [Gen]	—
@@ -215,7 +214,6 @@ Brille	glasses	عینک	Feminin	die	die Brillen	[Nom] [Akk] [Dat] [Gen]	—
 Hose	pants	شلوار	Feminin	die	die Hosen	[Nom] [Akk] [Dat] [Gen]	—
 Farbe	color	رنگ	Feminin	die	die Farben	[Nom] [Akk] [Dat] [Gen]	—
 Hemd	shirt	پیراهن	Neutral	das	die Hemden	[Nom] [Akk] [Dat] [Gen]	—
-Trikot	jersey	پیراهن ورزشی	Neutral	das	die Trikots	[Nom] [Akk] [Dat] [Gen]	—
 Park	park	پارک	Maskulin	der	die Parks	[Nom] [Akk] [Dat] [Gen]	—
 Stadtpark	city park	پارک شهر	Maskulin	der	die Stadtparks	[Nom] [Akk] [Dat] [Gen]	—
 Bahnhof	train station	ایستگاه قطار	Maskulin	der	die Bahnhöfe	[Nom] [Akk] [Dat] [Gen]	—
@@ -259,7 +257,7 @@ ICE	ICE high-speed train	قطار سریع‌السیر	Maskulin	der	die ICEs	[N
 Bahn	railway/train	راه آهن	Feminin	die	die Bahnen	[Nom] [Akk] [Dat] [Gen]	—
 U-Bahn	subway	مترو	Feminin	die	die U-Bahnen	[Nom] [Akk] [Dat] [Gen]	—
 S-Bahn	suburban train	قطار حومه	Feminin	die	die S-Bahnen	[Nom] [Akk] [Dat] [Gen]	—
-Straßenbahn	tram	تراموا	Feminin	die	die Straßenbahnen	[Nom] [Akk] [Dat] [Gen]	—
+Straßenbahn	tram	تراموا	Maskulin	der	die Straßenbahnen	[Nom] [Akk] [Dat] [Gen]	—
 Auto	car	ماشین	Neutral	das	die Autos	[Nom] [Akk] [Dat] [Gen]	—
 Fahrrad	bicycle	دوچرخه	Neutral	das	die Fahrräder	[Nom] [Akk] [Dat] [Gen]	—
 Motorrad	motorcycle	موتورسیکلت	Neutral	das	die Motorräder	[Nom] [Akk] [Dat] [Gen]	—
@@ -293,7 +291,6 @@ Müsli	muesli	موسلي	Maskulin	der	die Müslis	[Nom] [Akk] [Dat] [Gen]	—
 Käse	cheese	پنیر	Maskulin	der	die Käse	[Nom] [Akk] [Dat] [Gen]	—
 Joghurt	yogurt	ماست	Maskulin	der	die Joghurts	[Nom] [Akk] [Dat] [Gen]	—
 Reis	rice	برنج	Maskulin	der	die Reis	[Nom] [Akk] [Dat] [Gen]	—
-Fisch	fish	ماهی	Maskulin	der	die Fische	[Nom] [Akk] [Dat] [Gen]	—
 Hamburger	hamburger	همبرگر	Maskulin	der	die Hamburgers	[Nom] [Akk] [Dat] [Gen]	—
 Schinken	ham	ژامبون	Maskulin	der	die Schinken	[Nom] [Akk] [Dat] [Gen]	—
 Toast	toast	نان تست	Maskulin	der	die Toasts	[Nom] [Akk] [Dat] [Gen]	—
@@ -306,7 +303,6 @@ Wurst	sausage	سوسیس	Feminin	die	die Würste	[Nom] [Akk] [Dat] [Gen]	—
 Lasagne	lasagna	لازانیا	Feminin	die	die Lasagnen	[Nom] [Akk] [Dat] [Gen]	—
 Butter	butter	کره	Feminin	die	die Butter	[Nom] [Akk] [Dat] [Gen]	—
 Hühnersuppe	chicken soup	سوپ مرغ	Feminin	die	die Hühnersuppen	[Nom] [Akk] [Dat] [Gen]	—
-Essen	food/meal	غذا	Neutral	das	die Essen	[Nom] [Akk] [Dat] [Gen]	—
 Lieblingsessen	favorite food	غذای مورد علاقه	Neutral	das	die Lieblingsessen	[Nom] [Akk] [Dat] [Gen]	—
 Milchprodukt	dairy product	لبنیات	Neutral	das	die Milchprodukte	[Nom] [Akk] [Dat] [Gen]	—
 Öl	oil	روغن	Neutral	das	die Öle	[Nom] [Akk] [Dat] [Gen]	—
@@ -340,9 +336,8 @@ Ukraine	Ukraine	اوکراین	Feminin	die	die Ukrainen	[Nom] [Akk] [Dat] [Gen]	
 Amerikanerin	American woman	آمریکایی (زن)	Feminin	die	die Amerikanerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Französin	French woman	فرانسوی (زن)	Feminin	die	die Französinnen	[Nom] [Akk] [Dat] [Gen]	—
 Sprache	language	زبان	Feminin	die	die Sprachen	[Nom] [Akk] [Dat] [Gen]	—
-Muttersprache	mother tongue	زبان مادری	Feminin	die	die Muttersprachen	[Nom] [Akk] [Dat] [Gen]	—
+Muttersprache	native language	زبان مادری	Feminin	die	die Muttersprachen	[Nom] [Akk] [Dat] [Gen]	—
 Fremdsprache	foreign language	زبان خارجی	Feminin	die	die Fremdsprachen	[Nom] [Akk] [Dat] [Gen]	—
-Land	country	کشور	Neutral	das	die Länder	[Nom] [Akk] [Dat] [Gen]	—
 Deutsch	German language	زبان آلمانی	Neutral	das	die Deutsch	[Nom] [Akk] [Dat] [Gen]	—
 Griechisch	Greek language	زبان یونانی	Neutral	das	die Griechisch	[Nom] [Akk] [Dat] [Gen]	—
 Englisch	English language	زبان انگلیسی	Neutral	das	die Englisch	[Nom] [Akk] [Dat] [Gen]	—
@@ -371,7 +366,6 @@ Text	text	متن	Maskulin	der	die Texte	[Nom] [Akk] [Dat] [Gen]	—
 Status	status	وضعیت	Maskulin	der	die Statusse	[Nom] [Akk] [Dat] [Gen]	—
 Bildschirm	screen	صفحه نمایش	Maskulin	der	die Bildschirme	[Nom] [Akk] [Dat] [Gen]	—
 Software	software	نرم‌افزار	Feminin	die	die Softwares	[Nom] [Akk] [Dat] [Gen]	—
-Maus	mouse	ماوس	Feminin	die	die Mäuse	[Nom] [Akk] [Dat] [Gen]	—
 SMS	text message	پیامک	Feminin	die	die SMS	[Nom] [Akk] [Dat] [Gen]	—
 Tastatur	keyboard	صفحه کلید	Feminin	die	die Tastaturen	[Nom] [Akk] [Dat] [Gen]	—
 Information	information	اطلاعات	Feminin	die	die Informationen	[Nom] [Akk] [Dat] [Gen]	—
@@ -411,7 +405,6 @@ Küche	kitchen	آشپزخانه	Feminin	die	die Küchen	[Nom] [Akk] [Dat] [Gen]	
 Mikrowelle	microwave	مایکروویو	Feminin	die	die Mikrowellen	[Nom] [Akk] [Dat] [Gen]	—
 Dusche	shower	دوش	Feminin	die	die Duschen	[Nom] [Akk] [Dat] [Gen]	—
 Garage	garage	گاراژ	Feminin	die	die Garagen	[Nom] [Akk] [Dat] [Gen]	—
-Haus	house	خانه	Neutral	das	die Häuser	[Nom] [Akk] [Dat] [Gen]	—
 Zimmer	room	اتاق	Neutral	das	die Zimmer	[Nom] [Akk] [Dat] [Gen]	—
 Wohnzimmer	living room	اتاق نشیمن	Neutral	das	die Wohnzimmer	[Nom] [Akk] [Dat] [Gen]	—
 Gästezimmer	guest room	اتاق مهمان	Neutral	das	die Gästezimmer	[Nom] [Akk] [Dat] [Gen]	—
@@ -440,9 +433,7 @@ Taxifahrer	male taxi driver	راننده تاکسی (مرد)	Maskulin	der	die Ta
 Rentner	male retiree	بازنشسته (مرد)	Maskulin	der	die Rentner	[Nom] [Akk] [Dat] [Gen]	—
 Koch	male cook	آشپز (مرد)	Maskulin	der	die Köche	[Nom] [Akk] [Dat] [Gen]	—
 Student	male university student	دانشجو (مرد)	Maskulin	der	die Studenten	[Nom] [Akk] [Dat] [Gen]	—
-Arzt	male doctor	پزشک (مرد)	Maskulin	der	die Ärzte	[Nom] [Akk] [Dat] [Gen]	—
 Verkäufer	salesman	فروشنده (مرد)	Maskulin	der	die Verkäufer	[Nom] [Akk] [Dat] [Gen]	—
-Lehrer	male teacher	معلم (مرد)	Maskulin	der	die Lehrer	[Nom] [Akk] [Dat] [Gen]	—
 Journalist	male journalist	روزنامه‌نگار (مرد)	Maskulin	der	die Journalisten	[Nom] [Akk] [Dat] [Gen]	—
 Fitnesstrainer	male fitness trainer	مربی بدنسازی (مرد)	Maskulin	der	die Fitnesstrainer	[Nom] [Akk] [Dat] [Gen]	—
 Programmierer	male programmer	برنامه‌نویس (مرد)	Maskulin	der	die Programmierer	[Nom] [Akk] [Dat] [Gen]	—
@@ -453,22 +444,19 @@ Hausmann	househusband	خانه‌دار (مرد)	Maskulin	der	die Hausmänner	[N
 Automechaniker	male auto mechanic	مکانیک خودرو (مرد)	Maskulin	der	die Automechaniker	[Nom] [Akk] [Dat] [Gen]	—
 Redakteur	male editor	ویراستار (مرد)	Maskulin	der	die Redakteure	[Nom] [Akk] [Dat] [Gen]	—
 Schauspieler	male actor	بازیگر (مرد)	Maskulin	der	die Schauspieler	[Nom] [Akk] [Dat] [Gen]	—
-Trainer	male coach	مربی (مرد)	Maskulin	der	die Trainer	[Nom] [Akk] [Dat] [Gen]	—
 Arbeit	work	کار	Feminin	die	die Arbeiten	[Nom] [Akk] [Dat] [Gen]	—
 Friseurin	female hairdresser	آرایشگر (زن)	Feminin	die	die Friseurinnen	[Nom] [Akk] [Dat] [Gen]	—
 Architektin	female architect	معمار (زن)	Feminin	die	die Architektinnen	[Nom] [Akk] [Dat] [Gen]	—
 Kollegin	female colleague	همکار (زن)	Feminin	die	die Kolleginnen	[Nom] [Akk] [Dat] [Gen]	—
 Chefin	female boss	رئیس (زن)	Feminin	die	die Chefinnen	[Nom] [Akk] [Dat] [Gen]	—
-Polizistin	policewoman	پلیس (زن)	Feminin	die	die Polizistinnen	[Nom] [Akk] [Dat] [Gen]	—
+Polizistin	female policeman	پلیس (زن)	Feminin	die	die Polizistinnen	[Nom] [Akk] [Dat] [Gen]	—
 Managerin	female manager	مدیر (زن)	Feminin	die	die Managerinnen	[Nom] [Akk] [Dat] [Gen]	—
 IT-Ingenieurin	female IT engineer	مهندس IT (زن)	Feminin	die	die IT-Ingenieurinnen	[Nom] [Akk] [Dat] [Gen]	—
 Taxifahrerin	female taxi driver	راننده تاکسی (زن)	Feminin	die	die Taxifahrerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Rentnerin	female retiree	بازنشسته (زن)	Feminin	die	die Rentnerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Köchin	female cook	آشپز (زن)	Feminin	die	die Köchinnen	[Nom] [Akk] [Dat] [Gen]	—
 Studentin	female university student	دانشجو (زن)	Feminin	die	die Studentinnen	[Nom] [Akk] [Dat] [Gen]	—
-Ärztin	female doctor	پزشک (زن)	Feminin	die	die Ärztinnen	[Nom] [Akk] [Dat] [Gen]	—
-Verkäuferin	saleswoman	فروشنده (زن)	Feminin	die	die Verkäuferinnen	[Nom] [Akk] [Dat] [Gen]	—
-Lehrerin	female teacher	معلم (زن)	Feminin	die	die Lehrerinnen	[Nom] [Akk] [Dat] [Gen]	—
+Verkäuferin	female salesman	فروشنده (زن)	Feminin	die	die Verkäuferinnen	[Nom] [Akk] [Dat] [Gen]	—
 Journalistin	female journalist	روزنامه‌نگار (زن)	Feminin	die	die Journalistinnen	[Nom] [Akk] [Dat] [Gen]	—
 Fitnesstrainerin	female fitness trainer	مربی بدنسازی (زن)	Feminin	die	die Fitnesstrainerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Programmiererin	female programmer	برنامه‌نویس (زن)	Feminin	die	die Programmiererinnen	[Nom] [Akk] [Dat] [Gen]	—
@@ -479,7 +467,6 @@ Hausfrau	housewife	خانه‌دار (زن)	Feminin	die	die Hausfrauen	[Nom] [Ak
 Automechanikerin	female auto mechanic	مکانیک خودرو (زن)	Feminin	die	die Automechanikerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Redakteurin	female editor	ویراستار (زن)	Feminin	die	die Redakteurinnen	[Nom] [Akk] [Dat] [Gen]	—
 Schauspielerin	actress	بازیگر (زن)	Feminin	die	die Schauspielerinnen	[Nom] [Akk] [Dat] [Gen]	—
-Trainerin	female coach	مربی (زن)	Feminin	die	die Trainerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Arbeitszeit	working hours	ساعات کاری	Feminin	die	die Arbeitszeiten	[Nom] [Akk] [Dat] [Gen]	—
 Karriere	career	شغل	Feminin	die	die Karrieren	[Nom] [Akk] [Dat] [Gen]	—
 Aufgabe	task	وظیفه	Feminin	die	die Aufgaben	[Nom] [Akk] [Dat] [Gen]	—
@@ -489,7 +476,6 @@ Name	name	نام	Maskulin	der	die Namen	[Nom] [Akk] [Dat] [Gen]	—
 Vorname	first name	نام کوچک	Maskulin	der	die Vornamen	[Nom] [Akk] [Dat] [Gen]	—
 Nachname	last name	نام خانوادگی	Maskulin	der	die Nachnamen	[Nom] [Akk] [Dat] [Gen]	—
 Lebenslauf	CV	رزومه	Maskulin	der	die Lebensläufe	[Nom] [Akk] [Dat] [Gen]	—
-Geburtsort	place of birth	محل تولد	Maskulin	der	die Geburtsorte	[Nom] [Akk] [Dat] [Gen]	—
 Familienstand	marital status	وضعیت تأهل	Maskulin	der	die Familienstände	[Nom] [Akk] [Dat] [Gen]	—
 Handynummer	mobile number	شماره موبایل	Feminin	die	die Handynummern	[Nom] [Akk] [Dat] [Gen]	—
 Telefonnummer	phone number	شماره تلفن	Feminin	die	die Telefonnummern	[Nom] [Akk] [Dat] [Gen]	—
@@ -498,8 +484,6 @@ Adresse	address	آدرس	Feminin	die	die Adressen	[Nom] [Akk] [Dat] [Gen]	—
 E-Mail-Adresse	email address	آدرس ایمیل	Feminin	die	die E-Mail-Adressen	[Nom] [Akk] [Dat] [Gen]	—
 Herkunft	origin	خاستگاه	Feminin	die	die Herkünfte	[Nom] [Akk] [Dat] [Gen]	—
 Postleitzahl	postal code	کد پستی	Feminin	die	die Postleitzahlen	[Nom] [Akk] [Dat] [Gen]	—
-Muttersprache	native language	زبان مادری	Feminin	die	die Muttersprachen	[Nom] [Akk] [Dat] [Gen]	—
-Geburtsdatum	date of birth	تاریخ تولد	Neutral	das	die Geburtsdaten	[Nom] [Akk] [Dat] [Gen]	—
 Kamm	comb	شانه	Maskulin	der	die Kämme	[Nom] [Akk] [Dat] [Gen]	—
 Spiegel	mirror	آینه	Maskulin	der	die Spiegel	[Nom] [Akk] [Dat] [Gen]	—
 Schere	scissors	قیچی	Feminin	die	die Scheren	[Nom] [Akk] [Dat] [Gen]	—
@@ -518,22 +502,17 @@ Berliner	male citizen of Berlin	برلینی (مرد)	Maskulin	der	die Berliner	
 Vegetarier	male vegetarian	گیاه‌خوار (مرد)	Maskulin	der	die Vegetarier	[Nom] [Akk] [Dat] [Gen]	—
 Stress	stress	استرس	Maskulin	der	die Stresse	[Nom] [Akk] [Dat] [Gen]	—
 Spaß	fun	تفریح	Maskulin	der	die Späße	[Nom] [Akk] [Dat] [Gen]	—
-Krankenpfleger	male nurse	پرستار (مرد)	Maskulin	der	die Krankenpfleger	[Nom] [Akk] [Dat] [Gen]	—
 Schüler	male student	دانش‌آموز (مرد)	Maskulin	der	die Schüler	[Nom] [Akk] [Dat] [Gen]	—
 Baum	tree	درخت	Maskulin	der	die Bäume	[Nom] [Akk] [Dat] [Gen]	—
 Berlinerin	female citizen of Berlin	برلینی (زن)	Feminin	die	die Berlinerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Vegetarierin	female vegetarian	گیاه‌خوار (زن)	Feminin	die	die Vegetarierinnen	[Nom] [Akk] [Dat] [Gen]	—
 Lieblingsfarbe	favorite color	رنگ مورد علاقه	Feminin	die	die Lieblingsfarben	[Nom] [Akk] [Dat] [Gen]	—
-Krankenschwester	female nurse	پرستار (زن)	Feminin	die	die Krankenschwestern	[Nom] [Akk] [Dat] [Gen]	—
 Schülerin	female student	دانش‌آموز (زن)	Feminin	die	die Schülerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Idee	idea	ایده	Feminin	die	die Ideen	[Nom] [Akk] [Dat] [Gen]	—
 Meinung	opinion	نظر	Feminin	die	die Meinungen	[Nom] [Akk] [Dat] [Gen]	—
 Welt	world	جهان	Feminin	die	die Welten	[Nom] [Akk] [Dat] [Gen]	—
-Sprache	language	زبان	Feminin	die	die Sprachen	[Nom] [Akk] [Dat] [Gen]	—
-Frühstück	breakfast	صبحانه	Neutral	das	die Frühstücke	[Nom] [Akk] [Dat] [Gen]	—
 Licht	light	نور	Neutral	das	die Lichter	[Nom] [Akk] [Dat] [Gen]	—
 Leben	life	زندگی	Neutral	das	die Leben	[Nom] [Akk] [Dat] [Gen]	—
-Problem	problem	مشکل	Neutral	das	die Probleme	[Nom] [Akk] [Dat] [Gen]	—
 Wort	word	کلمه	Neutral	das	die Wörter	[Nom] [Akk] [Dat] [Gen]	—
 Mut	courage	شجاعت	Maskulin	der	die Mute	[Nom] [Akk] [Dat] [Gen]	—
 Stolz	pride	غرور	Maskulin	der	die Stolze	[Nom] [Akk] [Dat] [Gen]	—
@@ -551,7 +530,6 @@ Nervosität	nervousness	عصبیت	Feminin	die	die Nervositäten	[Nom] [Akk] [Da
 Wut	rage	خشم	Feminin	die	die Wuten	[Nom] [Akk] [Dat] [Gen]	—
 Zufriedenheit	satisfaction	رضایت	Feminin	die	die Zufriedenheiten	[Nom] [Akk] [Dat] [Gen]	—
 Glück	happiness	خوشبختی	Neutral	das	die Glücke	[Nom] [Akk] [Dat] [Gen]	—
-Interesse	interest	علاقه	Neutral	das	die Interessen	[Nom] [Akk] [Dat] [Gen]	—
 Gefühle	feelings	احساسات	Plural	die	—	[Nom] [Akk] [Dat] [Gen]	—
 glücklich	happy	خوشحال	Adjektiv	—	—	—	—
 traurig	sad	غمگین	Adjektiv	—	—	—	—
@@ -559,7 +537,6 @@ müde	tired	خسته	Adjektiv	—	—	—	—
 wütend	angry	عصبانی	Adjektiv	—	—	—	—
 nervös	nervous	عصبی	Adjektiv	—	—	—	—
 mutig	brave	شجاع	Adjektiv	—	—	—	—
-stolz	proud	مغرور	Adjektiv	—	—	—	—
 dankbar	grateful	قدردان	Adjektiv	—	—	—	—
 einsam	lonely	تنها	Adjektiv	—	—	—	—
 verliebt	in love	عاشق	Adjektiv	—	—	—	—
@@ -579,18 +556,13 @@ Halsschmerzen	sore throat	گلو درد	Maskulin	der	die Halsschmerzen	[Nom] [Ak
 Grippe	flu	آنفلوانزا	Maskulin	der	die Grippe	[Nom] [Akk] [Dat] [Gen]	—
 Zahnarzt	dentist	دندانپزشک	Maskulin	der	die Zahnärzte	[Nom] [Akk] [Dat] [Gen]	—
 Apotheker	pharmacist	داروساز	Maskulin	der	die Apotheker	[Nom] [Akk] [Dat] [Gen]	—
-Ärztin	female doctor	پزشک (زن)	Feminin	die	die Ärztinnen	[Nom] [Akk] [Dat] [Gen]	—
 Apotheke	pharmacy	داروخانه	Feminin	die	die Apotheken	[Nom] [Akk] [Dat] [Gen]	—
 Wunde	wound	زخم	Feminin	die	die Wunden	[Nom] [Akk] [Dat] [Gen]	—
 Behandlung	treatment	درمان	Feminin	die	die Behandlungen	[Nom] [Akk] [Dat] [Gen]	—
 Untersuchung	examination	معاینه	Feminin	die	die Untersuchungen	[Nom] [Akk] [Dat] [Gen]	—
 Spritze	injection	تزریق	Feminin	die	die Spritzen	[Nom] [Akk] [Dat] [Gen]	—
 Salbe	ointment	پماد	Feminin	die	die Salben	[Nom] [Akk] [Dat] [Gen]	—
-Krankenhaus	hospital	بیمارستان	Neutral	das	die Krankenhäuser	[Nom] [Akk] [Dat] [Gen]	—
-Fieber	fever	تب	Neutral	das	die Fieber	[Nom] [Akk] [Dat] [Gen]	—
-Tabletten	tablets/pills	قرص‌ها	Plural	die	—	[Nom] [Akk] [Dat] [Gen]	—
 Charakter	character	شخصیت	Maskulin	der	die Charaktere	[Nom] [Akk] [Dat] [Gen]	—
-Mut	courage	شجاعت	Maskulin	der	die Mute	[Nom] [Akk] [Dat] [Gen]	—
 Fleiß	diligence	سختکوشی	Maskulin	der	die Fleiße	[Nom] [Akk] [Dat] [Gen]	—
 Eigenschaft	quality/trait	ویژگی	Feminin	die	die Eigenschaften	[Nom] [Akk] [Dat] [Gen]	—
 Intelligenz	intelligence	هوش	Feminin	die	die Intelligenzen	[Nom] [Akk] [Dat] [Gen]	—
@@ -646,17 +618,12 @@ Backen	baking	پختن کیک	Neutral	das	die Backen	[Nom] [Akk] [Dat] [Gen]	—
 malen	to paint	نقاشی کردن	Verb	—	—	—	—
 zeichnen	to draw	طراحی کردن	Verb	—	—	—	—
 singen	to sing	آواز خواندن	Verb	—	—	—	—
-tanzen	to dance	رقصیدن	Verb	—	—	—	—
 kochen	to cook	آشپزی کردن	Verb	—	—	—	—
-backen	to bake	پختن کیک	Verb	—	—	—	—
 lesen	to read	خواندن	Verb	—	—	—	—
 schreiben	to write	نوشتن	Verb	—	—	—	—
 fotografieren	to photograph	عکس گرفتن	Verb	—	—	—	—
 reisen	to travel	سفر کردن	Verb	—	—	—	—
 wandern	to hike	پیاده‌روی کردن	Verb	—	—	—	—
-campen	to camp	اردو زدن	Verb	—	—	—	—
-joggen	to jog	دویدن	Verb	—	—	—	—
-schwimmen	to swim	شنا کردن	Verb	—	—	—	—
 turnen	to do gymnastics	ژیمناستیک کردن	Verb	—	—	—	—
 meditieren	to meditate	مدیتیشن کردن	Verb	—	—	—	—
 spazieren gehen	to go for a walk	قدم زدن	Verb	—	—	—	—
@@ -666,20 +633,12 @@ Pfeffer	pepper	فلفل	Maskulin	der	die Pfeffer	[Nom] [Akk] [Dat] [Gen]	—
 Essig	vinegar	سرکه	Maskulin	der	die Essige	[Nom] [Akk] [Dat] [Gen]	—
 Senf	mustard	خردل	Maskulin	der	die Senfe	[Nom] [Akk] [Dat] [Gen]	—
 Ketchup	ketchup	کچاپ	Maskulin	der	die Ketchups	[Nom] [Akk] [Dat] [Gen]	—
-Reis	rice	برنج	Maskulin	der	die Reis	[Nom] [Akk] [Dat] [Gen]	—
-Honig	honey	عسل	Maskulin	der	die Honige	[Nom] [Akk] [Dat] [Gen]	—
-Zucker	sugar	شکر	Maskulin	der	die Zucker	[Nom] [Akk] [Dat] [Gen]	—
 Nudel	noodle	ماکارونی	Feminin	die	die Nudeln	[Nom] [Akk] [Dat] [Gen]	—
 Suppe	soup	سوپ	Feminin	die	die Suppen	[Nom] [Akk] [Dat] [Gen]	—
 Salat	salad	سالاد	Feminin	die	die Salate	[Nom] [Akk] [Dat] [Gen]	—
-Butter	butter	کره	Feminin	die	die Butter	[Nom] [Akk] [Dat] [Gen]	—
 Soße	sauce	سس	Feminin	die	die Soßen	[Nom] [Akk] [Dat] [Gen]	—
 Gewürz	spice	ادویه	Feminin	die	die Gewürze	[Nom] [Akk] [Dat] [Gen]	—
-Brot	bread	نان	Neutral	das	die Brote	[Nom] [Akk] [Dat] [Gen]	—
-Brötchen	bread roll	نان رولی	Neutral	das	die Brötchen	[Nom] [Akk] [Dat] [Gen]	—
-Öl	oil	روغن	Neutral	das	die Öle	[Nom] [Akk] [Dat] [Gen]	—
 Mehl	flour	آرد	Neutral	das	die Mehl	[Nom] [Akk] [Dat] [Gen]	—
-Rezept	recipe	دستور پخت	Neutral	das	die Rezepte	[Nom] [Akk] [Dat] [Gen]	—
 Kellner	male waiter	پیشخدمت (مرد)	Maskulin	der	die Kellner	[Nom] [Akk] [Dat] [Gen]	—
 Reservierung	reservation	رزرو	Feminin	die	die Reservierungen	[Nom] [Akk] [Dat] [Gen]	—
 Speisekarte	menu	منوی غذا	Feminin	die	die Speisekarten	[Nom] [Akk] [Dat] [Gen]	—
@@ -692,11 +651,6 @@ Nachtisch	dessert	دسر	Feminin	die	die Nachtische	[Nom] [Akk] [Dat] [Gen]	—
 Bestellung	order	سفارش	Feminin	die	die Bestellungen	[Nom] [Akk] [Dat] [Gen]	—
 Portion	portion	پرس	Feminin	die	die Portionen	[Nom] [Akk] [Dat] [Gen]	—
 Bedienung	service	خدمات	Feminin	die	die Bedienungen	[Nom] [Akk] [Dat] [Gen]	—
-Tisch	table	میز	Neutral	das	die Tische	[Nom] [Akk] [Dat] [Gen]	—
-Stuhl	chair	صندلی	Neutral	das	die Stühle	[Nom] [Akk] [Dat] [Gen]	—
-Salz	salt	نمک	Neutral	das	die Salze	[Nom] [Akk] [Dat] [Gen]	—
-Pfeffer	pepper	فلفل	Neutral	das	die Pfeffer	[Nom] [Akk] [Dat] [Gen]	—
-Frühstück	breakfast	صبحانه	Neutral	das	die Frühstücke	[Nom] [Akk] [Dat] [Gen]	—
 Ingenieur	engineer	مهندس	Maskulin	der	die Ingenieure	[Nom] [Akk] [Dat] [Gen]	—
 Anwalt	lawyer	وکیل	Maskulin	der	die Anwälte	[Nom] [Akk] [Dat] [Gen]	—
 Richter	judge	قاضی	Maskulin	der	die Richter	[Nom] [Akk] [Dat] [Gen]	—
@@ -705,85 +659,35 @@ Soldat	soldier	سرباز	Maskulin	der	die Soldaten	[Nom] [Akk] [Dat] [Gen]	—
 Bäcker	baker	نانوا	Maskulin	der	die Bäcker	[Nom] [Akk] [Dat] [Gen]	—
 Metzger	butcher	قصاب	Maskulin	der	die Metzger	[Nom] [Akk] [Dat] [Gen]	—
 Mechaniker	mechanic	مکانیک	Maskulin	der	die Mechaniker	[Nom] [Akk] [Dat] [Gen]	—
-Apotheker	pharmacist	داروساز	Maskulin	der	die Apotheker	[Nom] [Akk] [Dat] [Gen]	—
-Verkäufer	salesman	فروشنده	Maskulin	der	die Verkäufer	[Nom] [Akk] [Dat] [Gen]	—
-Krankenpfleger	male nurse	پرستار (مرد)	Maskulin	der	die Krankenpfleger	[Nom] [Akk] [Dat] [Gen]	—
-Architekt	architect	معمار	Maskulin	der	die Architekten	[Nom] [Akk] [Dat] [Gen]	—
-Polizist	policeman	پلیس	Maskulin	der	die Polizisten	[Nom] [Akk] [Dat] [Gen]	—
 Anwältin	female lawyer	وکیل (زن)	Feminin	die	die Anwältinnen	[Nom] [Akk] [Dat] [Gen]	—
 Richterin	female judge	قاضی (زن)	Feminin	die	die Richterinnen	[Nom] [Akk] [Dat] [Gen]	—
 Feuerwehrfrau	female firefighter	آتش‌نشان (زن)	Feminin	die	die Feuerwehrfrauen	[Nom] [Akk] [Dat] [Gen]	—
 Soldatin	female soldier	سرباز (زن)	Feminin	die	die Soldatinnen	[Nom] [Akk] [Dat] [Gen]	—
 Bäckerin	female baker	نانوا (زن)	Feminin	die	die Bäckerinnen	[Nom] [Akk] [Dat] [Gen]	—
 Metzgerin	female butcher	قصاب (زن)	Feminin	die	die Metzgerinnen	[Nom] [Akk] [Dat] [Gen]	—
-Krankenschwester	female nurse	پرستار (زن)	Feminin	die	die Krankenschwestern	[Nom] [Akk] [Dat] [Gen]	—
-Architektin	female architect	معمار (زن)	Feminin	die	die Architektinnen	[Nom] [Akk] [Dat] [Gen]	—
-Polizistin	female policeman	پلیس (زن)	Feminin	die	die Polizistinnen	[Nom] [Akk] [Dat] [Gen]	—
 Ingenieurin	female engineer	مهندس (زن)	Feminin	die	die Ingenieurinnen	[Nom] [Akk] [Dat] [Gen]	—
 Zahnärztin	female dentist	دندانپزشک (زن)	Feminin	die	die Zahnärztinnen	[Nom] [Akk] [Dat] [Gen]	—
 Apothekerin	female pharmacist	داروساز (زن)	Feminin	die	die Apothekerinnen	[Nom] [Akk] [Dat] [Gen]	—
-Verkäuferin	female salesman	فروشنده (زن)	Feminin	die	die Verkäuferinnen	[Nom] [Akk] [Dat] [Gen]	—
 Mechanikerin	female mechanic	مکانیک (زن)	Feminin	die	die Mechanikerinnen	[Nom] [Akk] [Dat] [Gen]	—
-Straßenbahn	tram	تراموا	Maskulin	der	die Straßenbahnen	[Nom] [Akk] [Dat] [Gen]	—
-Roller	scooter	اسکوتر	Maskulin	der	die Roller	[Nom] [Akk] [Dat] [Gen]	—
 Helikopter	helicopter	بالگرد	Maskulin	der	die Helikopter	[Nom] [Akk] [Dat] [Gen]	—
 Lastwagen	truck	کامیون	Maskulin	der	die Lastwagen	[Nom] [Akk] [Dat] [Gen]	—
-ICE	ICE high-speed train	قطار سریع‌السیر	Maskulin	der	die ICEs	[Nom] [Akk] [Dat] [Gen]	—
-Roller	scooter	اسکوتر	Maskulin	der	die Roller	[Nom] [Akk] [Dat] [Gen]	—
 Fähre	ferry	قایق مسافربری	Feminin	die	die Fähren	[Nom] [Akk] [Dat] [Gen]	—
-U-Bahn	subway	مترو	Feminin	die	die U-Bahnen	[Nom] [Akk] [Dat] [Gen]	—
-S-Bahn	suburban train	قطار حومه	Feminin	die	die S-Bahnen	[Nom] [Akk] [Dat] [Gen]	—
-Straßenbahn	tram	تراموا	Feminin	die	die Straßenbahnen	[Nom] [Akk] [Dat] [Gen]	—
-Fahrrad	bicycle	دوچرخه	Neutral	das	die Fahrräder	[Nom] [Akk] [Dat] [Gen]	—
-Motorrad	motorcycle	موتورسیکلت	Neutral	das	die Motorräder	[Nom] [Akk] [Dat] [Gen]	—
-Taxi	taxi	تاکسی	Neutral	das	die Taxis	[Nom] [Akk] [Dat] [Gen]	—
-Flugzeug	airplane	هواپیما	Neutral	das	die Flugzeuge	[Nom] [Akk] [Dat] [Gen]	—
 Schiff	ship	کشتی	Neutral	das	die Schiffe	[Nom] [Akk] [Dat] [Gen]	—
 Boot	boat	قایق	Neutral	das	die Boote	[Nom] [Akk] [Dat] [Gen]	—
 Keller	basement	زیرزمین	Maskulin	der	die Keller	[Nom] [Akk] [Dat] [Gen]	—
 Dachboden	attic	زیرشیروانی	Maskulin	der	die Dachböden	[Nom] [Akk] [Dat] [Gen]	—
 Treppenhaus	staircase	راه‌پله	Maskulin	der	die Treppenhäuser	[Nom] [Akk] [Dat] [Gen]	—
 Aufzug	elevator	آسانسور	Maskulin	der	die Aufzüge	[Nom] [Akk] [Dat] [Gen]	—
-Balkon	balcony	بالکن	Maskulin	der	die Balkone	[Nom] [Akk] [Dat] [Gen]	—
 Kellerschrank	basement cupboard	کمد زیرزمین	Maskulin	der	die Kellerschränke	[Nom] [Akk] [Dat] [Gen]	—
 Terrasse	terrace	تراس	Feminin	die	die Terrassen	[Nom] [Akk] [Dat] [Gen]	—
 Wohnung	apartment	آپارتمان	Feminin	die	die Wohnungen	[Nom] [Akk] [Dat] [Gen]	—
-Küche	kitchen	آشپزخانه	Feminin	die	die Küchen	[Nom] [Akk] [Dat] [Gen]	—
-Garage	garage	گاراژ	Feminin	die	die Garagen	[Nom] [Akk] [Dat] [Gen]	—
-Zimmer	room	اتاق	Neutral	das	die Zimmer	[Nom] [Akk] [Dat] [Gen]	—
-Bad	bathroom	حمام	Neutral	das	die Bäder	[Nom] [Akk] [Dat] [Gen]	—
-Schlafzimmer	bedroom	اتاق خواب	Neutral	das	die Schlafzimmer	[Nom] [Akk] [Dat] [Gen]	—
-Wohnzimmer	living room	اتاق نشیمن	Neutral	das	die Wohnzimmer	[Nom] [Akk] [Dat] [Gen]	—
-Esszimmer	dining room	اتاق غذاخوری	Neutral	das	die Esszimmer	[Nom] [Akk] [Dat] [Gen]	—
-Balkon	balcony	بالکن	Neutral	das	die Balkone	[Nom] [Akk] [Dat] [Gen]	—
-Fenster	window	پنجره	Neutral	das	die Fenster	[Nom] [Akk] [Dat] [Gen]	—
 Haustür	front door	در ورودی	Neutral	das	die Haustüren	[Nom] [Akk] [Dat] [Gen]	—
 Stockwerk	floor/story	طبقه	Plural	die	die Stockwerke	[Nom] [Akk] [Dat] [Gen]	—
-Computer	computer	کامپیوتر	Maskulin	der	die Computer	[Nom] [Akk] [Dat] [Gen]	—
-Laptop	laptop	لپ‌تاپ	Maskulin	der	die Laptops	[Nom] [Akk] [Dat] [Gen]	—
-Drucker	printer	پرینتر	Maskulin	der	die Drucker	[Nom] [Akk] [Dat] [Gen]	—
-Bildschirm	screen	صفحه نمایش	Maskulin	der	die Bildschirme	[Nom] [Akk] [Dat] [Gen]	—
-Fernseher	TV	تلویزیون	Maskulin	der	die Fernseher	[Nom] [Akk] [Dat] [Gen]	—
-USB-Stick	USB stick	فلش USB	Maskulin	der	die USB-Sticks	[Nom] [Akk] [Dat] [Gen]	—
 Lautsprecher	speaker	بلندگو	Maskulin	der	die Lautsprecher	[Nom] [Akk] [Dat] [Gen]	—
 Kopfhörer	headphones	هدفون	Maskulin	der	die Kopfhörer	[Nom] [Akk] [Dat] [Gen]	—
 Kamera	camera	دوربین	Feminin	die	die Kameras	[Nom] [Akk] [Dat] [Gen]	—
-Tastatur	keyboard	صفحه کلید	Feminin	die	die Tastaturen	[Nom] [Akk] [Dat] [Gen]	—
-Maus	mouse	ماوس	Feminin	die	die Mäuse	[Nom] [Akk] [Dat] [Gen]	—
-Software	software	نرم‌افزار	Feminin	die	die Softwares	[Nom] [Akk] [Dat] [Gen]	—
-Website	website	وب‌سایت	Feminin	die	die Websites	[Nom] [Akk] [Dat] [Gen]	—
 Mikrofon	microphone	میکروفن	Feminin	die	die Mikrofone	[Nom] [Akk] [Dat] [Gen]	—
 Webcam	webcam	وب‌کم	Feminin	die	die Webcams	[Nom] [Akk] [Dat] [Gen]	—
 Festplatte	hard drive	هارد دیسک	Feminin	die	die Festplatten	[Nom] [Akk] [Dat] [Gen]	—
 Batterie	battery	باتری	Feminin	die	die Batterien	[Nom] [Akk] [Dat] [Gen]	—
-Tastatur	keyboard	صفحه کلید	Feminin	die	die Tastaturen	[Nom] [Akk] [Dat] [Gen]	—
 Tablet	tablet	تبلت	Neutral	das	die Tablets	[Nom] [Akk] [Dat] [Gen]	—
-Smartphone	smartphone	اسمارت‌فون	Neutral	das	die Smartphones	[Nom] [Akk] [Dat] [Gen]	—
-Handy	mobile phone	موبایل	Neutral	das	die Handys	[Nom] [Akk] [Dat] [Gen]	—
-Telefon	phone	تلفن	Neutral	das	die Telefone	[Nom] [Akk] [Dat] [Gen]	—
-Chat	chat	چت	Neutral	das	die Chats	[Nom] [Akk] [Dat] [Gen]	—
-Programm	program	برنامه	Neutral	das	die Programme	[Nom] [Akk] [Dat] [Gen]	—
-Ladegerät	charger	شارژر	Neutral	das	die Ladegeräte	[Nom] [Akk] [Dat] [Gen]	—
-Internet	internet	اینترنت	Neutral	das	die Internet	[Nom] [Akk] [Dat] [Gen]	—
-Video	video	ویدیو	Neutral	das	die Videos	[Nom] [Akk] [Dat] [Gen]	—
-Radio	radio	رادیو	Neutral	das	die Radios	[Nom] [Akk] [Dat] [Gen]	—

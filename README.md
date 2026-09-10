@@ -35,10 +35,10 @@ Approximate table data rows (vocabulary/verbs) and grammar file counts:
 
 | Level | Vocabulary rows | Verb rows | Grammar files |
 |-------|----------------:|----------:|--------------:|
-| A1 | ~788 | ~105 | 22 |
-| A2 | ~2440 | ~160 | 10 |
-| B1 | ~1240 | ~180 | 10 |
-| B2 | ~390 | ~215 | 10 |
+| A1 | ~692 | ~105 | 22 |
+| A2 | ~750 | ~155 | 10 |
+| B1 | ~1120 | ~175 | 10 |
+| B2 | ~380 | ~167 | 10 |
 
 Counts are approximate (header/separator rows excluded). Prefer the files over README if they disagree after a large edit; re-run a row count before claiming new totals.
 
