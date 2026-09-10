@@ -195,7 +195,7 @@
 | 🔵 Februar | February | فوریه | Maskulin | der | die Februare | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 März | March | مارس | Maskulin | der | die Märze | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 April | April | آوریل | Maskulin | der | die Aprils | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Mai | May | مه | Maskulin | der | die Maitage | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mai | May | مه | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Juni | June | ژوئن | Maskulin | der | die Junis | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Juli | July | ژوئیه | Maskulin | der | die Julis | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 August | August | آگوست | Maskulin | der | die Auguste | [Nom] [Akk] [Dat] [Gen] |
@@ -210,7 +210,7 @@
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Frühling | spring | بهار | Maskulin | der | die Frühlinge | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Sommer | summer | تابستان | Maskulin | der | die Sommer | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Herbst | autumn | پاییز | Maskulin | der | die Herbst | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Herbst | autumn | پاییز | Maskulin | der | die Herbste | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Winter | winter | زمستان | Maskulin | der | die Winter | [Nom] [Akk] [Dat] [Gen] |
 
 ### Mahlzeiten (Meal Times)
@@ -240,7 +240,7 @@
 | 🔴 Ausstellung | exhibition | نمایشگاه | Feminin | die | die Ausstellungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Aktivität | activity | فعالیت | Feminin | die | die Aktivitäten | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hobby | hobby | سرگرمی | Neutral | das | die Hobbys | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Kino | cinema | سینما | Neutral | das | die Kinofilme | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Kino | cinema | سینما | Neutral | das | die Kinos | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Konzert | concert | کنسرت | Neutral | das | die Konzerte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Theater | theater | تئاتر | Neutral | das | die Theater | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Spiel | game | بازی | Neutral | das | die Spiele | [Nom] [Akk] [Dat] [Gen] |
@@ -333,7 +333,7 @@
 | 🔵 Tipp | tip | نکته | Maskulin | der | die Tipps | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Patientin | female patient | بیمار (زن) | Feminin | die | die Patientinnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Ärztin | female doctor | پزشک (زن) | Feminin | die | die Ärztinnen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Medizin | medicine | دارو/پزشکی | Feminin | die | die Medizinen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Medizin | medicine | دارو/پزشکی | Feminin | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Fieber | fever | تب | Neutral | das | die Fieber | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Antibiotikum | antibiotic | آنتی‌بیوتیک | Neutral | das | die Antibiotika | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Rauchen | smoking | سیگار کشیدن | Neutral | das | die Rauchen | [Nom] [Akk] [Dat] [Gen] |
@@ -408,7 +408,7 @@
 | 🟢 Restaurant | restaurant | رستوران | Neutral | das | die Restaurants | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Geschäft | shop/business | مغازه | Neutral | das | die Geschäfte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Café | café | کافه | Neutral | das | die Cafés | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Arbeitsamt | job center | اداره کار | Neutral | das | die Ämter | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Arbeitsamt | job center | اداره کار | Neutral | das | die Arbeitsämter | [Nom] [Akk] [Dat] [Gen] |
 
 ### Ort (Location)
 
@@ -454,11 +454,11 @@
 | 🔵 Orangensaft | orange juice | آب پرتقال | Maskulin | der | die Orangensäfte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Apfelsaft | apple juice | آب سیب | Maskulin | der | die Apfelsäfte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Milchkaffee | latte | قهوه شیردار | Maskulin | der | die Milchkaffees | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Milch | milk | شیر | Feminin | die | die Milch | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Milch | milk | شیر | Feminin | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Cola | cola | کولا | Feminin | die | die Colas | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Getränk | drink | نوشیدنی | Neutral | das | die Getränke | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Bier | beer | آبجو | Neutral | das | die Biere | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Wasser | water | آب | Neutral | das | die Wasser | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Wasser | water | آب | Neutral | das | — | [Nom] [Akk] [Dat] [Gen] |
 
 ### Obst und Gemüse (Fruits and Vegetables)
 
@@ -482,26 +482,26 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Müsli | muesli | موسلي | Maskulin | der | die Müslis | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Käse | cheese | پنیر | Maskulin | der | die Käse | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Käse | cheese | پنیر | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Joghurt | yogurt | ماست | Maskulin | der | die Joghurts | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Reis | rice | برنج | Maskulin | der | die Reis | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Reis | rice | برنج | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Hamburger | hamburger | همبرگر | Maskulin | der | die Hamburgers | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Schinken | ham | ژامبون | Maskulin | der | die Schinken | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Toast | toast | نان تست | Maskulin | der | die Toasts | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Honig | honey | عسل | Maskulin | der | die Honige | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Honig | honey | عسل | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kuchen | cake | کیک | Maskulin | der | die Kuchen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zucker | sugar | شکر | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Pizza | pizza | پیتزا | Feminin | die | die Pizzen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Marmelade | jam | مربا | Feminin | die | die Marmeladen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Wurst | sausage | سوسیس | Feminin | die | die Würste | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Lasagne | lasagna | لازانیا | Feminin | die | die Lasagnen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Butter | butter | کره | Feminin | die | die Butter | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Butter | butter | کره | Feminin | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Hühnersuppe | chicken soup | سوپ مرغ | Feminin | die | die Hühnersuppen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Lieblingsessen | favorite food | غذای مورد علاقه | Neutral | das | die Lieblingsessen | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Milchprodukt | dairy product | لبنیات | Neutral | das | die Milchprodukte | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Öl | oil | روغن | Neutral | das | die Öle | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Hähnchen | chicken | مرغ | Neutral | das | die Hähnchen | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Fleisch | meat | گوشت | Neutral | das | die Fleisch | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Fleisch | meat | گوشت | Neutral | das | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Brot | bread | نان | Neutral | das | die Brote | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Croissant | croissant | کروسان | Neutral | das | die Croissants | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Brötchen | bread roll | نان رولی | Neutral | das | die Brötchen | [Nom] [Akk] [Dat] [Gen] |
@@ -584,7 +584,7 @@
 | 🔵 Text | text | متن | Maskulin | der | die Texte | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Status | status | وضعیت | Maskulin | der | die Statusse | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Bildschirm | screen | صفحه نمایش | Maskulin | der | die Bildschirme | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Software | software | نرم‌افزار | Feminin | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 SMS | text message | پیامک | Feminin | die | die SMS | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Information | information | اطلاعات | Feminin | die | die Informationen | [Nom] [Akk] [Dat] [Gen] |
@@ -605,7 +605,7 @@
 | 🔴 Zeitung | newspaper | روزنامه | Feminin | die | die Zeitungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Website | website | وب‌سایت | Feminin | die | die Websites | [Nom] [Akk] [Dat] [Gen] |
 | 🟢 Video | video | ویدیو | Neutral | das | die Videos | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Internet | internet | اینترنت | Neutral | das | die Internet | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Internet | internet | اینترنت | Neutral | das | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Möbel (Furniture)
 
@@ -795,9 +795,9 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Stolz | pride | غرور | Maskulin | der | die Stolze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Zorn | anger | خشم | Maskulin | der | die Zorne | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Mut | courage | شجاعت | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Stolz | pride | غرور | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Zorn | anger | خشم | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zweifel | doubt | شک | Maskulin | der | die Zweifel | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Angst | fear | ترس | Feminin | die | die Ängste | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Dankbarkeit | gratitude | قدردانی | Feminin | die | die Dankbarkeiten | [Nom] [Akk] [Dat] [Gen] |
@@ -808,9 +808,9 @@
 | 🔴 Langeweile | boredom | خستگی/بی‌حوصلگی | Feminin | die | die Langeweilen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Nervosität | nervousness | عصبیت | Feminin | die | die Nervositäten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Überraschung | surprise | تعجب | Feminin | die | die Überraschungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔴 Wut | rage | خشم | Feminin | die | die Wuten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Wut | rage | خشم | Feminin | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Zufriedenheit | satisfaction | رضایت | Feminin | die | die Zufriedenheiten | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Glück | happiness | خوشبختی | Neutral | das | die Glücke | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Glück | happiness | خوشبختی | Neutral | das | — | [Nom] [Akk] [Dat] [Gen] |
 | 🟡 Gefühle | feelings | احساسات | Plural | die | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 glücklich | happy | خوشحال | Adjektiv | — | — | — |
 | 🔵 traurig | sad | غمگین | Adjektiv | — | — | — |
@@ -935,7 +935,7 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Salz | salt | نمک | Maskulin | der | die Salze | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Pfeffer | pepper | فلفل | Maskulin | der | die Pfeffer | [Nom] [Akk] [Dat] [Gen] |
+| 🔵 Pfeffer | pepper | فلفل | Maskulin | der | — | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Essig | vinegar | سرکه | Maskulin | der | die Essige | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Senf | mustard | خردل | Maskulin | der | die Senfe | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Ketchup | ketchup | کچاپ | Maskulin | der | die Ketchups | [Nom] [Akk] [Dat] [Gen] |
@@ -944,7 +944,7 @@
 | 🔴 Salat | salad | سالاد | Feminin | die | die Salate | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Soße | sauce | سس | Feminin | die | die Soßen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Gewürz | spice | ادویه | Feminin | die | die Gewürze | [Nom] [Akk] [Dat] [Gen] |
-| 🟢 Mehl | flour | آرد | Neutral | das | die Mehl | [Nom] [Akk] [Dat] [Gen] |
+| 🟢 Mehl | flour | آرد | Neutral | das | — | [Nom] [Akk] [Dat] [Gen] |
 
 ## Im Restaurant (At Restaurant)
 

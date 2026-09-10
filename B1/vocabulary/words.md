@@ -9,7 +9,7 @@
 | 🔴 Wahrheit | truth | حقیقت | Feminin | die | die Wahrheiten | Akk, Dat, Gen |
 | 🔴 Hoffnung | hope | امید | Feminin | die | die Hoffnungen | Akk, Dat, Gen |
 | 🔴 Angst | fear | ترس | Feminin | die | die Ängste | Akk, Dat, Gen |
-| 🟢 Glück | happiness | خوشبختی | Neutrum | das | die Glücker | Akk, Dat, Gen |
+| 🟢 Glück | happiness | خوشبختی | Neutrum | das | — | Akk, Dat, Gen |
 | 🔵 Erfolg | success | موفقیت | Maskulin | der | die Erfolge | Akk, Dat, Gen |
 | 🔵 Misserfolg | failure | شکست | Maskulin | der | die Misserfolge | Akk, Dat, Gen |
 | 🔵 Fortschritt | progress | پیشرفت | Maskulin | der | die Fortschritte | Akk, Dat, Gen |
@@ -20,27 +20,27 @@
 | 🔵 Sinn | sense | حس | Maskulin | der | die Sinne | Akk, Dat, Gen |
 | 🔵 Zweck | purpose | هدف | Maskulin | der | die Zwecke | Akk, Dat, Gen |
 | 🔵 Zweifel | doubt | شک | Maskulin | der | die Zweifel | Akk, Dat, Gen |
-| 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | Akk, Dat, Gen |
-| 🔵 Stolz | pride | غرور | Maskulin | der | die Stolze | Akk, Dat, Gen |
+| 🔵 Mut | courage | شجاعت | Maskulin | der | — | Akk, Dat, Gen |
+| 🔵 Stolz | pride | غرور | Maskulin | der | — | Akk, Dat, Gen |
 | 🔴 Schuld | guilt | گناه | Feminin | die | die Schulden | Akk, Dat, Gen |
 | 🔴 Ehre | honor | افتخار | Feminin | die | die Ehren | Akk, Dat, Gen |
 | 🔵 Ruhm | fame | شهرت | Maskulin | der | die Ruhme | Akk, Dat, Gen |
 | 🔵 Traum | dream | رویا | Maskulin | der | die Träume | Akk, Dat, Gen |
 | 🔵 Wunsch | wish | آرزو | Maskulin | der | die Wünsche | Akk, Dat, Gen |
 | 🔵 Glaube | belief | باور | Maskulin | der | die Glauben | Akk, Dat, Gen |
-| 🔵 Hass | hatred | نفرت | Maskulin | der | die Hasse | Akk, Dat, Gen |
-| 🔵 Neid | envy | حسادت | Maskulin | der | die Neide | Akk, Dat, Gen |
-| 🔵 Zorn | anger | خشم | Maskulin | der | die Zorne | Akk, Dat, Gen |
+| 🔵 Hass | hatred | نفرت | Maskulin | der | — | Akk, Dat, Gen |
+| 🔵 Neid | envy | حسادت | Maskulin | der | — | Akk, Dat, Gen |
+| 🔵 Zorn | anger | خشم | Maskulin | der | — | Akk, Dat, Gen |
 | 🔵 Trost | comfort | دلداری | Maskulin | der | die Troste | Akk, Dat, Gen |
 | 🔴 Freude | joy | شادی | Feminin | die | die Freuden | Akk, Dat, Gen |
-| 🔵 Kummer | sorrow | غم | Maskulin | der | die Kummer | Akk, Dat, Gen |
+| 🔵 Kummer | sorrow | غم | Maskulin | der | — | Akk, Dat, Gen |
 | 🔴 Sorge | worry | نگرانی | Feminin | die | die Sorgen | Akk, Dat, Gen |
-| 🔴 Lust | desire | میل | Feminin | die | die Lusten | Akk, Dat, Gen |
+| 🔴 Lust | desire | میل | Feminin | die | — | Akk, Dat, Gen |
 | 🟢 Interesse | interest | علاقه | Neutrum | das | die Interessen | Akk, Dat, Gen |
 | 🔴 Leidenschaft | passion | شور و شوق | Feminin | die | die Leidenschaften | Akk, Dat, Gen |
 | 🔴 Einsamkeit | loneliness | تنهایی | Feminin | die | die Einsamkeiten | Akk, Dat, Gen |
 | 🔴 Freundschaft | friendship | دوستی | Feminin | die | die Freundschaften | Akk, Dat, Gen |
-| 🔴 Liebe | love | عشق | Feminin | die | die Lieben | Akk, Dat, Gen |
+| 🔴 Liebe | love | عشق | Feminin | die | — | Akk, Dat, Gen |
 | 🔵 Zusammenhalt | solidarity | همبستگی | Maskulin | der | die Zusammenhalte | Akk, Dat, Gen |
 | 🔴 Gemeinschaft | community | جامعه | Feminin | die | die Gemeinschaften | Akk, Dat, Gen |
 | 🔴 Gesellschaft | society | جامعه | Feminin | die | die Gesellschaften | Akk, Dat, Gen |
@@ -54,7 +54,7 @@
 | 🔴 Identität | identity | هویت | Feminin | die | die Identitäten | Akk, Dat, Gen |
 | 🔴 Würde | dignity | کرامت | Feminin | die | die Würden | Akk, Dat, Gen |
 | 🔵 Respekt | respect | احترام | Maskulin | der | die Respekte | Akk, Dat, Gen |
-| 🟢 Vertrauen | trust | اعتماد | Neutrum | das | die Vertrauen | Akk, Dat, Gen |
+| 🟢 Vertrauen | trust | اعتماد | Neutrum | das | — | Akk, Dat, Gen |
 | 🔴 Toleranz | tolerance | مدارا | Feminin | die | die Toleranzen | Akk, Dat, Gen |
 | 🔴 Gleichheit | equality | برابری | Feminin | die | die Gleichheiten | Akk, Dat, Gen |
 | 🔴 Brüderlichkeit | brotherhood | برادری | Feminin | die | die Brüderlichkeiten | Akk, Dat, Gen |
@@ -71,11 +71,11 @@
 | 🔴 Innovation | innovation | نوآوری | Feminin | die | die Innovationen | Akk, Dat, Gen |
 | 🔴 Entwicklung | development | توسعه | Feminin | die | die Entwicklungen | Akk, Dat, Gen |
 | 🔵 Computer | computer | رایانه | Maskulin | der | die Computer | Akk, Dat, Gen |
-| 🟢 Internet | internet | اینترنت | Neutrum | das | die Internet | Akk, Dat, Gen |
-| 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | Akk, Dat, Gen |
+| 🟢 Internet | internet | اینترنت | Neutrum | das | — | Akk, Dat, Gen |
+| 🔴 Software | software | نرم‌افزار | Feminin | die | — | Akk, Dat, Gen |
 | 🟡 Daten | data | داده | Plural | die | die Daten | Akk, Dat, Gen |
 | 🔴 Information | information | اطلاعات | Feminin | die | die Informationen | Akk, Dat, Gen |
-| 🟢 Wissen | knowledge | دانش | Neutrum | das | die Wissen | Akk, Dat, Gen |
+| 🟢 Wissen | knowledge | دانش | Neutrum | das | — | Akk, Dat, Gen |
 | 🔵 Forscher | researcher | پژوهشگر | Maskulin | der | die Forscher | Akk, Dat, Gen |
 | 🔴 Wissenschaft | science | علم | Feminin | die | die Wissenschaften | Akk, Dat, Gen |
 | 🔴 Methode | method | روش | Feminin | die | die Methoden | Akk, Dat, Gen |
@@ -127,7 +127,7 @@
 | 🔵_cloud | cloud | ابر | Maskulin | der | die Wolken | Akk, Dat, Gen |
 | 🔴 Künstliche Intelligenz | artificial intelligence | هوش مصنوعی | Feminin | die | die Künstlichen Intelligenzen | Akk, Dat, Gen |
 | 🟢 Maschinelles Lernen | machine learning | یادگیری ماشین | Neutrum | das | die Maschinellen Lernen | Akk, Dat, Gen |
-| 🟢 Big Data | big data | داده‌های بزرگ | Neutrum | das | die Big Datas | Akk, Dat, Gen |
+| 🟢 Big Data | big data | داده‌های بزرگ | Neutrum | das | — | Akk, Dat, Gen |
 | 🔴 Blockchain | blockchain | بلاکچین | Feminin | die | die Blockchains | Akk, Dat, Gen |
 
 ## Politik und Gesellschaft / Politics & Society
@@ -199,7 +199,7 @@
 | 🔴 Erlösung | redemption | رستگاری | Feminin | die | die Erlösungen | Akk, Dat, Gen |
 | 🔴 Erkenntnis | cognition | معرفت | Feminin | die | die Erkenntnisse | Akk, Dat, Gen |
 | 🔴 Intuition | intuition | شهود | Feminin | die | die Intuitionen | Akk, Dat, Gen |
-| 🟢 Bewusstsein | consciousness | آگاهی | Neutrum | das | die Bewusstseins | Akk, Dat, Gen |
+| 🟢 Bewusstsein | consciousness | آگاهی | Neutrum | das | — | Akk, Dat, Gen |
 | 🔵 Körper | body | بدن | Maskulin | der | die Körper | Akk, Dat, Gen |
 | 🔴 Materie | matter | ماده | Feminin | die | die Materien | Akk, Dat, Gen |
 | 🔴 Zeit | time | زمان | Feminin | die | die Zeiten | Akk, Dat, Gen |
@@ -280,8 +280,8 @@
 | 🔴 Enttäuschung | disappointment | ناامیدی | Feminin | die | die Enttäuschungen | Akk, Dat, Gen |
 | 🔴 Frustration | frustration | ناکامی | Feminin | die | die Frustrationen | Akk, Dat, Gen |
 | 🔵 Ärger | anger | عصبانیت | Maskulin | der | die Ärger | Akk, Dat, Gen |
-| 🔴 Wut | rage | خشم | Feminin | die | die Wüte | Akk, Dat, Gen |
-| 🔴 Trauer | grief | اندوه | Feminin | die | die Trauern | Akk, Dat, Gen |
+| 🔴 Wut | rage | خشم | Feminin | die | — | Akk, Dat, Gen |
+| 🔴 Trauer | grief | اندوه | Feminin | die | — | Akk, Dat, Gen |
 | 🔴 Traurigkeit | sadness | غم | Feminin | die | die Traurigkeiten | Akk, Dat, Gen |
 | 🔴 Zufriedenheit | satisfaction | رضایت | Feminin | die | die Zufriedenheiten | Akk, Dat, Gen |
 | 🟢 Unglück | unhappiness | بدبختی | Neutrum | das | die Unglücker | Akk, Dat, Gen |
@@ -304,7 +304,7 @@
 | 🔴 Dankbarkeit | gratitude | سپاسگزاری | Feminin | die | die Dankbarkeiten | Akk, Dat, Gen |
 | 🔴 Scham | shame | شرم | Feminin | die | die Schamen | Akk, Dat, Gen |
 | 🔴 Peinlichkeit | embarrassment | خجالت | Feminin | die | die Peinlichkeiten | Akk, Dat, Gen |
-| 🔴 Furcht | fear | ترس | Feminin | die | die Furchten | Akk, Dat, Gen |
+| 🔴 Furcht | fear | ترس | Feminin | die | — | Akk, Dat, Gen |
 | 🔵 Ekel | disgust | انزجار | Maskulin | der | die Ekels | Akk, Dat, Gen |
 | 🟢 Misstrauen | distrust | بی‌اعتمادی | Neutrum | das | die Misstrauen | Akk, Dat, Gen |
 | 🔴 Neugier | curiosity | کنجکاوی | Feminin | die | die Neugieren | Akk, Dat, Gen |
@@ -443,7 +443,7 @@
 | 🟢 Wetter | weather | هوا | Neutrum | das | die Wetter | Akk, Dat, Gen |
 | 🟢 Klima | climate | آب و هوا | Neutrum | das | die Klimas | Akk, Dat, Gen |
 | 🔴 Luft | air | هوا | Feminin | die | die Lüfte | Akk, Dat, Gen |
-| 🟢 Wasser | water | آب | Neutrum | das | die Wasser | Akk, Dat, Gen |
+| 🟢 Wasser | water | آب | Neutrum | das | — | Akk, Dat, Gen |
 | 🔴 Erde | earth | زمین | Feminin | die | die Erden | Akk, Dat, Gen |
 | 🔴 Sonne | sun | خورشید | Feminin | die | die Sonnen | Akk, Dat, Gen |
 | 🔵 Mond | moon | ماه | Maskulin | der | die Monde | Akk, Dat, Gen |
@@ -742,7 +742,7 @@
 | 🔵 Februar | February | فوریه | Maskulin | der | die Februare | Akk, Dat, Gen |
 | 🔵 März | March | مارس | Maskulin | der | die Märze | Akk, Dat, Gen |
 | 🔵 April | April | آوریل | Maskulin | der | die Aprils | Akk, Dat, Gen |
-| 🔵 Mai | May | مه | Maskulin | der | die Mais | Akk, Dat, Gen |
+| 🔵 Mai | May | مه | Maskulin | der | — | Akk, Dat, Gen |
 | 🔵 Juni | June | ژوئن | Maskulin | der | die Junis | Akk, Dat, Gen |
 | 🔵 Juli | July | ژوئیه | Maskulin | der | die Julis | Akk, Dat, Gen |
 | 🔵 August | August | اوت | Maskulin | der | die Auguste | Akk, Dat, Gen |
@@ -752,7 +752,7 @@
 | 🔵 Dezember | December | دسامبر | Maskulin | der | die Dezember | Akk, Dat, Gen |
 | 🔵 Frühling | spring | بهار | Maskulin | der | die Frühlinge | Akk, Dat, Gen |
 | 🔵 Sommer | summer | تابستان | Maskulin | der | die Sommer | Akk, Dat, Gen |
-| 🔵 Herbst | autumn | پاییز | Maskulin | der | die Herbst | Akk, Dat, Gen |
+| 🔵 Herbst | autumn | پاییز | Maskulin | der | die Herbste | Akk, Dat, Gen |
 | 🔵 Winter | winter | زمستان | Maskulin | der | die Winter | Akk, Dat, Gen |
 
 ## Zahlen und Mengen / Numbers & Quantities
@@ -913,11 +913,11 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🟢 Brot | bread | نان | Neutrum | das | die Brote | Akk, Dat, Gen |
-| 🔴 Butter | butter | کره | Feminin | die | die Butter | Akk, Dat, Gen |
-| 🔵 Käse | cheese | پنیر | Maskulin | der | die Käse | Akk, Dat, Gen |
-| 🔴 Milch | milk | شیر | Feminin | die | die Milchen | Akk, Dat, Gen |
+| 🔴 Butter | butter | کره | Feminin | die | — | Akk, Dat, Gen |
+| 🔵 Käse | cheese | پنیر | Maskulin | der | — | Akk, Dat, Gen |
+| 🔴 Milch | milk | شیر | Feminin | die | — | Akk, Dat, Gen |
 | 🟢 Ei | egg | تخم مرغ | Neutrum | das | die Eier | Akk, Dat, Gen |
-| 🟢 Fleisch | meat | گوشت | Neutrum | das | die Fleische | Akk, Dat, Gen |
+| 🟢 Fleisch | meat | گوشت | Neutrum | das | — | Akk, Dat, Gen |
 | 🟢 Hähnchen | chicken | مرغ | Neutrum | das | die Hähnchen | Akk, Dat, Gen |
 | 🟢 Gemüse | vegetable | سبزیجات | Neutrum | das | die Gemüse | Akk, Dat, Gen |
 | 🟢 Obst | fruit | میوه | Neutrum | das | die Obst | Akk, Dat, Gen |
@@ -925,16 +925,16 @@
 | 🔴 Banane | banana | موز | Feminin | die | die Bananen | Akk, Dat, Gen |
 | 🔴 Erdbeere | strawberry | توت فرنگی | Feminin | die | die Erdbeeren | Akk, Dat, Gen |
 | 🔴 Kirsche | cherry | گیلاس | Feminin | die | die Kirschen | Akk, Dat, Gen |
-| 🔵 Reis | rice | برنج | Maskulin | der | die Reise | Akk, Dat, Gen |
+| 🔵 Reis | rice | برنج | Maskulin | der | — | Akk, Dat, Gen |
 | 🔴 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | Akk, Dat, Gen |
 | 🔴 Kartoffel | potato | سیب زمینی | Feminin | die | die Kartoffeln | Akk, Dat, Gen |
 | 🔵 Salat | salad | سالاد | Maskulin | der | die Salate | Akk, Dat, Gen |
 | 🔴 Suppe | soup | سوپ | Feminin | die | die Suppen | Akk, Dat, Gen |
 | 🔵 Kuchen | cake | کیک | Maskulin | der | die Kuchen | Akk, Dat, Gen |
 | 🔴 Schokolade | chocolate | شکلات | Feminin | die | die Schokoladen | Akk, Dat, Gen |
-| 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | Akk, Dat, Gen |
+| 🔵 Zucker | sugar | شکر | Maskulin | der | — | Akk, Dat, Gen |
 | 🟢 Salz | salt | نمک | Neutrum | das | die Salze | Akk, Dat, Gen |
-| 🔵 Pfeffer | pepper | فلفل | Maskulin | der | die Pfeffer | Akk, Dat, Gen |
+| 🔵 Pfeffer | pepper | فلفل | Maskulin | der | — | Akk, Dat, Gen |
 | 🔵 Tee | tea | چای | Maskulin | der | die Tees | Akk, Dat, Gen |
 | 🔵 Kaffee | coffee | قهوه | Maskulin | der | die Kaffees | Akk, Dat, Gen |
 | 🔵 Saft | juice | آب میوه | Maskulin | der | die Säfte | Akk, Dat, Gen |

@@ -158,7 +158,7 @@ Gedächtnis	memory	حافظه	Neutral	das	die Gedächtnisse	Nom/Acc/Dat/Gen	—
 Angst	fear	ترس	Feminin	die	die Ängste	Nom/Acc/Dat/Gen	—
 Freude	joy	شادی	Feminin	die	die Freuden	Nom/Acc/Dat/Gen	—
 Traurigkeit	sadness	غم	Feminin	die	die Traurigkeiten	Nom/Acc/Dat/Gen	—
-Wut	anger	خشم	Feminin	die	die Wüte	Nom/Acc/Dat/Gen	—
+Wut	anger	خشم	Feminin	die	—	Nom/Acc/Dat/Gen	—
 Phobie	phobia	فوبیا	Feminin	die	die Phobien	Nom/Acc/Dat/Gen	—
 Paranoia	paranoia	پارانویا	Feminin	die	die Paranoien	Nom/Acc/Dat/Gen	—
 Schizophrenie	schizophrenia	اسکیزوفرنی	Feminin	die	die Schizophrenien	Nom/Acc/Dat/Gen	—
@@ -176,8 +176,8 @@ Digitalisierung	digitalization	دیجیتالی‌شدن	Feminin	die	die Digital
 Automatisierung	automation	خودکارسازی	Feminin	die	die Automatisierungen	Nom/Acc/Dat/Gen	—
 Biotechnologie	biotechnology	بیوتکنولوژی	Feminin	die	die Biotechnologien	Nom/Acc/Dat/Gen	—
 Nanotechnologie	nanotechnology	نانوتکنولوژی	Feminin	die	die Nanotechnologien	Nom/Acc/Dat/Gen	—
-Software	software	نرم‌افزار	Feminin	die	die Softwares	Nom/Acc/Dat/Gen	—
-Hardware	hardware	سخت‌افزار	Feminin	die	die Hardwares	Nom/Acc/Dat/Gen	—
+Software	software	نرم‌افزار	Feminin	die	—	Nom/Acc/Dat/Gen	—
+Hardware	hardware	سخت‌افزار	Feminin	die	—	Nom/Acc/Dat/Gen	—
 Betriebssystem	operating system	سیستم عامل	Neutral	das	die Betriebssysteme	Nom/Acc/Dat/Gen	—
 Netzwerk	network	شبکه	Neutral	das	die Netzwerke	Nom/Acc/Dat/Gen	—
 Cloud	cloud	فضای ابری	Feminin	die	die Clouds	Nom/Acc/Dat/Gen	—
@@ -188,7 +188,7 @@ Verschlüsselung	encryption	رمزگذاری	Feminin	die	die Verschlüsselungen	
 Cybersicherheit	cybersecurity	امنیت سایبری	Feminin	die	die Cybersicherheiten	Nom/Acc/Dat/Gen	—
 Virtual Reality	virtual reality	واقعیت مجازی	Feminin	die	die Virtual Realityn	Nom/Acc/Dat/Gen	—
 Augmented Reality	augmented reality	واقعیت افزوده	Feminin	die	die Augmented Realityn	Nom/Acc/Dat/Gen	—
-Internet	internet	اینترنت	Neutral	das	die Internetze	Nom/Acc/Dat/Gen	—
+Internet	internet	اینترنت	Neutral	das	—	Nom/Acc/Dat/Gen	—
 Computer	computer	کامپیوتر	Maskulin	der	die Computer	Nom/Acc/Dat/Gen	—
 Smartphone	smartphone	گوشی هوشمند	Neutral	das	die Smartphones	Nom/Acc/Dat/Gen	—
 App	application	اپلیکیشن	Feminin	die	die Apps	Nom/Acc/Dat/Gen	—
@@ -208,7 +208,7 @@ Energiepolitik	energy policy	سیاست انرژی	Feminin	die	die Energiepoliti
 Umweltverschmutzung	environmental pollution	آلودگی محیط زیست	Feminin	die	die Umweltverschmutzungen	Nom/Acc/Dat/Gen	—
 Natur	nature	طبیعت	Feminin	die	die Naturen	Nom/Acc/Dat/Gen	—
 Luft	air	هوا	Feminin	die	die Lüfte	Nom/Acc/Dat/Gen	—
-Wasser	water	آب	Neutral	das	die Wasser	Nom/Acc/Dat/Gen	—
+Wasser	water	آب	Neutral	das	—	Nom/Acc/Dat/Gen	—
 Wald	forest	جنگل	Maskulin	der	die Wälder	Nom/Acc/Dat/Gen	—
 Erde	earth	زمین	Feminin	die	die Erden	Nom/Acc/Dat/Gen	—
 Erderwärmung	global warming	گرمایش زمین	Feminin	die	die Erderwärmungen	Nom/Acc/Dat/Gen	—
@@ -325,7 +325,7 @@ Arzt	doctor	پزشک	Maskulin	der	die Ärzte	Nom/Acc/Dat/Gen	—
 Ärztin	female doctor	پزشک زن	Feminin	die	die Ärztinnen	Nom/Acc/Dat/Gen	—
 Krankenhaus	hospital	بیمارستان	Neutral	das	die Krankenhäuser	Nom/Acc/Dat/Gen	—
 Krankheit	disease	بیماری	Feminin	die	die Krankheiten	Nom/Acc/Dat/Gen	—
-Medizin	medicine	دارو/پزشکی	Feminin	die	die Medizinen	Nom/Acc/Dat/Gen	—
+Medizin	medicine	دارو/پزشکی	Feminin	die	—	Nom/Acc/Dat/Gen	—
 Gesundheit	health	سلامتی	Feminin	die	die Gesundheiten	Nom/Acc/Dat/Gen	—
 Symptomatik	symptomatology	علائم‌شناسی	Feminin	die	die Symptomatiken	Nom/Acc/Dat/Gen	—
 Pathologie	pathology	آسیب‌شناسی	Feminin	die	die Pathologien	Nom/Acc/Dat/Gen	—
