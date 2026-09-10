@@ -167,7 +167,7 @@
 | ⭐ zeichnen | to draw | طراحی کردن | reg. | zeichnete | habe gezeichnet | gezeichnet | Er zeichnet eine Skizze. |
 | 🔴 gestalten | to design | طراحی کردن | reg. | gestaltete | habe gestaltet | gestaltet | Sie gestaltet den Raum. |
 | 🔴 entwerfen | to design/draft | طراحی کردن | irreg. | entwarf | habe entworfen | entworfen | Er entwirft einen Plan. |
-| 🔴 ausstellen | to exhibit | به نمایش گذاشten | reg. | stellte aus | habe ausgestellt | ausgestellt | Sie stellt ihre Werke aus. |
+| 🔴 ausstellen | to exhibit | به نمایش گذاشتن | reg. | stellte aus | habe ausgestellt | ausgestellt | Sie stellt ihre Werke aus. |
 | ⭐ singen | to sing | خواندن | irreg. | sang | habe gesungen | gesungen | Er singt ein Lied. |
 | ⭐ tanzen | to dance | رقصیدن | reg. | tanzte | habe getanzt | getanzt | Sie tanzt wunderbar. |
 | 🔴 inszenieren | to stage | صحنه پردازی کردن | reg. | inszenierte | habe inszeniert | inszeniert | Er inszeniert ein Stück. |

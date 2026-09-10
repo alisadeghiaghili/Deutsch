@@ -29,7 +29,7 @@
 Formal:    Ich möchte Ihnen mitteilen, dass das Meeting verschoben wird.
 Informal:  Ich wollte dir sagen, das Meeting ist verschoben.
 
-Formal:    Könnten Sie mir bitte das Salt reichen?
+Formal:    Könnten Sie mir bitte das Salz reichen?
 Informal:  Kannst du mir mal das Salz reichen?
 
 Formal:    Sehr geehrter Herr Müller, ich schreibe Ihnen wegen...

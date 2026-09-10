@@ -883,8 +883,8 @@
 | 🔵 Charakter | character | شخصیت | Maskulin | der | die Charaktere | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Mut | courage | شجاعت | Maskulin | der | die Mute | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Fleiß | diligence | سختکوشی | Maskulin | der | die Fleiße | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Eigenschaft | quality/trait | ویژگی | Feminin | die | die Eigenschaften | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Intelligenz | intelligence | هوش | Feminin | die | die Intelligenzen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Eigenschaft | quality/trait | ویژگی | Feminin | die | die Eigenschaften | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Intelligenz | intelligence | هوش | Feminin | die | die Intelligenzen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 freundlich | friendly | مهربان | Adjektiv | — | — | — |
 | 🔵 nett | nice | مهربان | Adjektiv | — | — | — |
 | 🔵 lustig | funny | بامزه | Adjektiv | — | — | — |
@@ -935,7 +935,7 @@
 | 🔵 Joggen | jogging | دویدن | Maskulin | der | die Joggen | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Roller | scooter | اسکوتر | Maskulin | der | die Roller | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kanu | canoe | قایق کانو | Maskulin | der | die Kanus | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Fotografie | photography | عکاسی | Feminin | die | die Fotografien | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Fotografie | photography | عکاسی | Feminin | die | die Fotografien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Malerei | painting | نقاشی | Feminin | die | die Malereien | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Zeichnung | drawing | طراحی | Feminin | die | die Zeichnungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Meditation | meditation | مدیتیشن | Feminin | die | die Meditationen | [Nom] [Akk] [Dat] [Gen] |
@@ -975,7 +975,7 @@
 | 🔵 Reis | rice | برنج | Maskulin | der | die Reis | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Honig | honey | عسل | Maskulin | der | die Honige | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Zucker | sugar | شکر | Maskulin | der | die Zucker | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Nudel | noodle | ماکارونی | Feminin | die | die Nudeln | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Suppe | soup | سوپ | Feminin | die | die Suppen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Salat | salad | سالاد | Feminin | die | die Salate | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Butter | butter | کره | Feminin | die | die Butter | [Nom] [Akk] [Dat] [Gen] |
@@ -992,8 +992,8 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔵 Kellner | male waiter | پیشخدمت (مرد) | Maskulin | der | die Kellner | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Reservierung | reservation | رزرو | Feminin | die | die Reservierungen | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Speisekarte | menu | منوی غذا | Feminin | die | die Speisekarten | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Reservierung | reservation | رزرو | Feminin | die | die Reservierungen | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Speisekarte | menu | منوی غذا | Feminin | die | die Speisekarten | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Kellnerin | female waiter | پیشخدمت (زن) | Feminin | die | die Kellnerinnen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Rechnung | bill | صورتحساب | Feminin | die | die Rechnungen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Trinkgeld | tip | انعام | Feminin | die | die Trinkgelder | [Nom] [Akk] [Dat] [Gen] |
@@ -1098,7 +1098,7 @@
 | 🔵 USB-Stick | USB stick | فلش USB | Maskulin | der | die USB-Sticks | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Lautsprecher | speaker | بلندگو | Maskulin | der | die Lautsprecher | [Nom] [Akk] [Dat] [Gen] |
 | 🔵 Kopfhörer | headphones | هدفون | Maskulin | der | die Kopfhörer | [Nom] [Akk] [Dat] [Gen] |
-| 🔵 Kamera | camera | دوربین | Feminin | die | die Kameras | [Nom] [Akk] [Dat] [Gen] |
+| 🔴 Kamera | camera | دوربین | Feminin | die | die Kameras | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Tastatur | keyboard | صفحه کلید | Feminin | die | die Tastaturen | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Maus | mouse | ماوس | Feminin | die | die Mäuse | [Nom] [Akk] [Dat] [Gen] |
 | 🔴 Software | software | نرم‌افزار | Feminin | die | die Softwares | [Nom] [Akk] [Dat] [Gen] |

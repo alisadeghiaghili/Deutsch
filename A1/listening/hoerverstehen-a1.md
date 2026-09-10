@@ -34,7 +34,7 @@ At A1 level, you should be able to:
 | **Einen Tisch für zwei, bitte.** | A table for two, please. | یک میز برای دو نفر لطفاً. |
 | **Die Speisekarte, bitte.** | The menu, please. | منو لطفاً. |
 | **Ich möchte...** | I would like... | من می‌خواهم... |
-| **Dasitz, bitte.** | The check, please. | حساب لطفاً. |
+| **Die Rechnung, bitte.** | The check, please. | حساب لطفاً. |
 | **Danke, das war sehr gut.** | Thank you, that was very good. | متشکرم، خیلی خوب بود. |
 
 ### 3. Nach dem Weg fragen (Asking for Directions)

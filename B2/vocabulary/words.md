@@ -9,17 +9,17 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Hypothese | hypothesis | فرضیه | f. | die | die Hypothesen | Nom/Acc/Dat/Gen |
-| die Theorie | theory | نظریه | f. | die | die Theorien | Nom/Acc/Dat/Gen |
-| die Forschung | research | تحقیق | f. | die | die Forschungen | Nom/Acc/Dat/Gen |
-| das Experiment | experiment | آزمایش | n. | das | die Experimente | Nom/Acc/Dat/Gen |
-| die Analyse | analysis | تحلیل | f. | die | die Analysen | Nom/Acc/Dat/Gen |
-| die Synthese | synthesis | ترکیب | f. | die | die Synthesen | Nom/Acc/Dat/Gen |
-| die Erkenntnis | insight/knowledge | شناخت | f. | die | die Erkenntnisse | Nom/Acc/Dat/Gen |
-| die Wissenschaft | science | علم | f. | die | die Wissenschaften | Nom/Acc/Dat/Gen |
-| die Naturwissenschaft | natural science | علوم طبیعی | f. | die | die Naturwissenschaften | Nom/Acc/Dat/Gen |
-| die Sozialwissenschaft | social science | علوم اجتماعی | f. | die | die Sozialwissenschaften | Nom/Acc/Dat/Gen |
-| die Geisteswissenschaft | humanities | علوم انسانی | f. | die | die Geisteswissenschaften | Nom/Acc/Dat/Gen |
+| 🔴 die Hypothese | hypothesis | فرضیه | f. | die | die Hypothesen | Nom/Acc/Dat/Gen |
+| 🔴 die Theorie | theory | نظریه | f. | die | die Theorien | Nom/Acc/Dat/Gen |
+| 🔴 die Forschung | research | تحقیق | f. | die | die Forschungen | Nom/Acc/Dat/Gen |
+| 🟢 das Experiment | experiment | آزمایش | n. | das | die Experimente | Nom/Acc/Dat/Gen |
+| 🔴 die Analyse | analysis | تحلیل | f. | die | die Analysen | Nom/Acc/Dat/Gen |
+| 🔴 die Synthese | synthesis | ترکیب | f. | die | die Synthesen | Nom/Acc/Dat/Gen |
+| 🔴 die Erkenntnis | insight/knowledge | شناخت | f. | die | die Erkenntnisse | Nom/Acc/Dat/Gen |
+| 🔴 die Wissenschaft | science | علم | f. | die | die Wissenschaften | Nom/Acc/Dat/Gen |
+| 🔴 die Naturwissenschaft | natural science | علوم طبیعی | f. | die | die Naturwissenschaften | Nom/Acc/Dat/Gen |
+| 🔴 die Sozialwissenschaft | social science | علوم اجتماعی | f. | die | die Sozialwissenschaften | Nom/Acc/Dat/Gen |
+| 🔴 die Geisteswissenschaft | humanities | علوم انسانی | f. | die | die Geisteswissenschaften | Nom/Acc/Dat/Gen |
 | ⭐ die Methode | method | روش | f. | die | die Methoden | Nom/Acc/Dat/Gen |
 | ⭐ das Ergebnis | result | نتیجه | n. | das | die Ergebnisse | Nom/Acc/Dat/Gen |
 | ⭐ die Daten | data | داده | n. | die | die Daten | Nom/Acc/Dat/Gen |
@@ -46,28 +46,28 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Philosophie | philosophy | فلسفه | f. | die | die Philosophien | Nom/Acc/Dat/Gen |
-| die Ethik | ethics | اخلاق | f. | die | die Ethik | Nom/Acc/Dat/Gen |
-| die Moral | morality | اخلاقیات | f. | die | die Moralen | Nom/Acc/Dat/Gen |
-| die Logik | logic | منطق | f. | die | die Logik | Nom/Acc/Dat/Gen |
-| die Metaphysik | metaphysics | متافیزیک | f. | die | die Metaphysik | Nom/Acc/Dat/Gen |
+| 🔴 die Philosophie | philosophy | فلسفه | f. | die | die Philosophien | Nom/Acc/Dat/Gen |
+| 🔴 die Ethik | ethics | اخلاق | f. | die | die Ethik | Nom/Acc/Dat/Gen |
+| 🔴 die Moral | morality | اخلاقیات | f. | die | die Moralen | Nom/Acc/Dat/Gen |
+| 🔴 die Logik | logic | منطق | f. | die | die Logik | Nom/Acc/Dat/Gen |
+| 🔴 die Metaphysik | metaphysics | متافیزیک | f. | die | die Metaphysik | Nom/Acc/Dat/Gen |
 | 🔴 die Epistemologie | epistemology | معرفت‌شناسی | f. | die | die Epistemologien | Nom/Acc/Dat/Gen |
-| 🔴 der Existentialismus | existentialism | اگزیستانسیالیسم | m. | der | die Existentialismen | Nom/Acc/Dat/Gen |
-| 🔴 der Utilitarismus | utilitarianism | فایده‌گرایی | m. | der | die Utilitarismen | Nom/Acc/Dat/Gen |
-| 🔴 der Idealismus | idealism | ایده‌آلیسم | m. | der | die Idealismen | Nom/Acc/Dat/Gen |
-| 🔴 der Realismus | realism | واقع‌گرایی | m. | der | die Realismen | Nom/Acc/Dat/Gen |
-| 🔴 der Nihilismus | nihilism | پوچ‌گرایی | m. | der | die Nihilismen | Nom/Acc/Dat/Gen |
-| 🔴 der Stoizismus | stoicism | رواقی‌گری | m. | der | die Stoizismen | Nom/Acc/Dat/Gen |
-| 🔴 der Hedonismus | hedonism | لذت‌گرایی | m. | der | die Hedonismen | Nom/Acc/Dat/Gen |
+| 🔵 der Existentialismus | existentialism | اگزیستانسیالیسم | m. | der | die Existentialismen | Nom/Acc/Dat/Gen |
+| 🔵 der Utilitarismus | utilitarianism | فایده‌گرایی | m. | der | die Utilitarismen | Nom/Acc/Dat/Gen |
+| 🔵 der Idealismus | idealism | ایده‌آلیسم | m. | der | die Idealismen | Nom/Acc/Dat/Gen |
+| 🔵 der Realismus | realism | واقع‌گرایی | m. | der | die Realismen | Nom/Acc/Dat/Gen |
+| 🔵 der Nihilismus | nihilism | پوچ‌گرایی | m. | der | die Nihilismen | Nom/Acc/Dat/Gen |
+| 🔵 der Stoizismus | stoicism | رواقی‌گری | m. | der | die Stoizismen | Nom/Acc/Dat/Gen |
+| 🔵 der Hedonismus | hedonism | لذت‌گرایی | m. | der | die Hedonismen | Nom/Acc/Dat/Gen |
 | ⭐ die Wahrheit | truth | حقیقت | f. | die | die Wahrheiten | Nom/Acc/Dat/Gen |
 | ⭐ die Freiheit | freedom | آزادی | f. | die | die Freiheiten | Nom/Acc/Dat/Gen |
 | ⭐ die Gerechtigkeit | justice | عدالت | f. | die | die Gerechtigkeiten | Nom/Acc/Dat/Gen |
 | ⭐ die Vernunft | reason | عقل | f. | die | die Vernünfte | Nom/Acc/Dat/Gen |
 | ⭐ das Bewusstsein | consciousness | آگاهی | n. | das | die Bewusstseine | Nom/Acc/Dat/Gen |
-| 🔴 der Dualismus | dualism | دوگانه‌گرایی | m. | der | die Dualismen | Nom/Acc/Dat/Gen |
+| 🔵 der Dualismus | dualism | دوگانه‌گرایی | m. | der | die Dualismen | Nom/Acc/Dat/Gen |
 | 🔴 die Dialektik | dialectic | دیالکتیک | f. | die | die Dialektik | Nom/Acc/Dat/Gen |
 | 🔴 die Ontologie | ontology | هستی‌شناسی | f. | die | die Ontologien | Nom/Acc/Dat/Gen |
-| 🔴 der Determinismus | determinism | جبرگرایی | m. | der | die Determinismen | Nom/Acc/Dat/Gen |
+| 🔵 der Determinismus | determinism | جبرگرایی | m. | der | die Determinismen | Nom/Acc/Dat/Gen |
 | 🔴 die Ästhetik | aesthetics | زیبایی‌شناسی | f. | die | die Ästhetik | Nom/Acc/Dat/Gen |
 | 💡 "Ethik" has no plural in common usage |
 | 💡 "Logik" is feminine despite ending in -ik |
@@ -78,32 +78,32 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Demokratie | democracy | دموکراسی | f. | die | die Demokratien | Nom/Acc/Dat/Gen |
-| die Diktatur | dictatorship | دیکتاتوری | f. | die | die Diktaturen | Nom/Acc/Dat/Gen |
-| die Monarchie | monarchy | پادشاهی | f. | die | die Monarchien | Nom/Acc/Dat/Gen |
-| das Parlament | parliament | پارلمان | n. | das | die Parlamente | Nom/Acc/Dat/Gen |
-| die Regierung | government | دولت | f. | die | die Regierungen | Nom/Acc/Dat/Gen |
-| die Opposition | opposition | اپوزیسیون | f. | die | die Oppositionen | Nom/Acc/Dat/Gen |
-| die Koalition | coalition | ائتلاف | f. | die | die Koalitionen | Nom/Acc/Dat/Gen |
-| die Gesetzgebung | legislation | قانون‌گذاری | f. | die | die Gesetzgebungen | Nom/Acc/Dat/Gen |
-| die Verfassung | constitution | قانون اساسی | f. | die | die Verfassungen | Nom/Acc/Dat/Gen |
+| 🔴 die Demokratie | democracy | دموکراسی | f. | die | die Demokratien | Nom/Acc/Dat/Gen |
+| 🔴 die Diktatur | dictatorship | دیکتاتوری | f. | die | die Diktaturen | Nom/Acc/Dat/Gen |
+| 🔴 die Monarchie | monarchy | پادشاهی | f. | die | die Monarchien | Nom/Acc/Dat/Gen |
+| 🟢 das Parlament | parliament | پارلمان | n. | das | die Parlamente | Nom/Acc/Dat/Gen |
+| 🔴 die Regierung | government | دولت | f. | die | die Regierungen | Nom/Acc/Dat/Gen |
+| 🔴 die Opposition | opposition | اپوزیسیون | f. | die | die Oppositionen | Nom/Acc/Dat/Gen |
+| 🔴 die Koalition | coalition | ائتلاف | f. | die | die Koalitionen | Nom/Acc/Dat/Gen |
+| 🔴 die Gesetzgebung | legislation | قانون‌گذاری | f. | die | die Gesetzgebungen | Nom/Acc/Dat/Gen |
+| 🔴 die Verfassung | constitution | قانون اساسی | f. | die | die Verfassungen | Nom/Acc/Dat/Gen |
 | ⭐ die Wahl | election | انتخابات | f. | die | die Wahlen | Nom/Acc/Dat/Gen |
 | ⭐ der Staat | state | دولت/کشور | m. | der | die Staaten | Nom/Acc/Dat/Gen |
 | ⭐ die Partei | party | حزب | f. | die | die Parteien | Nom/Acc/Dat/Gen |
 | 🔴 die Legislative | legislature | قوه مقننه | f. | die | die Legislativen | Nom/Acc/Dat/Gen |
 | 🔴 die Exekutive | executive | قوه مجریه | f. | die | die Exekutiven | Nom/Acc/Dat/Gen |
 | 🔴 die Judikative | judiciary | قوه قضائیه | f. | die | die Judikativen | Nom/Acc/Dat/Gen |
-| 🔴 der Bundeskanzler | federal chancellor | صدراعظم فدرال | m. | der | die Bundeskanzler | Nom/Acc/Dat/Gen |
-| 🔴 der Bundespräsident | federal president | رئیس‌جمهور فدرال | m. | der | die Bundespräsidenten | Nom/Acc/Dat/Gen |
-| 🔴 der Stadtrat | city council | شورای شهر | m. | der | die Stadträte | Nom/Acc/Dat/Gen |
+| 🔵 der Bundeskanzler | federal chancellor | صدراعظم فدرال | m. | der | die Bundeskanzler | Nom/Acc/Dat/Gen |
+| 🔵 der Bundespräsident | federal president | رئیس‌جمهور فدرال | m. | der | die Bundespräsidenten | Nom/Acc/Dat/Gen |
+| 🔵 der Stadtrat | city council | شورای شهر | m. | der | die Stadträte | Nom/Acc/Dat/Gen |
 | 🔴 die Bürgermeisterin | female mayor | شهردار زن | f. | die | die Bürgermeisterinnen | Nom/Acc/Dat/Gen |
 | ⭐ das Gesetz | law | قانون | n. | das | die Gesetze | Nom/Acc/Dat/Gen |
 | ⭐ die Mehrheit | majority | اکثریت | f. | die | die Mehrheiten | Nom/Acc/Dat/Gen |
 | ⭐ die Minderheit | minority | اقلیت | f. | die | die Minderheiten | Nom/Acc/Dat/Gen |
 | 🔴 die Reform | reform | اصلاحات | f. | die | die Reformen | Nom/Acc/Dat/Gen |
-| 🔴 der Kompromiss | compromise | سازش/مصالحه | m. | der | die Kompromisse | Nom/Acc/Dat/Gen |
+| 🔵 der Kompromiss | compromise | سازش/مصالحه | m. | der | die Kompromisse | Nom/Acc/Dat/Gen |
 | 🔴 die Wahlkampagne | election campaign | مبارزات انتخاباتی | f. | die | die Wahlkampagnen | Nom/Acc/Dat/Gen |
-| 🔴 der Wahlzettel | ballot | برگه رأی | m. | der | die Wahlzettel | Nom/Acc/Dat/Gen |
+| 🔵 der Wahlzettel | ballot | برگه رأی | m. | der | die Wahlzettel | Nom/Acc/Dat/Gen |
 | 🔴 die Stimmabgabe | voting | رأی‌دهی | f. | die | die Stimmabgaben | Nom/Acc/Dat/Gen |
 | 🔴 die Wahlbeteiligung | voter turnout | مشارکت انتخاباتی | f. | die | die Wahlbeteiligungen | Nom/Acc/Dat/Gen |
 | 🔴 die Souveränität | sovereignty | حاکمیت | f. | die | die Souveränitäten | Nom/Acc/Dat/Gen |
@@ -117,15 +117,15 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Globalisierung | globalization | جهانی‌شدن | f. | die | die Globalisierungen | Nom/Acc/Dat/Gen |
-| der Kapitalismus | capitalism | سرمایه‌داری | m. | der | die Kapitalismen | Nom/Acc/Dat/Gen |
-| der Sozialismus | socialism | سوسیالیسم | m. | der | die Sozialismen | Nom/Acc/Dat/Gen |
-| der Markt | market | بازار | m. | der | die Märkte | Nom/Acc/Dat/Gen |
-| das Angebot | supply | عرضه | n. | das | die Angebote | Nom/Acc/Dat/Gen |
-| die Nachfrage | demand | تقاضا | f. | die | die Nachfragen | Nom/Acc/Dat/Gen |
-| die Inflation | inflation | تورم | f. | die | die Inflationen | Nom/Acc/Dat/Gen |
-| die Deflation | deflation | کاهش قیمت | f. | die | die Deflationen | Nom/Acc/Dat/Gen |
-| die Rezession | recession | رکود اقتصادی | f. | die | die Rezessionen | Nom/Acc/Dat/Gen |
+| 🔴 die Globalisierung | globalization | جهانی‌شدن | f. | die | die Globalisierungen | Nom/Acc/Dat/Gen |
+| 🔵 der Kapitalismus | capitalism | سرمایه‌داری | m. | der | die Kapitalismen | Nom/Acc/Dat/Gen |
+| 🔵 der Sozialismus | socialism | سوسیالیسم | m. | der | die Sozialismen | Nom/Acc/Dat/Gen |
+| 🔵 der Markt | market | بازار | m. | der | die Märkte | Nom/Acc/Dat/Gen |
+| 🟢 das Angebot | supply | عرضه | n. | das | die Angebote | Nom/Acc/Dat/Gen |
+| 🔴 die Nachfrage | demand | تقاضا | f. | die | die Nachfragen | Nom/Acc/Dat/Gen |
+| 🔴 die Inflation | inflation | تورم | f. | die | die Inflationen | Nom/Acc/Dat/Gen |
+| 🔴 die Deflation | deflation | کاهش قیمت | f. | die | die Deflationen | Nom/Acc/Dat/Gen |
+| 🔴 die Rezession | recession | رکود اقتصادی | f. | die | die Rezessionen | Nom/Acc/Dat/Gen |
 | ⭐ das Produkt | product | محصول | n. | das | die Produkte | Nom/Acc/Dat/Gen |
 | ⭐ die Firma | company | شرکت | f. | die | die Firmen | Nom/Acc/Dat/Gen |
 | ⭐ der Preis | price | قیمت | m. | der | die Preise | Nom/Acc/Dat/Gen |
@@ -134,16 +134,16 @@
 | 🔴 die Konjunktur | economy/business cycle | چرخه اقتصادی | f. | die | die Konjunkturen | Nom/Acc/Dat/Gen |
 | 🔴 die Investition | investment | سرمایه‌گذاری | f. | die | die Investitionen | Nom/Acc/Dat/Gen |
 | 🔴 die Rendite | yield | بازدهی | f. | die | die Renditen | Nom/Acc/Dat/Gen |
-| 🔴 das Bruttoinlandsprodukt (BIP) | GDP | تولید ناخالص داخلی | n. | das | die BIPs | Nom/Acc/Dat/Gen |
+| 🟢 das Bruttoinlandsprodukt (BIP) | GDP | تولید ناخالص داخلی | n. | das | die BIPs | Nom/Acc/Dat/Gen |
 | 🔴 die Arbeitslosigkeit | unemployment | بیکاری | f. | die | die Arbeitslosigkeiten | Nom/Acc/Dat/Gen |
 | 🔴 die Währung | currency | ارز | f. | die | die Währungen | Nom/Acc/Dat/Gen |
-| 🔴 der Export | export | صادرات | m. | der | die Exporte | Nom/Acc/Dat/Gen |
-| 🔴 der Import | import | واردات | m. | der | die Importe | Nom/Acc/Dat/Gen |
-| 🔴 der Handel | trade | تجارت | m. | der | die Handel | Nom/Acc/Dat/Gen |
+| 🔵 der Export | export | صادرات | m. | der | die Exporte | Nom/Acc/Dat/Gen |
+| 🔵 der Import | import | واردات | m. | der | die Importe | Nom/Acc/Dat/Gen |
+| 🔵 der Handel | trade | تجارت | m. | der | die Handel | Nom/Acc/Dat/Gen |
 | 🔴 die Konkurrenz | competition | رقابت | f. | die | die Konkurrenzen | Nom/Acc/Dat/Gen |
-| 🔴 der Umsatz | revenue/turnover | درآمد/گردش مالی | m. | der | die Umsätze | Nom/Acc/Dat/Gen |
+| 🔵 der Umsatz | revenue/turnover | درآمد/گردش مالی | m. | der | die Umsätze | Nom/Acc/Dat/Gen |
 | 🔴 die Dividende | dividend | سود سهام | f. | die | die Dividenden | Nom/Acc/Dat/Gen |
-| 🔴 der Aktienmarkt | stock market | بورس اوراق بهادار | m. | der | die Aktienmärkte | Nom/Acc/Dat/Gen |
+| 🔵 der Aktienmarkt | stock market | بورس اوراق بهادار | m. | der | die Aktienmärkte | Nom/Acc/Dat/Gen |
 | 🔴 die Wirtschaftskrise | economic crisis | بحران اقتصادی | f. | die | die Wirtschaftskrisen | Nom/Acc/Dat/Gen |
 | ⭐ die Schulden | debt | بدهی | f. | die | die Schulden | Nom/Acc/Dat/Gen |
 | ⭐ die Lohn | wage | دستمزد | m. | der | die Löhne | Nom/Acc/Dat/Gen |
@@ -156,18 +156,18 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Ästhetik | aesthetics | زیبایی‌شناسی | f. | die | die Ästhetik | Nom/Acc/Dat/Gen |
-| die Moderne | modernism | مدرنیسم | f. | die | die Modernen | Nom/Acc/Dat/Gen |
+| 🔴 die Ästhetik | aesthetics | زیبایی‌شناسی | f. | die | die Ästhetik | Nom/Acc/Dat/Gen |
+| 🔴 die Moderne | modernism | مدرنیسم | f. | die | die Modernen | Nom/Acc/Dat/Gen |
 | 🔴 die Postmoderne | postmodernism | پست‌مدرنیسم | f. | die | die Postmodernen | Nom/Acc/Dat/Gen |
 | 🔴 die Avantgarde | avant-garde | پیشگام | f. | die | die Avantgarden | Nom/Acc/Dat/Gen |
-| 🔴 der Expressionismus | expressionism | اکسپرسیونیسم | m. | der | die Expressionismen | Nom/Acc/Dat/Gen |
-| 🔴 der Surrealismus | surrealism | سورئالیسم | m. | der | die Surrealismen | Nom/Acc/Dat/Gen |
-| 🔴 der Kubismus | cubism | کوبیسم | m. | der | die Kubismen | Nom/Acc/Dat/Gen |
-| 🔴 der Impressionismus | impressionism | امپرسیونیسم | m. | der | die Impressionismen | Nom/Acc/Dat/Gen |
-| 🔴 der Dadaismus | dadaism | دادائیسم | m. | der | die Dadaismen | Nom/Acc/Dat/Gen |
-| 🔴 der Futurismus | futurism | فوتوریسم | m. | der | die Futurismen | Nom/Acc/Dat/Gen |
-| 🔴 der Realismus | realism | واقع‌گرایی | m. | der | die Realismen | Nom/Acc/Dat/Gen |
-| 🔴 der Romantizismus | romanticism | رمانتیسم | m. | der | die Romantizismen | Nom/Acc/Dat/Gen |
+| 🔵 der Expressionismus | expressionism | اکسپرسیونیسم | m. | der | die Expressionismen | Nom/Acc/Dat/Gen |
+| 🔵 der Surrealismus | surrealism | سورئالیسم | m. | der | die Surrealismen | Nom/Acc/Dat/Gen |
+| 🔵 der Kubismus | cubism | کوبیسم | m. | der | die Kubismen | Nom/Acc/Dat/Gen |
+| 🔵 der Impressionismus | impressionism | امپرسیونیسم | m. | der | die Impressionismen | Nom/Acc/Dat/Gen |
+| 🔵 der Dadaismus | dadaism | دادائیسم | m. | der | die Dadaismen | Nom/Acc/Dat/Gen |
+| 🔵 der Futurismus | futurism | فوتوریسم | m. | der | die Futurismen | Nom/Acc/Dat/Gen |
+| 🔵 der Realismus | realism | واقع‌گرایی | m. | der | die Realismen | Nom/Acc/Dat/Gen |
+| 🔵 der Romantizismus | romanticism | رمانتیسم | m. | der | die Romantizismen | Nom/Acc/Dat/Gen |
 | 🔴 die Renaissance | renaissance | رنسانس | f. | die | die Renaissance | Nom/Acc/Dat/Gen |
 | ⭐ das Gemälde | painting | نقاشی | n. | das | die Gemälde | Nom/Acc/Dat/Gen |
 | ⭐ die Skulptur | sculpture | مجسمه | f. | die | die Skulpturen | Nom/Acc/Dat/Gen |
@@ -188,7 +188,7 @@
 | 🔴 die Malerei | painting | نقاشی | f. | die | die Malereien | Nom/Acc/Dat/Gen |
 | 🔴 die Druckgrafik | printmaking | چاپ هنری | f. | die | die Druckgrafiken | Nom/Acc/Dat/Gen |
 | 🔴 die Zeichnung | drawing | طراحی | f. | die | die Zeichnungen | Nom/Acc/Dat/Gen |
-| 🔴 die Aquarell | watercolor | آبرنگ | f. | die | die Aquarelle | Nom/Acc/Dat/Gen |
+| 🔴 das Aquarell | watercolor | آبرنگ | f. | die | die Aquarelle | Nom/Acc/Dat/Gen |
 | 💡 "die Ästhetik" is feminine despite the -ik ending |
 | 💡 "Expressionismus" is masculine |
 
@@ -198,13 +198,13 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| die Kognition | cognition | شناخت | f. | die | die Kognitionen | Nom/Acc/Dat/Gen |
-| die Wahrnehmung | perception | ادراک | f. | die | die Wahrnehmungen | Nom/Acc/Dat/Gen |
-| die Emotion | emotion | عاطفه | f. | die | die Emotionen | Nom/Acc/Dat/Gen |
-| die Motivation | motivation | انگیزش | f. | die | die Motivationen | Nom/Acc/Dat/Gen |
-| die Persönlichkeit | personality | شخصیت | f. | die | die Persönlichkeiten | Nom/Acc/Dat/Gen |
-| das Verhalten | behavior | رفتار | n. | das | die Verhaltensweisen | Nom/Acc/Dat/Gen |
-| die Therapie | therapy | درمان | f. | die | die Therapien | Nom/Acc/Dat/Gen |
+| 🔴 die Kognition | cognition | شناخت | f. | die | die Kognitionen | Nom/Acc/Dat/Gen |
+| 🔴 die Wahrnehmung | perception | ادراک | f. | die | die Wahrnehmungen | Nom/Acc/Dat/Gen |
+| 🔴 die Emotion | emotion | عاطفه | f. | die | die Emotionen | Nom/Acc/Dat/Gen |
+| 🔴 die Motivation | motivation | انگیزش | f. | die | die Motivationen | Nom/Acc/Dat/Gen |
+| 🔴 die Persönlichkeit | personality | شخصیت | f. | die | die Persönlichkeiten | Nom/Acc/Dat/Gen |
+| 🟢 das Verhalten | behavior | رفتار | n. | das | die Verhaltensweisen | Nom/Acc/Dat/Gen |
+| 🔴 die Therapie | therapy | درمان | f. | die | die Therapien | Nom/Acc/Dat/Gen |
 | 🔴 die Psychoanalyse | psychoanalysis | روانکاوی | f. | die | die Psychoanalysen | Nom/Acc/Dat/Gen |
 | 🔴 die Psychotherapie | psychotherapy | روان‌درمانی | f. | die | die Psychotherapien | Nom/Acc/Dat/Gen |
 | 🔴 die Kognitionspsychologie | cognitive psychology | روان‌شناسی شناختی | f. | die | die Kognitionspsychologien | Nom/Acc/Dat/Gen |
@@ -245,17 +245,17 @@
 | 🔴 die Nanotechnologie | nanotechnology | نانوتکنولوژی | f. | die | die Nanotechnologien | Nom/Acc/Dat/Gen |
 | 🔴 die Software | software | نرم‌افزار | f. | die | die Softwares | Nom/Acc/Dat/Gen |
 | 🔴 die Hardware | hardware | سخت‌افزار | f. | die | die Hardwares | Nom/Acc/Dat/Gen |
-| 🔴 das Betriebssystem | operating system | سیستم عامل | n. | das | die Betriebssysteme | Nom/Acc/Dat/Gen |
-| 🔴 das Netzwerk | network | شبکه | n. | das | die Netzwerke | Nom/Acc/Dat/Gen |
+| 🟢 das Betriebssystem | operating system | سیستم عامل | n. | das | die Betriebssysteme | Nom/Acc/Dat/Gen |
+| 🟢 das Netzwerk | network | شبکه | n. | das | die Netzwerke | Nom/Acc/Dat/Gen |
 | 🔴 die Cloud | cloud | فضای ابری | f. | die | die Clouds | Nom/Acc/Dat/Gen |
 | 🔴 die Datenbank | database | پایگاه داده | f. | die | die Datenbanken | Nom/Acc/Dat/Gen |
 | 🔴 die Programmiersprache | programming language | زبان برنامه‌نویسی | f. | die | die Programmiersprachen | Nom/Acc/Dat/Gen |
-| 🔴 die Algorithmus | algorithm | الگوریتم | m. | der | die Algorithmen | Nom/Acc/Dat/Gen |
+| 🔵 die Algorithmus | algorithm | الگوریتم | m. | der | die Algorithmen | Nom/Acc/Dat/Gen |
 | 🔴 die Verschlüsselung | encryption | رمزگذاری | f. | die | die Verschlüsselungen | Nom/Acc/Dat/Gen |
 | 🔴 die Cybersicherheit | cybersecurity | امنیت سایبری | f. | die | die Cybersicherheiten | Nom/Acc/Dat/Gen |
 | 🔴 die Virtual Reality | virtual reality | واقعیت مجازی | f. | die | die Virtual Realityn | Nom/Acc/Dat/Gen |
 | 🔴 die Augmented Reality | augmented reality | واقعیت افزوده | f. | die | die Augmented Realityn | Nom/Acc/Dat/Gen |
-| 🔴 das Internet | internet | اینترنت | n. | das | die Internetze | Nom/Acc/Dat/Gen |
+| 🟢 das Internet | internet | اینترنت | n. | das | die Internetze | Nom/Acc/Dat/Gen |
 | ⭐ der Computer | computer | کامپیوتر | m. | der | die Computer | Nom/Acc/Dat/Gen |
 | ⭐ das Smartphone | smartphone | گوشی هوشمند | n. | das | die Smartphones | Nom/Acc/Dat/Gen |
 | ⭐ die App | app | اپلیکیشن | f. | die | die Apps | Nom/Acc/Dat/Gen |
@@ -276,8 +276,8 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 der Klimawandel | climate change | تغییرات آب‌وهوا | m. | der | die Klimawandel | Nom/Acc/Dat/Gen |
-| die Nachhaltigkeit | sustainability | پایداری | f. | die | die Nachhaltigkeiten | Nom/Acc/Dat/Gen |
+| 🔵 der Klimawandel | climate change | تغییرات آب‌وهوا | m. | der | die Klimawandel | Nom/Acc/Dat/Gen |
+| 🔴 die Nachhaltigkeit | sustainability | پایداری | f. | die | die Nachhaltigkeiten | Nom/Acc/Dat/Gen |
 | 🔴 die Ökologie | ecology | اکولوژی | f. | die | die Ökologien | Nom/Acc/Dat/Gen |
 | 🔴 die Biodiversität | biodiversity | تنوع زیستی | f. | die | die Biodiversitäten | Nom/Acc/Dat/Gen |
 | 🔴 die Energiepolitik | energy policy | سیاست انرژی | f. | die | die Energiepolitiken | Nom/Acc/Dat/Gen |
@@ -288,18 +288,18 @@
 | ⭐ der Wald | forest | جنگل | m. | der | die Wälder | Nom/Acc/Dat/Gen |
 | ⭐ die Erde | earth | زمین | f. | die | die Erden | Nom/Acc/Dat/Gen |
 | 🔴 die Erderwärmung | global warming | گرمایش زمین | f. | die | die Erderwärmungen | Nom/Acc/Dat/Gen |
-| 🔴 der Treibhauseffekt | greenhouse effect | اثر گلخانه‌ای | m. | der | die Treibhauseffekte | Nom/Acc/Dat/Gen |
-| 🔴 der Meeresspiegel | sea level | سطح دریا | m. | der | die Meeresspiegel | Nom/Acc/Dat/Gen |
+| 🔵 der Treibhauseffekt | greenhouse effect | اثر گلخانه‌ای | m. | der | die Treibhauseffekte | Nom/Acc/Dat/Gen |
+| 🔵 der Meeresspiegel | sea level | سطح دریا | m. | der | die Meeresspiegel | Nom/Acc/Dat/Gen |
 | 🔴 die Dürre | drought | خشکسالی | f. | die | die Dürren | Nom/Acc/Dat/Gen |
 | 🔴 die Überschwemmung | flood | سیل | f. | die | die Überschwemmungen | Nom/Acc/Dat/Gen |
 | 🔴 die Sonnenenergie | solar energy | انرژی خورشیدی | f. | die | die Sonnenenergien | Nom/Acc/Dat/Gen |
 | 🔴 die Windenergie | wind energy | انرژی بادی | f. | die | die Windenergien | Nom/Acc/Dat/Gen |
 | 🔴 die Kernenergie | nuclear energy | انرژی هسته‌ای | f. | die | die Kernenergien | Nom/Acc/Dat/Gen |
 | 🔴 die Kohle | coal | زغال‌سنگ | f. | die | die Kohlen | Nom/Acc/Dat/Gen |
-| 🔴 das Erdgas | natural gas | گاز طبیعی | n. | das | die Erdgase | Nom/Acc/Dat/Gen |
+| 🟢 das Erdgas | natural gas | گاز طبیعی | n. | das | die Erdgase | Nom/Acc/Dat/Gen |
 | ⭐ die Umwelt | environment | محیط زیست | f. | die | die Umwelten | Nom/Acc/Dat/Gen |
 | 🔴 die Müllentsorgung | waste disposal | دفع زباله | f. | die | die Müllentsorgungen | Nom/Acc/Dat/Gen |
-| 🔴 das Recycling | recycling | بازیافت | n. | das | die Recyclings | Nom/Acc/Dat/Gen |
+| 🟢 das Recycling | recycling | بازیافت | n. | das | die Recyclings | Nom/Acc/Dat/Gen |
 | 🔴 die Kreislaufwirtschaft | circular economy | اقتصاد دایره‌ای | f. | die | die Kreislaufwirtschaften | Nom/Acc/Dat/Gen |
 | ⭐ der Baum | tree | درخت | m. | der | die Bäume | Nom/Acc/Dat/Gen |
 | ⭐ die Pflanze | plant | گیاه | f. | die | die Pflanzen | Nom/Acc/Dat/Gen |
@@ -317,7 +317,7 @@
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔴 die Migration | migration | مهاجرت | f. | die | die Migrationen | Nom/Acc/Dat/Gen |
 | 🔴 die Integration | integration | ادغام | f. | die | die Integrationen | Nom/Acc/Dat/Gen |
-| 🔴 der Multikulturalismus | multiculturalism | چندفرهنگی | m. | der | die Multikulturalismen | Nom/Acc/Dat/Gen |
+| 🔵 der Multikulturalismus | multiculturalism | چندفرهنگی | m. | der | die Multikulturalismen | Nom/Acc/Dat/Gen |
 | 🔴 die Soziologie | sociology | جامعه‌شناسی | f. | die | die Soziologien | Nom/Acc/Dat/Gen |
 | 🔴 die Demografie | demography | جمعیت‌شناسی | f. | die | die Demografien | Nom/Acc/Dat/Gen |
 | 🔴 die Kultur | culture | فرهنگ | f. | die | die Kulturen | Nom/Acc/Dat/Gen |
@@ -333,13 +333,13 @@
 | 🔴 die Inklusion | inclusion | شمولیت | f. | die | die Inklusionen | Nom/Acc/Dat/Gen |
 | 🔴 die Exklusion | exclusion | حذف | f. | die | die Exklusionen | Nom/Acc/Dat/Gen |
 | 🔴 die Diskriminierung | discrimination | تبعیض | f. | die | die Diskriminierungen | Nom/Acc/Dat/Gen |
-| 🔴 der Rassismus | racism | نژادپرستی | m. | der | die Rassismen | Nom/Acc/Dat/Gen |
-| 🔴 der Sexismus | sexism | جنسیت‌گرایی | m. | der | die Sexismen | Nom/Acc/Dat/Gen |
+| 🔵 der Rassismus | racism | نژادپرستی | m. | der | die Rassismen | Nom/Acc/Dat/Gen |
+| 🔵 der Sexismus | sexism | جنسیت‌گرایی | m. | der | die Sexismen | Nom/Acc/Dat/Gen |
 | 🔴 die Klasse | class | طبقه | f. | die | die Klassen | Nom/Acc/Dat/Gen |
 | 🔴 die Armut | poverty | فقر | f. | die | die Armut | Nom/Acc/Dat/Gen |
-| 🔴 der Wohlstand | wealth | ثروت | m. | der | die Wohlstände | Nom/Acc/Dat/Gen |
+| 🔵 der Wohlstand | wealth | ثروت | m. | der | die Wohlstände | Nom/Acc/Dat/Gen |
 | 🔴 die Sozialhilfe | social welfare | کمک اجتماعی | f. | die | die Sozialhilfen | Nom/Acc/Dat/Gen |
-| 🔴 das Bürgerrecht | civil right | حق شهروندی | n. | das | die Bürgerrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Bürgerrecht | civil right | حق شهروندی | n. | das | die Bürgerrechte | Nom/Acc/Dat/Gen |
 | 🔴 die Menschenwürde | human dignity | کرامت انسانی | f. | die | die Menschenwürden | Nom/Acc/Dat/Gen |
 | ⭐ das Leben | life | زندگی | n. | das | die Leben | Nom/Acc/Dat/Gen |
 | ⭐ die Welt | world | جهان | f. | die | die Welten | Nom/Acc/Dat/Gen |
@@ -355,35 +355,35 @@
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
 | 🔴 die Jurisprudenz | jurisprudence | حقوق | f. | die | die Jurisprudenzen | Nom/Acc/Dat/Gen |
-| 🔴 das Verfassungsrecht | constitutional law | حقوق اساسی | n. | das | die Verfassungsrechte | Nom/Acc/Dat/Gen |
-| 🔴 das Strafrecht | criminal law | حقوق جزایی | n. | das | die Strafrechte | Nom/Acc/Dat/Gen |
-| 🔴 das Zivilrecht | civil law | حقوق مدنی | n. | das | die Zivilrechte | Nom/Acc/Dat/Gen |
-| 🔴 das Menschenrecht | human right | حقوق بشر | n. | das | die Menschenrechte | Nom/Acc/Dat/Gen |
-| 🔴 das Völkerrecht | international law | حقوق بین‌الملل | n. | das | die Völkerrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Verfassungsrecht | constitutional law | حقوق اساسی | n. | das | die Verfassungsrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Strafrecht | criminal law | حقوق جزایی | n. | das | die Strafrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Zivilrecht | civil law | حقوق مدنی | n. | das | die Zivilrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Menschenrecht | human right | حقوق بشر | n. | das | die Menschenrechte | Nom/Acc/Dat/Gen |
+| 🟢 das Völkerrecht | international law | حقوق بین‌الملل | n. | das | die Völkerrechte | Nom/Acc/Dat/Gen |
 | ⭐ der Anwalt | lawyer | وکیل | m. | der | die Anwälte | Nom/Acc/Dat/Gen |
 | ⭐ die Anwältin | female lawyer | وکیل زن | f. | die | die Anwältinnen | Nom/Acc/Dat/Gen |
 | ⭐ das Urteil | verdict | حکم | n. | das | die Urteile | Nom/Acc/Dat/Gen |
 | ⭐ das Gericht | court | دادگاه | n. | das | die Gerichte | Nom/Acc/Dat/Gen |
 | ⭐ der Richter | judge | قاضی | m. | der | die Richter | Nom/Acc/Dat/Gen |
 | 🔴 die Richterin | female judge | قاضی زن | f. | die | die Richterinnen | Nom/Acc/Dat/Gen |
-| 🔴 der Staatsanwalt | prosecutor | دادستان | m. | der | die Staatsanwälte | Nom/Acc/Dat/Gen |
+| 🔵 der Staatsanwalt | prosecutor | دادستان | m. | der | die Staatsanwälte | Nom/Acc/Dat/Gen |
 | 🔴 die Staatsanwältin | female prosecutor | دادستان زن | f. | die | die Staatsanwältinnen | Nom/Acc/Dat/Gen |
 | 🔴 die Verhandlung | trial/hearing | جلسه دادرسی | f. | die | die Verhandlungen | Nom/Acc/Dat/Gen |
 | 🔴 die Klage | lawsuit | شکایت | f. | die | die Klagen | Nom/Acc/Dat/Gen |
 | 🔴 die Berufung | appeal | استیناف | f. | die | die Berufungen | Nom/Acc/Dat/Gen |
-| 🔴 das Recht | law/right | حق/قانون | n. | das | die Rechte | Nom/Acc/Dat/Gen |
+| 🟢 das Recht | law/right | حق/قانون | n. | das | die Rechte | Nom/Acc/Dat/Gen |
 | ⭐ die Schuld | guilt | تقصیر | f. | die | die Schulden | Nom/Acc/Dat/Gen |
 | ⭐ die Strafe | penalty | مجازات | f. | die | die Strafen | Nom/Acc/Dat/Gen |
 | 🔴 die Gefängnis | prison | زندان | f. | die | die Gefängnisse | Nom/Acc/Dat/Gen |
 | 🔴 die Bewährung | probation | آزادی مشروط | f. | die | die Bewährungen | Nom/Acc/Dat/Gen |
 | 🔴 die Haftung | liability | مسئولیت | f. | die | die Haftungen | Nom/Acc/Dat/Gen |
 | 🔴 die Verantwortung | responsibility | مسئولیت | f. | die | die Verantwortungen | Nom/Acc/Dat/Gen |
-| 🔴 das Grundgesetz | Basic Law (German constitution) | قانون اساسی آلمان | n. | das | die Grundgesetze | Nom/Acc/Dat/Gen |
-| 🔴 die Paragraph | section/paragraph | بند قانونی | m. | der | die Paragraphen | Nom/Acc/Dat/Gen |
+| 🟢 das Grundgesetz | Basic Law (German constitution) | قانون اساسی آلمان | n. | das | die Grundgesetze | Nom/Acc/Dat/Gen |
+| 🔵 die Paragraph | section/paragraph | بند قانونی | m. | der | die Paragraphen | Nom/Acc/Dat/Gen |
 | 🔴 die Rechtsprechung | jurisdiction | صلاحیت قضایی | f. | die | die Rechtsprechungen | Nom/Acc/Dat/Gen |
 | ⭐ der Beweis | proof | مدرک | m. | der | die Beweise | Nom/Acc/Dat/Gen |
 | 🔴 die Zeugin | female witness | شاهد زن | f. | die | die Zeuginnen | Nom/Acc/Dat/Gen |
-| 🔴 der Zeuge | witness | شاهد | m. | der | die Zeugen | Nom/Acc/Dat/Gen |
+| 🔵 der Zeuge | witness | شاهد | m. | der | die Zeugen | Nom/Acc/Dat/Gen |
 | 💡 "die Gefängnis" is feminine (not masculine!) |
 | 💡 "Paragraph" is masculine in German |
 
@@ -393,7 +393,7 @@
 
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| 🔴 der Journalismus | journalism | روزنامه‌نگاری | m. | der | die Journalismen | Nom/Acc/Dat/Gen |
+| 🔵 der Journalismus | journalism | روزنامه‌نگاری | m. | der | die Journalismen | Nom/Acc/Dat/Gen |
 | 🔴 die Medienethik | media ethics | اخلاق رسانه | f. | die | die Medienethiken | Nom/Acc/Dat/Gen |
 | 🔴 die Fake News | fake news | اخبار جعلی | f. | die | die Fake News | Nom/Acc/Dat/Gen |
 | 🔴 die Propaganda | propaganda | تبلیغات | f. | die | die Propaganden | Nom/Acc/Dat/Gen |
@@ -407,22 +407,22 @@
 | ⭐ die Sendung | broadcast | برنامه | f. | die | die Sendungen | Nom/Acc/Dat/Gen |
 | 🔴 die Nachricht | news | خبر | f. | die | die Nachrichten | Nom/Acc/Dat/Gen |
 | 🔴 die Quelle | source | منبع | f. | die | die Quellen | Nom/Acc/Dat/Gen |
-| 🔴 der Bericht | report | گزارش | m. | der | die Berichte | Nom/Acc/Dat/Gen |
+| 🔵 der Bericht | report | گزارش | m. | der | die Berichte | Nom/Acc/Dat/Gen |
 | 🔴 die Recherche | research/investigation | تحقیق | f. | die | die Recherchen | Nom/Acc/Dat/Gen |
-| 🔴 die Interview | interview | مصاحبه | n. | das | die Interviews | Nom/Acc/Dat/Gen |
+| 🟢 die Interview | interview | مصاحبه | n. | das | die Interviews | Nom/Acc/Dat/Gen |
 | 🔴 die Dokumentation | documentary | مستند | f. | die | die Dokumentationen | Nom/Acc/Dat/Gen |
 | 🔴 die Sendung | program | برنامه | f. | die | die Sendungen | Nom/Acc/Dat/Gen |
 | ⭐ die Redaktion | editorial | تحریریه | f. | die | die Redaktionen | Nom/Acc/Dat/Gen |
 | 🔴 die Auflage | edition/circulation | تیراژ | f. | die | die Auflagen | Nom/Acc/Dat/Gen |
-| 🔴 der Ticker | news ticker | خبررسان لحظه‌ای | m. | der | die Ticker | Nom/Acc/Dat/Gen |
+| 🔵 der Ticker | news ticker | خبررسان لحظه‌ای | m. | der | die Ticker | Nom/Acc/Dat/Gen |
 | ⭐ die Kamera | camera | دوربین | f. | die | die Kameras | Nom/Acc/Dat/Gen |
 | ⭐ das Foto | photo | عکس | n. | das | die Fotos | Nom/Acc/Dat/Gen |
 | 🔴 die App | application | اپلیکیشن | f. | die | die Apps | Nom/Acc/Dat/Gen |
-| 🔴 der Kanal | channel | کانال | m. | der | die Kanäle | Nom/Acc/Dat/Gen |
-| 🔴 das Portal | portal | پورتال | n. | das | die Portale | Nom/Acc/Dat/Gen |
+| 🔵 der Kanal | channel | کانال | m. | der | die Kanäle | Nom/Acc/Dat/Gen |
+| 🟢 das Portal | portal | پورتال | n. | das | die Portale | Nom/Acc/Dat/Gen |
 | 🔴 die Werbung | advertising | تبلیغات | f. | die | die Werbungen | Nom/Acc/Dat/Gen |
 | ⭐ die Meinung | opinion | نظر | f. | die | die Meinungen | Nom/Acc/Dat/Gen |
-| 🔴 die Kolumnist | columnist | ستون‌نویس | m. | der | die Kolumnisten | Nom/Acc/Dat/Gen |
+| 🔵 die Kolumnist | columnist | ستون‌نویس | m. | der | die Kolumnisten | Nom/Acc/Dat/Gen |
 | 💡 "Meinungsfreiheit" is a compound word: Meinung + Freiheit |
 | 💡 "Fake News" is used in German too |
 

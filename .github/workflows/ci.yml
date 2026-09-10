@@ -1,4 +1,4 @@
-name: CI - Markdown Lint & Link Check
+name: CI
 
 on:
   push:
@@ -7,10 +7,24 @@ on:
     branches: [main]
 
 jobs:
+  validate:
+    name: Corpus validator
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate study corpus
+        run: python tools/validate_corpus.py --root .
+
   markdown-lint:
     name: Markdown Linting
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,13 +35,13 @@ jobs:
           node-version: '20'
 
       - name: Install markdownlint-cli
-        run: npm install -g markdownlint-cli
+        run: npm install
 
       - name: Run markdownlint
-        run: markdownlint '**/*.md' --config .markdownlint.json --ignore node_modules
+        run: npx markdownlint-cli '**/*.md' --config .markdownlint.json --ignore node_modules --ignore legacy
 
   link-check:
-    name: Link Checking
+    name: Internal link check
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -36,5 +50,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: '--verbose --no-progress --exclude-mail --exclude "^https://chatgpt.com" --exclude "^https://github.com/alisadeghiaghili" "**/*.md"'
-          fail: false
+          args: '--verbose --no-progress --offline --include-fragments false "*.md" "A1/**/*.md" "A2/**/*.md" "B1/**/*.md" "B2/**/*.md" "docs/**/*.md"'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

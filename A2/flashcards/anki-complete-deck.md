@@ -63,30 +63,30 @@ versuchen	to try / تلاش كردن
 erreichen	to reach / رسيدن
 verbessern	to improve / بهبود بخشيدن
 verändern	to change / تغيير دادن
-entdecken to discover / كشف كرden
+entdecken to discover / كشف كردن
 untersuchen	to examine / بررسي كردن
-vergleichen	to compare / مقايسه كرden
+vergleichen	to compare / مقايسه كردن
 bewerten	to evaluate / ارزيابي كردن
 diskutieren	to discuss / بحث كردن
 erzählen	to tell / تعريف كردن
 beschreiben	to describe / توصيف كردن
-empfehlen	to recommend / توصيه كرden
+empfehlen	to recommend / توصيه كردن
 warnen	to warn / هشدار دادن
 bedeuten	to mean / معني دادن
-beziehen	to refer / اشاره كرden
+beziehen	to refer / اشاره كردن
 gehören	to belong / تعلق داشتن
 fehlen	to miss / غايب بودن
 dauern	to last / طول كشيدن
-passieren	to happen / اتفاق افتادen
-folgen	to follow / دنبال كرden
+passieren	to happen / اتفاق افتادن
+folgen	to follow / دنبال كردن
 stimmen	to agree / موافق بودن
-zweifeln	to doubt / شك كرden
-hoffen	to hope / اميدوار بودen
-sorgen	to worry / نگران بودen
+zweifeln	to doubt / شك كردن
+hoffen	to hope / اميدوار بودن
+sorgen	to worry / نگران بودن
 freuen	to be happy / خوشحال شدن
-ärgern	to annoy / آزار دادen
+ärgern	to annoy / آزار دادن
 stören	to disturb / مزاحم شدن
-unterstützen	to support / حمايت كرden
+unterstützen	to support / حمايت كردن
 brauchen	to need / نياز داشتن
 kosten	to cost / هزينه بردن
 schaffen	to manage / موفق شدن
@@ -97,8 +97,8 @@ respektieren	to respect / احترام گذاشتن
 vertrauen	to trust / اعتماد كردن
 versprechen	to promise / قول دادن
 bitten	to ask for / درخواست كردن
-danken	to thank / تشكر كرden
-grüßen	to greet / سلام كرden
+danken	to thank / تشكر كردن
+grüßen	to greet / سلام كردن
 verabschieden	to say goodbye / خداحافظي كردن
 lächeln	to smile / لبخند زدن
 weinen	to cry / گريه كردن

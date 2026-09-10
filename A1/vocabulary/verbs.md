@@ -70,13 +70,13 @@
 | reisen | to travel | سفر کردن | reiste | ist gereist | sein | Regular | | Ich reise gern. |
 | fallen | to fall | افتادن | fiel | ist gefallen | sein | Irregular | | Ich falle auf den Boden. |
 | steigen | to climb/rise | بالا رفتن | stieg | ist gestiegen | sein | Irregular | | Der Preis ist gestiegen. |
-| ankommen | to arrive | رسیدن | kam an | ist angekommen | sein | Regular (sep) | | Ich komme um acht Uhr an. |
-| abfahren | to depart | حرکت کردن | fuhr ab | ist abgefahren | sein | Regular (sep) | | Der Zug fährt ab. |
-| einsteigen | to get in | سوار شدن | stieg ein | ist eingestiegen | sein | Regular (sep) | | Ich steige in den Bus ein. |
-| aussteigen | to get out | پیاده شدن | stieg aus | ist ausgestiegen | sein | Regular (sep) | | Ich steige an der Haltestelle aus. |
-| umsteigen | to transfer | جا به جا شدن | stieg um | ist umgestiegen | sein | Regular (sep) | | Ich muss in der Mitte umsteigen. |
-| ausgehen | to go out | بیرون رفتن | ging aus | ist ausgegangen | sein | Regular (sep) | | Wir gehen heute Abend aus. |
-| zurückkommen | to come back | برگشتن | kam zurück | ist zurückgekommen | sein | Regular (sep) | | Ich komme morgen zurück. |
+| ankommen | to arrive | رسیدن | kam an | ist angekommen | sein | Irregular (sep) | | Ich komme um acht Uhr an. |
+| abfahren | to depart | حرکت کردن | fuhr ab | ist abgefahren | sein | Irregular (sep) | | Der Zug fährt ab. |
+| einsteigen | to get in | سوار شدن | stieg ein | ist eingestiegen | sein | Irregular (sep) | | Ich steige in den Bus ein. |
+| aussteigen | to get out | پیاده شدن | stieg aus | ist ausgestiegen | sein | Irregular (sep) | | Ich steige an der Haltestelle aus. |
+| umsteigen | to transfer | جا به جا شدن | stieg um | ist umgestiegen | sein | Irregular (sep) | | Ich muss in der Mitte umsteigen. |
+| ausgehen | to go out | بیرون رفتن | ging aus | ist ausgegangen | sein | Irregular (sep) | | Wir gehen heute Abend aus. |
+| zurückkommen | to come back | برگشتن | kam zurück | ist zurückgekommen | sein | Irregular (sep) | | Ich komme morgen zurück. |
 
 ## Shopping and Transactions
 
@@ -107,7 +107,7 @@
 | gehören | to belong | تعلق داشتن | gehörte | hat gehört | haben | Regular | [Dat] | Das Buch gehört mir. |
 | fehlen | to be missing | نبودن | fehlte | hat gefehlt | haben | Regular | [Dat] | Es fehlt mir an Zeit. |
 | gefallen | to please | خوش آمدن | gefiel | hat gefallen | haben | Irregular | [Dat] | Das Bild gefällt mir. |
-| funktionen | to function | کار کردن | funktionierte | hat funktioniert | haben | Regular | | Das Gerät funktioniert nicht. |
+| funktionieren | to function | کار کردن | funktionierte | hat funktioniert | haben | Regular | | Das Gerät funktioniert nicht. |
 
 ## Leisure and Hobbies
 
