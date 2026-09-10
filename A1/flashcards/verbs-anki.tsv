@@ -1,58 +1,106 @@
-German	English	Persian	Präteritum	Perfekt	Auxiliary	Regular	Cases	Example
-gehen	to go	رفتن	ging	ist gegangen	sein	Irregular		Ich gehe zur Schule.
-kommen	to come	آمدن	kam	ist gekommen	sein	Irregular		Ich komme aus Iran.
-fahren	to drive/go	راندن	fuhr	ist gefahren	sein/Irreg	Irregular		Akk	Ich fahre mit dem Auto.
-essen	to eat	خوردن	aß	hat gegessen	haben	Irregular		Akk	Ich esse Brot.
-trinken	to drink	نوشیدن	trank	hat getrunken	haben	Irregular		Akk	Ich trinke Wasser.
-schlafen	to sleep	خوابیدن	schlief	hat geschlafen	haben	Irregular		Ich schlafe 8 Stunden.
-arbeiten	to work	کار کردن	arbeitete	hat gearbeitet	haben	Regular		Ich arbeite im Büro.
-lernen	to learn	یاد گرفتن	lernte	hat gelernt	haben	Regular		Akk	Ich lerne Deutsch.
-sagen	to say	گفتن	sagte	hat gesagt	haben	Regular		Ich sage „Hallo".
-hören	to hear	شنیدن	hörte	hat gehört	haben	Regular		Akk	Ich höre Musik.
-fragen	to ask	پرسیدن	fragte	hat gefragt	haben	Regular		Akk	Ich frage meinen Lehrer.
-antworten	to answer	پاسخ دادن	antwortete	hat geantwortet	haben	Regular		Dat	Ich antworte auf die Frage.
-kaufen	to buy	خریدن	kaufte	hat gekauft	haben	Regular		Akk	Ich kaufe Brot.
-spielen	to play	بازی کردن	spielte	hat gespielt	haben	Regular		Ich spiele Fußball.
-wohnen	to live	زندگی کردن	wohnte	hat gewohnt	haben	Regular		Ich wohne in Berlin.
-lesen	to read	خواندن	las	hat gelesen	haben	Irregular		Akk	Ich lese ein Buch.
-sehen	to see	دیدن	sah	hat gesehen	haben	Irregular		Akk	Ich sehe den Vogel.
-sprechen	to speak	صحبت کردن	sprach	hat gesprochen	haben	Irregular		Ich spreche Deutsch.
-verstehen	to understand	فهمیدن	verstand	hat verstanden	haben	Irregular		Akk	Ich verstehe dich nicht.
-schreiben	to write	نوشتن	schrieb	hat geschrieben	haben	Irregular		Akk	Ich schreibe einen Brief.
-finden	to find	پیدا کردن	fand	hat gefunden	haben	Irregular		Akk	Ich finde den Schlüssel.
-geben	to give	دادن	gab	hat gegeben	haben	Irregular		Akk+Dat	Ich gebe dir das Buch.
-nehmen	to take	گرفتن	nahm	hat genommen	haben	Irregular		Akk	Ich nehme den Stift.
-sitzen	to sit	نشستن	saß	hat gesessen	haben	Irregular		Ich sitze auf dem Stuhl.
-stehen	to stand	ایستادن	stand	hat gestanden	haben	Irregular		Ich stehe an der Haltestelle.
-halten	to hold	نگه داشتن	hielt	hat gehalten	haben	Irregular		Akk	Ich halte die Tür auf.
-gehören	to belong	تعلق داشتن	gehörte	hat gehört	haben	Regular		Dat	Das Buch gehört mir.
-fehlen	to be missing	نبودن	fehlte	hat gefehlt	haben	Regular		Dat	Es fehlt mir an Zeit.
-gefallen	to please	خوش آمدن	gefiel	hat gefallen	haben	Irregular		Dat	Das Bild gefällt mir.
-besuchen	to visit	بازدید کردن	besuchte	hat besucht	haben	Regular		Akk	Ich besuche meine Großeltern.
-einladen	to invite	دعوت کردن	lud ein	hat eingeladen	haben	Irreg+sep	Akk+Dat	Ich lade dich zum Essen ein.
-empfehlen	to recommend	توصیه کردن	empfahl	hat empfohlen	haben	Irregular		Akk+Dat	Ich empfehle dir dieses Buch.
-schenken	to give a gift	هدیه دادن	schenkte	hat geschenkt	haben	Regular		Akk+Dat	Ich schenke dir eine Uhr.
-kennen	to know	شناختن	kannte	hat gekannt	haben	Regular		Akk	Ich kenne den Lehrer.
-glauben	to believe	باور کردن	glaubte	hat geglaubt	haben	Regular		Akk+Dat	Ich glaube dir.
-hoffen	to hope	امیدوار بودن	hoffte	hat gehofft	haben	Regular		Ich hoffe auf besseres Wetter.
-warten	to wait	منتظر بودن	wartete	hat gewartet	haben	Regular		Präp:auf+Dat	Ich warte auf den Bus.
-erzählen	to tell	تعریف کردن	erzählte	hat erzählt	haben	Regular		Akk+Dat	Ich erzähle dir eine Geschichte.
-erklären	to explain	توضیح دادن	erklärte	hat erklärt	haben	Regular		Akk	Ich erkläre die Grammatik.
-zeigen	to show	نشان دادن	zeigte	hat gezeigt	haben	Regular		Akk+Dat	Ich zeige dir das Foto.
-wünschen	to wish	آرزو کردن	wünschte	hat gewünscht	haben	Regular		Akk+Dat	Ich wünsche dir alles Gute.
-vorstellen	to introduce	معرفی کردن	stellte vor	hat vorgestellt	haben	Sep+Reg	Akk	Ich stelle mich vor.
-vergessen	to forget	فراموش کردن	vergaß	hat vergessen	haben	Irregular		Akk	Ich vergesse meinen Schlüssel.
-fliegen	to fly	پرواز کردن	flog	ist geflogen	sein	Irregular		Ich fliege nach Berlin.
-laufen	to run	دویدن	lief	ist gelaufen	sein	Irregular		Ich laufe im Park.
-fallen	to fall	افتادن	fiel	ist gefallen	sein	Irregular		Ich falle auf den Boden.
-aufstehen	to get up	بلند شدن	stand auf	ist aufgestanden	sein	Irreg+sep	Ich stehe um 7 Uhr auf.
-ankommen	to arrive	رسیدن	kam an	ist angekommen	sein	Sep+Reg	Ich komme um 8 Uhr an.
-abfahren	to depart	حرکت کردن	fuhr ab	ist abgefahren	sein	Sep+Reg	Der Zug fährt ab.
-einkaufen	to shop	خرید کردن	kaufte ein	hat eingekauft	haben	Sep+Reg	Ich kaufe im Supermarkt ein.
-anrufen	to call	زنگ زدن	rief an	hat angerufen	haben	Sep+Reg	Akk	Ich rufe dich später an.
-fernsehen	to watch TV	تلویزیون دیدن	sah fern	hat ferngesehen	haben	Irreg+Sep	Ich sehe jeden Abend fern.
-aufhören	to stop	ترک کردن	hörte auf	hat aufgehört	haben	Sep+Reg	Ich höre mit dem Rauchen auf.
-mitnehmen	to take along	با خود بردن	nehm mit	hat mitgenommen	haben	Irreg+Sep	Akk	Ich nehme mein Buch mit.
-anfangen	to begin	شروع کردن	fing an	hat angefangen	haben	Irreg+Sep	Der Film fängt um 8 an.
-einsteigen	to board	سوار شدن	stieg ein	ist eingestiegen	sein	Sep+Reg	Ich steige in den Bus ein.
-aussteigen	to exit	پیاده شدن	stieg aus	ist ausgestiegen	sein	Sep+Reg	Ich steige an der Haltestelle aus.
+German	English	Persian	Präteritum	Perfekt	Auxiliary	Class	Frame	Example
+gehen	to go	رفتن	ging	ist gegangen	sein	irr.	—	Ich gehe zur Schule.
+essen	to eat	خوردن	aß	hat gegessen	haben	irr.	[Akk]	Ich esse einen Apfel.
+trinken	to drink	نوشیدن	trank	hat getrunken	haben	irr.	[Akk]	Ich trinke Wasser.
+schlafen	to sleep	خوابیدن	schlief	hat geschlafen	haben	irr.	—	Ich schlafe acht Stunden.
+arbeiten	to work	کار کردن	arbeitete	hat gearbeitet	haben	reg.	—	Ich arbeite in einem Büro.
+lernen	to learn	یاد گرفتن	lernte	hat gelernt	haben	reg.	[Akk]	Ich lerne Deutsch.
+aufstehen	to get up	بلند شدن	stand auf	ist aufgestanden	sein	irr. (sep)	—	Ich stehe um sieben Uhr auf.
+anziehen	to put on	پوشیدن	zog an	hat angezogen	haben	irr. (sep)	[Akk]	Ich ziehe einen Mantel an.
+ausziehen	to take off	درآوردن	zog aus	hat ausgezogen	haben	irr. (sep)	[Akk]	Ich ziehe meine Schuhe aus.
+waschen	to wash	شستن	wusch	hat gewaschen	haben	irr.	[Akk]	Ich wasche meine Hände.
+rasieren	to shave	اصلاح کردن	rasierte	hat rasiert	haben	reg.	[Akk]	Ich rasiere mich.
+kämmen	to comb	شانه زدن	kämmte	hat gekämmt	haben	reg.	[Akk]	Ich kämme meine Haare.
+putzen	to clean	تمیز کردن	putzte	hat geputzt	haben	reg.	[Akk]	Ich putze die Wohnung.
+kochen	to cook	پختن	kochte	hat gekocht	haben	reg.	[Akk]	Ich koche Pasta.
+backen	to bake	نان پختن	backte	hat gebacken	haben	irr.	[Akk]	Ich backe einen Kuchen.
+sagen	to say	گفتن	sagte	hat gesagt	haben	reg.	—	Ich sage „Hallo".
+hören	to hear	شنیدن	hörte	hat gehört	haben	reg.	[Akk]	Ich höre Musik.
+antworten	to answer	پاسخ دادن	antwortete	hat geantwortet	haben	reg.	[Dat]	Ich antworte auf die Frage.
+fragen	to ask	پرسیدن	fragte	hat gefragt	haben	reg.	[Akk]	Ich frage meinen Lehrer.
+erzählen	to tell	تعریف کردن	erzählte	hat erzählt	haben	reg.	[Akk] [Dat]	Ich erzähle dir eine Geschichte.
+sprechen	to speak	صحبت کردن	sprach	hat gesprochen	haben	irr.	—	Ich spreche Deutsch.
+verstehen	to understand	فهمیدن	verstand	hat verstanden	haben	irr.	[Akk]	Ich verstehe dich nicht.
+wissen	to know	دانستن	wusste	hat gewusst	haben	irr.	—	Ich weiß es nicht.
+glauben	to believe	باور کردن	glaubte	hat geglaubt	haben	reg.	[Akk] [Dat]	Ich glaube dir.
+hoffen	to hope	امیدوار بودن	hoffte	hat gehofft	haben	reg.	[Präp: auf+Dat]	Ich hoffe auf besseres Wetter.
+erinnern	to remember	به یاد آوردن	erinnerte	hat erinnert	haben	reg.	[Präp: an+Akk]	Ich erinnere mich an dich.
+vergessen	to forget	فراموش کردن	vergaß	hat vergessen	haben	irr.	[Akk]	Ich vergesse meinen Schlüssel.
+gratulieren	to congratulate	تبریک گفتن	gratulierte	hat gratuliert	haben	reg.	[Dat]	Ich gratuliere dir zum Geburtstag.
+wünschen	to wish	آرزو کردن	wünschte	hat gewünscht	haben	reg.	[Akk] [Dat]	Ich wünsche dir alles Gute.
+zeigen	to show	نشان دادن	zeigte	hat gezeigt	haben	reg.	[Akk] [Dat]	Ich zeige dir das Foto.
+erklären	to explain	توضیح دادن	erklärte	hat erklärt	haben	reg.	[Akk]	Ich erkläre die Grammatik.
+vorstellen	to introduce	معرفی کردن	stellte vor	hat vorgestellt	haben	reg. (sep)	[Akk]	Ich stelle mich vor.
+kennenlernen	to get to know	شناختن	lernte kennen	hat kennengelernt	haben	reg. (sep)	[Akk]	Ich lerne neue Leute kennen.
+lachen	to laugh	خندیدن	lachte	hat gelacht	haben	reg.	—	Ich lache über den Witz.
+weinen	to cry	گریه کردن	weinte	hat geweint	haben	reg.	—	Das Kind weint.
+lächeln	to smile	لبخند زدن	lächelte	hat gelächelt	haben	reg.	—	Ich lächle dich an.
+lästern	to gossip	غیبت کردن	lästerte	hat gelästert	haben	reg.	—	Sie lästern über Nachbarn.
+schreien	to scream	جیغ زدن	schrie	hat geschrien	haben	irr.	—	Das Baby schreit.
+singen	to sing	آواز خواندن	sang	hat gesungen	haben	irr.	—	Ich singe ein Lied.
+tanzen	to dance	رقصیدن	tanzte	hat getanzt	haben	reg.	—	Wir tanzen zusammen.
+fürchten	to fear	ترسیدن	fürchtete	hat gefürchtet	haben	reg.	—	Ich fürchte mich vor Spinnen.
+kommen	to come	آمدن	kam	ist gekommen	sein	irr.	—	Ich komme aus dem Iran.
+fahren	to drive	رانندگی کردن	fuhr	ist gefahren	sein	irr.	[Akk]	Ich fahre mit dem Auto.
+fliegen	to fly	پرواز کردن	flog	ist geflogen	sein	irr.	—	Ich fliege nach Berlin.
+laufen	to run	دویدن	lief	ist gelaufen	sein	irr.	—	Ich laufe im Park.
+springen	to jump	پریدن	sprang	ist gesprungen	sein	irr.	—	Das Kind springt hoch.
+schwimmen	to swim	شنا کردن	schwamm	ist geschwommen	sein	irr.	—	Ich schwimme im See.
+klettern	to climb	بالا رفتن	kletterte	ist geklettert	sein	reg.	—	Ich klettere auf den Baum.
+reisen	to travel	سفر کردن	reiste	ist gereist	sein	reg.	—	Ich reise gern.
+fallen	to fall	افتادن	fiel	ist gefallen	sein	irr.	—	Ich falle auf den Boden.
+steigen	to climb/rise	بالا رفتن	stieg	ist gestiegen	sein	irr.	—	Der Preis ist gestiegen.
+ankommen	to arrive	رسیدن	kam an	ist angekommen	sein	irr. (sep)	—	Ich komme um acht Uhr an.
+abfahren	to depart	حرکت کردن	fuhr ab	ist abgefahren	sein	irr. (sep)	—	Der Zug fährt ab.
+einsteigen	to get in	سوار شدن	stieg ein	ist eingestiegen	sein	irr. (sep)	—	Ich steige in den Bus ein.
+aussteigen	to get out	پیاده شدن	stieg aus	ist ausgestiegen	sein	irr. (sep)	—	Ich steige an der Haltestelle aus.
+umsteigen	to transfer	جا به جا شدن	stieg um	ist umgestiegen	sein	irr. (sep)	—	Ich muss in der Mitte umsteigen.
+ausgehen	to go out	بیرون رفتن	ging aus	ist ausgegangen	sein	irr. (sep)	—	Wir gehen heute Abend aus.
+zurückkommen	to come back	برگشتن	kam zurück	ist zurückgekommen	sein	irr. (sep)	—	Ich komme morgen zurück.
+kaufen	to buy	خرید کردن	kaufte	hat gekauft	haben	reg.	[Akk]	Ich kaufe Brot.
+verkaufen	to sell	فروختن	verkaufte	hat verkauft	haben	reg.	[Akk]	Er verkauft sein Auto.
+bestellen	to order	سفارش دادن	bestellte	hat bestellt	haben	reg.	[Akk]	Ich bestelle Pizza.
+bezahlen	to pay	پرداخت کردن	bezahlte	hat bezahlt	haben	reg.	[Akk]	Ich bezahle die Rechnung.
+kosten	to cost	هزینه داشتن	kostete	hat gekostet	haben	reg.	[Akk]	Das Buch kostet zehn Euro.
+rechnen	to calculate	محاسبه کردن	rechnete	hat gerechnet	haben	reg.	—	Ich rechne die Kosten zusammen.
+sparen	to save	پس انداز کردن	sparte	hat gespart	haben	reg.	[Akk]	Ich spare Geld für Urlaub.
+ausgeben	to spend	خرج کردن	gab aus	hat ausgegeben	haben	irr. (sep)	[Akk]	Ich gebe zu viel Geld aus.
+leihen	to lend	قرض دادن	lieh	hat geliehen	haben	irr.	[Akk] [Dat]	Ich leihe dir mein Buch.
+zurückgeben	to return	برگرداندن	gab zurück	hat zurückgegeben	haben	irr. (sep)	[Akk] [Dat]	Ich gebe das Buch zurück.
+wohnen	to live	زندگی کردن	wohnte	hat gewohnt	haben	reg.	—	Ich wohne in Berlin.
+legen	to lay	قرار دادن	legte	hat gelegt	haben	reg.	[Akk]	Ich lege das Buch auf den Tisch.
+stellen	to place	قرار دادن	stellte	hat gestellt	haben	reg.	[Akk]	Ich stelle die Tasse hin.
+halten	to hold	نگه داشتن	hielt	hat gehalten	haben	irr.	[Akk]	Ich halte die Tür auf.
+sitzen	to sit	نشستن	saß	hat gesessen	haben	irr.	—	Ich sitze auf dem Stuhl.
+liegen	to lie down	خوابیدن	lag	hat gelegen	haben	irr.	—	Das Buch liegt auf dem Tisch.
+stehen	to stand	ایستادن	stand	hat gestanden	haben	irr.	—	Ich stehe an der Bushaltestelle.
+gehören	to belong	تعلق داشتن	gehörte	hat gehört	haben	reg.	[Dat]	Das Buch gehört mir.
+fehlen	to be missing	نبودن	fehlte	hat gefehlt	haben	reg.	[Dat]	Es fehlt mir an Zeit.
+gefallen	to please	خوش آمدن	gefiel	hat gefallen	haben	irr.	[Dat]	Das Bild gefällt mir.
+funktionieren	to function	کار کردن	funktionierte	hat funktioniert	haben	reg.	—	Das Gerät funktioniert nicht.
+spielen	to play	بازی کردن	spielte	hat gespielt	haben	reg.	—	Ich spiele Fußball.
+riechen	to smell	بوییدن	roch	hat gerochen	haben	irr.	—	Die Blumen riechen gut.
+schmecken	to taste	چشیدن	schmeckte	hat geschmeckt	haben	reg.	—	Das Essen schmeckt lecker.
+empfehlen	to recommend	توصیه کردن	empfahl	hat empfohlen	haben	irr.	[Akk] [Dat]	Ich empfehle dir dieses Buch.
+schenken	to give a gift	هدیه دادن	schenkte	hat geschenkt	haben	reg.	[Akk] [Dat]	Ich schenke dir eine Uhr.
+fotografieren	to photograph	عکس گرفتن	fotografierte	hat fotografiert	haben	reg.	[Akk]	Ich fotografiere die Landschaft.
+besuchen	to visit	بازدید کردن	besuchte	hat besucht	haben	reg.	[Akk]	Ich besuche meine Großeltern.
+einladen	to invite	دعوت کردن	lud ein	hat eingeladen	haben	irr. (sep)	[Akk] [Dat]	Ich lade dich zum Essen ein.
+mitnehmen	to take along	با خود بردن	nahm mit	hat mitgenommen	haben	irr. (sep)	[Akk]	Ich nehme mein Buch mit.
+schreiben	to write	نوشتن	schrieb	hat geschrieben	haben	irr.	[Akk]	Ich schreibe einen Brief.
+finden	to find	پیدا کردن	fand	hat gefunden	haben	irr.	[Akk]	Ich finde meinen Schlüssel.
+suchen	to search	جستجو کردن	suchte	hat gesucht	haben	reg.	[Akk]	Ich suche meine Brille.
+lesen	to read	خواندن	las	hat gelesen	haben	irr.	[Akk]	Ich lese ein Buch.
+sehen	to see	دیدن	sah	hat gesehen	haben	irr.	[Akk]	Ich sehe den Vogel.
+beginnen	to begin	شروع کردن	begann	hat begonnen	haben	irr.	—	Der Unterricht beginnt um acht.
+aufhören	to stop	تمام کردن	hörte auf	hat aufgehört	haben	reg. (sep)	—	Hören Sie auf zu rauchen!
+anfangen	to start	شروع کردن	fing an	hat angefangen	haben	irr. (sep)	—	Der Film fängt um acht an.
+klingeln	to ring	زنگ زدن	klingelte	hat geklingelt	haben	reg.	—	Das Telefon klingelt.
+läuten	to ring (bell)	زنگ زدن	läutete	hat geläutet	haben	reg.	—	Die Kirchenglocke läutet.
+drücken	to press	فشردن	drückte	hat gedrückt	haben	reg.	[Akk]	Ich drücke den Knopf.
+klicken	to click	کلیک کردن	klickte	hat geklickt	haben	reg.	—	Ich klicke auf den Link.
+senden	to send	ارسال کردن	sandte	hat gesandt	haben	irr.	[Akk]	Ich sende eine E-Mail.
+empfangen	to receive	دریافت کردن	empfing	hat empfangen	haben	irr.	[Akk]	Ich empfange den Brief.
+löschen	to delete	پاک کردن	löschte	hat gelöscht	haben	reg.	[Akk]	Ich lösche die Datei.
+speichern	to save (data)	ذخیره کردن	speicherte	hat gespeichert	haben	reg.	[Akk]	Ich speichere das Dokument.
+drucken	to print	چاپ کردن	druckte	hat gedruckt	haben	reg.	[Akk]	Ich drucke die Seite aus.

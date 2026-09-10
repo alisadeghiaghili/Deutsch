@@ -1,40 +1,187 @@
-aufhören	to stop/cease	متوقف شدن	hörte auf	aufgehört	haben	ja	Akk	Ich habe mit dem Rauchen aufgehört.
-zurückkommen	to come back	برگشتن	kam zurück	zurückgekommen	sein	nein	Dat	Ist er schon von der Arbeit zurückgekommen?
-anziehen	to put on/attract	پوشیدن/جذب کردن	zog an	angezogen	haben	nein	Akk	Sie hat sich schnell angezogen.
-weggehen	to go away	رفتن	ging weg	weggegangen	sein	nein	Dat	Er ist ohne Abschied weggegangen.
-stattfinden	to take place	برگزار شدن	fand statt	stattgefunden	haben	nein	Nom	Die Konferenz hat in Berlin stattgefunden.
-überlegen	to consider	ملاحظه کردن	überlegte	überlegt	haben	ja	Dat + Inf	Ich muss noch überlegen, ob ich mitmache.
-sich interessieren	for interest	علاقه‌مند شدن	interessierte sich	interessiert	haben	ja	Akk (Reflexiv)	Ich interessiere mich für Musik.
-sich ärgern	to get annoyed	عصبانی شدن	ärgerte sich	geärgert	haben	ja	Akk (Reflexiv)	Er hat sich über das Wetter geärgert.
-vorbereiten	to prepare	آماده کردن	bereitete vor	vorbereitet	haben	ja	Akk	Sie hat die Prüfung gut vorbereitet.
-entschuldigen	to excuse	عذرخواهی کردن	entschuldigte	entschuldigt	haben	ja	Akk (Reflexiv)	Er hat sich für seine Verspätung entschuldigt.
-versuchen	to try	تلاش کردن	versuchte	versucht	haben	ja	Akk + Inf	Ich habe versucht, ihn anzurufen.
-zustimmen	to agree	موافقت کردن	stimmte zu	zugestimmt	haben	ja	Dat	Sie hat meinem Vorschlag zugestimmt.
-anrufen	to call/phone	زنگ زدن	rief an	angerufen	haben	nein	Akk	Ich habe ihn gestern angerufen.
-einladen	to invite	دعوت کردن	lud ein	eingeladen	haben	nein	Akk	Sie hat mich zum Abendessen eingeladen.
-umziehen	to move house	اسباب‌کشی کردن	zog um	umgezogen	sein	nein	-	Wir sind letztes Jahr umgezogen.
-anfangen	to begin	شروع کردن	fing an	angefangen	haben	nein	Akk + Inf	Der Film hat um 20 Uhr angefangen.
-aufpassen	to watch out	مراقب بودن	passte auf	aufgepasst	haben	ja	Dat	Pass bitte auf die Kinder auf!
-teilnehmen	to participate	شرکت کردن	nahm teil	teilgenommen	haben	nein	Dat + an	Sie hat an dem Kurs teilgenommen.
-vergessen	to forget	فراموش کردن	vergaß	vergessen	haben	nein	Akk	Ich habe meinen Schlüssel vergessen.
-verbringen	to spend time	گذراندن	verbrachte	verbracht	haben	ja	Akk	Wir haben den Urlaub in Italien verbracht.
-abfahren	to depart	حرکت کردن	fuhr ab	abgefahren	sein	nein	Nom	Der Zug ist pünktlich abgefahren.
-mitnehmen	to take along	همراه بردن	nahm mit	mitgenommen	haben	nein	Akk	Hast du dein Buch mitgenommen?
-aufschreiben	to write down	یادداشت کردن	schrieb auf	aufgeschrieben	haben	nein	Akk	Kannst du bitte deine Nummer aufschreiben?
-herstellen	to produce	تولید کردن	stellte her	hergestellt	haben	ja	Akk	Das Unternehmen stellt Autos her.
-beziehen	to refer to	ارجاع دادن	bezog	bezogen	haben	nein	Akk + auf	Das bezieht sich auf das letzte Treffen.
-verbessern	to improve	بهبود دادن	verbesserte	verbessert	haben	ja	Akk (Reflexiv)	Er hat seine Noten verbessert.
-einsetzen	to deploy	به کار گماردن	setzte ein	eingesetzt	haben	ja	Akk	Sie haben Hunde bei der Suche eingesetzt.
-unterscheiden	to distinguish	تمایز قائل شدن	unterschied	unterschieden	haben	nein	Akk (Reflexiv)	Wir müssen zwischen gut und schlecht unterscheiden.
-sich aufregen	to get excited	هیجان زده شدن	regte auf	aufgeregt	haben	ja	Akk (Reflexiv)	Das hat mich sehr aufgeregt.
-vorschlagen	to suggest	پیشنهاد دادن	schlug vor	vorgeschlagen	haben	nein	Dat + Akk	Er hat mir einen neuen Plan vorgeschlagen.
-erreichen	to achieve	رسیدن	erreichte	erreicht	haben	ja	Akk	Sie hat ihr Ziel erreicht.
-bestehen	to pass/exist	قبول شدن	bestand	bestanden	haben	nein	Akk	Sie hat die Prüfung bestanden.
-zuhören	to listen	گوش دادن	hörte zu	zugehört	haben	ja	Dat	Ich habe dem Lehrer zugehört.
-anbieten	to offer	پیشنهاد دادن	bot an	angeboten	haben	nein	Dat + Akk	Sie hat mir ihre Hilfe angeboten.
-ausgeben	to spend	خرج کردن	gab aus	ausgegeben	haben	nein	Akk + für	Er hat zu viel Geld für das Buch ausgegeben.
-nachdenken	to think about	فکر کردن	dachte nach	nachgedacht	haben	ja	Dat + über	Ich habe lange über das Problem nachgedacht.
-zurückkehren	to return	بازگشتن	kehrte zurück	zurückgekehrt	sein	ja	Nom	Sie ist nach Hause zurückgekehrt.
-umgehen	to deal with	مقابله کردن	ging um	umgegangen	sein	nein	Mit + Dat	Er ist gut mit dem Problem umgegangen.
-aufgeben	to give up	تسلیم شدن	gab auf	aufgegeben	haben	nein	Akk	Er hat nie aufgegeben.
-einstellen	to hire	استخدام کردن	stellte ein	eingestellt	haben	ja	Akk	Das Unternehmen hat neue Mitarbeiter eingestellt.
+German	English	Persian	Präteritum	Perfekt	Auxiliary	Class	Frame	Example
+argumentieren	to argue	استدلال کردن	argumentierte	habe argumentiert	haben	reg.	—	Er argumentiert mit Fakten.
+debattieren	to debate	بحث کردن	debattierte	habe debattiert	haben	reg.	—	Sie debattieren über Politik.
+diskutieren	to discuss	بحث کردن	diskutierte	habe diskutiert	haben	reg.	—	Wir diskutieren das Thema.
+überzeugen	to convince	متقاعد کردن	überzeugte	habe überzeugt	haben	reg.	—	Er hat mich überzeugt.
+widerlegen	to refute	رد کردن	widerlegte	habe widerlegt	haben	reg.	—	Sie widerlegte seine Theorie.
+bekräftigen	to confirm	تأکید کردن	bekräftigte	habe bekräftigt	haben	reg.	—	Er bekräftigte seine Aussage.
+kritisieren	to criticize	انتقاد کردن	kritisierte	habe kritisiert	haben	reg.	—	Sie kritisiert die Regierung.
+analysieren	to analyze	تحلیل کردن	analysierte	habe analysiert	haben	reg.	—	Er analysiert die Daten.
+behaupten	to claim	ادعا کردن	behauptete	habe behauptet	haben	reg.	—	Sie behauptet, dass...
+einwenden	to object	اعتراض کردن	wandte ein	habe eingewandt	haben	reg.	—	Er wandte ein, dass...
+zustimmen	to agree	موافقت کردن	stimmte zu	habe zugestimmt	haben	reg.	—	Sie stimmt zu.
+ablehnen	to reject	رد کردن	lehnte ab	habe abgelehnt	haben	reg.	—	Er lehnt den Vorschlag ab.
+befürworten	to support/approve	حمایت کردن	befürwortete	habe befürwortet	haben	reg.	—	Sie befürwortet die Reform.
+einsehen	to realize	درک کردن	sah ein	habe eingesehen	haben	reg.	—	Er sieht seinen Fehler ein.
+vermuten	to suspect	گمان کردن	vermutete	habe vermutet	haben	reg.	—	Ich vermute, dass...
+reflektieren	to reflect	تأمل کردن	reflektierte	habe reflektiert	haben	reg.	—	Er reflektiert über sein Leben.
+abwägen	to weigh up	سبکسنگی کردن	wog ab	habe abgewogen	haben	irr.	—	Sie wog die Vor- und Nachteile ab.
+einschätzen	to assess	ارزیابی کردن	schätzte ein	habe eingeschätzt	haben	reg.	—	Er schätzt die Lage ein.
+beurteilen	to evaluate	قضاوت کردن	beurteilte	habe beurteilt	haben	reg.	—	Sie beurteilt die Situation.
+hinterfragen	to question	زیر سؤال بردن	hinterfragte	habe hinterfragt	haben	reg.	—	Er hinterfragt die Traditionen.
+überdenken	to reconsider	بازاندیشی کردن	überdachte	habe überdacht	haben	reg.	—	Sie überdenkt ihre Entscheidung.
+nachdenken	to think about	فکر کردن	dachte nach	habe nachgedacht	haben	irr.	—	Er denkt darüber nach.
+bedenken	to consider	در نظر گرفتن	bedachte	habe bedacht	haben	irr.	—	Sie bedenkt alle Aspekte.
+erwägen	to consider	بررسی کردن	erwog	habe erwogen	haben	reg.	—	Er erwägt die Möglichkeiten.
+sich besinnen	to reflect	تأمل کردن	besann sich	habe besonnen	haben	irr.	—	Sie besinnt sich auf die Vergangenheit.
+zurückblicken	to look back	نگاه کردن به گذشته	blickte zurück	habe zurückgeblickt	haben	reg.	—	Er blickt auf sein Leben zurück.
+vorausdenken	to think ahead	به آینده فکر کردن	dachte voraus	habe vorausgedacht	haben	irr.	—	Sie denkt voraus.
+empfinden	to feel/sense	احساس کردن	empfand	habe empfunden	haben	irr.	—	Er empfindet Freude.
+fühlen	to feel	احساس کردن	fühlte	habe gefühlt	haben	reg.	—	Sie fühlt sich glücklich.
+erleben	to experience	تجربه کردن	erlebte	habe erlebt	haben	reg.	—	Er erlebt eine Krise.
+reagieren	to react	واکنش نشان دادن	reagierte	habe reagiert	haben	reg.	—	Sie reagiert schnell.
+beeindrucken	to impress	تحت تأثیر قرار دادن	beeindruckte	habe beeindruckt	haben	reg.	—	Er beeindruckt das Publikum.
+berühren	to touch/emotional	لمس کردن/تحت تأثیر قرار دادن	berührte	habe berührt	haben	reg.	—	Das Lied berührt mich.
+begeistern	to inspire/enthusiast	هیجان زده کردن	begeisterte	habe begeistert	haben	reg.	—	Sie begeistert das Publikum.
+sich freuen	to be happy	خوشحال بودن	freute sich	habe mich gefreut	haben	reg.	—	Ich freue mich auf dich.
+sich ärgern	to be annoyed	عصبانی شدن	ärgerte sich	habe mich geärgert	haben	reg.	—	Er ärgert sich über den Lärm.
+enttäuschen	to disappoint	ناامید کردن	enttäuschte	habe enttäuscht	haben	reg.	—	Sie hat mich enttäuscht.
+überraschen	to surprise	شگفت زده کردن	überraschte	habe überrascht	haben	reg.	—	Er hat mich überrascht.
+betrüben	to sadden	غمگین کردن	betrübte	habe betrübt	haben	reg.	—	Die Nachricht betrübt mich.
+aufregen	to excite/irritate	هیجان زده/عصبانی کردن	regte auf	habe aufgeregt	haben	reg.	—	Das regt mich auf.
+beruhigen	to calm down	آرام کردن	beruhigte	habe beruhigt	haben	reg.	—	Er beruhigt das Kind.
+sich sorgen	to worry	نگران بودن	sorgte sich	habe mich gesorgt	haben	reg.	—	Sie sorgt sich um ihre Kinder.
+forschen	to research	تحقیق کردن	forschte	habe geforscht	haben	reg.	—	Er forscht über das Thema.
+analysieren	to analyze	تحلیل کردن	analysierte	habe analysiert	haben	reg.	—	Sie analysiert die Daten.
+synthetisieren	to synthesize	ترکیب کردن	synthetisierte	habe synthetisiert	haben	reg.	—	Er synthetisiert die Verbindung.
+experimentieren	to experiment	آزمایش کردن	experimentierte	habe experimentiert	haben	reg.	—	Sie experimentiert im Labor.
+publizieren	to publish	منتشر کردن	publizierte	habe publiziert	haben	reg.	—	Er publiziert seinen Artikel.
+zitieren	to cite	نقل قول کردن	zitierte	habe zitiert	haben	reg.	—	Sie zitiert die Quelle.
+messen	to measure	اندازه گرفتن	maß	habe gemessen	haben	irr.	—	Er misst die Temperatur.
+beobachten	to observe	مشاهده کردن	beobachtete	habe beobachtet	haben	reg.	—	Sie beobachtet das Experiment.
+vergleichen	to compare	مقایسه کردن	verglich	habe verglichen	haben	reg.	—	Er vergleicht die Ergebnisse.
+beweisen	to prove	اثبات کردن	bewies	habe bewiesen	haben	irr.	—	Sie beweist ihre These.
+widerlegen	to refute	رد کردن	widerlegte	habe widerlegt	haben	reg.	—	Er widerlegt die Hypothese.
+schlussfolgern	to conclude	نتیجه گرفتن	schlussfolgerte	habe geschlussfolgert	haben	reg.	—	Sie schlussfolgert aus den Daten.
+philosophieren	to philosophize	فلسفه ورزیدن	philosophierte	habe philosophiert	haben	reg.	—	Er philosophiert über das Leben.
+moralisieren	to moralize	اخلاق گرایی کردن	moralisierte	habe moralisiert	haben	reg.	—	Sie moralisiert zu viel.
+argumentieren	to argue	استدلال کردن	argumentierte	habe argumentiert	haben	reg.	—	Er argumentiert logisch.
+deduzieren	to deduce	استنتاج کردن	deduzierte	habe deduziert	haben	reg.	—	Sie deduziert aus den Prämissen.
+induzieren	to induce	القا کردن	induzierte	habe induziert	haben	reg.	—	Er induziert aus den Beobachtungen.
+spekulieren	to speculate	گمانه زنی کردن	spekulierte	habe spekuliert	haben	reg.	—	Sie spekuliert über die Zukunft.
+abstrahieren	to abstract	انتزاعی کردن	abstrahierte	habe abstrahiert	haben	reg.	—	Er abstrahiert von den Details.
+definieren	to define	تعریف کردن	definierte	habe definiert	haben	reg.	—	Sie definiert den Begriff.
+interpretieren	to interpret	تفسیر کردن	interpretierte	habe interpretiert	haben	reg.	—	Er interpretiert den Text.
+problematisieren	to problematize	مسئله ساز کردن	problematisierte	habe problematisiert	haben	reg.	—	Sie problematisiert die Annahme.
+regieren	to govern	حکومت کردن	regierte	habe regiert	haben	reg.	—	Er regiert das Land.
+parlamentarieren	to parliamentary	پارلمانی عمل کردن	parlamentierte	habe parlamentiert	haben	reg.	—	Sie parlamentiert über die Reform.
+koalieren	to form coalition	ائتلاف کردن	koalierte	habe koaliert	haben	reg.	—	Die Parteien koalieren.
+oppositionieren	to oppose	مخالفت کردن	oppositionierte	habe oppositioniert	haben	reg.	—	Sie oppositioniert die Regierung.
+wählen	to choose/vote	انتخاب کردن/رأی دادن	wählte	habe gewählt	haben	irr.	—	Er wählt die Partei.
+regieren	to rule	حکومت کردن	regierte	habe regiert	haben	reg.	—	Sie regiert mit Koalition.
+verhandeln	to negotiate	مذاکره کردن	verhandelte	habe verhandelt	haben	reg.	—	Er verhandelt mit der Gegenseite.
+streiken	to strike	اعتصاب کردن	strikte	habe gestreikt	haben	reg.	—	Die Arbeiter streiken.
+demonstrieren to demonstrate	اعتراض کردن	reg.	habe demonstriert	demonstriert	haben	reg.	—	—
+verabschieden	to pass (law)	تصویب کردن	verabschiedete	habe verabschiedet	haben	reg.	—	Das Parlament verabschiedet das Gesetz.
+einsetzen	to deploy/use	به کار گرفتن	setzte ein	habe eingesetzt	haben	reg.	—	Er setzt seine Mittel ein.
+durchsetzen	to enforce	اجرا کردن	setzte durch	habe durchgesetzt	haben	reg.	—	Sie setzt die Regel durch.
+investieren	to invest	سرمایه‌گذاری کردن	investierte	habe investiert	haben	reg.	—	Er investiert in Aktien.
+spekulieren	to speculate	گمانه زنی کردن	spekulierte	habe spekuliert	haben	reg.	—	Sie spekuliert mit Immobilien.
+handeln	to trade	تجارت کردن	handelte	habe gehandelt	haben	reg.	—	Er handelt mit Waren.
+produzieren	to produce	تولید کردن	produzierte	habe produziert	haben	reg.	—	Die Fabrik produziert Autos.
+konsumieren	to consume	مصرف کردن	konsumierte	habe konsumiert	haben	reg.	—	Die Menschen konsumieren viel.
+sparen	to save	پس‌انداز کردن	sparte	habe gespart	haben	reg.	—	Er spart Geld für die Zukunft.
+ausgeben	to spend	خرج کردن	gab aus	habe ausgegeben	haben	irr.	—	Sie gibt viel Geld aus.
+gewinnen	to win	برنده شدن	gewann	habe gewonnen	haben	irr.	—	Er gewinnt den Auftrag.
+verlieren	to lose	باختن	verlor	habe verloren	haben	irr.	—	Sie verliert ihre Kunden.
+wachsen	to grow	رشد کردن	wuchs	habe gewachsen	haben	irr.	—	Die Wirtschaft wächst.
+sinken	to fall/decrease	کاهش یافتن	sank	habe gesunken	haben	irr.	—	Die Preise sinken.
+steigen	to rise/increase	افزایش یافتن	stieg	habe gestiegen	haben	irr.	—	Die Nachfrage steigt.
+bezahlen	to pay	پرداخت کردن	bezahlte	habe bezahlt	haben	reg.	—	Er bezahlt die Rechnung.
+schulden	to owe	بدهکار بودن	schuldete	habe geschuldet	haben	reg.	—	Sie schuldet mir Geld.
+komponieren	to compose	آهنگسازی کردن	komponierte	habe komponiert	haben	reg.	—	Er komponiert Musik.
+malen	to paint	نقاشی کردن	malte	habe gemalt	haben	reg.	—	Sie malt ein Bild.
+zeichnen	to draw	طراحی کردن	zeichnete	habe gezeichnet	haben	reg.	—	Er zeichnet eine Skizze.
+gestalten	to design	طراحی کردن	gestaltete	habe gestaltet	haben	reg.	—	Sie gestaltet den Raum.
+entwerfen	to design/draft	طراحی کردن	entwarf	habe entworfen	haben	irr.	—	Er entwirft einen Plan.
+ausstellen	to exhibit	به نمایش گذاشتن	stellte aus	habe ausgestellt	haben	reg.	—	Sie stellt ihre Werke aus.
+singen	to sing	خواندن	sang	habe gesungen	haben	irr.	—	Er singt ein Lied.
+tanzen	to dance	رقصیدن	tanzte	habe getanzt	haben	reg.	—	Sie tanzt wunderbar.
+inszenieren	to stage	صحنه پردازی کردن	inszenierte	habe inszeniert	haben	reg.	—	Er inszeniert ein Stück.
+fotografieren	to photograph	عکاسی کردن	fotografierte	habe fotografiert	haben	reg.	—	Sie fotografiert die Landschaft.
+ausdrücken	to express	بیان کردن	drückte aus	habe ausgedrückt	haben	reg.	—	Er drückt seine Gefühle aus.
+darstellen	to represent	نمایش دادن	stellte dar	habe dargestellt	haben	reg.	—	Sie stellt die Szene dar.
+analysieren	to analyze	تحلیل کردن	analysierte	habe analysiert	haben	reg.	—	Er analysiert das Verhalten.
+diagnostizieren	to diagnose	تشخیص دادن	diagnostizierte	habe diagnostiziert	haben	reg.	—	Sie diagnostiziert die Krankheit.
+behandeln	to treat	درمان کردن	behandelte	habe behandelt	haben	reg.	—	Er behandelt den Patienten.
+therapieren	to therapy	درمان کردن	therapierte	habe therapiert	haben	reg.	—	Sie therapiert ihre Patienten.
+beobachten	to observe	مشاهده کردن	beobachtete	habe beobachtet	haben	reg.	—	Er beobachtet das Verhalten.
+bewerten	to evaluate	ارزیابی کردن	bewertete	habe bewertet	haben	reg.	—	Sie bewertet die Symptome.
+diagnostizieren	to diagnose	تشخیص دادن	diagnostizierte	habe diagnostiziert	haben	reg.	—	Er diagnostiziert die Störung.
+entwickeln	to develop	توسعه دادن	entwickelte	habe entwickelt	haben	reg.	—	Sie entwickelt eine Therapie.
+stimulieren	to stimulate	تحریک کردن	stimulierte	habe stimuliert	haben	reg.	—	Er stimuliert die Gehirnzellen.
+konditionieren	to condition	شرطی کردن	konditionierte	habe konditioniert	haben	reg.	—	Sie konditioniert das Verhalten.
+assoziieren	to associate	تداعی کردن	assoziierte	habe assoziiert	haben	reg.	—	Er assoziiert Wörter.
+reagieren	to react	واکنش نشان دادن	reagierte	habe reagiert	haben	reg.	—	Sie reagiert auf den Reiz.
+programmieren	to program	برنامه‌نویسی کردن	programmierte	habe programmiert	haben	reg.	—	Er programmiert eine App.
+automatisieren	to automate	خودکار کردن	automatisierte	habe automatisiert	haben	reg.	—	Sie automatisiert den Prozess.
+digitalisieren	to digitize	دیجیتالی کردن	digitalisierte	habe digitalisiert	haben	reg.	—	Er digitalisiert die Dokumente.
+robotisieren	to robotize	رباتیک کردن	robotisierte	habe robotisiert	haben	reg.	—	Sie robotisiert die Fabrik.
+klicken	to click	کلیک کردن	klickte	habe geklickt	haben	reg.	—	Er klickt auf den Link.
+downloaden	to download	دانلود کردن	downloadete	habe gedownloadet	haben	reg.	—	Sie lädt die Datei herunter.
+uploaden	to upload	آپلود کردن	uploadete	habe geuploadet	haben	reg.	—	Er lädt das Bild hoch.
+suchen	to search	جستجو کردن	suchte	habe gesucht	haben	reg.	—	Sie sucht im Internet.
+codieren	to code	کدنویسی کردن	codierte	habe codiert	haben	reg.	—	Er codiert das Programm.
+drucken	to print	چاپ کردن	druckte	habe gedruckt	haben	reg.	—	Sie druckt das Dokument.
+speichern	to save	ذخیره کردن	speicherte	habe gespeichert	haben	reg.	—	Er speichert die Datei.
+hochladen	to upload	آپلود کردن	lud hoch	habe hochgeladen	haben	irr.	—	Sie lädt das Video hoch.
+recyceln	to recycle	بازیافت کردن	recycelte	habe recycelt	haben	reg.	—	Sie recycelt den Müll.
+verschmutzen	to pollute	آلوده کردن	verschmutzte	habe verschmutzt	haben	reg.	—	Die Fabrik verschmutzt die Luft.
+schützen	to protect	محافظت کردن	schützte	habe geschützt	haben	reg.	—	Er schützt die Umwelt.
+zerstören	to destroy	ویران کردن	zerstörte	habe zerstört	haben	reg.	—	Die Firma zerstört den Wald.
+wachsen	to grow	رشد کردن	wuchs	habe gewachsen	haben	irr.	—	Die Pflanzen wachsen.
+emittieren	to emit	انتشار دادن	emittierte	habe emittiert	haben	reg.	—	Die Fabrik emittiert CO₂.
+reduzieren	to reduce	کاهش دادن	reduzierte	habe reduziert	haben	reg.	—	Er reduziert seinen CO₂-Fußabdruck.
+verbrauchen	to consume	مصرف کردن	verbrauchte	habe verbraucht	haben	reg.	—	Sie verbraucht viel Energie.
+erzeugen	to produce	تولید کردن	erzeugte	habe erzeugt	haben	reg.	—	Die Sonne erzeugt Energie.
+sparen	to save	صرفه جویی کردن	sparte	habe gespart	haben	reg.	—	Er spart Wasser.
+entsorgen	to dispose	دفع کردن	entsorgte	habe entsorgt	haben	reg.	—	Sie entsorgt den Müll.
+verursachen	to cause	ایجاد کردن	verursachte	habe verursacht	haben	reg.	—	Das verursacht Verschmutzung.
+integrieren	to integrate	ادغام کردن	integrierte	habe integriert	haben	reg.	—	Er integriert sich in die Gesellschaft.
+diskriminieren	to discriminate	تبعیض قائل شدن	diskriminierte	habe diskriminiert	haben	reg.	—	Sie diskriminiert andere.
+marginalisieren	to marginalize	حاشیه راندن	marginalisierte	habe marginalisiert	haben	reg.	—	Er marginalisiert die Minderheit.
+partizipieren	to participate	مشارکت کردن	partizierte	habe partiziiert	haben	reg.	—	Sie partiziiert an der Wahl.
+emigrieren	to emigrate	مهاجرت کردن	emigrierte	habe emigriert	haben	reg.	—	Er emigriert ins Ausland.
+immigrieren	to immigrate	مهاجرت کردن	immigrierte	habe immigriert	haben	reg.	—	Sie immigriert nach Deutschland.
+kommunizieren	to communicate	ارتباط برقرار کردن	kommunizierte	habe kommuniziert	haben	reg.	—	Sie kommuniziert mit den Nachbarn.
+kooperieren	to cooperate	همکاری کردن	kooperierte	habe kooperiert	haben	reg.	—	Er kooperiert mit anderen.
+organisieren	to organize	سازماندهی کردن	organisierte	habe organisiert	haben	reg.	—	Sie organisiert eine Veranstaltung.
+mobilisieren	to mobilize	بسیج کردن	mobilisierte	habe mobilisiert	haben	reg.	—	Er mobilisiert die Bevölkerung.
+protestieren	to protest	اعتراض کردن	protestierte	habe protestiert	haben	reg.	—	Sie protestiert gegen die Reform.
+teilnehmen	to participate	شرکت کردن	nahm teil	habe teilgenommen	haben	irr.	—	Er nimmt an der Wahl teil.
+verurteilen	to convict	محکوم کردن	verurteilte	habe verurteilt	haben	reg.	—	Das Gericht verurteilt ihn.
+freisprechen	to acquit	تبرئه کردن	sprach frei	habe freigesprochen	haben	irr.	—	Das Gericht spricht ihn frei.
+klagen	to sue	شکایت کردن	klagte	habe geklagt	haben	reg.	—	Sie klagt gegen die Firma.
+verhandeln	to negotiate	مذاکره کردن	verhandelte	habe verhandelt	haben	reg.	—	Er verhandelt mit der Gegenseite.
+festnehmen	to arrest	بازداشت کردن	nahm fest	habe festgenommen	haben	irr.	—	Die Polizei nimmt ihn fest.
+bestrafen	to punish	مجازات کردن	bestrafte	habe bestraft	haben	reg.	—	Das Gericht bestraft den Täter.
+entscheiden	to decide	تصمیم گرفتن	entschied	habe entschieden	haben	irr.	—	Das Gericht entscheidet.
+verhindern	to prevent	جلوگیری کردن	verhinderte	habe verhindert	haben	reg.	—	Sie verhindert den Diebstahl.
+verletzen	to violate	نقض کردن	verletzte	habe verletzt	haben	reg.	—	Er verletzt das Gesetz.
+schützen	to protect	محافظت کردن	schützte	habe geschützt	haben	reg.	—	Das Gesetz schützt die Bürger.
+büßen	to atone	کفاره دادن	büßte	habe gebüßt	haben	reg.	—	Er büßt für seine Tat.
+appellieren	to appeal	استیناف کردن	appellierte	habe appelliert	haben	reg.	—	Sie appelliert an das Gericht.
+berichten	to report	گزارش دادن	berichtete	habe berichtet	haben	reg.	—	Er berichtet über das Ereignis.
+senden	to broadcast	پخش کردن	sandte	habe gesendet	haben	irr.	—	Der Sender sendet die Nachricht.
+zensieren	to censor	سانسور کردن	zensierte	habe zensiert	haben	reg.	—	Die Regierung zensiert die Medien.
+veröffentlichen	to publish	منتشر کردن	veröffentlichte	habe veröffentlicht	haben	reg.	—	Sie veröffentlicht den Artikel.
+interviewen	to interview	مصاحبه کردن	interviewte	habe interviewt	haben	reg.	—	Er interviewt den Politiker.
+fotografieren	to photograph	عکاسی کردن	fotografierte	habe fotografiert	haben	reg.	—	Sie fotografiert das Ereignis.
+filmen	to film	فیلمبرداری کردن	filmte	habe gefilmt	haben	reg.	—	Er filmt die Szene.
+drucken	to print	چاپ کردن	druckte	habe gedruckt	haben	reg.	—	Die Zeitung druckt den Artikel.
+verbreiten	to spread	گسترش داد irreg.	habe verbreitet	verbreitet	haben	reg.	—	—
+informieren	to inform	اطلاع رسانی کردن	informierte	habe informiert	haben	reg.	—	Er informiert die Öffentlichkeit.
+analysieren	to analyze	تحلیل کردن	analysierte	habe analysiert	haben	reg.	—	Sie analysiert die Umfrage.
+diskutieren	to discuss	بحث کردن	diskutierte	habe diskutiert	haben	reg.	—	Er diskutiert das Thema im Fernsehen.
+behandeln	to treat	درمان کردن	behandelte	habe behandelt	haben	reg.	—	Der Arzt behandelt den Patienten.
+diagnostizieren	to diagnose	تشخیص دادن	diagnostizierte	habe diagnostiziert	haben	reg.	—	Er diagnostiziert die Krankheit.
+impfen	to vaccinate	واکسینه کردن	impfte	habe geimpft	haben	reg.	—	Die Ärztin impft die Kinder.
+heilen	to heal	بهبود یافتن	heilte	habe geheilt	haben	reg.	—	Die Wunde heilt schnell.
+infizieren	to infect	آلوده کردن	infizierte	habe infiziert	haben	reg.	—	Das Virus infiziert die Menschen.
+genesen	to recover	بهبود یافتن	genas	habe genesen	haben	irr.	—	Sie ist von der Krankheit genesen.
+leiden	to suffer	رنج بردن	litt	habe gelitten	haben	irr.	—	Er leidet an einer Krankheit.
+sterben	to die	مردن	starb	habe gestorben	haben	irr.	—	Sie ist gestorben.
+vorbeugen	to prevent	پیشگیری کردن	vorbeugte	habe vorgebeugt	haben	reg.	—	Er vorbeugt Krankheiten.
+verordnen	to prescribe	نسخه پیچی کردن	verordnete	habe verordnet	haben	reg.	—	Der Arzt verordnet ein Medikament.
+spritzen	to inject	تزریق کردن	spritzte	habe gespritzt	haben	reg.	—	Die Ärztin spritzt das Medikament.
+untersuchen	to examine	معاینه کردن	untersuchte	habe untersucht	haben	reg.	—	Der Arzt untersucht den Patienten.
