@@ -1,133 +1,91 @@
 # Deutsch Lernen — Personal German Study Notes
 
-A comprehensive, bilingual (Persian/English) reference for learning German, organized by CEFR level.
+Bilingual (Persian/English) German reference organized by CEFR level (A1–B2).
+
+Accuracy rules, schema, and release process: see [`POLICY.md`](POLICY.md).  
+Planned work: [`docs/ROADMAP.md`](docs/ROADMAP.md).  
+Change history: [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Structure
 
 ```
 Deutsch/
-├── A1/
-│   ├── vocabulary/         # 600+ words, 105 verbs
-│   ├── grammar/            # 19 grammar files
-│   ├── flashcards/         # Anki TSV + Markdown flashcards
-│   ├── dw/                 # Deutsche Welle overview
-│   ├── listening/          # Listening exercises, pronunciation
-│   ├── phrases/            # Everyday expressions
-│   ├── resources.md        # YouTube, podcasts, movies, books
-│   └── vhs-a1-zielpunkte.md  # VHS A1 curriculum
-├── A2/
-│   ├── vocabulary/         # 600+ words, 155 verbs
-│   ├── grammar/            # 10 grammar files (Präteritum, Passiv, Konjunktiv II, etc.)
-│   ├── flashcards/         # Anki TSV + Markdown flashcards
-│   ├── dw/                 # Deutsche Welle A2 overview
-│   ├── listening/          # A2 listening exercises
-│   └── phrases/            # A2 expressions
-├── B1/
-│   ├── vocabulary/         # 600+ words, 120+ verbs
-│   ├── grammar/            # 10 grammar files (Konjunktiv I/II, Passiv, Wortbildung, etc.)
-│   ├── flashcards/         # Anki TSV + Markdown flashcards
-│   ├── dw/                 # Deutsche Welle B1 overview
-│   ├── listening/          # B1 listening exercises
-│   └── phrases/            # B1 expressions
-├── B2/
-│   ├── vocabulary/         # 600+ words, 80+ verbs
-│   ├── grammar/            # 10 grammar files (advanced Konjunktiv, Stilistik, Textstrukturen, etc.)
-│   ├── flashcards/         # Anki TSV + Markdown flashcards
-│   ├── dw/                 # Deutsche Welle B2 overview
-│   ├── listening/          # B2 listening exercises
-│   └── phrases/            # B2 expressions
-├── README.md               # This file
-├── .gitignore              # Git ignore rules
-└── ... (root-level files)
+├── A1/ … A2/ … B1/ … B2/
+│   ├── vocabulary/     # words.md + verbs.md
+│   ├── grammar/        # topic files (A1 also has vhs-a1-zielpunkte.md)
+│   ├── flashcards/     # Markdown decks + Anki-importable TSV
+│   ├── phrases/        # everyday expressions
+│   ├── listening/      # comprehension / pronunciation
+│   └── dw/             # Deutsche Welle course pointers
+├── B2/B2.md            # B2 grammar index
+├── tools/              # corpus validator and repair helpers
+├── legacy/             # superseded root drafts (do not study from these)
+├── POLICY.md
+├── CHANGELOG.md
+└── README.md
 ```
 
-## Target Audience
+## Target audience
 
-Persian speakers learning German from any level (A1 to B2).
+Persian speakers learning German from A1 through B2.
 
-## Content by Level
+## Measured content size
 
-### A1 (Beginner)
-- **Vocabulary:** 600+ words with Persian, gender, plural, cases
-- **Verbs:** 105 verbs with Präteritum, Perfekt, auxiliary, cases
-- **Grammar:** 19 files (Articles, Cases, Modals, Separable/Reflexive verbs, Negation, Questions, Numbers, Time)
-- **Flashcards:** Anki-importable TSV files
-- **Resources:** YouTube, podcasts, movies, books, apps
+Approximate table data rows (vocabulary/verbs) and grammar file counts:
 
-### A2 (Elementary)
-- **Vocabulary:** 600+ words (Emotions, Personality, Health, Work, Education, Technology, Environment, Culture)
-- **Verbs:** 155 verbs (Communication, Emotions, Education, Work, Travel, Food, Shopping, Health)
-- **Grammar:** 10 files (Präteritum, Passiv, Konjunktiv II, Nebensätze, Relativsätze, Adjektivdeklination)
-- **Flashcards:** Anki-importable TSV files
+| Level | Vocabulary rows | Verb rows | Grammar files |
+|-------|----------------:|----------:|--------------:|
+| A1 | ~788 | ~105 | 22 |
+| A2 | ~2440 | ~160 | 10 |
+| B1 | ~1240 | ~180 | 10 |
+| B2 | ~390 | ~215 | 10 |
 
-### B1 (Intermediate)
-- **Vocabulary:** 600+ words (Abstract concepts, Science, Politics, Philosophy, Art, Psychology)
-- **Verbs:** 120+ verbs (Argumentation, Reflection, Communication, Emotions, Education, Work)
-- **Grammar:** 10 files (Konjunktiv I/II, Passiv Extended, Relativsätze, Wortbildung, Idiome)
-- **Flashcards:** Anki-importable TSV files
+Counts are approximate (header/separator rows excluded). Prefer the files over README if they disagree after a large edit; re-run a row count before claiming new totals.
 
-### B2 (Upper Intermediate)
-- **Vocabulary:** 600+ words (Science, Philosophy, Politics, Economy, Art, Psychology, Technology)
-- **Verbs:** 80+ verbs (Advanced argumentation, reflection, emotion, science, philosophy)
-- **Grammar:** 10 files (Advanced Konjunktiv, Complex Passiv, Stilistik, Textstrukturen, Brief und E-Mail)
-- **Flashcards:** Anki-importable TSV files
+## How to study
 
-## Format
+1. Start at `A1/vocabulary/words.md` and `A1/vocabulary/verbs.md`.
+2. Work through `A1/grammar/` in a sensible order (articles → cases → modals → Perfekt/Partizip → word order).
+3. Drill `A1/flashcards/` (import TSV into Anki: tab-separated).
+4. Use `A1/listening/` and `A1/phrases/` for sound and daily chunks.
+5. Follow `A1/dw/` for Deutsche Welle course fit.
+6. Repeat the same path for A2, then B1, then B2 (`B2/B2.md` indexes advanced grammar).
 
-### Vocabulary
+## Vocabulary table format
+
 | German | English | Persian | Gender | Article | Plural | Cases |
 |--------|---------|---------|--------|---------|--------|-------|
-| der Mann | man | مرد | Maskulin | der | die Männer | [Nom] [Akk] [Dat] [Gen] |
 
-### Verbs
-| German | English | Persian | Präteritum | Perfekt | Auxiliary | Regular | Cases | Example |
-|--------|---------|---------|------------|---------|-----------|---------|-------|---------|
-| geben | to give | دادن | gab | hat gegeben | haben | Irregular | [Akk] [Dat] | Ich gebe dem Mann das Buch. |
+Color: 🔵 Maskulin · 🔴 Feminin · 🟢 Neutral · 🟡 Plural-only
 
-## Color Coding
+## Verb table format
 
-- 🔵 Maskulin (masculine)
-- 🔴 Feminin (feminine)
-- 🟢 Neutral (neuter)
-- 🟡 Plural (plural)
+| German | English | Persian | Präteritum | Perfekt | Auxiliary | Class | Frame | Example |
+|--------|---------|---------|------------|---------|-----------|-------|-------|---------|
 
-## Case Indicators
+`Class` is `reg.` / `irr.` / `reg. (sep)` / `irr. (sep)` / `refl.` and must match the forms shown.
 
-- **[Nom]** = Nominativ (subject)
-- **[Akk]** = Akkusativ (direct object)
-- **[Dat]** = Dativ (indirect object)
-- **[Gen]** = Genitiv (possession)
+## Anki
 
-## Anki Flashcards
+Each level’s `flashcards/` folder contains TSV files. Import in Anki with **Tab** as separator.  
+TSV is a convenience export of the Markdown tables; fix errors in Markdown first.
 
-Each level has Anki-importable TSV files in the `flashcards/` folder:
+## Quality gate
 
-| File | Content |
-|------|---------|
-| `vocabulary-anki.tsv` | Vocabulary words with translations |
-| `verbs-anki.tsv` | Verbs with all forms |
-| `grammar-anki.tsv` | Grammar rules and explanations |
-| `phrases-anki.tsv` | Common phrases and expressions |
+```bash
+python tools/validate_corpus.py --root .
+```
 
-**To import:** Copy content into a .txt file → Anki → File → Import → Set separator to Tab.
+This checks corruption characters, mixed-script Persian, article/gender coherence, obvious verb-form mistakes, TSV shape, listening filenames, and internal links. CI runs the same script on every push/PR.
 
 ## Sources
 
-This resource is based on:
-- **Starten wir! A1-B2** - Primary textbook
-- **Hueber Wortchatz** - Official vocabulary lists
-- **Deutsche Welle (DW)** - Nicos Weg, Deutsch warum nicht?
-- **Busuu, Duolingo, Memrise** - Supplementary vocabulary
-- **VHS (Volkshochschule)** - Adult education curriculum
+- Starten wir! A1–B2 (primary coursebook path)
+- Hueber / official word lists
+- Deutsche Welle: Nicos Weg, Deutsch warum nicht?
+- Busuu, Duolingo, Memrise (supplementary)
+- VHS A1 curriculum notes
 
-## How to Study
+## License / use
 
-1. **Start with vocabulary** - Learn words in `A1/vocabulary/words.md`
-2. **Study grammar** - Follow the order in `A1/grammar/`
-3. **Practice verbs** - Use `A1/vocabulary/verbs.md` for verb forms
-4. **Use flashcards** - Review with `A1/flashcards/` files (import TSV into Anki)
-5. **Listen actively** - Follow `A1/listening/` for pronunciation
-6. **Practice phrases** - Use `A1/phrases/` for everyday expressions
-7. **Watch DW courses** - Use `A1/dw/` for course recommendations
-8. **Progress to A2** - When comfortable, move to `A2/` folder
-9. **Continue to B1/B2** - Each level builds on the previous
+Personal study notes. Verify critical grammar against Duden or DWDS before exam use.
