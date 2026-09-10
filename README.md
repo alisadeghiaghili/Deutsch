@@ -70,8 +70,17 @@ Color: 🔵 Maskulin · 🔴 Feminin · 🟢 Neutral · 🟡 Plural-only
 
 ## Anki
 
-Each level’s `flashcards/` folder contains TSV files. Import in Anki with **Tab** as separator.  
-TSV is a convenience export of the Markdown tables; fix errors in Markdown first.
+Each level’s `flashcards/` folder contains TSV files. Import in Anki with **Tab** as separator.
+
+**Source of truth is Markdown.** Regenerate vocabulary/verb decks:
+
+```bash
+python tools/export_tsv.py --root .
+# or: npm run export:tsv
+```
+
+Grammar/phrases TSV remain hand-maintained two-column Q/A decks.
+Full column contracts: [`docs/SCHEMA.md`](docs/SCHEMA.md).
 
 ## Quality gate
 

@@ -4,6 +4,23 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
+## [0.4.0] — unified schema and generated TSV
+
+### Added
+- `docs/SCHEMA.md` — single verb/vocab column contract for all levels
+- `tools/export_tsv.py` — regenerate `vocabulary-anki.tsv` and `verbs-anki.tsv` from Markdown
+- `tools/migrate_verb_schema.py` — one-shot B1/B2 verb header migration
+- npm script `export:tsv`
+
+### Changed
+- B1 and B2 `vocabulary/verbs.md` migrated to the unified verb header (German → Class → Frame → Example)
+- B2 `vocabulary/words.md` Gender cells use `Maskulin`/`Feminin`/`Neutral`; header notes stretch academic vocabulary
+- All four levels’ vocabulary/verb TSV decks regenerated from Markdown (single source of truth)
+- package version 0.4.0
+
+### Fixed
+- B1 separable/regular mislabels during migration (e.g. `zugeben` → `irr. (sep)`, `einräumen` → `reg. (sep)`, `laufen` → `irr.` + `sein`)
+
 ## [0.3.1] — listening drills without inline answers
 
 ### Added
