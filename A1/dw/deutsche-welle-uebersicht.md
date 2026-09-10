@@ -3,6 +3,14 @@
 - [English](#deutsche-welle-a1-courses)
 - [فارسی](#دوره‌های-dw-سطح-a1)
 
+**Verified entry points (A1):**
+- Nicos Weg A1: https://learngerman.dw.com/en/nicos-weg/c-36519789
+- Deutschtrainer: https://learngerman.dw.com/en/deutschtrainer/c-56705009
+- Artikeltrainer: https://learngerman.dw.com/de/artikeltrainer
+- Beginners hub: https://learngerman.dw.com/en/beginners/s-62078399
+- Full catalog: https://learngerman.dw.com/en/learn-german/s-9528
+- Coursebook/YouTube companions: see [`../resources.md`](../resources.md)
+
 ---
 
 ## Overview

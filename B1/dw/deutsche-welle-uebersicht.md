@@ -1,6 +1,14 @@
 # Deutsche Welle B1 Übersicht
 # DW B1 Course Overview
 
+**Verified entry points (B1):**
+- Nicos Weg: https://learngerman.dw.com/en/nicos-weg/c-36519789
+- Profis gesucht – Deutsch im Job: https://learngerman.dw.com/de/profis-gesucht-deutsch-im-job/s-40003247
+- Fortgeschrittene hub: https://learngerman.dw.com/de/fortgeschrittene/s-62079033
+- Deine Deutschprüfung: https://learngerman.dw.com/en/deine-deutschprüfung/s-68305661
+- Full catalog: https://learngerman.dw.com/en/learn-german/s-9528
+- Coursebook/YouTube companions: see [`../resources.md`](../resources.md)
+
 ---
 
 ## Deutsche Welle B1 Kurse / DW B1 Courses

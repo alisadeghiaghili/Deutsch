@@ -44,12 +44,15 @@ Counts are approximate (header/separator rows excluded). Prefer the files over R
 
 ## How to study
 
-1. Start at `A1/vocabulary/words.md` and `A1/vocabulary/verbs.md`.
-2. Work through `A1/grammar/` in a sensible order (articles → cases → modals → Perfekt/Partizip → word order).
-3. Drill `A1/flashcards/` (import TSV into Anki: tab-separated).
-4. Use `A1/listening/` and `A1/phrases/` for sound and daily chunks.
-5. Follow `A1/dw/` for Deutsche Welle course fit.
-6. Repeat the same path for A2, then B1, then B2 (`B2/B2.md` indexes advanced grammar).
+1. Open the level **resources** file first — named books, DW units, YouTube series, podcasts, and URLs:
+   - [`A1/resources.md`](A1/resources.md)
+   - [`A2/resources.md`](A2/resources.md)
+   - [`B1/resources.md`](B1/resources.md)
+   - [`B2/resources.md`](B2/resources.md)
+2. Start vocabulary/verbs for that level, then work the grammar folder in order.
+3. Drill `flashcards/` (Anki TSV, tab-separated).
+4. Use `listening/` and `phrases/` weekly; follow `dw/` for course maps.
+5. Advance to the next level only when the weekly loop feels stable (`B2/B2.md` indexes advanced grammar).
 
 ## Vocabulary table format
 
