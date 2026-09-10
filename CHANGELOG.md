@@ -4,6 +4,16 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
+## [0.5.1] — plural corrections
+
+### Added
+- `tools/flag_plurals.py` — heuristic flags for invented mass/abstract plurals
+- `tools/fix_plurals.py` — high-confidence plural cell corrections
+
+### Fixed
+- 76 plural cells across A1–B2 (e.g. die Mute/Stolze/Wuten/Trauern/Glücke/Softwares/Medizinien → `—` or correct plural)
+- `Bewusstsein` plural `die Bewusstseins` → `—`
+
 ## [0.5.0] — corpus depth cleanup
 
 ### Added

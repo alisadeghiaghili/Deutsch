@@ -220,7 +220,7 @@ Study them after core B2 vocabulary, not as the main exam list.
 | ⭐ die Angst | fear | ترس | Feminin | die | die Ängste | Nom/Acc/Dat/Gen |
 | ⭐ die Freude | joy | شادی | Feminin | die | die Freuden | Nom/Acc/Dat/Gen |
 | ⭐ die Traurigkeit | sadness | غم | Feminin | die | die Traurigkeiten | Nom/Acc/Dat/Gen |
-| ⭐ die Wut | anger | خشم | Feminin | die | die Wüte | Nom/Acc/Dat/Gen |
+| ⭐ die Wut | anger | خشم | Feminin | die | — | Nom/Acc/Dat/Gen |
 | 🔴 die Phobie | phobia | فوبیا | Feminin | die | die Phobien | Nom/Acc/Dat/Gen |
 | 🔴 die Paranoia | paranoia | پارانویا | Feminin | die | die Paranoien | Nom/Acc/Dat/Gen |
 | 🔴 die Schizophrenie | schizophrenia | اسکیزوفرنی | Feminin | die | die Schizophrenien | Nom/Acc/Dat/Gen |
@@ -247,8 +247,8 @@ Study them after core B2 vocabulary, not as the main exam list.
 | 🔴 die Automatisierung | automation | خودکارسازی | Feminin | die | die Automatisierungen | Nom/Acc/Dat/Gen |
 | 🔴 die Biotechnologie | biotechnology | بیوتکنولوژی | Feminin | die | die Biotechnologien | Nom/Acc/Dat/Gen |
 | 🔴 die Nanotechnologie | nanotechnology | نانوتکنولوژی | Feminin | die | die Nanotechnologien | Nom/Acc/Dat/Gen |
-| 🔴 die Software | software | نرم‌افزار | Feminin | die | die Softwares | Nom/Acc/Dat/Gen |
-| 🔴 die Hardware | hardware | سخت‌افزار | Feminin | die | die Hardwares | Nom/Acc/Dat/Gen |
+| 🔴 die Software | software | نرم‌افزار | Feminin | die | — | Nom/Acc/Dat/Gen |
+| 🔴 die Hardware | hardware | سخت‌افزار | Feminin | die | — | Nom/Acc/Dat/Gen |
 | 🟢 das Betriebssystem | operating system | سیستم عامل | Neutral | das | die Betriebssysteme | Nom/Acc/Dat/Gen |
 | 🟢 das Netzwerk | network | شبکه | Neutral | das | die Netzwerke | Nom/Acc/Dat/Gen |
 | 🔴 die Cloud | cloud | فضای ابری | Feminin | die | die Clouds | Nom/Acc/Dat/Gen |
@@ -259,7 +259,7 @@ Study them after core B2 vocabulary, not as the main exam list.
 | 🔴 die Cybersicherheit | cybersecurity | امنیت سایبری | Feminin | die | die Cybersicherheiten | Nom/Acc/Dat/Gen |
 | 🔴 die Virtual Reality | virtual reality | واقعیت مجازی | Feminin | die | die Virtual Realityn | Nom/Acc/Dat/Gen |
 | 🔴 die Augmented Reality | augmented reality | واقعیت افزوده | Feminin | die | die Augmented Realityn | Nom/Acc/Dat/Gen |
-| 🟢 das Internet | internet | اینترنت | Neutral | das | die Internetze | Nom/Acc/Dat/Gen |
+| 🟢 das Internet | internet | اینترنت | Neutral | das | — | Nom/Acc/Dat/Gen |
 | ⭐ der Computer | computer | کامپیوتر | Maskulin | der | die Computer | Nom/Acc/Dat/Gen |
 | ⭐ das Smartphone | smartphone | گوشی هوشمند | Neutral | das | die Smartphones | Nom/Acc/Dat/Gen |
 | 🔴 die App | application | اپلیکیشن | Feminin | die | die Apps | Nom/Acc/Dat/Gen |
@@ -288,7 +288,7 @@ Study them after core B2 vocabulary, not as the main exam list.
 | 🔴 die Umweltverschmutzung | environmental pollution | آلودگی محیط زیست | Feminin | die | die Umweltverschmutzungen | Nom/Acc/Dat/Gen |
 | ⭐ die Natur | nature | طبیعت | Feminin | die | die Naturen | Nom/Acc/Dat/Gen |
 | ⭐ die Luft | air | هوا | Feminin | die | die Lüfte | Nom/Acc/Dat/Gen |
-| ⭐ das Wasser | water | آب | Neutral | das | die Wasser | Nom/Acc/Dat/Gen |
+| ⭐ das Wasser | water | آب | Neutral | das | — | Nom/Acc/Dat/Gen |
 | ⭐ der Wald | forest | جنگل | Maskulin | der | die Wälder | Nom/Acc/Dat/Gen |
 | ⭐ die Erde | earth | زمین | Feminin | die | die Erden | Nom/Acc/Dat/Gen |
 | 🔴 die Erderwärmung | global warming | گرمایش زمین | Feminin | die | die Erderwärmungen | Nom/Acc/Dat/Gen |
@@ -441,7 +441,7 @@ Study them after core B2 vocabulary, not as the main exam list.
 | ⭐ die Ärztin | female doctor | پزشک زن | Feminin | die | die Ärztinnen | Nom/Acc/Dat/Gen |
 | ⭐ das Krankenhaus | hospital | بیمارستان | Neutral | das | die Krankenhäuser | Nom/Acc/Dat/Gen |
 | ⭐ die Krankheit | disease | بیماری | Feminin | die | die Krankheiten | Nom/Acc/Dat/Gen |
-| ⭐ die Medizin | medicine | دارو/پزشکی | Feminin | die | die Medizinen | Nom/Acc/Dat/Gen |
+| ⭐ die Medizin | medicine | دارو/پزشکی | Feminin | die | — | Nom/Acc/Dat/Gen |
 | ⭐ die Gesundheit | health | سلامتی | Feminin | die | die Gesundheiten | Nom/Acc/Dat/Gen |
 | 🔴 die Symptomatik | symptomatology | علائم‌شناسی | Feminin | die | die Symptomatiken | Nom/Acc/Dat/Gen |
 | 🔴 die Pathologie | pathology | آسیب‌شناسی | Feminin | die | die Pathologien | Nom/Acc/Dat/Gen |
