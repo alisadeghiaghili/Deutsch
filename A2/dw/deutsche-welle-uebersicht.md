@@ -1,6 +1,14 @@
 # Deutsche Welle A2 Übersicht
 # مرور دوره‌های DW سطح A2
 
+**Verified entry points (A2):**
+- Nicos Weg (A1–B1 tracks): https://learngerman.dw.com/en/nicos-weg/c-36519789
+- Deine Band: https://learngerman.dw.com/en/deine-band/s-60652486
+- Kurz und leicht: https://learngerman.dw.com/de/kurz-und-leicht/s-69137519
+- Beginners hub: https://learngerman.dw.com/en/beginners/s-62078399
+- Full catalog: https://learngerman.dw.com/en/learn-german/s-9528
+- Coursebook/YouTube companions: see [`../resources.md`](../resources.md)
+
 ## Nicos Weg A2
 
 ### معرفی دوره

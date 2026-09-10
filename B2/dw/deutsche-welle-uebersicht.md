@@ -1,6 +1,12 @@
 # Deutsche Welle B2 Übersicht
 # مرور دوره‌ها و منابع DW برای سطح B2
 
+**Verified entry points (B2):**
+- Fortgeschrittene hub (B1–B2): https://learngerman.dw.com/de/fortgeschrittene/s-62079033
+- Full catalog: https://learngerman.dw.com/en/learn-german/s-9528
+- Nicos Weg (if finishing B1 track): https://learngerman.dw.com/en/nicos-weg/c-36519789
+- Coursebook/YouTube companions: see [`../resources.md`](../resources.md)
+
 ---
 
 ## DW B2 Kurse | دوره‌های DW برای B2

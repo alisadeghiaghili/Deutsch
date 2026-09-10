@@ -4,10 +4,14 @@ All notable changes to this study corpus are documented here.
 Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows SemVer as in `POLICY.md`.
 
-## [Unreleased]
+## [0.3.0] — study resources
 
 ### Added
-- Level-matched study resource packs with named books, episodes, and URLs (planned 0.3.0)
+- Level-matched `resources.md` for A1, A2, B1, B2 with named coursebooks, DW course URLs, YouTube series, and podcasts
+- README study path points at those resource files first
+
+### Changed
+- Study guidance no longer ends at generic channel names
 
 ## [0.2.0] — quality foundation
 
